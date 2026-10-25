@@ -111,3 +111,4 @@
 - [Giá hộp mực Canon 337](facts/gia-hop-muc-canon-337.md) - Dùng mức giá đã báo cho hộp mực Canon 337.
 - [Giá hộp mực HP 76A](facts/gia-hop-muc-hp-76a.md) - Tra giá HP 76A theo biến thể có chip hoặc không chip.
 - [Hộp mực Brother DCP-B7535DW](facts/muc-brother-dcp-b7535dw.md) - Tra mã và giá hộp mực đã được xác nhận cho Brother DCP-B7535DW.
+- [Ưu tiên trả lời pháp lý chi tiết, có trích dẫn](facts/uu-tien-tra-loi-phap-ly-chi-tiet-co-trich-dan.md) - Khi hỏi về pháp luật, người dùng đánh giá cao câu trả lời chi tiết có căn cứ luật và nguồn trích dẫn.
