@@ -1,0 +1,457 @@
+{
+  "schema": 2,
+  "source": "kanban.sqlite3",
+  "orchestration": "auto",
+  "tasks": [
+    {
+      "id": "t_ddb9b8668c49",
+      "brain_root": "/brains/Brain Default",
+      "title": "Lập báo giá đầu in Zebra ZT620 cho Maple",
+      "intent": "Tra cứu hồ sơ Công ty Maple và mẫu báo giá Victory, xác định số báo giá tiếp theo, kiểm tra ảnh sản phẩm đúng model Zebra ZT620 300 dpi mã P1083320-016, rồi tạo báo giá gồm 1 cái, đơn giá 18.860.000 đồng, VAT 0%. Gửi file báo giá hoàn chỉnh vào chat Telegram của người yêu cầu.",
+      "route": "wf:chuyen-bao-gia-cho-sales",
+      "capability": "external-write",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "archived",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "5431740655",
+      "idempotency_key": "",
+      "attempts": 2,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1792375783.70326,
+      "current_run_id": "",
+      "result": "Not logged in · Please run /login",
+      "created_at": 1792375194.2166579,
+      "updated_at": 1792634987.3618183,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "route": "wf:chuyen-bao-gia-cho-sales",
+        "capability": "external-write",
+        "acceptance_check": "unverified"
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-10-19 01:59",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-10-19 02:06",
+          "msg": "claimed by worker:7:54fcc490"
+        },
+        {
+          "ts": "2026-10-19 02:06",
+          "msg": "capability=external-write"
+        },
+        {
+          "ts": "2026-10-19 02:08",
+          "msg": "claimed by worker:7:79ef7b28"
+        },
+        {
+          "ts": "2026-10-19 02:08",
+          "msg": "Chưa đạt điều kiện hoàn thành: Chưa đạt: file Maple VIC-14-2026 có giá 29.000.000 đồng và VAT 8%, không khớp yêu cầu; không có báo giá mới kế tiếp và báo cáo worker cho biết chưa đăng nhập nên chưa gửi file vào Telegram."
+        },
+        {
+          "ts": "2026-10-19 02:09",
+          "msg": "blocked -> ready: operator retry"
+        },
+        {
+          "ts": "2026-10-19 02:09",
+          "msg": "claimed by worker:7:eeb75059"
+        },
+        {
+          "ts": "2026-10-19 02:09",
+          "msg": "done"
+        },
+        {
+          "ts": "2026-10-22 02:09",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
+        }
+      ]
+    },
+    {
+      "id": "t_6a3be4374e58",
+      "brain_root": "/brains/Brain Default",
+      "title": "Sửa và gửi lại báo giá ARTIVERSE KNIT VIC-32-2026",
+      "intent": "Sửa file /brains/Brain Default/bao-gia/bao-gia-CONG-TY-TNHH-ARTIVERSE-KNIT-VIC-32-2026.html bằng cách chỉ xóa hai dòng cảnh báo nằm trước <!doctype html>, giữ nguyên nội dung báo giá, kiểm tra HTML còn nguyên và file bắt đầu bằng <!doctype html>. Sau đó gửi file đã sửa cho người yêu cầu qua kênh hiện tại nếu gateway cho phép; nếu không, trả lỗi chính xác và cung cấp file để tải.",
+      "route": "wf:chuyen-bao-gia-cho-sales",
+      "capability": "external-write",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "archived",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:mverl9uczniuxcxx",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1792384823.8431644,
+      "current_run_id": "",
+      "result": "Not logged in · Please run /login",
+      "created_at": 1792384805.5918558,
+      "updated_at": 1792644023.9844136,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "route": "wf:chuyen-bao-gia-cho-sales",
+        "capability": "external-write",
+        "acceptance_check": "unverified"
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-10-19 04:40",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-10-19 04:40",
+          "msg": "claimed by worker:7:263c71d1"
+        },
+        {
+          "ts": "2026-10-19 04:40",
+          "msg": "capability=external-write"
+        },
+        {
+          "ts": "2026-10-19 04:40",
+          "msg": "claimed by worker:7:27de973f"
+        },
+        {
+          "ts": "2026-10-19 04:40",
+          "msg": "done"
+        },
+        {
+          "ts": "2026-10-22 04:40",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
+        }
+      ]
+    },
+    {
+      "id": "t_b0f39515342c",
+      "brain_root": "/brains/Brain Default",
+      "title": "Rà soát và gợi ý bổ sung hợp đồng Khánh Toàn",
+      "intent": "Rà soát file /brains/Brain Default/hop-dong/Du thao HDNTMB Khanh Toan 20102026.html về các điều khoản cần làm rõ hoặc bổ sung trong hợp đồng nguyên tắc mua bán với Công ty TNHH Khánh Toàn; nêu rủi ro và căn cứ pháp lý hiện hành khi phù hợp. Chỉ trả danh sách đề xuất để người dùng quyết định, không sửa hợp đồng.",
+      "route": "wf:chuyen-yeu-cau-cho-phap-ly",
+      "capability": "research",
+      "execution_mode": "suggest",
+      "priority": 2,
+      "status": "archived",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:8296a024e2ab4611b79b4628cf9e7a84",
+      "idempotency_key": "",
+      "attempts": 2,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1792463805.3542256,
+      "current_run_id": "",
+      "result": "Not logged in · Please run /login",
+      "created_at": 1792462441.820394,
+      "updated_at": 1792723007.785848,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "route": "wf:chuyen-yeu-cau-cho-phap-ly",
+        "capability": "research",
+        "acceptance_check": "unverified"
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-10-20 02:14",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-10-20 02:14",
+          "msg": "claimed by worker:8:b113c849"
+        },
+        {
+          "ts": "2026-10-20 02:14",
+          "msg": "capability=research"
+        },
+        {
+          "ts": "2026-10-20 02:14",
+          "msg": "claimed by worker:8:449a29d1"
+        },
+        {
+          "ts": "2026-10-20 02:14",
+          "msg": "Chưa đạt điều kiện hoàn thành: Worker chưa đăng nhập nên không có báo cáo rà soát; chưa xác minh nội dung hợp đồng, đề xuất rủi ro hoặc căn cứ pháp lý."
+        },
+        {
+          "ts": "2026-10-20 02:36",
+          "msg": "blocked -> ready: operator retry"
+        },
+        {
+          "ts": "2026-10-20 02:36",
+          "msg": "claimed by worker:8:02f7080a"
+        },
+        {
+          "ts": "2026-10-20 02:36",
+          "msg": "done"
+        },
+        {
+          "ts": "2026-10-23 02:36",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
+        }
+      ]
+    },
+    {
+      "id": "t_626d2ee25a1f",
+      "brain_root": "/brains/Brain Default",
+      "title": "Lập báo giá Artiverse Apparel VIC-33-2026",
+      "intent": "Tạo báo giá VIC-33-2026 cho CÔNG TY TNHH ARTIVERSE APPAREL từ mẫu bao-gia/mau-bao-gia-victory.html, điền hai mặt hàng, thông tin khách hàng, ngày và điều khoản đã nêu; không thêm ảnh sản phẩm. Kiểm tra độc lập các phép tính và nội dung, chỉ gửi đúng file đã đạt pass=true đến Telegram chat_id 5431740655.",
+      "route": "wf:chuyen-bao-gia-cho-sales",
+      "capability": "external-write",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "archived",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "5431740655",
+      "idempotency_key": "",
+      "attempts": 8,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1792466995.1357632,
+      "current_run_id": "",
+      "result": "Not logged in · Please run /login",
+      "created_at": 1792466482.8308477,
+      "updated_at": 1792470098.9976568,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance": [
+          "Có file báo giá VIC-33-2026 theo mẫu, ghi đúng khách hàng, MST, địa chỉ, liên hệ, ngày 20/10/2026, hạn 27/10/2026, hai mặt hàng và đơn giá đã cung cấp; không có ảnh sản phẩm.",
+          "Báo giá ghi VAT 8%, tiền hàng 1.345.000 VND, VAT 107.600 VND, tổng 1.452.600 VND và số tiền bằng chữ Việt/Anh đúng như yêu cầu; có đủ điều khoản đã xác nhận, không thêm cam kết chưa xác nhận.",
+          "Kiểm định độc lập trả pass=true trước khi gửi; đúng file đã đạt kiểm định được gửi đến Telegram chat_id 5431740655."
+        ],
+        "specifier": "ai"
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-10-20 03:21",
+          "msg": "Bước 1 (Nhân viên Sales Báo Giá) chưa qua kiểm chứng sau 2 lượt: Agent kiểm chứng không trả kết luận đọc được (cần JSON có trường pass).. Quy trình dừng ở đây, không chạy tiếp các bước sau."
+        },
+        {
+          "ts": "2026-10-20 03:22",
+          "msg": "blocked -> ready: operator retry"
+        },
+        {
+          "ts": "2026-10-20 03:22",
+          "msg": "claimed by worker:8:f9905cef"
+        },
+        {
+          "ts": "2026-10-20 03:22",
+          "msg": "Bước 1 (Nhân viên Sales Báo Giá) chưa qua kiểm chứng sau 2 lượt: Agent kiểm chứng không trả kết luận đọc được (cần JSON có trường pass).. Quy trình dừng ở đây, không chạy tiếp các bước sau."
+        },
+        {
+          "ts": "2026-10-20 03:22",
+          "msg": "blocked -> ready: incident retry by Javis Core"
+        },
+        {
+          "ts": "2026-10-20 03:22",
+          "msg": "claimed by worker:8:bc9109f5"
+        },
+        {
+          "ts": "2026-10-20 03:22",
+          "msg": "Bước 1 (Nhân viên Sales Báo Giá) chưa qua kiểm chứng sau 2 lượt: Agent kiểm chứng không trả kết luận đọc được (cần JSON có trường pass).. Quy trình dừng ở đây, không chạy tiếp các bước sau."
+        },
+        {
+          "ts": "2026-10-20 03:25",
+          "msg": "blocked -> ready: operator retry"
+        },
+        {
+          "ts": "2026-10-20 03:25",
+          "msg": "claimed by worker:8:ffaf108b"
+        },
+        {
+          "ts": "2026-10-20 03:25",
+          "msg": "Bước 1 (Nhân viên Sales Báo Giá) chưa qua kiểm chứng sau 2 lượt: Agent kiểm chứng không trả kết luận đọc được (cần JSON có trường pass).. Quy trình dừng ở đây, không chạy tiếp các bước sau."
+        },
+        {
+          "ts": "2026-10-20 03:25",
+          "msg": "blocked -> ready: incident retry by Javis Core"
+        },
+        {
+          "ts": "2026-10-20 03:25",
+          "msg": "claimed by worker:8:e79834a5"
+        },
+        {
+          "ts": "2026-10-20 03:25",
+          "msg": "Bước 1 (Nhân viên Sales Báo Giá) chưa qua kiểm chứng sau 2 lượt: Agent kiểm chứng không trả kết luận đọc được (cần JSON có trường pass).. Quy trình dừng ở đây, không chạy tiếp các bước sau."
+        },
+        {
+          "ts": "2026-10-20 03:28",
+          "msg": "blocked -> ready: operator retry"
+        },
+        {
+          "ts": "2026-10-20 03:28",
+          "msg": "claimed by worker:8:03c385c2"
+        },
+        {
+          "ts": "2026-10-20 03:29",
+          "msg": "Chưa đạt điều kiện hoàn thành: Không có file báo giá VIC-33-2026 trong brain để kiểm nội dung hay phép tính; báo cáo worker dừng ở yêu cầu đăng nhập, nên chưa có kiểm định pass=true hoặc bằng chứng gửi đúng file đến Telegram chat_i"
+        },
+        {
+          "ts": "2026-10-20 03:29",
+          "msg": "blocked -> ready: operator retry"
+        },
+        {
+          "ts": "2026-10-20 03:29",
+          "msg": "claimed by worker:8:9f12dc14"
+        },
+        {
+          "ts": "2026-10-20 03:29",
+          "msg": "Chưa đạt điều kiện hoàn thành: Chưa có file báo giá VIC-33-2026 để đối chiếu; worker báo chưa đăng nhập nên cũng chưa có kiểm định pass=true hoặc gửi file đến Telegram chat_id 5431740655."
+        },
+        {
+          "ts": "2026-10-20 04:21",
+          "msg": "blocked -> archived: operator archive"
+        }
+      ]
+    },
+    {
+      "id": "t_675f4e218fca",
+      "brain_root": "/brains/Brain Default",
+      "title": "Hỏi trợ lý pháp lý về danh sách chủ sở hữu hưởng lợi",
+      "intent": "Để Trợ lý Pháp lý Việt Nam tra cứu nguồn chính thức, giải thích ngắn gọn danh sách chủ sở hữu hưởng lợi của doanh nghiệp và phân biệt với file PDF hóa đơn GTGT người dùng đã gửi; cung cấp liên kết hoặc mẫu hiện hành Mẫu số 10 theo Thông tư 121/2026/TT-BTC, đối chiếu tiêu chí sau Nghị định 296/2026/NĐ-CP, nêu trường hợp cần kê khai và lưu ý quan trọng, rồi gửi kết quả về đúng Telegram của người yêu cầu.",
+      "route": "auto",
+      "capability": "research",
+      "execution_mode": "full",
+      "priority": 2,
+      "status": "archived",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "5431740655",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1792551161.6542423,
+      "current_run_id": "",
+      "result": "Not logged in · Please run /login",
+      "created_at": 1792551146.8506413,
+      "updated_at": 1792769479.9345894,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance": [
+          "Câu trả lời ngắn gọn, nêu rõ danh sách chủ sở hữu hưởng lợi là gì và khác gì với hóa đơn GTGT đã gửi.",
+          "Có nguồn chính thức và liên kết hoặc tệp Mẫu số 10 hiện hành; nội dung được đối chiếu với tiêu chí sau Nghị định 296/2026/NĐ-CP.",
+          "Nêu trường hợp doanh nghiệp cần kê khai và các lưu ý quan trọng.",
+          "Kết quả được gửi về đúng Telegram của người yêu cầu."
+        ],
+        "specifier": "ai",
+        "qa": [
+          {
+            "q": "Chưa đạt điều kiện hoàn thành: Worker chưa đăng nhập nên không có kết quả để đối chiếu nguồn chính thức, Mẫu số 10, tiêu chí và trường hợp kê khai; cũng chưa gửi được kết quả về Telegram.",
+            "asked_at": 1792551161.6542134,
+            "progress": "Not logged in · Please run /login"
+          }
+        ]
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-10-21 02:52",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-10-21 02:52",
+          "msg": "claimed by worker:7:6b55e421"
+        },
+        {
+          "ts": "2026-10-21 02:52",
+          "msg": "capability=research"
+        },
+        {
+          "ts": "2026-10-21 02:52",
+          "msg": "claimed by worker:7:86e2b32e"
+        },
+        {
+          "ts": "2026-10-21 02:52",
+          "msg": "Chưa đạt điều kiện hoàn thành: Worker chưa đăng nhập nên không có kết quả để đối chiếu nguồn chính thức, Mẫu số 10, tiêu chí và trường hợp kê khai; cũng chưa gửi được kết quả về Telegram."
+        },
+        {
+          "ts": "2026-10-23 15:31",
+          "msg": "-> archived: xoá tất cả"
+        }
+      ]
+    }
+  ],
+  "updated": 1792769479.9392796
+}

@@ -1,0 +1,113 @@
+# Javis Memory - Index
+
+> Index of Javis's long-term memory. One line = one memory, pointing to a file in `facts/`.
+> This file is loaded at the start of every question so Javis remembers the context.
+
+- [Thông tin Công ty Victory Việt Nam](facts/thong-tin-cong-ty-victory-viet-nam.md) - Thông tin nhận diện, liên hệ và thanh toán do người dùng cung cấp.
+- [Thông tin địa chỉ hồ sơ và nhận hàng của Victory Việt Nam](facts/cong-ty-victory-dia-chi-ho-so-va-nhan-hang.md) - Địa chỉ mới của công ty dùng cho hồ sơ; địa chỉ cũ nhận hàng chỉ giúp mọi người tạm hình dung vị trí.
+- [Cách xưng hô tôi/bạn](facts/cach-xung-ho-anh-em.md) - Người dùng muốn xưng hô tôi-bạn, không dùng anh-em.
+- [Dùng mẫu báo giá của công ty](facts/dung-mau-bao-gia-cong-ty.md) - Khi làm báo giá mới, dùng mẫu báo giá công ty đã cung cấp làm mẫu tham chiếu.
+- [Giá đầu in Novexx N102006](facts/gia-dau-in-novexx-n102006.md) - Giá người dùng cung cấp cho đầu in Novexx XLP 604 / XPA 934, 300 dpi.
+- [Tra cứu danh sách khách hàng khi làm hồ sơ](facts/tra-cuu-danh-sach-khach-hang-khi-lam-ho-so.md) - Tra cứu dữ liệu khách hàng; trường nào chưa có thì để trống, không chèn câu báo thiếu hồ sơ.
+- [Ưu tiên bản ghi mới khi thông tin trùng lặp](facts/uu-tien-ban-ghi-moi-khi-thong-tin-trung-lap.md) - Khi hồ sơ khách hàng có thông tin trùng, ưu tiên bản ghi được cung cấp sau cùng nếu định danh khớp.
+- [Quy cách báo giá Victory](facts/quy-cach-bao-gia-victory.md) - Khi chỉnh báo giá Victory, giữ mẫu dùng chung và áp dụng các quy cách song ngữ, gọn theo số mặt hàng.
+- [Mặc định hiệu lực và người liên hệ trên báo giá](facts/mac-dinh-bao-gia-hieu-luc-va-nguoi-lien-he.md) - Khi lập báo giá mới, đặt hiệu lực 7 ngày và người liên hệ là Phòng mua hàng, trừ khi bạn yêu cầu khác.
+- [Kiểm tra tổng tiền báo giá trước khi gửi](facts/kiem-tra-tong-tien-bao-gia.md) - Trước khi gửi báo giá, đối chiếu số lượng nhân đơn giá, thuế GTGT và tổng thanh toán.
+- [Mỗi sản phẩm trên báo giá cần có ảnh](facts/bao-gia-moi-san-pham-co-anh.md) - Khi làm báo giá, mặc định kèm ảnh cho từng sản phẩm, trừ khi bạn yêu cầu không dùng ảnh.
+- [VAT mặc định 8% cho báo giá](facts/vat-mac-dinh-bao-gia-8-phan-tram.md) - Khi lập báo giá, áp dụng VAT 8% nếu người dùng không yêu cầu mức khác.
+- [Giá đầu in Zebra ZT620 P1083320-016](facts/gia-dau-in-zebra-zt620-p1083320-016.md) - Giá người dùng cung cấp cho đầu in Zebra ZT620 300 dpi, mã P1083320-016.
+- [Giá Hunonic WiFi Lahu 01 CSL](facts/gia-hunonic-wifi-lahu-01-csl.md) - Giá người dùng cung cấp cho Hunonic WiFi Lahu 01 CSL.
+- [Trợ lý Sales chuyên báo giá](facts/nhan-vien-sales-bao-gia.md) - Bạn muốn có một nhân viên Sales chuyên trách lập báo giá.
+- [Thu thập và ghi nhớ luật Việt Nam](facts/javis-thu-thap-luat-viet-nam.md) - Khi cần, người dùng muốn Javis thu thập luật Việt Nam và lưu kiến thức đã tiêu hóa để tra cứu sau.
+- [Muốn dùng tài liệu Google Drive với Javis](facts/muon-dung-tai-lieu-google-drive-voi-javis.md) - Người dùng muốn kết nối Google Drive để Javis dùng tài liệu trong đó hỗ trợ công việc.
+- [Giá máy in Canon LBP 6030](facts/gia-may-in-canon-lbp-6030.md) - Giá người dùng đã cung cấp cho máy in Canon 6030 khi lập báo giá.
+- [Giữ nguyên mẫu báo giá Victory](facts/giu-nguyen-mau-bao-gia-victory.md) - Khi lập hoặc sửa báo giá, giữ nguyên mẫu đã lưu; chỉ điền thông tin vào chỗ tương ứng.
+- [Dùng chung kho tri thức Brain trong công ty](facts/chia-se-kho-tri-thuc-brain-cong-ty.md) - Người dùng muốn nhân viên cùng tra cứu tri thức đã lưu trong brain qua Javis.
+- [Ưu tiên tên hàng trong danh mục](facts/uu-tien-ten-hang-trong-danh-muc.md) - Khi lập báo giá, đối chiếu mặt hàng với danh mục và ưu tiên tên chuẩn trong cơ sở dữ liệu.
+- [Ưu tiên mặt hàng đã chọn khi mã trùng](facts/uu-tien-mat-hang-da-chon.md) - Khi một mã hàng từng có nhiều dòng khớp và người dùng đã chọn một dòng, ưu tiên dòng đó trong báo giá sau cho mọi khách hàng.
+- [Muốn dùng Telegram làm kênh giao tiếp quản trị](facts/kenh-giao-tiep-admin-telegram.md) - Người dùng muốn Javis giao tiếp với họ qua Telegram như một kênh quản trị.
+- [Điều khoản mặc định trên báo giá Victory](facts/dieu-khoan-mac-dinh-bao-gia-victory.md) - Dùng các điều khoản giao hàng, thanh toán và bảo hành do người dùng chốt cho báo giá Victory.
+- [Giá màn hình Samsung LS24D300 trong bảng giá YSS](facts/gia-man-hinh-samsung-ls24d300-yss.md) - Khi lập báo giá cho YSS, dùng mức giá 2.250.000 đồng cho màn hình 24D300 theo xác nhận của người dùng.
+- [Giá bàn phím Fuhlen L500S](facts/gia-ban-phim-fuhlen-l500s.md) - Khi lập báo giá, dùng mức giá 160.000 đồng cho bàn phím Fuhlen L500S theo xác nhận của người dùng.
+- [Cộng sự tư vấn kỹ thuật](facts/cong-su-tu-van-ky-thuat.md) - Người dùng muốn có cộng sự chuyên trách tư vấn kỹ thuật.
+- [Muốn bot Zalo tư vấn kỹ thuật trong nhóm](facts/zalo-bot-tu-van-ky-thuat.md) - Người dùng muốn bot Zalo trả lời câu hỏi trong nhóm theo vai trò cộng sự Tư vấn Kỹ thuật.
+- [Muốn Javis tổng hợp và điều phối công việc](facts/muon-javis-tong-hop-cong-viec.md) - Người dùng muốn Javis làm trợ lý tổng hợp công việc và điều phối giữa các cộng sự.
+- [Quy ước đơn hàng trong nhóm Xuất hàng Victory](facts/xu-hang-victory-moi-tin-nhan-la-mot-don.md) - Trong nhóm Xuất hàng Victory, mặc định mỗi tin nhắn nghiệp vụ là một đơn.
+- [Muốn nhận tin chính từ báo điện tử mỗi ngày](facts/ban-tin-bao-dien-tu-hang-ngay.md) - Người dùng muốn Javis tóm tắt tin chính từ các báo điện tử do họ chỉ định.
+- [Cộng sự soạn thảo hồ sơ](facts/cong-su-soan-thao-ho-so.md) - Người dùng muốn có cộng sự chuyên soạn các loại hợp đồng, biên bản bàn giao, phiếu xuất kho và văn bản hành chính.
+- [Muốn theo dõi và cập nhật pháp luật hằng ngày](facts/theo-doi-cap-nhat-phap-luat-hang-ngay.md) - Người dùng muốn Javis chủ động tìm văn bản pháp luật mới trên Internet mỗi ngày và cập nhật kiến thức đã lưu khi xác minh được thay đổi.
+- [Ưu tiên PDF mới khi tiêu hóa lại hợp đồng](facts/uu-tien-pdf-moi-khi-tai-tieu-hoa-lai-hop-dong.md) - Khi người dùng gửi PDF mới để tiêu hóa lại hợp đồng, dùng PDF làm nguồn chính và giữ bản Word cũ làm nguồn lịch sử.
+- [Giữ nguyên cấu trúc và điều khoản hợp đồng](facts/giu-nguyen-cau-truc-va-dieu-khoan-hop-dong.md) - Khi chỉnh hợp đồng theo yêu cầu, giữ nguyên cấu trúc và điều khoản; chỉ thay các thông tin người dùng chỉ định.
+- [Chuyển yêu cầu ngoài vai trò cho cộng sự phù hợp](facts/dieu-phoi-yeu-cau-sai-vai-tro.md) - Khi nhận yêu cầu ngoài chuyên môn, chuyển việc cho cộng sự phụ trách thay vì tự xử lý.
+- [Kiểm tra ảnh trong báo giá đã xuất](facts/kiem-tra-hinh-anh-trong-bao-gia-xuat.md) - Khi xuất báo giá có ảnh, kiểm tra ảnh hiển thị đúng trong file cuối trước khi gửi.
+- [Số lượng mặc định trên báo giá](facts/so-luong-bao-gia-mac-dinh-mot.md) - Nếu không nêu số lượng, mặc định mỗi mặt hàng có số lượng 1.
+- [Ưu tiên giá bảng YSS khi đối chiếu báo giá](facts/uu-tien-gia-yss-khi-doi-chieu-bao-gia.md) - Khi giá hoặc tên hàng chưa khớp ngay, tiếp tục đối chiếu bảng giá YSS trước khi dùng giá bạn cung cấp.
+- [Giữ nguyên mẫu đã duyệt](facts/giu-nguyen-moi-mau-da-duyet.md) - Khi bạn nói một tài liệu hoặc thiết kế là mẫu, giữ nguyên mẫu đó cho các lần sau, trừ khi bạn yêu cầu thay đổi rõ ràng.
+- [Ưu tiên tự động hóa mẫu hợp đồng](facts/tu-dong-hoa-mau-hop-dong.md) - Khi soạn mẫu hợp đồng dùng lại, ưu tiên điền sẵn thông tin và điều khoản mặc định đã được người dùng xác nhận để giảm trường phải nhập.
+- [Bố cục hợp đồng Victory](facts/bo-cuc-hop-dong-victory.md) - Trong hợp đồng mua bán Victory, bên mua là Bên A, Victory là Bên B; bảng kê hàng hóa/dịch vụ đặt trong điều khoản của hợp đồng, không dùng phụ lục.
+- [Mẫu hợp đồng mua bán Victory bán ra](facts/mau-hop-dong-victory-ban-ra.md) - Dùng mẫu riêng khi Victory là bên bán, với quy tắc về bên mua/bên bán, đánh số, thanh toán tối đa 30 ngày theo thỏa thuận, giao nhận, font và chân trang.
+- [Thông tin đã xác nhận cho hợp đồng Hưng Thịnh](facts/hop-dong-hung-thinh-thong-tin-da-xac-nhan.md) - Hạn mức tín dụng và số điện thoại đã được người dùng xác nhận cho dự thảo hợp đồng với Công ty TNHH Hưng Thịnh.
+- [Dùng Javis trên iPhone bằng Chrome](facts/dung-javis-tren-iphone-bang-chrome.md) - Khi hướng dẫn thao tác trên Javis, ưu tiên chỉ dẫn phù hợp với iPhone và Chrome.
+- [Trả lời bằng gạch đầu dòng](facts/tra-loi-bang-gach-dau-dong.md) - Khi trả lời người dùng, ưu tiên trình bày bằng gạch đầu dòng.
+- [Ưu tiên trả lời bằng gạch đầu dòng](facts/uu-tien-gach-dau-dong.md) - Khi trả lời, ưu tiên trình bày bằng gạch đầu dòng.
+- [Đối chiếu báo giá Sales với form gốc trước khi xuất](facts/kiem-tra-bao-gia-sales-truoc-khi-xuat.md) - Sau khi Sales hoàn tất báo giá, đối chiếu với form gốc rồi mới yêu cầu Sales xuất file.
+- [Hạn mức tín dụng mặc định cho hợp đồng](facts/han-muc-tin-dung-mac-dinh-hop-dong.md) - Khi soạn hợp đồng, mặc định đặt hạn mức tín dụng 200 triệu đồng cho mọi đối tác.
+- [Để trống trường thông tin còn thiếu trong hồ sơ](facts/de-trong-truong-thieu-trong-ho-so.md) - Khi lập hồ sơ hoặc hợp đồng, để trống trường chưa có dữ liệu thay vì chèn lời nhắc bổ sung.
+- [Đối chiếu báo giá Sales với form gốc trước khi xuất](facts/doi-chieu-bao-gia-sales-voi-form-goc-truoc-khi-xuat.md) - Sau khi Sales hoàn tất báo giá, đối chiếu với form gốc rồi mới yêu cầu Sales xuất file.
+- [Thời hạn công nợ trong hợp đồng Khánh Toàn](facts/thoi-han-cong-no-hop-dong-khanh-toan.md) - Trong dự thảo hợp đồng Khánh Toàn, thời hạn mua nợ tối đa là 90 ngày từ ngày Bên Bán giao hàng.
+- [Chấp nhận một bot Zalo dùng chung](facts/chap-nhan-mot-bot-zalo-cho-nhieu-cong-su.md) - Người dùng chấp nhận dùng một bot Zalo làm đầu mối cho nhiều cộng sự.
+- [Ngừng dùng Trợ lý soát hồ sơ](facts/khong-dung-tro-ly-soat-ho-so.md) - Không gọi Trợ lý soát hồ sơ trong các quy trình báo giá và hồ sơ.
+- [Không dùng workflow điều phối](facts/khong-dung-workflow-dieu-phoi.md) - Người dùng yêu cầu xóa toàn bộ workflow và muốn các cộng sự tự xử lý công việc.
+- [Điều khoản bổ sung hợp đồng Khánh Toàn](facts/dieu-khoan-bo-sung-hop-dong-khanh-toan.md) - Các điều khoản bạn đã chốt để bổ sung vào dự thảo hợp đồng Khánh Toàn.
+- [Chỉ nêu vị trí lỗi máy in](facts/chi-neu-vi-tri-loi-may-in.md) - Khi hỏi về lỗi máy in, người dùng chỉ muốn biết lỗi nằm ở đâu hoặc bộ phận nào có thể liên quan.
+- [Đếm đơn chốt dựa trên nhóm Zalo](facts/dem-don-chot-tu-nhom-zalo.md) - Khi hỏi số đơn đã chốt, người dùng muốn dựa vào dữ liệu các nhóm Zalo có thể truy cập.
+- [Chỉ dùng mẫu đã duyệt cho hợp đồng nguyên tắc mua bán](facts/chi-dung-mau-hop-dong-nguyen-tac-da-duyet.md) - Khi soạn hợp đồng nguyên tắc mua bán, chỉ dùng mẫu đã được người dùng duyệt.
+- [Dừng báo giá VIC-34-2026](facts/ngung-bao-gia-vic-34-2026.md) - Báo giá VIC-34-2026 đã dừng theo yêu cầu và chưa gửi file vì chưa có kiểm định độc lập đạt yêu cầu.
+- [Thông tin báo giá Maple](facts/bao-gia-maple-galaxy-a07-at156t-3566.md) - Báo giá Maple gồm Galaxy A07 và máy tính bảng công nghiệp AT156T-3566, có VAT 8% và cần ảnh sản phẩm.
+- [Muốn bot Zalo đọc ảnh và tự động trả lời](facts/muon-bot-zalo-doc-anh-va-tu-dong-tra-loi.md) - Người dùng muốn bot Zalo trong nhóm tự đọc ảnh được gửi và trả lời nội dung phù hợp.
+- [Muốn bot Zalo tự đọc ảnh và trả lời](facts/bot-zalo-muon-tu-doc-anh-va-tu-dong-tra-loi.md) - Người dùng muốn bot Zalo trong nhóm tự đọc ảnh và trả lời phù hợp.
+- [Đếm đơn chốt dựa trên nhóm Zalo](facts/dem-don-chot-dua-tren-nhom-zalo.md) - Khi hỏi số đơn chốt, người dùng muốn dựa vào dữ liệu các nhóm Zalo có thể truy cập.
+- [Ưu tiên giá người dùng cung cấp khi lập báo giá](facts/uu-tien-gia-nguoi-dung-cung-cap.md) - Khi lập báo giá, ưu tiên giá bạn nhắn; nếu bạn không nhắn giá thì tra giá trong data.
+- [Rà soát tin nhắn nhóm Zalo hằng ngày](facts/ra-soat-zalo-hang-ngay.md) - Mỗi ngày rà soát tin nhắn trong các nhóm Zalo và tổng hợp khi được hỏi.
+- [Chỉ cập nhật lỗi máy in khi được yêu cầu](facts/cap-nhat-loi-may-in-theo-yeu-cau.md) - Không tự cập nhật mã lỗi máy in hằng ngày; chỉ tra cứu và lưu khi người dùng yêu cầu.
+- [Cách xưng hô tôi/bạn](facts/xung-ho-toi-ban.md) - Người dùng muốn được xưng hô là tôi/bạn, không dùng anh/em.
+- [Muốn bot Zalo tra giá gần nhất đã báo](facts/bot-zalo-tra-gia-gan-nhat-da-bao.md) - Người dùng muốn bot Zalo ghi nhận báo giá trong nhóm để tra giá gần nhất khi khách hỏi.
+- [Quy cách hợp đồng mua bán Victory](facts/quy-cach-hop-dong-victory-cap-nhat.md) - Khi soạn hợp đồng Victory bán ra, áp dụng các chỉnh sửa đã chốt cho địa điểm, tiêu đề Điều 2 và bảng hàng hóa.
+- [Quy cách biên bản bàn giao, nghiệm thu](facts/quy-cach-bien-ban-ban-giao-nghiem-thu.md) - Khi lập biên bản bàn giao, nghiệm thu theo hợp đồng, điền địa điểm theo địa chỉ Bên Mua, ghi số lượng thực tế bằng số lượng hợp đồng khi người dùng xác nhận, và thay các chỗ trống bằng dấu ba chấm.
+- [Học lỗi cơ bản một model máy in mỗi ngày](facts/hoc-loi-may-in-hang-ngay.md) - Theo yêu cầu hiện tại, mỗi ngày nghiên cứu một model máy in, tiêu hóa và lưu các lỗi cơ bản để tra cứu sau.
+- [Cộng sự tự xử lý phần việc của mình](facts/cong-su-tu-xu-ly-viec-rieng.md) - Hiện tại, mỗi cộng sự tự xử lý phần việc thuộc chuyên môn của mình, không dùng workflow điều phối chung.
+- [Tự động trả lời nội dung lặp lại trong nhóm Zalo](facts/tu-dong-tra-loi-noi-dung-lap-lai-trong-nhom-zalo.md) - Trong các nhóm Zalo được giao theo dõi, người dùng muốn Javis ghi nhớ nội dung và tự trả lời điều đã được nêu trước đó; thông tin chưa có thì im lặng.
+- [Mẫu biên bản bàn giao nghiệm thu mặc định](facts/mau-bien-ban-ban-giao-nghiem-thu-mac-dinh.md) - Mặc định dùng mẫu biên bản bàn giao, nghiệm thu đã được người dùng duyệt.
+- [Đang dùng KiotViet để bán hàng](facts/dang-dung-kiotviet-de-ban-hang.md) - Người dùng đang sử dụng dịch vụ KiotViet để bán hàng.
+- [Mã hàng Zebra FX7500](facts/ma-hang-zebra-fx7500.md) - Tra mã hàng Zebra FX7500 Fixed RF Reader 4 cổng trong bảng giá YSS.
+- [Mã hàng GoChek Ultra S25-03](facts/ma-hang-gochek-ultra-s25-03.md) - Tra mã hàng micro thu âm không dây GoChek Ultra S25-03 trong bảng giá YSS.
+- [Tự đọc và ghi nhớ nội dung nhóm Zalo](facts/tu-dong-doc-va-ghi-nho-noi-dung-nhom-zalo.md) - Người dùng giao Javis theo dõi các nhóm Zalo được kết nối, ghi nhớ nội dung và trả lời tự động nội dung lặp lại đã có căn cứ.
+- [Điều chỉnh văn phong trả lời theo ngữ cảnh nhóm Zalo](facts/phong-cach-tra-loi-theo-ngu-canh-zalo.md) - Người dùng muốn Javis điều chỉnh giọng điệu theo cách giao tiếp quen thuộc trong từng nhóm Zalo.
+- [Tự học kiến thức hằng ngày lúc 18h](facts/tu-hoc-kien-thuc-hang-ngay-luc-18h.md) - Mỗi ngày lúc 18h, người dùng muốn Javis tự học kiến thức và lưu lại để tra cứu về sau.
+- [Bot Zalo Victory chỉ phụ trách kỹ thuật](facts/bot-zalo-victory-chi-phu-trach-ky-thuat.md) - Trong nhóm Zalo Victory Computer, bot chỉ trả lời nội dung thuộc chuyên môn kỹ thuật.
+- [Ưu tiên giá gần nhất đã báo trong nhóm Zalo](facts/uu-tien-gia-gan-nhat-nhom-zalo.md) - Khi tra giá đã báo trong nhóm Zalo, ưu tiên lần báo gần nhất cho cùng mặt hàng và giữ ngày, ngữ cảnh để tránh nhầm giá theo đơn.
+- [Số lượng thực nhận trên biên bản bàn giao](facts/so-luong-thuc-nhan-bien-ban-ban-giao.md) - Mặc định ghi số lượng thực nhận bằng số lượng trên đơn đặt hàng hoặc hóa đơn.
+- [Ngày, địa điểm và số bản của biên bản bàn giao](facts/quy-cach-ngay-dia-diem-va-so-ban-bien-ban.md) - Dùng ngày trên hóa đơn, địa chỉ bên mua làm địa điểm và lập hai bản.
+- [Quy cách định dạng biên bản bàn giao](facts/quy-cach-dinh-dang-bien-ban-ban-giao.md) - Khi lập hoặc sửa biên bản bàn giao theo mẫu đã duyệt, áp dụng định dạng và nội dung người dùng đã chốt.
+- [Câu xác nhận giao nhận mặc định](facts/cau-xac-nhan-giao-nhan-mac-dinh.md) - Luôn giữ nguyên câu xác nhận giao đủ và nhận đủ trong mọi biên bản bàn giao.
+- [Giá tham khảo máy in 2 mặt cũ](facts/gia-tham-khao-may-in-2-mat-cu.md) - Giá người dùng cung cấp cho 7 model máy in 2 mặt đã qua sử dụng.
+- [Giá tham khảo máy in 1 mặt cũ](facts/gia-may-in-1-mat-cu.md) - Khi khách hỏi đúng model máy in 1 mặt đã qua sử dụng, tra mức giá người dùng đã cung cấp.
+- [Giá hộp mực và máy tương thích](facts/gia-hop-muc-va-may-tuong-thich.md) - Tra giá hộp mực theo mã; giữ riêng biến thể có chip và không chip.
+- [Máy in một mặt cũ đầu tiên là HP 1102](facts/may-in-mot-mat-cu-dau-tien-hp-1102.md) - Khi tra danh sách máy in một mặt đã qua sử dụng, mã đầu tiên là HP 1102.
+- [Cấu trúc báo cáo đơn đã chuyển sang xuất hàng](facts/bao-cao-don-da-chuyen-sang-xuat-hang.md) - Khi báo đã chuyển đơn sang nhóm xuất hàng, chỉ nêu tên nhóm và nội dung chốt đơn, không nêu tên người chốt.
+- [Quy trình báo giá và chuyển đơn Zalo](facts/quy-trinh-bao-gia-va-chuyen-don-zalo.md) - Khi khách hỏi giá hoặc chốt đơn trong nhóm Zalo, áp dụng quy trình báo giá, xác nhận tổng đơn và chuyển đơn theo định dạng đã chốt.
+- [Hỏi mã và tag @all khi chưa rõ](facts/hoi-ma-va-tag-all-khi-chua-ro.md) - Khi chưa xác định được mã máy hoặc mã hàng, hỏi trong nhóm và tag @all.
+- [Quy tắc tra và trả lời giá trong nhóm Zalo](facts/quy-tac-tra-loi-gia-trong-nhom-zalo-cap-nhat.md) - Khi trả lời giá trong nhóm Zalo, chỉ dùng giá đã ghi nhận và làm theo mã được nhóm xác nhận.
+- [Quy trình báo giá và chuyển đơn Zalo](facts/quy-trinh-bao-gia-va-chuyen-don-zalo-cap-nhat.md) - Khi khách chốt đơn hoặc yêu cầu gửi hàng trong nhóm Zalo, cảm ơn, xác nhận đơn và chuyển sang nhóm xuất hàng.
+- [Chỉ trả lời đúng yêu cầu giá trong nhóm Zalo](facts/khong-phan-bien-khi-tra-loi-gia-zalo.md) - Khi khách hỏi giá hoặc chốt hàng trong nhóm Zalo, bám sát yêu cầu và không thêm lời phản biện hay giải thích ngoài quy trình.
+- [Mã hộp mực theo máy và mã thay thế](facts/ma-hop-muc-theo-may-va-ma-thay-the.md) - Một máy in có thể dùng cả mã hộp mực theo máy và mã thay thế tương ứng.
+- [Hạn chế trò chuyện với Đăng vào buổi tối](facts/han-che-tro-chuyen-voi-dang.md) - Khi trò chuyện với Đăng, hạn chế nhắn tin để bạn ấy ngủ sớm và đi làm vào sáng hôm sau.
+- [Chỉ dùng giá từ nguồn được chỉ định](facts/chi-dung-gia-tu-nguon-duoc-chi-dinh.md) - Chỉ dùng giá người dùng cung cấp hoặc giá từ người được người dùng chỉ định làm nguồn giá bán; loại trừ giá nhập và giá theo đơn riêng.
+- [Giá linh kiện máy in do người dùng cung cấp](facts/gia-linh-kien-may-in-do-nguoi-dung-cung-cap.md) - Tra các mức giá linh kiện máy in người dùng đã cung cấp; xác nhận mã và biến thể trước khi báo giá.
+- [Không tự báo giá khi chỉ được nhờ chuyển hàng](facts/khong-tu-bao-gia-khi-chi-nho-chuyen-hang.md) - Khi người dùng chỉ yêu cầu chuyển hàng, không tự thêm giá sản phẩm vào phản hồi.
+- [Giá linh kiện máy in bổ sung tháng 10/2026](facts/gia-linh-kien-may-in-bo-sung-2026-10.md) - Các mức giá linh kiện và hộp mực do người dùng cung cấp, gồm giá trống 12A ES và Canon 151A.
+- [Giá hộp mực HP 05A và 12A](facts/gia-hop-muc-hp-05a-va-12a.md) - Tra giá hộp mực HP 05A và 12A đã được báo trong nhóm Zalo.
+- [Giá hộp mực HP 05A và 35A](facts/gia-hop-muc-05a-35a.md) - Dùng các mức giá đã báo trong nhóm cho HP 05A và 35A.
+- [Giá hộp mực Canon 337](facts/gia-hop-muc-canon-337.md) - Dùng mức giá đã báo cho hộp mực Canon 337.
+- [Giá hộp mực HP 76A](facts/gia-hop-muc-hp-76a.md) - Tra giá HP 76A theo biến thể có chip hoặc không chip.
+- [Hộp mực Brother DCP-B7535DW](facts/muc-brother-dcp-b7535dw.md) - Tra mã và giá hộp mực đã được xác nhận cho Brother DCP-B7535DW.
