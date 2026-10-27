@@ -112,3 +112,15 @@
 - [Giá hộp mực HP 76A](facts/gia-hop-muc-hp-76a.md) - Tra giá HP 76A theo biến thể có chip hoặc không chip.
 - [Hộp mực Brother DCP-B7535DW](facts/muc-brother-dcp-b7535dw.md) - Tra mã và giá hộp mực đã được xác nhận cho Brother DCP-B7535DW.
 - [Ưu tiên trả lời pháp lý chi tiết, có trích dẫn](facts/uu-tien-tra-loi-phap-ly-chi-tiet-co-trich-dan.md) - Khi hỏi về pháp luật, người dùng đánh giá cao câu trả lời chi tiết có căn cứ luật và nguồn trích dẫn.
+- [Giá sửa máy in Canon 2900, 3018 và 330](facts/gia-sua-may-in-2900-3018-330.md) - Tra giá sửa máy in Canon 2900, 3018 hoặc 330 đã ghi nhận trong nhóm.
+- [Báo giá trọn bộ khi người dùng cho giá gói](facts/bao-gia-tron-bo-khi-nguoi-dung-cho-gia-goi.md) - Khi bạn đưa một mức giá chung cho nhiều món, thể hiện thành một dòng bộ trọn gói thay vì tự chia giá cho từng món.
+- [Phân loại chiều giao dịch theo nhóm Zalo](facts/phan-loai-chieu-giao-dich-theo-nhom-zalo.md) - Khi đọc nội dung chốt đơn trong nhóm Zalo, xác định nhóm là khách hàng hay nhà cung cấp trước khi chuyển đơn.
+- [Giá máy in Canon LBP2900 cũ](facts/gia-may-in-cu-canon-lbp-2900.md) - Giá được báo trong nhóm Zalo là 2.000K cho máy in Canon LBP2900 cũ.
+- [Chuyển mọi đơn chốt từ các nhóm Zalo](facts/chuyen-moi-don-chot-tu-cac-nhom-zalo.md) - Khi có đơn chốt trong bất kỳ nhóm Zalo nào Javis có mặt, chuyển nội dung đơn giản sang nhóm Xuất hàng Victory.
+- [Giá Canon LBP 2900 nhập khẩu không vỏ](facts/gia-canon-lbp-2900-nhap-khau-khong-vo.md) - Giá người dùng cung cấp cho Canon LBP 2900 nhập khẩu không vỏ.
+- [Giá Canon LBP 2900 nhập khẩu không vỏ](facts/gia-canon-lbp2900-nhap-khau-khong-vo.md) - Khi báo giá đúng biến thể Canon LBP 2900 nhập khẩu không vỏ, dùng giá 3.150.000đ do người dùng cung cấp.
+- [Giữ nguyên chi tiết hàng hóa trong báo giá](facts/giu-nguyen-chi-tiet-hang-hoa-trong-bao-gia.md) - Khi lập hoặc sửa báo giá, giữ nguyên đầy đủ mô tả và cấu hình hàng hóa từ tài liệu nguồn, không rút gọn còn tiêu đề.
+- [Giá linh kiện Canon 2900 và 3300](facts/gia-linh-kien-canon-2900-3300-2026-10-26.md) - Tra giá các linh kiện Canon 2900 và 3300 do người dùng cung cấp ngày 26/10/2026.
+- [Quy cách lập biên bản làm việc Xuân Thiện](facts/quy-cach-bien-ban-lam-viec-xuan-thien.md) - Khi lập biên bản làm việc Xuân Thiện, đánh số năm đầu mục chính và áp dụng quy ước ngày giờ, hình ảnh đã chốt.
+- [Tách phần tổng hợp báo giá theo thuế suất](facts/tach-tong-hop-bao-gia-theo-thue-suat.md) - Khi lập báo giá có nhiều mức thuế, trình bày riêng tiền hàng theo từng nhóm thuế suất.
+- [Giá sửa máy in do Huy Hoàng báo ngày 27/10/2026](facts/gia-sua-may-in-tu-huy-hoang-2026-10-27.md) - Tra các mức giá sửa máy in Huy Hoàng đã báo trong nhóm ngày 27/10/2026.

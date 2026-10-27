@@ -1,0 +1,67 @@
+{
+ "agent": {
+  "slug": "nhan-vien-sales-bao-gia"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1792255907.2626736,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Với mẫu HTML dài có ảnh nhúng, kiểm tra file đầu ra đã đầy đủ và kết thúc bằng `</html>` trước khi gửi."
+  },
+  {
+   "created_at": 1792376307.2649136,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Khi tạo báo giá có ảnh sản phẩm, kiểm tra ảnh thực sự hiển thị đúng trong file đã xuất trước khi gửi. Người dùng phản hồi báo giá Maple VIC-30-2026 bị lỗi ở khâu xuất hình ảnh nhưng xác nhận báo giá vẫn ok; cần lưu ý kiểm tra việc nhúng/đường dẫn và kết quả xuất ảnh ở các báo giá sau."
+  },
+  {
+   "created_at": 1792384074.9777303,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Khi lập báo giá, nếu người dùng không nêu số lượng cho một hay nhiều dòng hàng, mặc định số lượng là 1 cho mỗi dòng; không cần hỏi lại."
+  },
+  {
+   "created_at": 1792385172.9953618,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Khi người dùng nói một tài liệu là mẫu/biểu mẫu hoặc yêu cầu làm theo mẫu đã lưu, tuyệt đối giữ nguyên cấu trúc, nội dung, định dạng, cỡ chữ, logo và các thành phần của mẫu. Chỉ điền hoặc sửa đúng các trường người dùng yêu cầu; không tự ý chuẩn hóa, thêm, bỏ hay thiết kế lại thành phần mẫu. Chỉ thay"
+  },
+  {
+   "created_at": 1792551741.1180992,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Trước khi nhúng ảnh sản phẩm, xác minh định dạng thực tế của dữ liệu ảnh để đặt đúng MIME type."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-10-25T15:19:35Z",
+ "version": 1
+}

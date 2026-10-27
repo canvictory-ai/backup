@@ -1,0 +1,34 @@
+{
+ "agent": {
+  "slug": "tro-ly-soan-thao-ho-so"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1792385173.077178,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Khi người dùng nói một tài liệu là mẫu/biểu mẫu hoặc yêu cầu làm theo mẫu đã lưu, tuyệt đối giữ nguyên cấu trúc, nội dung, định dạng, cỡ chữ, logo và các thành phần của mẫu. Chỉ điền hoặc sửa đúng các trường người dùng yêu cầu; không tự ý chuẩn hóa, thêm, bỏ hay thiết kế lại thành phần mẫu. Chỉ thay"
+  },
+  {
+   "created_at": 1792564118.1760685,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Khi soạn hợp đồng mua bán Victory bán ra theo mẫu đã duyệt, riêng tiêu đề “ĐIỀU 2: THANH TOÁN” phải để chữ thường, không in đậm như người dùng đã yêu cầu; không để định dạng in đậm lọt vào Điều 2. Giữ đúng định dạng mẫu khác, Times New Roman màu đen, thân bài 13 pt, tiêu đề “HỢP ĐỒNG KINH TẾ” 18 pt."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-10-25T15:19:35Z",
+ "version": 1
+}

@@ -1,4 +1,6 @@
 ## Luật chủ dặn
+- Với biên bản làm việc theo mẫu Công ty Thể thao Xuân Thiện, ngày và giờ lấy theo thời điểm lập biên bản, trừ khi người dùng cung cấp ngày giờ khác.
+- Ở mục 1 của biên bản làm việc theo mẫu Công ty Thể thao Xuân Thiện, chèn hai hình ảnh người dùng cung cấp ngay dưới nội dung mục 1.
 - Mặc định hạn mức tín dụng trong tất cả hợp đồng là 200 triệu đồng.
 - Trường thông tin không có dữ liệu thì để trống, không ghi “[CẦN BỔ SUNG]”.
 - Sau này chỉ dùng mẫu này để soạn hợp đồng nguyên tắc mua bán.

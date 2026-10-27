@@ -29,3 +29,7 @@ Questions the wiki cannot fully answer yet. One per line:
 - [ ] (2026-10-23) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-10-23 (dedup) - status: open
 
 - [ ] (2026-10-24) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-10-24 (dedup) - status: open
+
+- [ ] (2026-10-27) [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]]: đề xuất bổ sung từ chat 2026-10-27 (dedup) - status: open
+
+- [ ] (2026-10-27) [[Trình bày phần tổng hợp thuế trên báo giá]]: đề xuất bổ sung từ chat 2026-10-27 (dedup) - status: open

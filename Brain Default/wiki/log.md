@@ -1,102 +1,102 @@
-# Wiki Log
-
-Time-ordered log (append-only). Each entry: `## [YYYY-MM-DD] kind | title` (kind: init/ingest/update/query/lint/migrate).
-
-## [2026-10-14] ingest | Thông tin Công ty Victory Việt Nam
-
-- Source: [[Thông Tin Công Ty Victory Việt Nam]] (ghi chú do người dùng cung cấp).
-- Tạo: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
-- Insight: tập hợp thông tin pháp nhân, thanh toán và đầu mối liên hệ trong một trang tra cứu; dữ liệu chưa được xác minh độc lập.
-
-## [2026-10-14] ingest | Thông tin nhận hàng và nhà xe Victory Việt Nam
-
-- Source: [[Thông Tin Nhan Hang Va Nha Xe Victory Viet Nam]] (ghi chú do người dùng cung cấp).
-- Cập nhật: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
-- Ghi nhận thông tin nhận hàng, hai điểm nhà xe Đắc Hùng và mâu thuẫn địa chỉ cần người dùng xác minh.
-
-## [2026-10-14] update | Làm rõ địa chỉ hồ sơ và địa chỉ nhận hàng
-
-- Source: [[Giai Thich Dia Chi Ho So Va Nhan Hang]] (lời giải thích do người dùng cung cấp).
-- Cập nhật: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
-- Phân biệt địa chỉ mới dùng cho hồ sơ với cách ghi địa chỉ cũ chỉ để nhận diện điểm nhận hàng; bỏ câu hỏi xác minh địa chỉ khỏi danh sách mở.
-
-## [2026-10-14] ingest | Báo giá Victory T10 2026
-
-- Source: [[Báo Giá Victory T10 2026]] (trích xuất từ workbook người dùng gửi).
-- Tạo: [[Đề nghị mua hàng IT tháng 10 năm 2026]].
-- Insight: workbook chứa đề nghị mua 9 mặt hàng IT, không có đơn giá; tên tệp/ngữ cảnh YSS chưa khớp rõ với nội dung sheet.
-
-## [2026-10-14] update | Xóa file gửi nhầm của YSS
-
-- Theo yêu cầu người dùng, xóa source và trang Wiki phát sinh từ workbook gửi nhầm; gỡ mục khỏi chỉ mục và câu hỏi mở liên quan. Bản ghi cũ trong log được giữ nguyên để làm lịch sử.
-
-## [2026-10-15] ingest | Danh sách khách hàng Victory
-
-- Source: [[Danh sach khach hang Victory]] (workbook do người dùng cung cấp).
-- Tạo: [[Danh sách khách hàng Victory]].
-- Ghi nhận dữ liệu khách hàng để tra cứu theo tên pháp lý, mã số thuế và thông tin liên hệ.
-
-## [2026-10-16] ingest | Quy cách mẫu báo giá dùng chung Victory
-
-- Sources: [[Mau Bao Gia Chuyen Nghiep Victory Artiverse]] (mẫu PDF ban đầu) và [[Cap Nhat Quy Cach Bao Gia Victory 2026-10-16]] (các cập nhật trực tiếp của người dùng).
-- Tạo: [[Mẫu Báo Giá Dùng Chung Victory]].
-- Ghi nhận mẫu tái sử dụng, quy tắc song ngữ, ảnh sản phẩm nền trong suốt, dòng phí vận chuyển và bộ logo đối tác theo yêu cầu gần nhất.
-
-## [2026-10-16] update | Mặc định hiệu lực và người liên hệ báo giá Victory
-
-- Source: [[Mac Dinh Hieu Luc Va Nguoi Lien He Bao Gia Victory 2026-10-16]].
-- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]] và mẫu HTML dùng chung.
-- Áp dụng mặc định hiệu lực 7 ngày và người liên hệ Phòng mua hàng; cập nhật báo giá Artiverse hiện tại.
-
-## [2026-10-16] ingest | Báo giá Artiverse làm ví dụ cho mẫu Victory
-
-- Source: [[Bao Gia Artiverse VIC-2-2026]]; tệp báo giá HTML hiện hành được liên kết trong source.
-- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]].
-- Insight: lưu báo giá Artiverse như ví dụ áp dụng; thông tin giao dịch không trở thành mặc định cho khách hàng khác.
-
-## [2026-10-17] ingest | Luật Doanh nghiệp và Luật Thuế giá trị gia tăng
-
-- Sources: [[Luat Doanh nghiep 59 2020 va sua doi]] và [[Luat Thue gia tri gia tang 48 2024 va sua doi]], gồm liên kết văn bản chính thức.
-- Tạo: [[Luật Doanh nghiệp Việt Nam]] và [[Luật Thuế giá trị gia tăng Việt Nam]].
-- Ghi nhận bản đồ tra cứu có dẫn nguồn; VAT được cập nhật theo sửa đổi 09/2026/QH16. Đây không phải bản hợp nhất toàn văn hay tư vấn cho hồ sơ cụ thể.
-
-## [2026-10-17] ingest | Xác nhận mẫu báo giá Victory sau khi khôi phục
-
-- Source: [[Xac Nhan Mau Bao Gia Victory 2026-10-17]] (người dùng xác nhận tệp HTML hiện hành là mẫu chuẩn).
-- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]] và [[index]].
-- Ghi nhận: mẫu HTML đã duyệt có trường địa chỉ giao hàng khách hàng và ghi chú phí vận chuyển song ngữ; xác nhận này không biến các điều khoản thương mại khác thành mặc định.
-
-## [2026-10-18] ingest | tự học từ chat
-
-Đã tạo:
-- [[Chia sẻ kho tri thức qua bot Zalo nhóm]]
-
-## [2026-10-18] ingest | Danh sách hàng hóa dịch vụ
-
-- Source: [[inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx]] (workbook người dùng gửi; giữ nguyên bản gốc).
-- Tạo: [[Danh Mục Hàng Hóa Dịch Vụ]].
-- Chưng cất 3.491 dòng gồm mã, tên hàng hóa/dịch vụ, đơn vị tính chính và thuế suất GTGT nếu có. Ghi quy tắc ưu tiên tên chuẩn và đối chiếu mã, tên gần giống, model/cấu hình; hỏi khi còn nhiều ứng viên không phân biệt được.
-
-## [2026-10-18] update | Thuế suất GTGT danh mục hàng hóa
-
-- Source: [[Xac Nhan Thue Suat Hang Hoa 2026-10-18]] (xác nhận trực tiếp của người dùng).
-- Cập nhật: [[Danh Mục Hàng Hóa Dịch Vụ]] và [[index]].
-- Áp dụng mức mặc định 8% cho toàn bộ 3.491 mặt hàng; các mức 10% trong workbook được ghi nhận là dữ liệu cũ. Workbook gốc không bị sửa.
-
-## [2026-10-18] ingest | Luật Đất đai Việt Nam
-
-- Sources: [[Luat Dat dai va van ban chinh thuc den 2026-10-18]], gồm Luật 31/2024/QH15, Luật 43/2024/QH15, văn bản hợp nhất 46/VBHN-BNNMT, Nghị quyết 254/2025/QH15, Nghị định 49/2026/NĐ-CP, 50/2026/NĐ-CP, Nghị quyết 29/2026/QH16 và nguồn về các mốc sửa đổi tương lai.
-- Tạo: [[Luật Đất đai Việt Nam]]; cập nhật [[index]].
-- Insight: dùng Luật 31 làm khung nhưng phải kiểm tra sửa đổi, quy định chi tiết, chuyển tiếp và văn bản địa phương; tách rõ Luật 21/2026/QH16 (hiệu lực 01/01/2027) và kế hoạch sửa luật khỏi quy định đang có hiệu lực.
-- Phạm vi: bản đồ tra cứu khái quát, chưa phải bản hợp nhất toàn văn hay kết luận cho hồ sơ cụ thể.
-
-## [2026-10-18] update | Xóa trang Luật Đất đai theo yêu cầu người dùng
-
-- Theo yêu cầu người dùng, gỡ trang tri thức khỏi Wiki, chỉ mục và câu hỏi mở; xóa đoạn tư vấn luật đất đai khỏi bộ nhớ hội thoại có thể truy xuất.
-- Giữ nguyên lịch sử nhật ký và file trong `sources/` theo quy ước nguồn thô bất biến.
-
-## [2026-10-18] ingest | Mẫu hợp đồng nguyên tắc mua bán hàng hóa
-
+  1|# Wiki Log
+  2|
+  3|Time-ordered log (append-only). Each entry: `## [YYYY-MM-DD] kind | title` (kind: init/ingest/update/query/lint/migrate).
+  4|
+  5|## [2026-10-14] ingest | Thông tin Công ty Victory Việt Nam
+  6|
+  7|- Source: [[Thông Tin Công Ty Victory Việt Nam]] (ghi chú do người dùng cung cấp).
+  8|- Tạo: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
+  9|- Insight: tập hợp thông tin pháp nhân, thanh toán và đầu mối liên hệ trong một trang tra cứu; dữ liệu chưa được xác minh độc lập.
+ 10|
+ 11|## [2026-10-14] ingest | Thông tin nhận hàng và nhà xe Victory Việt Nam
+ 12|
+ 13|- Source: [[Thông Tin Nhan Hang Va Nha Xe Victory Viet Nam]] (ghi chú do người dùng cung cấp).
+ 14|- Cập nhật: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
+ 15|- Ghi nhận thông tin nhận hàng, hai điểm nhà xe Đắc Hùng và mâu thuẫn địa chỉ cần người dùng xác minh.
+ 16|
+ 17|## [2026-10-14] update | Làm rõ địa chỉ hồ sơ và địa chỉ nhận hàng
+ 18|
+ 19|- Source: [[Giai Thich Dia Chi Ho So Va Nhan Hang]] (lời giải thích do người dùng cung cấp).
+ 20|- Cập nhật: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
+ 21|- Phân biệt địa chỉ mới dùng cho hồ sơ với cách ghi địa chỉ cũ chỉ để nhận diện điểm nhận hàng; bỏ câu hỏi xác minh địa chỉ khỏi danh sách mở.
+ 22|
+ 23|## [2026-10-14] ingest | Báo giá Victory T10 2026
+ 24|
+ 25|- Source: [[Báo Giá Victory T10 2026]] (trích xuất từ workbook người dùng gửi).
+ 26|- Tạo: [[Đề nghị mua hàng IT tháng 10 năm 2026]].
+ 27|- Insight: workbook chứa đề nghị mua 9 mặt hàng IT, không có đơn giá; tên tệp/ngữ cảnh YSS chưa khớp rõ với nội dung sheet.
+ 28|
+ 29|## [2026-10-14] update | Xóa file gửi nhầm của YSS
+ 30|
+ 31|- Theo yêu cầu người dùng, xóa source và trang Wiki phát sinh từ workbook gửi nhầm; gỡ mục khỏi chỉ mục và câu hỏi mở liên quan. Bản ghi cũ trong log được giữ nguyên để làm lịch sử.
+ 32|
+ 33|## [2026-10-15] ingest | Danh sách khách hàng Victory
+ 34|
+ 35|- Source: [[Danh sach khach hang Victory]] (workbook do người dùng cung cấp).
+ 36|- Tạo: [[Danh sách khách hàng Victory]].
+ 37|- Ghi nhận dữ liệu khách hàng để tra cứu theo tên pháp lý, mã số thuế và thông tin liên hệ.
+ 38|
+ 39|## [2026-10-16] ingest | Quy cách mẫu báo giá dùng chung Victory
+ 40|
+ 41|- Sources: [[Mau Bao Gia Chuyen Nghiep Victory Artiverse]] (mẫu PDF ban đầu) và [[Cap Nhat Quy Cach Bao Gia Victory 2026-10-16]] (các cập nhật trực tiếp của người dùng).
+ 42|- Tạo: [[Mẫu Báo Giá Dùng Chung Victory]].
+ 43|- Ghi nhận mẫu tái sử dụng, quy tắc song ngữ, ảnh sản phẩm nền trong suốt, dòng phí vận chuyển và bộ logo đối tác theo yêu cầu gần nhất.
+ 44|
+ 45|## [2026-10-16] update | Mặc định hiệu lực và người liên hệ báo giá Victory
+ 46|
+ 47|- Source: [[Mac Dinh Hieu Luc Va Nguoi Lien He Bao Gia Victory 2026-10-16]].
+ 48|- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]] và mẫu HTML dùng chung.
+ 49|- Áp dụng mặc định hiệu lực 7 ngày và người liên hệ Phòng mua hàng; cập nhật báo giá Artiverse hiện tại.
+ 50|
+ 51|## [2026-10-16] ingest | Báo giá Artiverse làm ví dụ cho mẫu Victory
+ 52|
+ 53|- Source: [[Bao Gia Artiverse VIC-2-2026]]; tệp báo giá HTML hiện hành được liên kết trong source.
+ 54|- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]].
+ 55|- Insight: lưu báo giá Artiverse như ví dụ áp dụng; thông tin giao dịch không trở thành mặc định cho khách hàng khác.
+ 56|
+ 57|## [2026-10-17] ingest | Luật Doanh nghiệp và Luật Thuế giá trị gia tăng
+ 58|
+ 59|- Sources: [[Luat Doanh nghiep 59 2020 va sua doi]] và [[Luat Thue gia tri gia tang 48 2024 va sua doi]], gồm liên kết văn bản chính thức.
+ 60|- Tạo: [[Luật Doanh nghiệp Việt Nam]] và [[Luật Thuế giá trị gia tăng Việt Nam]].
+ 61|- Ghi nhận bản đồ tra cứu có dẫn nguồn; VAT được cập nhật theo sửa đổi 09/2026/QH16. Đây không phải bản hợp nhất toàn văn hay tư vấn cho hồ sơ cụ thể.
+ 62|
+ 63|## [2026-10-17] ingest | Xác nhận mẫu báo giá Victory sau khi khôi phục
+ 64|
+ 65|- Source: [[Xac Nhan Mau Bao Gia Victory 2026-10-17]] (người dùng xác nhận tệp HTML hiện hành là mẫu chuẩn).
+ 66|- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]] và [[index]].
+ 67|- Ghi nhận: mẫu HTML đã duyệt có trường địa chỉ giao hàng khách hàng và ghi chú phí vận chuyển song ngữ; xác nhận này không biến các điều khoản thương mại khác thành mặc định.
+ 68|
+ 69|## [2026-10-18] ingest | tự học từ chat
+ 70|
+ 71|Đã tạo:
+ 72|- [[Chia sẻ kho tri thức qua bot Zalo nhóm]]
+ 73|
+ 74|## [2026-10-18] ingest | Danh sách hàng hóa dịch vụ
+ 75|
+ 76|- Source: [[inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx]] (workbook người dùng gửi; giữ nguyên bản gốc).
+ 77|- Tạo: [[Danh Mục Hàng Hóa Dịch Vụ]].
+ 78|- Chưng cất 3.491 dòng gồm mã, tên hàng hóa/dịch vụ, đơn vị tính chính và thuế suất GTGT nếu có. Ghi quy tắc ưu tiên tên chuẩn và đối chiếu mã, tên gần giống, model/cấu hình; hỏi khi còn nhiều ứng viên không phân biệt được.
+ 79|
+ 80|## [2026-10-18] update | Thuế suất GTGT danh mục hàng hóa
+ 81|
+ 82|- Source: [[Xac Nhan Thue Suat Hang Hoa 2026-10-18]] (xác nhận trực tiếp của người dùng).
+ 83|- Cập nhật: [[Danh Mục Hàng Hóa Dịch Vụ]] và [[index]].
+ 84|- Áp dụng mức mặc định 8% cho toàn bộ 3.491 mặt hàng; các mức 10% trong workbook được ghi nhận là dữ liệu cũ. Workbook gốc không bị sửa.
+ 85|
+ 86|## [2026-10-18] ingest | Luật Đất đai Việt Nam
+ 87|
+ 88|- Sources: [[Luat Dat dai va van ban chinh thuc den 2026-10-18]], gồm Luật 31/2024/QH15, Luật 43/2024/QH15, văn bản hợp nhất 46/VBHN-BNNMT, Nghị quyết 254/2025/QH15, Nghị định 49/2026/NĐ-CP, 50/2026/NĐ-CP, Nghị quyết 29/2026/QH16 và nguồn về các mốc sửa đổi tương lai.
+ 89|- Tạo: [[Luật Đất đai Việt Nam]]; cập nhật [[index]].
+ 90|- Insight: dùng Luật 31 làm khung nhưng phải kiểm tra sửa đổi, quy định chi tiết, chuyển tiếp và văn bản địa phương; tách rõ Luật 21/2026/QH16 (hiệu lực 01/01/2027) và kế hoạch sửa luật khỏi quy định đang có hiệu lực.
+ 91|- Phạm vi: bản đồ tra cứu khái quát, chưa phải bản hợp nhất toàn văn hay kết luận cho hồ sơ cụ thể.
+ 92|
+ 93|## [2026-10-18] update | Xóa trang Luật Đất đai theo yêu cầu người dùng
+ 94|
+ 95|- Theo yêu cầu người dùng, gỡ trang tri thức khỏi Wiki, chỉ mục và câu hỏi mở; xóa đoạn tư vấn luật đất đai khỏi bộ nhớ hội thoại có thể truy xuất.
+ 96|- Giữ nguyên lịch sử nhật ký và file trong `sources/` theo quy ước nguồn thô bất biến.
+ 97|
+ 98|## [2026-10-18] ingest | Mẫu hợp đồng nguyên tắc mua bán hàng hóa
+ 99|
 - Source: [[Mau Hop Dong Nguyen Tac Mua Ban Hang Hoa]]; bản DOC gốc được bảo toàn tại `sources/`.
 - Source: [[Quy Tac Lap Hop Dong Victory 2026-10-18]] (quy tắc lập ngày, số hợp đồng, trường khách hàng và hạn cuối năm do người dùng đưa).
 - Tạo: [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]]; cập nhật [[index]].
@@ -290,3 +290,35 @@ Time-ordered log (append-only). Each entry: `## [YYYY-MM-DD] kind | title` (kind
 
 Đã tạo:
 - [[Hộp mực tương thích HP LaserJet Pro M404dn]]
+## [2026-10-25] update | Chưng cất giá bán chung và quy trình Luna Zalo
+
+- Cập nhật [[Giá tham khảo từ nhóm Zalo]]: bổ sung bốn máy in Canon 2 mặt đã qua sử dụng do chủ cung cấp; rà lại nguồn giá, biến thể và mục loại trừ giá nhà cung cấp/báo giá riêng.
+- Cập nhật [[Quy tắc báo giá trong nhóm Zalo]] theo phân công mới của Luna: chỉ trả lời hai nhóm được chọn, Luna xử lý giá/đơn còn Victory xử lý kỹ thuật, chuyển đơn qua một nhánh hệ thống duy nhất có chống trùng và chỉ xác nhận trạng thái đã gửi khi có bằng chứng.
+- Cập nhật [[index]] để mô tả rõ quy tắc nguồn giá và phạm vi quy trình.
+- Nguồn: [[memory/conversations/2026-10-23]], [[memory/conversations/2026-10-24]], [[memory/conversations/2026-10-25]].
+
+## [2026-10-26] ingest | Giá linh kiện Canon 2900 và 3300
+
+- Bổ sung giá cụm sấy, main nguồn, ECU, quang và vỏ Canon 2900; quang và cụm con lăn ra giấy Canon 3300.
+- Tách riêng vỏ mới và vỏ cũ zin theo máy. Đánh dấu đơn vị chưa được nêu, ngoại trừ cụm con lăn ra giấy 3300 là 150K/cụm.
+- Nguồn: [[memory/facts/gia-linh-kien-canon-2900-3300-2026-10-26]].
+
+## [2026-10-27] ingest | Mẫu biên bản làm việc Công ty Thể thao Xuân Thiện
+
+- Lưu bản gốc trong `attachments/`, tạo bản Word dùng lại giữ nguyên định dạng và font, để trống các dòng chấm.
+- Tạo trang [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]] và bản trích xuất nguồn [[Mau bien ban lam viec Cong ty The thao Xuan Thien]].
+
+## [2026-10-27] update | Quy cách bổ sung mẫu biên bản làm việc Xuân Thiện
+
+- Ngày giờ lấy theo thời điểm lập trừ khi người dùng cung cấp ngày giờ khác.
+- Hai hình người dùng cung cấp được đặt dưới nội dung mục 1.
+- Cập nhật [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]] và bộ nhớ vai trò.
+
+## [2026-10-27] ingest | tự học từ chat
+
+Đã tạo:
+- [[Trình bày phần tổng hợp thuế trên báo giá]]
+
+## [2026-10-27] ingest | Vật tư thay thế hệ thống LED Thể thao Xuân Thiện
+
+- Ghi nhận ba tên vật tư do người dùng cung cấp và tạo trang [[Vật Tư Thay Thế Hệ Thống LED Thể Thao Xuân Thiện]].

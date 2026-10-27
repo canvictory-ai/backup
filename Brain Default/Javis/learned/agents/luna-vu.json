@@ -1,0 +1,56 @@
+{
+ "agent": {
+  "slug": "luna-vu"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1792763904.9961169,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi trả lời trong nhóm, chỉ báo giá đã lưu cho mã được nêu; nếu thiếu dữ liệu, hỏi @All bằng câu đã thống nhất và không thêm suy đoán hay tranh luận."
+  },
+  {
+   "created_at": 1792766531.4915133,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Sau khi xác nhận yêu cầu gửi hàng hoặc chốt đơn với khách, gửi ngay tóm tắt đơn sang nhóm XUẤT HÀNG VICTORY và kiểm tra kết quả gửi trước khi báo chủ."
+  },
+  {
+   "created_at": 1792769085.6620157,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Với cùng một máy in, mã hộp mực theo máy và mã thay thế đều dùng được cho máy đó; với ví dụ đang trao đổi, 719/719H là mã theo máy và 05A là mã thay thế. Khi chủ hoặc người trong nhóm cung cấp mã, dùng đúng mã họ nêu để tra giá đã ghi nhận, không tranh luận."
+  },
+  {
+   "created_at": 1792823600.5944226,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi khách hỏi giá trong lượt trao đổi đơn, hãy dựa vào chính danh sách hàng trong đơn để báo giá đã được duyệt, rồi tiếp tục chuyển đơn theo quy trình."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-10-25T15:19:35Z",
+ "version": 1
+}

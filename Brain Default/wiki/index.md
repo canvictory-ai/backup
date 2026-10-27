@@ -4,7 +4,7 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 
 - [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]] - Hồ sơ công ty, thanh toán, liên hệ, nhận hàng và nhà xe.
 - [[Bảng giá sản phẩm YSS]] - Bảng tra 198 mặt hàng và giá; lưu ý giá trị ghi chú bất thường và mã sản phẩm lặp.
-- [[Giá tham khảo từ nhóm Zalo]] - Giá từ nhóm và giá chủ cung cấp, lưu theo mặt hàng/ngữ cảnh/tình trạng và ưu tiên mức gần nhất phù hợp.
+- [[Giá tham khảo từ nhóm Zalo]] - Giá bán chung do chủ hoặc nguồn được chủ chỉ định xác nhận cho máy cũ, hộp mực, vật tư và linh kiện; giữ rõ tình trạng/biến thể và loại trừ giá nhà cung cấp/báo giá riêng.
 - [[Tương thích hộp mực HP và Canon đã tra cứu]] - Các họ máy tương thích với mã hộp mực HP/Canon đã lưu, kèm lưu ý vùng phân phối.
 - [[Nguồn hãng về tương thích hộp mực]] - Trang HP và Canon chính hãng dùng để đối chiếu các họ máy tương thích với mã hộp mực.
 - [[Danh sách khách hàng Victory]] - Danh mục 579 dòng khách hàng, tra theo mã số thuế và thông tin liên hệ; dữ liệu đầy đủ ở CSV.
@@ -24,6 +24,8 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Lỗi cơ bản máy photocopy]] - Nhóm lỗi giấy, vật tư, chất lượng sao chụp, bộ nạp bản gốc và kết nối.
 - [[Lỗi cơ bản hệ thống mạng]] - Phân biệt lỗi kết nối vật lý, Wi-Fi, IP/DHCP, DNS, gateway và nghẽn mạng.
 
+- [[Vật Tư Thay Thế Hệ Thống LED Thể Thao Xuân Thiện]] - Ba tên vật tư người dùng xác nhận sẽ thay thế; chưa có số lượng, đơn vị tính hoặc giá.
+- [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]] - Mẫu Word biên bản làm việc của Công ty Cổ phần Thể thao Xuân Thiện, giữ định dạng gốc và để trống các chỗ chấm.
 - [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]] - Mẫu biên bản gọn đã được người dùng duyệt; quy định lề, cỡ chữ, bảng giữa trang và phần ký không viền.
 - [[Mẫu Hợp Đồng Mua Bán Victory Bán Ra]] - Mẫu hợp đồng mua bán áp dụng khi Victory là bên bán, kèm các quy tắc ngày, số hợp đồng, thanh toán, giao nhận, bảng hàng hóa gọn và định dạng đã chốt.
 
@@ -37,6 +39,7 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Brother HL-L2350DW - thông báo lỗi hiển thị]] - Thông báo LCD và nhóm nguyên nhân theo hướng dẫn Brother; phân biệt thông báo người dùng với mã service.
 - [[HP LaserJet Pro M404dn - mã lỗi kẹt giấy]] - Mã kẹt giấy hiển thị và vị trí theo tài liệu hỗ trợ HP cho nhóm M304/M305/M404/M405.
 - [[Danh mục model máy in đã tra cứu]] - Sổ model/nhóm model đã có trang lỗi, dùng để chọn model mới cho lượt nghiên cứu tiếp theo.
-- [[Quy tắc báo giá trong nhóm Zalo]] - Khi xử lý hỏi giá hoặc chốt đơn trong nhóm Zalo, chỉ báo giá đã ghi nhận và làm
+- [[Quy tắc báo giá trong nhóm Zalo]] - Quy tắc phân vai, phạm vi nhóm được trả lời, căn cứ giá, xử lý đơn, chống gửi trùng và nhường nội dung kỹ thuật cho Victory.
 - [[Canon LBP3500 - bản in đen toàn trang sau khi nạp mực]] - Khi Canon LBP3500 in đen toàn trang sau khi nạp mực, dù đã thay trống, trục từ v
 - [[Hộp mực tương thích HP LaserJet Pro M404dn]] - HP LaserJet Pro M404dn dùng hộp mực 58A (CF258A) hoặc 58X (CF258X). [[Thông số H
+- [[Trình bày phần tổng hợp thuế trên báo giá]] - Phần tổng hợp báo giá nên tách tiền hàng theo từng nhóm thuế suất thành các dòng

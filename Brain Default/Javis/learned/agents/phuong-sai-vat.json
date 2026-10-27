@@ -1,0 +1,56 @@
+{
+ "agent": {
+  "slug": "phuong-sai-vat"
+ },
+ "judge": {},
+ "kind": "agent",
+ "lessons": [
+  {
+   "created_at": 1792196832.9790192,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Khi lập báo giá, mặc định áp dụng VAT 8% cho tất cả mặt hàng và dịch vụ, trừ khi người dùng chỉ định mức thuế hoặc cách xử lý khác."
+  },
+  {
+   "created_at": 1792311596.4879742,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Nhóm chat chung giúp tổng hợp trao đổi được chia sẻ từ lúc tạo, nhưng không cấp quyền đọc tin nhắn riêng hoặc lịch sử cũ."
+  },
+  {
+   "created_at": 1792385173.0265067,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Khi người dùng nói một tài liệu là mẫu/biểu mẫu hoặc yêu cầu làm theo mẫu đã lưu, tuyệt đối giữ nguyên cấu trúc, nội dung, định dạng, cỡ chữ, logo và các thành phần của mẫu. Chỉ điền hoặc sửa đúng các trường người dùng yêu cầu; không tự ý chuẩn hóa, thêm, bỏ hay thiết kế lại thành phần mẫu. Chỉ thay"
+  },
+  {
+   "created_at": 1792388580.3430495,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi thẻ Kanban báo xong nhưng nhật ký quy trình có lỗi, cần báo trạng thái theo kết quả thực thi và đánh dấu phần chưa xác nhận."
+  }
+ ],
+ "presentation": [],
+ "updated": "2026-10-25T15:19:35Z",
+ "version": 1
+}
