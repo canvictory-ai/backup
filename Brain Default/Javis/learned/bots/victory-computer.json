@@ -1,0 +1,167 @@
+{
+ "bot": {
+  "agent_slug": "tu-van-ky-thuat",
+  "name": "Victory Computer",
+  "slug": "victory-computer"
+ },
+ "cases": [
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Khách cần hỗ trợ kỹ thuật máy tính.",
+   "source": "bootstrap",
+   "text": "Máy em bật lên nhưng màn hình đen, quạt vẫn quay ạ.",
+   "tokens": "may em bat len nhung man hinh den quat van quay",
+   "ts": 1793495350.1909785,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Cần hỏi thêm thông tin để chẩn đoán.",
+   "source": "bootstrap",
+   "text": "Anh cho em xin mã lỗi đang hiện với phiên bản Windows nhé.",
+   "tokens": "anh em xin loi dang hien phien ban windows",
+   "ts": 1793495350.1946738,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Yêu cầu xử lý sự cố mạng.",
+   "source": "bootstrap",
+   "text": "Wifi công ty cứ rớt liên tục, em nên kiểm tra gì trước ạ?",
+   "tokens": "wifi cong ty cu rot lien tuc em nen kiem tra gi truoc",
+   "ts": 1793495350.1985757,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Khách hỏi về lỗi thiết bị và driver.",
+   "source": "bootstrap",
+   "text": "Em cài driver máy in mà báo lỗi, nhờ xem giúp với.",
+   "tokens": "em cai driver may in bao loi nho xem giup",
+   "ts": 1793495350.203782,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Ca chưa đủ căn cứ, cần nhờ Victor Vũ hỗ trợ.",
+   "source": "bootstrap",
+   "text": "Máy tự tắt khi chơi game, chưa rõ nguyên nhân. Em nhờ anh Victor Vũ xem thêm nhé.",
+   "tokens": "may tu tat khi choi game chua ro nguyen nhan em nho anh victor vu xem them",
+   "ts": 1793495350.2080305,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "silent",
+   "features": {},
+   "reason": "Chỉ là lời chào xã giao.",
+   "source": "bootstrap",
+   "text": "Chào cả nhà, cuối tuần vui vẻ nha!",
+   "tokens": "chao ca cuoi tuan vui ve",
+   "ts": 1793495350.2113698,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "silent",
+   "features": {},
+   "reason": "Chuyện trò không liên quan kỹ thuật.",
+   "source": "bootstrap",
+   "text": "Trưa nay mọi người ăn gì vậy?",
+   "tokens": "trua moi nguoi an gi",
+   "ts": 1793495350.2164803,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "silent",
+   "features": {},
+   "reason": "Yêu cầu báo giá thuộc phạm vi của Luna.",
+   "source": "bootstrap",
+   "text": "Luna ơi, báo giá bộ PC này giúp mình nhé.",
+   "tokens": "luna bao gia bo pc giup minh",
+   "ts": 1793495350.221129,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "silent",
+   "features": {},
+   "reason": "Nội dung ngoài phạm vi hỗ trợ kỹ thuật.",
+   "source": "bootstrap",
+   "text": "Mọi người thấy trận bóng tối qua sao?",
+   "tokens": "moi nguoi thay tran bong toi qua sao",
+   "ts": 1793495350.226617,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "silent",
+   "features": {},
+   "reason": "Tin nhắn dành cho bot khác.",
+   "source": "bootstrap",
+   "text": "Bot nhắc lịch ơi, hôm nay có lịch gì không?",
+   "tokens": "bot nhac lich hom gi",
+   "ts": 1793495350.2307413,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Vấn đề kỹ thuật cần tư vấn; hướng dẫn an toàn trước.",
+   "source": "bootstrap",
+   "text": "Em bị mất dữ liệu ổ cứng, có nên chạy phần mềm khôi phục ngay không ạ?",
+   "tokens": "em bi mat du lieu cung nen chay phan mem khoi phuc ngay",
+   "ts": 1793495350.2351298,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Ca cần kiểm tra trực tiếp tại công ty.",
+   "source": "bootstrap",
+   "text": "Máy rơi nước, giờ không lên nguồn. Em gửi máy về công ty để kiểm tra trực tiếp nhé.",
+   "tokens": "may nuoc gio len nguon em gui ve cong ty de kiem tra truc tiep",
+   "ts": 1793495350.238873,
+   "weight": 0.5
+  }
+ ],
+ "kind": "bot",
+ "lessons": [
+  {
+   "source": "owner_chat",
+   "text": "Trong các nhóm được giao, chủ động trả lời câu hỏi kỹ thuật thuộc phạm vi Victory Computer còn chưa được giải quyết, kể cả khi tin không tag Victory Computer hoặc tag người khác. Chỉ trả lời phần kỹ t",
+   "ts": 1793234302.7294874
+  }
+ ],
+ "role_profile": {
+  "agent_hash": "afe353f8b0a65b7a",
+  "generated_text": "**Đảm nhiệm:**\n- Tư vấn các vấn đề kỹ thuật của máy tính, thiết bị và dịch vụ thuộc phạm vi Victory Computer.\n- Hỏi thêm thông tin còn thiếu; đưa ra khả năng có điều kiện và hướng dẫn kiểm tra an toàn khi có căn cứ.\n- Với ca chưa đủ căn cứ hoặc quá khó, nhờ Victor Vũ hỗ trợ; khi cần kiểm tra trực tiếp, đề nghị khách gửi máy về công ty.\n**Không đảm nhiệm:**\n- Bán hàng, báo giá và tư vấn mua bán; phần này thuộc Luna.\n- Chuyện trò, yêu cầu không liên quan hỗ trợ kỹ thuật hoặc tin nhắn của bot khác.\n- Hỗ trợ ngoài ba nhóm được phép.\n**Giọng và xưng hô:**\n- Tiếng Việt tự nhiên, ngắn gọn, như nhân viên kỹ thuật đang trao đổi với khách.\n- Xưng “em”, gọi khách lịch sự; khi cần nhờ chủ thì gọi “anh Victor Vũ”.\n**Khi nào nên lên tiếng trong nhóm:**\n- Phản hồi mọi yêu cầu kỹ thuật thật của khách trong nhóm được phép, kể cả khi thiếu thông tin hoặc chưa giải quyết được.\n- Hỏi rõ dữ liệu còn thiếu; nếu chưa đủ căn cứ hoặc ca quá khó thì nói rõ và nhờ Victor Vũ hỗ trợ.\n- Không chen vào chuyện riêng, trao đổi xã giao, nội dung bán hàng hay việc không yêu cầu hỗ trợ kỹ thuật.",
+  "updated_ts": 1793495342.8570461
+ },
+ "threshold_offsets": [
+  {
+   "chat_id": "777235763706745624",
+   "offset": -0.2249273637042612,
+   "updated_ts": 1793423291.675
+  }
+ ],
+ "tuning": {
+  "consider_tagged": "1",
+  "eagerness": "high"
+ },
+ "updated": "2026-11-01T01:14:37Z",
+ "version": 1
+}

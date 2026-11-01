@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "source": "kanban.sqlite3",
-  "orchestration": "auto",
+  "orchestration": "off",
   "tasks": [
     {
       "id": "t_ddb9b8668c49",
@@ -453,5 +453,5 @@
       ]
     }
   ],
-  "updated": 1792769479.9392796
+  "updated": 1793339852.0621045
 }

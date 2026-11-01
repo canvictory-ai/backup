@@ -18,6 +18,7 @@ Danh sách model hoặc nhóm model đã có trang tra cứu lỗi trong wiki. T
 - [[Canon LBP 3300 - lỗi cơ bản và xử lý an toàn]] - Canon LBP3300. [[Canon LBP3300 User's Guide và ghi chú lỗi cơ bản]]
 - [[Canon LBP 251dw và 252dw - lỗi cơ bản và xử lý an toàn]] - Canon LBP251dw và LBP252dw. [[Canon LBP251dw và LBP252dw User's Guide và ghi chú lỗi cơ bản]]
 - [[Canon PIXMA TS series - mã hỗ trợ lỗi]] - Canon PIXMA TS3100, TS8100, TS6100 và TS700 series trong phạm vi model liệt kê trên trang. [[Canon PIXMA TS-series error code lists 2026-10-21]]
+- [[Canon G1010 - mã nháy đèn]] - Canon PIXMA G1010; phân biệt kiểu nháy theo hướng dẫn lỗi chính hãng. [[Canon G1010 series - An Error Occurs]]
 - [[Epson ET-2800 series - mã hiển thị lỗi]] - Epson ET-2800 và ET-2803. [[Epson ET-2800 ET-2803 User Guide error codes]]
 - [[Brother MFC-J4335DW family - thông báo lỗi]] - Brother MFC-J4335DW, MFC-J4345DW và MFC-J4535DW. [[Brother MFC-J4335DW family error messages]]
 - [[Brother HL-L2350DW - thông báo lỗi hiển thị]] - Brother HL-L2350DW. [[Brother HL-L2350DW error and maintenance messages]]

@@ -2,15 +2,15 @@
 
 > Tự sinh từ file - ĐỪNG sửa tay. Chỉ mục mọi năng lực của Javis trong brain này để bất kỳ AI/engine đọc 1 chỗ là hiểu Javis làm được gì. Song song `wiki/index.md` (tri thức).
 
-**Tổng quan:** 6 agents · 7 skills · 0 workflows (0 bật) · 0 loops (0 bật) · 26 plugins (25 chạy)
+**Tổng quan:** 6 agents · 7 skills · 1 workflows (1 bật) · 1 loops (0 bật) · 29 plugins (28 chạy)
 
 ## Agents
-- **Luna Vũ** (`luna-vu`) - Phụ trách giá, tồn kho có căn cứ và tiếp nhận/chuyển đơn Victory. Đọc nhóm Zalo, chỉ trả lời 2 nhóm đã chọn; im lặng với câu hỏi kỹ thuật để Victory Computer xử lý. · model gpt-6-luna
+- **Luna Vũ** (`luna-vu`) - BÁO GIÁ/BÁN HÀNG: cảm ơn, tổng đơn, chuyển tổng đơn sang XUẤT HÀNG VICTORY; THÔNG TIN CƠ BẢN và liên hệ hỗ trợ công ty từ Wiki. Trực cả ngày trong 3 nhóm được phép. Thuộc lĩnh vực phải trả lời; chưa biết thì mention thật @Victor Vu - Vũ Đức Cẩn nhờ báo hộ. Không chẩn đoán kỹ thuật/trả lời trùng. · model gpt-6-luna
 - **Lập  Báo Giá** (`nhan-vien-sales-bao-gia`) - Lập và chỉnh báo giá Victory theo yêu cầu, giữ nguyên mẫu đã lưu; gửi link sau khi kiểm tra phép tính, VAT và xác nhận file tồn tại đúng đường dẫn. · skills: lap-bao-gia-victory · tags: Bán hàng
 - **Phương sai vặt** (`phuong-sai-vat`) - Trợ lý tổng hợp và điều phối công việc của chủ. · tags: Điều phối
 - **Pháp lý - Luật** (`tro-ly-phap-ly-viet-nam`) - Hỗ trợ tra cứu, giải thích và hệ thống hóa pháp luật Việt Nam dựa trên nguồn có thể kiểm chứng. · tags: Pháp lý
 - **Hồ sơ - Hợp đồng** (`tro-ly-soan-thao-ho-so`) - Soạn và rà soát hợp đồng, biên bản bàn giao, phiếu xuất kho và văn bản hành chính theo thông tin, biểu mẫu được cung cấp. · tags: Văn bản, Vận hành
-- **Tư vấn Kỹ thuật** (`tu-van-ky-thuat`) - Chỉ tư vấn kỹ thuật máy tính, mạng, máy in: lỗi, cài đặt, thông số và tương thích. Im lặng với hỏi giá, tồn kho, đặt/giao hàng; nhường bán hàng cho Luna Vũ. · model gpt-6-luna · tags: Kỹ thuật
+- **Tư vấn Kỹ thuật** (`tu-van-ky-thuat`) - Chỉ KỸ THUẬT THIẾT BỊ trong 3 nhóm được phép, trực cả ngày: lỗi, chẩn đoán, cài đặt, thông số, tương thích. Thuộc lĩnh vực phải trả lời; chưa biết thì mention thật @Victor Vu - Vũ Đức Cẩn nhờ trả lời. Liên hệ công ty/giá/đơn thuộc Luna. Không trả lời trùng yêu cầu đã giải đáp. · model gpt-6-luna · tags: Kỹ thuật
 
 ## Skills
 ### AI
@@ -25,10 +25,10 @@
 - **HTML sang Webcake** (`html-to-webcake`) - Chuyển trang HTML thành file .pke mở được trong trình dựng Webcake, giữ đúng màu, cỡ chữ, ảnh và bố cục của bản gốc.
 
 ## Workflows
-_(chưa có)_
+- **Tiếp nhận tin Zalo - phân công bot** (`tiep-nhan-tin-zalo---phan-cong-bot`) - active · 2 bước [luna-vu -> tu-van-ky-thuat] · Xử lý tin nhắn Zalo theo vai trò và quy định đã huấn luyện: Luna Vũ phụ trách bán hàng, Tư vấn Kỹ thuật phụ trách kỹ thuật.
 
 ## Loops
-_(chưa có)_
+- **Trực nhóm Zalo Victory Computer** (`truc-nhom-zalo-victory-computer`) - tắt · custom/full · mỗi 5 phút
 
 ## Plugins (tool/hook native cho mọi engine)
 - **Thời gian & ngày** (`datetime-vn`) - bundled/chạy · tools: javis_now, javis_date_add · Xem ngày giờ hiện tại theo múi giờ đã cấu hình và tính ngày tương đối (mai, mốt, N ngày nữa, tuần trước). Thuần stdlib, chỉ đọc, không cần mạng.
@@ -36,9 +36,12 @@ _(chưa có)_
 - **Theo dõi Facebook (Apify)** (`fb-monitor-apify`) - bundled/chạy · tools: fb_monitor · Theo dõi Trang/Nhóm CÔNG KHAI Facebook tìm bài nhiều share qua dịch vụ Apify. Chỉ đọc, không đụng tài khoản cá nhân, chạy tốt trên VPS. Dùng token của kết nối "facebook-monitor".
 - **Tạo và xem ảnh (ChatGPT)** (`image-chatgpt`) - bundled/chạy · tools: javis_generate_image, javis_describe_image · Tạo ảnh từ mô tả bằng GÓI ChatGPT đang đăng nhập (OAuth) - không cần OpenAI API key. Dùng Codex Responses API + tool image_generation (gpt-image-2). Ảnh lưu vào attachments/ của vault để nhúng thẳng vào chat. Kèm tool XEM ảnh, để ChatGPT nhìn ảnh trong brain rồi tả lại bằng chữ, để cả engine không tự xem được ảnh (OpenRouter, Gemini API...) cũng biết trong ảnh có gì. Cần đã kết nối ChatGPT ở trang Model.
 - **Đấu thêm MCP** (`javis-connect`) - bundled/chạy · tools: javis_add_mcp · Đấu một MCP server vào kho Kết nối của Javis ngay từ chat, để nó HIỆN ra trang Kết nối như mọi tài khoản khác. Trước tool này Javis chỉ còn đường `claude mcp add` - thứ rơi vào config riêng của Claude Code, không bộ não nào khác thấy và người dùng cũng không thấy trên trang Kết nối.
+- **GitHub trong khung chat** (`javis-github`) - bundled/chạy · tools: javis_github · Xem trạng thái repo GitHub của khung chat (nhánh, PR, CI, merge) và xếp việc kế tiếp để Javis tự làm khi PR hiện tại đã merge xong.
 - **Việc chạy nền** (`javis-job`) - bundled/chạy · tools: javis_job · Theo dõi lệnh chạy ngầm engine bỏ lại (render, build, tải về). Dặn trước "xong thì làm tiếp gì", xem việc đang chạy, dừng một việc. Xong là Javis tự báo về đúng khung chat và tự làm tiếp.
 - **Cookies** (`javis-login`) - bundled/chạy · tools: javis_login · Mở trang web cần đăng nhập bằng phiên đăng nhập chủ đã cất ở trang Cookies. Chỉ trả nội dung trang, không bao giờ trả cookie.
 - **Trí nhớ qua chat** (`javis-memory`) - bundled/chạy · tools: javis_memory · Cho Javis xem, sửa, quên ghi nhớ của brain, bật tắt việc lưu ghi nhớ mới, sửa hồ sơ chung và thu hồi bài học của trợ lý khi người dùng nhắn. Thay cho các danh sách trí nhớ và bài học từng nằm ở cột Cài đặt. Chỉ phiên của chủ thấy tool này.
+- **Việc của tôi và thói quen** (`javis-mine`) - bundled/chạy · tools: javis_mytask · Thêm việc vào tab Của tôi trên trang Nhiệm vụ, xem việc hôm nay và thói quen, và tích xong một việc hoặc một buổi thói quen khi người dùng báo đã làm xong, ngay từ chat.
+- **Chỉ huy thông báo** (`javis-notify`) - bundled/chạy · tools: javis_notify · Xem và đổi thông báo nào được báo. Mỗi nhóm thông báo có một chế độ (tất cả, đáng chú ý trở lên, chỉ tin khẩn, tắt); lọc hoặc luôn báo một loại tin; hoàn tác thay đổi của Javis Core.
 - **Tạo plugin qua chat** (`javis-plugin`) - bundled/chạy · tools: javis_plugin · Cho Javis tạo, đọc và sửa plugin của người dùng ngay tại chỗ khi được nhờ trong chat, không phải tải file zip về rồi tải lên lại. Plugin mới hoặc vừa đổi mã luôn nằm TẮT, chủ đọc mã rồi tự bật ở trang Plugins. Chỉ phiên của chủ thấy tool này.
 - **Bộ phán xử của bot nhóm** (`javis-reply-policy`) - bundled/chạy · tools: javis_reply_policy, javis_reply_policy_tune · Cho Javis đọc số liệu bộ phán xử (bot nói hay im trong nhóm, vì sao, bị chấm sai ở đâu) và chỉnh nó khi chủ nhờ, rồi hoàn lại được. Chỉ phiên của chủ thấy hai tool này, bot chăm khách không bao giờ thấy.
 - **Đặt việc định kỳ & nhắc hẹn** (`javis-schedule`) - bundled/chạy · tools: javis_schedule · Tạo/liệt kê/huỷ việc chạy định kỳ và nhắc hẹn ngay từ chat. Tự chọn kho - việc lặp và bền thì ghi Javis/loops/<slug>.md để sửa được trong Obsidian; nhắc một lần hoặc lịch cron thì vào kho nhắc hẹn (đã có sẵn cron 5 trường). Thay cho việc gõ YAML tay hoặc curl.
@@ -59,4 +62,4 @@ _(chưa có)_
 - **Đọc ảnh trong nhóm Zalo** (`zalo-read-images`) - pack/chạy · tools: zalo_read_images · Lấy ẢNH người ta gửi trong nhóm Zalo về brain (attachments/zalo/) rồi cho bộ não xem được nội dung ảnh, bằng chính tài khoản đã quét QR ở trang Kết nối. Engine tự xem được ảnh (Claude Code, Codex) mở thẳng file; engine khác nhận lời tả của ChatGPT trên gói đang đăng nhập. Bù đúng chỗ MCP chuẩn của zalo-agent-cli còn thiếu - nó chỉ trả link ảnh và giữ tin 2 giờ.
 
 ## Cờ sức khoẻ
-- Agent chưa workflow nào dùng: luna-vu, nhan-vien-sales-bao-gia, phuong-sai-vat, tro-ly-phap-ly-viet-nam, tro-ly-soan-thao-ho-so, tu-van-ky-thuat
+- Agent chưa workflow nào dùng: nhan-vien-sales-bao-gia, phuong-sai-vat, tro-ly-phap-ly-viet-nam, tro-ly-soan-thao-ho-so

@@ -124,3 +124,48 @@
 - [Quy cách lập biên bản làm việc Xuân Thiện](facts/quy-cach-bien-ban-lam-viec-xuan-thien.md) - Khi lập biên bản làm việc Xuân Thiện, đánh số năm đầu mục chính và áp dụng quy ước ngày giờ, hình ảnh đã chốt.
 - [Tách phần tổng hợp báo giá theo thuế suất](facts/tach-tong-hop-bao-gia-theo-thue-suat.md) - Khi lập báo giá có nhiều mức thuế, trình bày riêng tiền hàng theo từng nhóm thuế suất.
 - [Giá sửa máy in do Huy Hoàng báo ngày 27/10/2026](facts/gia-sua-may-in-tu-huy-hoang-2026-10-27.md) - Tra các mức giá sửa máy in Huy Hoàng đã báo trong nhóm ngày 27/10/2026.
+- [Ưu tiên thông tin chi tiết, cụ thể](facts/uu-tien-thong-tin-chi-tiet-cu-the.md) - Người dùng đánh giá cao câu trả lời có thông tin chi tiết và cụ thể; không nên hiểu nhận xét đó là yêu cầu trả lời ngắn hơn.
+- [Gửi thông tin liên hệ khi cần hỗ trợ chuyên sâu](facts/gui-thong-tin-ho-tro-chuyen-sau.md) - Khi có người cần hỗ trợ chuyên sâu hoặc hỏi thông tin hỗ trợ, gửi nguyên văn danh sách liên hệ do người dùng cung cấp.
+- [Luna được phép trả lời nhóm testbot](facts/luna-duoc-phep-tra-loi-nhom-testbot.md) - Luna được người dùng cho phép trả lời trong nhóm Zalo testbot.
+- [Cách trả lời lỗi máy in trong nhóm Zalo](facts/tra-loi-loi-may-in-trong-nhom-zalo.md) - Trong nhóm Zalo, khi hỏi lỗi máy in, chỉ nêu lỗi bằng lời của mình; không dẫn link hoặc hướng dẫn sửa.
+- [Giữ nguyên nội dung cố định và xác nhận hoàn tất trong biên bản Xuân Thiện](facts/quy-uoc-noi-dung-bien-ban-xuan-thien.md) - Khi trình bày lại biên bản Xuân Thiện, giữ nguyên toàn bộ nội dung cố định của mẫu; biên bản phát hành được xem là xác nhận các bên đã hoàn tất công việc.
+- [Định dạng biên bản làm việc Xuân Thiện](facts/dinh-dang-bien-ban-lam-viec-xuan-thien.md) - Khi trình bày biên bản Xuân Thiện, áp dụng quy cách định dạng đã chốt.
+- [Quy cách trình bày mẫu biên bản Xuân Thiện](facts/quy-cach-trinh-bay-mau-bien-ban-xuan-thien.md) - Khi dùng lại mẫu biên bản Xuân Thiện, giữ quy cách trình bày đã được người dùng duyệt.
+- [Giá card LED NOVASTAR DH7508-S](facts/gia-card-led-novastar-dh7508-s.md) - Khi báo giá card thu tín hiệu hình ảnh NOVASTAR DH7508-S cho Xuân Thiện, dùng giá 680.000 đồng chưa VAT do người dùng cung cấp.
+- [Trả lời uyển chuyển khi nhận định lỗi kỹ thuật](facts/tra-loi-uy-mem-khi-du-doan-loi-ky-thuat.md) - Khi chưa thể xác định lỗi kỹ thuật nếu chưa kiểm tra trực tiếp, hãy trình bày nhận định như một khả năng và nói rõ cần kiểm tra để kết luận.
+- [Muốn phần mềm quản lý bán hàng trên điện thoại](facts/muon-phan-mem-quan-ly-ban-hang-tren-dien-thoai.md) - Người dùng muốn xây phần mềm quản lý bán hàng để sử dụng trên điện thoại, theo hướng giống Javis.
+- [Tra giá bán gần nhất trong phần mềm quản lý bán hàng](facts/tra-gia-ban-gan-nhat-trong-phan-mem-quan-ly.md) - Khi hỏi giá bán gần nhất của một mặt hàng cho một khách hàng, tra trong phần mềm quản lý bán hàng nếu có kết nối và dữ liệu lịch sử giao dịch.
+- [Bot Zalo ghép nhóm với khách hàng trong phần mềm bán hàng](facts/bot-zalo-gan-nhom-voi-khach-hang-trong-phan-mem-ban-hang.md) - Khi khách hỏi mặt hàng trong nhóm Zalo, người dùng muốn bot xác định khách hàng tương ứng trong phần mềm quản lý bán hàng để tra cứu.
+- [Giá hộp mực Canon 151A](facts/gia-hop-muc-canon-151a.md) - Giá người dùng cung cấp cho hộp mực Canon 151A: loại không chip 155.000đ, loại có chip 220.000đ.
+- [Thông tin liên hệ hỗ trợ theo bộ phận Victory](facts/lien-he-ho-tro-theo-bo-phan-victory.md) - Khi cần hỗ trợ chuyên sâu, gửi đúng số liên hệ theo bộ phận và giờ hành chính.
+- [Giá cụm sấy Canon 2900](facts/gia-cum-say-canon-2900.md) - Tra giá cụm sấy Canon 2900 đã được báo trong nhóm.
+- [Muốn Javis theo dõi hội thoại nhóm để học ngữ cảnh](facts/nguoi-dung-muon-theo-doi-chat-testbot-va-hoc-kinh-nghiem.md) - Bạn muốn Javis dùng ngữ cảnh và kinh nghiệm từ các nhóm chat đã kết nối để trả lời nhất quán.
+- [Thông tin liên hệ hỗ trợ theo bộ phận Victory](facts/thong-tin-lien-he-ho-tro-cac-bo-phan-victory.md) - Dùng đúng số liên hệ của bộ phận khi người dùng cần hỗ trợ chuyên sâu.
+- [Không chèn đường link trong câu trả lời ở nhóm Zalo](facts/khong-chen-duong-link-trong-nhom-zalo.md) - Khi trả lời trong nhóm Zalo, không chèn đường link; nếu cần tra cứu, kiểm chứng rồi diễn đạt lại bằng lời.
+- [Giá vỏ Canon 2900](facts/gia-vo-canon-2900.md) - Giá tham khảo được báo trong hội thoại ngày 28/10/2026: vỏ mới 250.000 đồng, vỏ cũ zin theo máy 150.000 đồng.
+- [Phân biệt trả lời trực tiếp và trực Zalo tự động](facts/can-phan-biet-phan-hoi-truc-tiep-va-truc-zalo-tu-dong.md) - Người dùng kỳ vọng trợ lý giải thích rõ khi nào cần kích hoạt để tự xử lý tin Zalo.
+- [Cho phép Luna Vũ dùng mức chủ động cao](facts/luna-chu-dong-cao.md) - Người dùng xác nhận nâng mức chủ động của Luna Vũ từ medium lên high.
+- [Bot Victory Computer được phép chủ động trả lời kỹ thuật](facts/victory-computer-chu-dong-cao.md) - Bot Victory Computer được xét cả tin nhắn không tag bot và chủ động trả lời câu hỏi kỹ thuật chưa được giải quyết.
+- [Giá hộp mực M201 từ Huy Hoàng](facts/gia-hop-muc-m201-tu-huy-hoang-2026-10-29.md) - Giá người dùng cung cấp: Tech 365 báo một hộp mực cho M201 giá 750.000 đồng.
+- [Đơn giá các hạng mục báo giá Novel VIC-67-2026](facts/gia-bao-gia-novel-vic-67-2026.md) - Tra cứu các đơn giá người dùng cung cấp cho báo giá Novel VIC-67-2026.
+- [Giá HikCentral-P-VSS-1Ch cho Basic](facts/gia-hikcentral-p-vss-1ch-basic.md) - Dùng mức giá đã chốt cho HikCentral-P-VSS-1Ch trong báo giá công ty Basic.
+- [Chỉ trình bày thuế ở phần tổng hợp báo giá](facts/thue-bao-gia-chi-o-phan-tong-hop.md) - Khi lập báo giá, không ghi mục thuế trên từng dòng hàng; chỉ trình bày thuế ở phần tổng hợp.
+- [Không chèn link nguồn vào câu trả lời](facts/khong-dan-link-nguon-trong-cau-tra-loi.md) - Có thể tra cứu để kiểm chứng nhưng không đưa link nguồn đã tham khảo vào câu trả lời.
+- [Giá hộp mực HP 78A](facts/gia-hop-muc-hp-78a.md) - Giá người dùng cung cấp cho hộp mực HP 78A là 100.000 đồng mỗi chiếc.
+- [Đối chiếu cách gọi mặt hàng theo mã và ngữ cảnh](facts/doi-chieu-ten-goi-mat-hang-theo-ma-va-ngu-canh.md) - Khách hàng có thể gọi cùng một mặt hàng bằng nhiều tên khác nhau; đối chiếu mã hàng và ngữ cảnh, hỏi lại nếu chưa chắc.
+- [Ưu tiên giá mới nhất đã xác nhận](facts/uu-tien-gia-moi-nhat-da-xac-nhan.md) - Giá hàng thay đổi thường xuyên; khi người dùng cung cấp giá mới, dùng giá mới nhất đã xác nhận cho đúng mặt hàng.
+- [Xác minh giá, tên hàng, tồn kho và nguồn gốc linh kiện](facts/xac-minh-gia-ten-hang-ton-kho-va-nguon-goc.md) - Khi hỗ trợ báo giá, không suy đoán giá hiện hành, tồn kho hoặc nguồn gốc linh kiện từ dữ liệu không đủ căn cứ.
+- [Trả lời linh hoạt khi thiếu căn cứ bán hàng](facts/tra-loi-linh-hoat-khi-thieu-can-cu-ban-hang.md) - Người dùng muốn Javis diễn đạt tự nhiên, khéo léo khi cần hỏi lại về mặt hàng, giá, tình trạng hoặc tồn kho.
+- [Không suy tồn kho từ thông tin giá](facts/khong-suy-ton-kho-tu-gia.md) - Giá đã biết không xác nhận mặt hàng còn tồn kho; cần dữ liệu tồn kho cập nhật trước khi khẳng định.
+- [Xác minh nguồn gốc và tình trạng linh kiện](facts/xac-minh-nguon-goc-tinh-trang-linh-kien.md) - Không tự suy ra linh kiện là hàng bóc từ máy nguyên bản; hỏi khéo khi nguồn gốc hoặc tình trạng ảnh hưởng đến việc báo giá hay ghi nhận đơn.
+- [Giá cụm con lăn ra giấy Canon 3300](facts/gia-cum-con-lan-ra-giay-canon-3300.md) - Giá người dùng cung cấp cho cụm con lăn ra giấy Canon 3300.
+- [Giá sửa Canon 2900 do Tâm Trúc báo ngày 31/10/2026](facts/gia-sua-canon-2900-tu-tam-truc-2026-10-31.md) - Tâm Trúc báo công sửa một máy Canon 2900 là 100.000 đồng.
+- [Muốn hai bot Zalo trực liên tục](facts/muon-hai-bot-zalo-truc-lien-tuc.md) - Người dùng muốn cấu hình các bot Zalo hoạt động liên tục 24/7.
+- [Email nhận hóa đơn chuẩn của Victory](facts/email-nhan-hoa-don-victory.md) - Email nhận hóa đơn hiện tại là hoadon@vic-tech.com.vn; canvd@vic-tech.com.vn là email liên hệ trên báo giá; người dùng xác nhận ngày 01/11/2026.
+- [Tuyệt đối không bịa thông tin và giá cả](facts/tuyet-doi-khong-bia-thong-tin-va-gia-ca.md) - Không tự tạo hoặc đoán thông tin, số liên hệ hay giá cả khi chưa có căn cứ.
+- [Giá đầu in Zebra ZT411 300 dpi](facts/gia-dau-in-zebra-zt411-300dpi.md) - Người dùng cung cấp giá 1.850.000 đồng/cái cho đầu in Zebra ZT411 300 dpi khi lập báo giá Hải Vinh.
+- [Hotline hỗ trợ camera Victory](facts/hotline-ho-tro-camera-victory.md) - Khi cần hỗ trợ camera, dùng hotline chung của công ty vì chưa có số hỗ trợ camera riêng.
+- [Giá sửa Brother 251dw do Huy Hoàng báo](facts/gia-sua-brother-251dw-tu-huy-hoang.md) - Tra cứu giá sửa Brother 251dw được Huy Hoàng báo trong nhóm.
+- [Giá sửa máy in 402 do Huy Hoàng báo](facts/gia-sua-may-in-402-tu-huy-hoang.md) - Tra cứu giá xử lý lỗi kẹt giấy máy in 402 được Huy Hoàng báo.
+- [Giá hộp mực HP 49A](facts/gia-hop-muc-hp-49a.md) - Giá người dùng xác nhận cho hộp mực HP 49A là 150.000 đồng/hộp.
+- [Ghi nhận cách lập biên bản Xuân Thiện](facts/ghi-nhan-lam-tot-bien-ban-xuan-thien.md) - Người dùng hài lòng với biên bản làm việc Xuân Thiện ngày 10/10/2026 và muốn duy trì cách làm này.

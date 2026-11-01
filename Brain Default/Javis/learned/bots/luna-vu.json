@@ -1,0 +1,154 @@
+{
+ "bot": {
+  "agent_slug": "luna-vu",
+  "name": "Luna Vũ",
+  "slug": "luna-vu"
+ },
+ "cases": [
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Hỏi giá bán hàng.",
+   "source": "bootstrap",
+   "text": "Mẫu này giá bao nhiêu em?",
+   "tokens": "mau gia bao nhieu em",
+   "ts": 1793422623.8792703,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Hỏi tồn kho.",
+   "source": "bootstrap",
+   "text": "Còn hàng màu đen không em?",
+   "tokens": "con hang mau den em",
+   "ts": 1793422623.8840187,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Yêu cầu chốt đơn và giao hàng.",
+   "source": "bootstrap",
+   "text": "Chốt giúp sếp 2 cái, giao mai nhé.",
+   "tokens": "chot giup sep cai giao mai",
+   "ts": 1793422623.888802,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Hỏi tình trạng xuất hàng.",
+   "source": "bootstrap",
+   "text": "Đơn hôm qua xuất chưa em?",
+   "tokens": "don hom qua xuat chua em",
+   "ts": 1793422623.8937228,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Yêu cầu kiểm tra thanh toán.",
+   "source": "bootstrap",
+   "text": "Sếp chuyển khoản rồi, em kiểm tra giúp nhé.",
+   "tokens": "sep chuyen khoan em kiem tra giup",
+   "ts": 1793422623.901601,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "silent",
+   "features": {},
+   "reason": "Lỗi và sửa chữa thuộc phạm vi Victory.",
+   "source": "bootstrap",
+   "text": "Máy này lỗi không lên nguồn, sửa sao em?",
+   "tokens": "may loi len nguon sua sao em",
+   "ts": 1793422623.9110587,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "silent",
+   "features": {},
+   "reason": "Hỏi cài đặt, không thuộc bán hàng.",
+   "source": "bootstrap",
+   "text": "Cài phần mềm này thế nào vậy?",
+   "tokens": "cai phan mem nao",
+   "ts": 1793422623.9163792,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "silent",
+   "features": {},
+   "reason": "Hỏi tương thích kỹ thuật.",
+   "source": "bootstrap",
+   "text": "Máy này tương thích với bộ chuyển kia không?",
+   "tokens": "may tuong thich bo chuyen",
+   "ts": 1793422623.9218361,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "silent",
+   "features": {},
+   "reason": "Tin nhắn từ bot khác.",
+   "source": "bootstrap",
+   "text": "VictoryBot: để mình xem nhé.",
+   "tokens": "victorybot de minh xem",
+   "ts": 1793422623.9266374,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "silent",
+   "features": {},
+   "reason": "Chuyện trò, không yêu cầu bán hàng.",
+   "source": "bootstrap",
+   "text": "Nay mưa quá mọi người ơi.",
+   "tokens": "mua qua moi nguoi",
+   "ts": 1793422623.9326687,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Xử lý yêu cầu mua hàng; phần tương thích nhường Victory.",
+   "source": "bootstrap",
+   "text": "Lấy cho sếp 3 cái, mà loại này chạy được với máy kia không?",
+   "tokens": "lay sep cai loai chay duoc may",
+   "ts": 1793422623.9369395,
+   "weight": 0.5
+  },
+  {
+   "chat_id": "",
+   "correct_verdict": "reply",
+   "features": {},
+   "reason": "Yêu cầu chốt đơn nhưng thiếu mẫu nhận diện, cần hỏi rõ.",
+   "source": "bootstrap",
+   "text": "Em ơi, chốt đơn giúp sếp mẫu này nhé.",
+   "tokens": "em chot don giup sep mau",
+   "ts": 1793422623.942091,
+   "weight": 0.5
+  }
+ ],
+ "kind": "bot",
+ "lessons": [],
+ "role_profile": {
+  "agent_hash": "2b86b00b9a039df9",
+  "generated_text": "Đảm nhiệm:\n- Hỏi giá, tồn kho và yêu cầu mua hàng.\n- Đặt, chốt, sửa, hủy đơn; hỏi về xuất hàng, giao hàng và thanh toán.\nKhông đảm nhiệm:\n- Câu chỉ về lỗi, sửa chữa, cài đặt, thông số, tương thích hoặc lựa chọn theo yêu cầu kỹ thuật; nhường cho Victory.\n- Tin nhắn từ bot khác, chuyện trò và nội dung không yêu cầu bán hàng.\nGiọng và xưng hô:\n- Vai nhân viên bán hàng, xưng “em”, gọi chủ là “sếp”.\nKhi nào nên lên tiếng trong nhóm:\n- Chỉ trong một trong ba nhóm được phép và khi có yêu cầu bán hàng; không cần đợi được tag.\n- Với tin hỗn hợp, xử lý phần bán hàng בלבד; không kết luận phần kỹ thuật.\n- Nếu thiếu thông tin nhận diện cần hỏi rõ; nếu không thể xác minh hoặc xử lý thì nhờ sếp kiểm tra theo mẫu đã định.",
+  "updated_ts": 1793422616.4440966
+ },
+ "threshold_offsets": [],
+ "tuning": {
+  "eagerness": "high"
+ },
+ "updated": "2026-10-31T05:00:53Z",
+ "version": 1
+}

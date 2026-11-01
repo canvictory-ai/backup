@@ -15,9 +15,42 @@
    "source": "owner",
    "status": "active",
    "text": "Khi người dùng nói một tài liệu là mẫu/biểu mẫu hoặc yêu cầu làm theo mẫu đã lưu, tuyệt đối giữ nguyên cấu trúc, nội dung, định dạng, cỡ chữ, logo và các thành phần của mẫu. Chỉ điền hoặc sửa đúng các trường người dùng yêu cầu; không tự ý chuẩn hóa, thêm, bỏ hay thiết kế lại thành phần mẫu. Chỉ thay"
+  },
+  {
+   "created_at": 1793111512.5731578,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Với mã đèn nháy Canon G1010, cần xác định đèn nào nháy và nháy luân phiên hay riêng lẻ; số lần nháy thôi chưa đủ."
+  },
+  {
+   "created_at": 1793418151.1562579,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Trước khi báo đang trực Zalo, kiểm tra cả số loop đang bật trong chỉ mục và trạng thái tạm dừng trong nhật ký gần nhất."
+  },
+  {
+   "created_at": 1793419078.9114618,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "dm",
+   "source": "self",
+   "status": "active",
+   "text": "Khi chỉ mục báo không có loop, cần kiểm tra trạng thái thực tế; loop mới tạo vẫn phải được chủ bật thủ công trước khi chạy."
   }
  ],
  "presentation": [],
- "updated": "2026-10-25T15:19:35Z",
+ "updated": "2026-10-31T04:00:53Z",
  "version": 1
 }

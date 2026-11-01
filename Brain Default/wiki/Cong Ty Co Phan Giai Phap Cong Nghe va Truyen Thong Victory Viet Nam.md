@@ -4,7 +4,7 @@ status: active
 tags: [wiki, doanh-nghiep]
 aliases: [Victory Việt Nam, Vic-Tech]
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-11-01
 source:
   - "[[Thông Tin Công Ty Victory Việt Nam]]"
   - "[[Thông Tin Nhan Hang Va Nha Xe Victory Viet Nam]]"
@@ -25,15 +25,26 @@ Trang này lưu hồ sơ thông tin doanh nghiệp do người dùng cung cấp,
 ## Thanh toán và liên hệ
 
 - Số tài khoản được cung cấp: 14023303604017 tại Ngân hàng TMCP Kỹ thương Việt Nam - Chi nhánh Nam Định. [[Thông Tin Công Ty Victory Việt Nam]]
-- Email liên hệ dùng trên báo giá được người dùng cập nhật ngày 16/10/2026: canvd@vic-tech.com.vn.
+- Email nhận hóa đơn chuẩn theo xác nhận mới nhất của người dùng ngày 01/11/2026: hoadon@vic-tech.com.vn.
 - Website do người dùng cung cấp ngày 16/10/2026: http://maytinhnamdinh.com và http://vic-tech.com.vn.
-- Source thông tin công ty trước đó ghi email nhận hóa đơn hoadon@vic-tech.com.vn; chưa rõ email này còn dùng riêng cho hóa đơn hay đã thay đổi. [[Thông Tin Công Ty Victory Việt Nam]]
-- Hotline 24/7: 0228.86.22222. [[Thông Tin Công Ty Victory Việt Nam]]
+- Email liên hệ dùng trên báo giá là canvd@vic-tech.com.vn; đây không phải email nhận hóa đơn. [[Thông Tin Công Ty Victory Việt Nam]]
+- Hotline công ty được ghi trong hồ sơ nguồn là 0228.86.22222. Nguồn ghi “Hotline 24/7”; thời gian hỗ trợ các bộ phận dưới đây là giờ hành chính và được ghi riêng. [[Thông Tin Công Ty Victory Việt Nam]]
+
+### Thông tin hỗ trợ do người dùng cung cấp ngày 01/11/2026
+
+Khi được hỏi về thông tin hỗ trợ, kể cả khi chỉ hỏi hỗ trợ kỹ thuật cho một bộ phận cụ thể như camera, gửi toàn bộ nội dung dưới đây nguyên văn và giữ nguyên định dạng. Không chỉ trả lời một số riêng lẻ, không thay bằng câu nói rằng chưa có số hỗ trợ riêng cho camera.
+
+Quý anh/chị cần hỗ trợ xin liên hệ giờ hành chính (7h30-11h30 / 14h-18h):
+
+1. Máy tính: Mr Khoan - 0946585222
+2. Máy in: Mr Hợp - 0948386896
+3. Camera: Mr Đăng - 0919354326
+4. Hoá đơn: Ms Phương - 0974002559
+5. Tổng hợp: 0228.86.22222
 
 ## Liên kết
 
 - Nguồn gốc dữ liệu: [[Thông Tin Công Ty Victory Việt Nam]]
-
 
 ## Nhận hàng và nhà xe
 

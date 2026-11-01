@@ -322,3 +322,86 @@
 ## [2026-10-27] ingest | Vật tư thay thế hệ thống LED Thể thao Xuân Thiện
 
 - Ghi nhận ba tên vật tư do người dùng cung cấp và tạo trang [[Vật Tư Thay Thế Hệ Thống LED Thể Thao Xuân Thiện]].
+
+## [2026-10-27] update | Chốt mẫu biên bản làm việc Xuân Thiện
+
+- Lưu bản Word dùng lại theo bố cục và định dạng biên bản đã duyệt; để trống các dữ kiện vụ việc, giữ câu chữ cố định và vị trí hai ảnh dưới mục 1.
+- Cập nhật [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]] và [[wiki/index]].
+
+## [2026-10-27] ingest | tự học từ chat
+
+Đã tạo:
+- [[Hậu quả chậm đóng bảo hiểm xã hội]]
+## [2026-10-28] ingest | Triệu chứng kỹ thuật máy in từ Zalo
+
+- Đọc 154 tin trong cửa sổ 24 giờ; kết nối báo đồng bộ đầy đủ, không có khoảng mất kết nối.
+- Tạo [[Canon G1010 - mã nháy đèn]] theo bảng support code chính hãng; thêm model vào [[Danh mục model máy in đã tra cứu]].
+- Ghi lại các triệu chứng và giới hạn xác minh tại [[Zalo TESTBOT 2026-10-27 - triệu chứng kỹ thuật]]. Ảnh nhóm không tải được từ lịch sử, nên E00 của MF455DW và việc ghép E014-0000 với MF241d/226dw được đưa vào [[_open-questions]] thay vì kết luận.
+
+## [2026-10-28] ingest | tự học từ chat
+
+Đã tạo:
+- [[Diễn đạt mức độ chắc chắn khi chẩn đoán từ xa]]
+
+## [2026-10-28] quy tắc | Ưu tiên giá chủ cung cấp khi lập báo giá
+
+Đã ghi nhận quy tắc: ưu tiên giá chủ cung cấp; khi chưa có giá thì tra data, nếu không có giá khớp thì hỏi lại chủ. [[Quy tắc ưu tiên giá khi lập báo giá]]
+
+
+## [2026-10-28] ingest | Triệu chứng kỹ thuật máy tính từ Zalo
+
+- Rà soát lịch sử 24 giờ, đồng bộ hoàn chỉnh, không có khoảng mất kết nối.
+- Ghi nhận ca Canon LBP3500 có hộp mực khác in bình thường và hộp vừa nạp in đen toàn trang; cập nhật [[Canon LBP3500 - bản in đen toàn trang sau khi nạp mực]] với nhãn lời kể chưa kiểm định độc lập.
+- Ghi nhận laptop sập nguồn và máy báo lỗi pin nhưng thiếu model, điều kiện xảy ra và kết quả kiểm tra tại [[Zalo TESTBOT 2026-10-28 - triệu chứng kỹ thuật]].
+
+## [2026-10-29] ingest | tự học từ chat
+
+Đã tạo:
+- [[Xử lý camera analog chập chờn qua dây đồng trục]]
+
+## [2026-10-29] ingest | tự học từ chat
+
+Đã tạo:
+- [[Trả lời không kèm đường link nguồn]]
+
+## [2026-10-30] ingest | Triệu chứng kỹ thuật từ Zalo
+
+- Đọc 161 tin trong cửa sổ 24 giờ; đồng bộ hoàn chỉnh, không có khoảng mất kết nối.
+- Tạo [[Zalo TESTBOT 2026-10-30 - triệu chứng kỹ thuật]] ghi nhận Dell 3520 kêu bíp dài lặp lại và Imou A32 báo ngoại tuyến, đèn vàng nháy; chưa đủ dữ kiện để xác minh ý nghĩa.
+- Trao đổi camera đồng trục không có kết quả kiểm tra mới, nên giữ nguyên [[Xử lý camera analog chập chờn qua dây đồng trục]].
+
+## [2026-10-30] update | Mã đèn chẩn đoán Dell Inspiron 15 3520
+
+- Đối chiếu tài liệu dịch vụ Dell chính hãng ngày 30/10/2026; tạo [[Nguồn Dell Inspiron 15 3520 Service Manual]] và [[Dell Inspiron 15 3520 - đèn chẩn đoán]].
+- Cập nhật [[Zalo TESTBOT 2026-10-30 - triệu chứng kỹ thuật]]: ghi rõ tài liệu giải nghĩa mã đèn, chưa xác minh tiếng bíp dài và chưa rõ biến thể Dell 3520.
+
+## [2026-10-31] ingest | Triệu chứng kỹ thuật từ Zalo
+
+- Đọc 46 tin trong cửa sổ 24 giờ; đồng bộ hoàn chỉnh, không có khoảng mất kết nối.
+- Tạo [[Zalo TESTBOT 2026-10-31 - triệu chứng kỹ thuật]] ghi nhận máy tính bàn mất hình khi quạt thùng máy vẫn chạy, đầu ghi Hikvision kêu liên tục nhưng thiếu model/mã cảnh báo, và ảnh mã lỗi không truy xuất được.
+- Không xác minh được nguyên nhân theo tài liệu hãng do thiếu model và thông báo cụ thể; giữ các nhận định trong chat ở mức chưa xác minh. Không ghi hướng dẫn sửa chữa.
+## [2026-10-31] ingest | Máy tính bàn có nguồn nhưng không lên hình
+
+- Chọn chủ đề theo ca kỹ thuật Zalo ngày 31/10: máy bàn vẫn quay quạt nhưng màn hình mất hình, chưa rõ model.
+- Đối chiếu tài liệu hỗ trợ Dell chính hãng về no video ngày 31/10/2026; tạo [[Nguồn Dell - xử lý máy tính không hình]] và [[Lỗi máy tính để bàn có nguồn nhưng không lên hình]].
+- Cập nhật [[Zalo TESTBOT 2026-10-31 - triệu chứng kỹ thuật]] với liên kết hướng dẫn khoanh vùng. Không xác định lỗi phần cứng vì thiếu model và chưa kiểm tra trực tiếp.
+## [2026-11-01] cập nhật | Không bịa thông tin và giá cả
+- Thêm nguyên tắc chỉ khẳng định thông tin và giá có căn cứ; nêu rõ khi chưa xác minh, thiếu dữ kiện hoặc có mâu thuẫn.
+
+## [2026-11-01] update | Không bịa thông tin và giá cả
+- Tạo [[Không bịa thông tin và giá cả]] theo xác nhận của người dùng; cập nhật [[wiki/index.md]].
+
+## [2026-11-01] tự học | Tiếng bíp đầu ghi Hikvision
+- Chọn triệu chứng đầu ghi Hikvision kêu liên tục từ [[Zalo TESTBOT 2026-10-31 - triệu chứng kỹ thuật]]. Đối chiếu hỏi đáp hỗ trợ Hikvision; ghi rõ giới hạn nguồn chỉ nói về tiếng bíp sau khởi động.
+- Tạo [[Nguồn Hikvision - đầu ghi kêu bíp sau khi khởi động]] và [[Hikvision DVR/NVR - khoanh vùng tiếng bíp sau khởi động]]; cập nhật triệu chứng Zalo và [[wiki/index.md]]. Chưa kết luận nguyên nhân ca khách vì thiếu model và thông báo sự kiện.
+
+## [2026-11-01] update | Lưu nguyên văn thông tin hỗ trợ công ty
+
+- Cập nhật [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]] theo nội dung liên hệ do người dùng cung cấp.
+- Ghi nguyên văn thông tin hỗ trợ theo giờ hành chính cho máy tính, máy in, camera, hóa đơn và tổng hợp; giữ định dạng và nêu rõ phải gửi toàn bộ nội dung này khi được hỏi, không nói thiếu số hỗ trợ riêng cho camera.
+- Giữ riêng ghi chú hotline công ty 24/7 trong nguồn cũ với khung giờ hỗ trợ bộ phận trong nội dung mới.
+
+
+## [2026-11-01] update | Trả đầy đủ thông tin hỗ trợ theo yêu cầu cụ thể
+
+- Làm rõ trong [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]]: kể cả khi chỉ hỏi hỗ trợ cho một bộ phận như camera, gửi nguyên văn toàn bộ danh sách liên hệ đã cung cấp và giữ nguyên định dạng.

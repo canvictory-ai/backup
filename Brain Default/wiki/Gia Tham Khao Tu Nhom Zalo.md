@@ -3,8 +3,8 @@ type: wiki
 status: active
 tags: [wiki, bang-gia, zalo]
 created: 2026-10-22
-updated: 2026-10-26
-source: [[memory/conversations/2026-10-23]], [[memory/conversations/2026-10-24]], [[memory/facts/gia-linh-kien-canon-2900-3300-2026-10-26]]
+updated: 2026-11-01
+source: [[memory/conversations/2026-10-23]], [[memory/conversations/2026-10-24]], [[memory/facts/gia-linh-kien-canon-2900-3300-2026-10-26]], [[memory/conversations/2026-11-01]]
 ---
 
 # Giá tham khảo từ nhóm Zalo
@@ -123,3 +123,7 @@ Các mức dưới đây do chủ cung cấp để dùng làm giá bán chung. �
 
 - “Meka 25k” (message `8402066021721`) và “A52 500” (thread `6037079067171344716`, message `8403267775456`): chưa rõ mặt hàng/đơn vị hoặc ngữ cảnh; không dùng để trả giá nếu chưa đối chiếu được món cụ thể.
 - Giá ở trên chỉ được dùng cho báo giá bán chung khi do chủ cung cấp hoặc người chủ chỉ định cung cấp. Giá không rõ nguồn, giá nhập nhà cung cấp và báo giá riêng theo khách/đơn không được dùng cho Luna.
+
+## Hộp mực HP 49A - giá chủ cung cấp ngày 01/11/2026
+
+HP 49A: 150.000đ/hộp, giá do chủ cung cấp. Dùng cho báo giá bán chung từ ngày 01/11/2026. [[memory/conversations/2026-11-01]]

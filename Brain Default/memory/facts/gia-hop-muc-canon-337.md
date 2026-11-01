@@ -1,9 +1,8 @@
 ---
 type: reference
-provenance: source
+provenance: user
 origin: javis-learned
-created: 2026-10-24
-updated: 2026-10-24
-source: chat 2026-10-24 (683b7e70)
+created: 2026-10-27
+updated: 2026-10-27
 ---
-Trong nhóm Zalo, Luna Vũ báo hộp mực Canon 337 giá 100.000đ/hộp ngày 24/10/2026.
+Canon 337: 100.000đ/hộp.
