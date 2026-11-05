@@ -3,9 +3,10 @@
 Catalogue of the wiki's content (updated on every INGEST). Read this file before answering a question.
 
 - [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]] - Hồ sơ công ty, thanh toán, liên hệ, nhận hàng và nhà xe.
-- [[Bảng giá sản phẩm YSS]] - Bảng tra 198 mặt hàng và giá; lưu ý giá trị ghi chú bất thường và mã sản phẩm lặp.
-- [[Giá tham khảo từ nhóm Zalo]] - Giá bán chung do chủ hoặc nguồn được chủ chỉ định xác nhận cho máy cũ, hộp mực, vật tư và linh kiện; giữ rõ tình trạng/biến thể và loại trừ giá nhà cung cấp/báo giá riêng.
-- [[Tương thích hộp mực HP và Canon đã tra cứu]] - Các họ máy tương thích với mã hộp mực HP/Canon đã lưu, kèm lưu ý vùng phân phối.
+- [[Bảng giá sản phẩm YSS]] - Chỉ tra cứu để lập file báo giá cho YSS khi cần; không dùng trong nhóm Zalo hay giá bán chung.
+- [[Bang_gia_Luna.xlsx]] - Bảng Excel tổng hợp giá bán đại lý và giá bán buôn; không gồm bảng giá YSS.
+- [[Giá tham khảo từ nhóm Zalo]] - Danh mục giá dùng chung đã hợp nhất trong [[Bang_gia_Luna.xlsx]], phân biệt giá bán đại lý và bán buôn; YSS được giữ riêng.
+- [[Tương thích hộp mực HP và Canon đã tra cứu]] - Các họ máy tương thích đã đối chiếu; có mâu thuẫn chưa xác minh về mã mực Canon 8720.
 - [[Nguồn hãng về tương thích hộp mực]] - Trang HP và Canon chính hãng dùng để đối chiếu các họ máy tương thích với mã hộp mực.
 - [[Danh sách khách hàng Victory]] - Danh mục 579 dòng khách hàng, tra theo mã số thuế và thông tin liên hệ; dữ liệu đầy đủ ở CSV.
 - [[Mẫu Báo Giá Dùng Chung Victory]] - Mẫu báo giá Victory đã được người dùng xác nhận là chuẩn hiện hành, kèm quy cách song ngữ, giao hàng, vận chuyển, ảnh và logo.
@@ -62,3 +63,8 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Trả lời không kèm đường link nguồn]] - Khi trả lời trong nhóm Zalo, có thể tra cứu nguồn để kiểm chứng nhưng cần diễn đ
 - [[Zalo TESTBOT 2026-10-30 - triệu chứng kỹ thuật]] - Ghi nhận Dell 3520 kêu bíp khi bật và Imou A32 ngoại tuyến, đèn vàng nháy; các nhận định chưa xác minh.
 - [[Zalo TESTBOT 2026-10-31 - triệu chứng kỹ thuật]] - Ghi nhận máy tính bàn mất hình khi thùng máy vẫn chạy, đầu ghi Hikvision kêu liên tục và ảnh mã lỗi không đọc được; chưa đủ căn cứ chẩn đoán.
+- [[Quy trình xử lý đơn chốt qua Zalo]] - Khi khách chốt đơn qua Zalo, cần cảm ơn khách, liệt kê lại hàng hóa và số lượng,
+- [[Phân biệt xử lý tệp và yêu cầu đăng nội dung trong nhóm]] - Việc tin nhắn nhắc đến một tệp không tự nó tạo thành yêu cầu đăng hoặc chia sẻ t
+- [[Đổi khách hàng trên báo giá]] - Khi đổi khách hàng trên báo giá, cần tra hồ sơ của khách hàng mới và cập nhật th
+- [[Thời điểm lập hóa đơn giá trị gia tăng]] - Hóa đơn lập sai thời điểm là hóa đơn được lập sớm hơn hoặc muộn hơn thời điểm ph
+- [[Tra cứu mã tương thích trước khi báo giá]] - Khi mã máy hoặc mã hộp mực khách hỏi không có trong bảng giá đại lý, tra cứu mã

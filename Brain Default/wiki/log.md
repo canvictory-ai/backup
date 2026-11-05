@@ -405,3 +405,152 @@
 ## [2026-11-01] update | Trả đầy đủ thông tin hỗ trợ theo yêu cầu cụ thể
 
 - Làm rõ trong [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]]: kể cả khi chỉ hỏi hỗ trợ cho một bộ phận như camera, gửi nguyên văn toàn bộ danh sách liên hệ đã cung cấp và giữ nguyên định dạng.
+
+## [2026-11-01] update | Gộp trách nhiệm Zalo kỹ thuật vào Luna
+
+- Cập nhật workflow Zalo để chỉ gọi Luna; gộp phần kỹ thuật đã xác nhận vào hướng dẫn và bộ nhớ của Luna. Chuyển agent Tư vấn Kỹ thuật thành hồ sơ lưu trữ/chuyển hướng, giữ bản cấu hình cũ và nhật ký chạy.
+- Cập nhật [[Quy tắc báo giá trong nhóm Zalo]] và [[Các lỗi cơ bản thường gặp ở máy in]]; giữ phân công cũ và nhật ký Victory làm lịch sử, ghi nhận quyết định mới tại [[memory/facts/luna-phu-trach-ca-ky-thuat-zalo]].
+- Theo yêu cầu tiếp theo, tạm dừng bộ phán xử và agent Victory; loop đã tắt, hàng đợi Kanban trống. Kết nối MCP Victory vẫn bật mức full, cần tắt tại trang Kết nối để ngừng hoàn toàn.
+
+## [2026-11-01] update | Quy trình chốt và chuyển đơn Zalo
+- Theo chỉ dẫn mới của chủ, cập nhật [[Quy tắc báo giá trong nhóm Zalo]] và `agents/luna-vu.md`: khi khách chốt, chỉ cảm ơn và chuyển đơn sang XUẤT HÀNG VICTORY; không tự đưa KiotViet vào quy trình.
+
+## [2026-11-01] cập nhật | Tách trao đổi với khách khỏi xử lý nội bộ
+- Bổ sung vào hướng dẫn Luna và [[Quy tắc báo giá trong nhóm Zalo]]: tin cho khách chỉ là lời cảm ơn; không tiết lộ việc chuyển đơn, trạng thái xác nhận, lỗi công cụ hay quy trình nội bộ. Nếu chuyển lỗi, báo chủ trong Javis.
+- Làm rõ thêm tiêu chuẩn bằng chứng: chỉ báo đã chuyển khi công cụ xác nhận thành công hoặc xác minh thấy tin trong nhóm đích; nếu chưa có bằng chứng, báo chủ trong Javis là chưa xác nhận/chưa chuyển.
+
+## [2026-11-01] ingest | tự học từ chat
+
+Đã tạo:
+- [[Quy trình xử lý đơn chốt qua Zalo]]
+
+## [2026-11-01] update | Rút gọn nội dung chuyển đơn
+- Theo yêu cầu của chủ, làm rõ trong hướng dẫn Luna, Wiki và bộ nhớ rằng tin gửi nhóm xuất hàng chỉ chứa dữ liệu cần để xuất đơn, không thêm lời dẫn hoặc diễn giải thừa.
+
+## [2026-11-01] update | Bỏ trường thừa khỏi tin chuyển đơn
+- Theo yêu cầu của chủ, bỏ khách/nhóm nguồn và tham chiếu tin gốc khỏi nội dung tin gửi nhóm xuất hàng; chỉ giữ hàng/biến thể, số lượng, giá và tổng đã xác nhận.
+
+## [2026-11-01] update | Chỉ báo tên nhóm nguồn sau khi chuyển đơn
+- Theo yêu cầu của chủ, phần báo cáo cho chủ sau khi chuyển đơn chỉ nêu tên nhóm nguồn để nhận biết nơi chốt; không nêu tên người chốt hoặc nội dung đơn.
+
+## [2026-11-01] update | Bổ sung tên nhóm vào tin xuất hàng
+- Theo yêu cầu của chủ, tin gửi nhóm xuất hàng gồm tên nhóm nguồn, hàng/biến thể, số lượng, giá và tổng tiền đã xác nhận; không kèm khách hay tham chiếu tin gốc.
+
+## [2026-11-01] update | Không báo lỗi chuyển đơn cho khách
+- Làm rõ Luna phải thực hiện ngay khi khách yêu cầu chuyển đơn; lỗi hoặc thiếu xác nhận chỉ báo chủ qua Javis, không tiết lộ với khách.
+
+## [2026-11-01] update | Khôi phục mẫu chốt và chuyển đơn đã duyệt
+- Đối chiếu hội thoại trước: khách nhận lời cảm ơn cùng tổng đơn; nhóm xuất hàng nhận nội dung theo mẫu “Tên nhóm: đơn khách vừa chốt”; chủ chỉ nhận tên nhóm sau khi chuyển.
+
+## [2026-11-01] update | Rút gọn lời xác nhận khi khách chốt
+- Theo chỉ dẫn mới nhất, Luna chỉ cảm ơn và nhắc lại hàng cùng số lượng đã chốt trước khi chuyển đơn; không nêu tổng tiền hoặc thêm lời ngoài lề trong tin cho khách.
+
+## [2026-11-01] update | Giảm lời thừa khi Luna xử lý đơn
+- Ghi nhận phản hồi của chủ rằng hôm nay Luna nói lan man; củng cố quy tắc trả lời đúng việc, ngắn gọn, không thêm nội dung ngoài lề.
+
+
+## [2026-11-01] update | Diễn đạt tự nhiên với khách hàng
+
+- Cập nhật [[Quy tắc báo giá trong nhóm Zalo]]: câu trả lời cho khách đi thẳng vào giá, đơn hoặc thông tin được hỏi; loại bỏ câu mô tả ghi nhận/lưu trữ, trạng thái hệ thống, chuyển đơn và phối hợp nội bộ.
+
+
+## [2026-11-01] update | Tách bảng giá YSS khỏi giá bán trong nhóm Zalo
+
+- Chủ xác nhận [[Bảng giá sản phẩm YSS]] chỉ dùng để lập file báo giá cho YSS khi cần; giá cập nhật về sau dùng để báo khách trong nhóm Zalo.
+- Cập nhật trang giá YSS, [[Giá tham khảo từ nhóm Zalo]], [[Quy tắc báo giá trong nhóm Zalo]] và [[index]] để cấm dùng/tiết lộ giá YSS trong câu trả lời Zalo hoặc ngoài file báo giá YSS. [[memory/conversations/2026-11-01]].
+
+
+## [2026-11-02] update | Diễn đạt khi chưa nắm được giá
+
+- Theo hướng dẫn của chủ, sửa mẫu trả lời trong [[Quy tắc báo giá trong nhóm Zalo]] và [[Không bịa thông tin và giá cả]] thành “Em chưa nắm được giá ..., nhờ sếp ... hỗ trợ báo giá giúp em”; không nói với khách “giá nội bộ”. [[memory/conversations/2026-11-02]]
+
+
+## [2026-11-02] update | Phân loại giá chủ cung cấp thành giá bán đại lý
+
+- Rà soát [[Giá tham khảo từ nhóm Zalo]] và phân loại các mức do chủ trực tiếp cung cấp thành giá bán đại lý; giữ riêng giá nhà cung cấp, giá đơn riêng và nguồn chưa được duyệt.
+- Làm rõ bảng giá bán đại lý độc lập với [[Bảng giá sản phẩm YSS]]; cập nhật [[Quy tắc báo giá trong nhóm Zalo]] và [[index]]. [[memory/conversations/2026-11-02]]
+
+
+## [2026-11-02] update | Không dùng câu đệm khi trả lời hỏi giá
+
+- Rà soát và sửa các mẫu mâu thuẫn trong [[Quy tắc báo giá trong nhóm Zalo]] và [[Không bịa thông tin và giá cả]]: biết giá thì báo thẳng; chưa nắm giá thì nhờ sếp trong nhóm để chủ báo; bỏ câu “ghi nhận” và cách nói “giá nội bộ”. [[memory/conversations/2026-11-02]]
+
+## [2026-11-02] cập nhật giá | Máy in A3 cũ
+
+Thêm giá bán buôn do người dùng cung cấp cho Canon 8710/8720/441, HP 706n và Canon 8610/8620/8630; đều đầy đủ phụ kiện. Cập nhật [[Gia Tham Khao Tu Nhom Zalo]].
+
+## [2026-11-02] ingest | tự học từ chat
+
+Đã tạo:
+- [[Phân biệt xử lý tệp và yêu cầu đăng nội dung trong nhóm]]
+
+## [2026-11-03] ingest | tự học từ chat
+
+Đã tạo:
+- [[Đổi khách hàng trên báo giá]]
+
+## [2026-11-03] ingest | tự học từ chat
+
+Đã tạo:
+- [[Thời điểm lập hóa đơn giá trị gia tăng]]
+
+## [2026-11-03] update | Tách nhóm nhận đơn khỏi nhóm xử lý hội thoại
+
+- Cập nhật hướng dẫn Luna, workflow Zalo, loop trực và [[Quy trình xử lý đơn chốt qua Zalo]]: XUẤT HÀNG VICTORY chỉ là nhóm đích nhận đơn, Luna không phản hồi tin đến tại đó; chỉ chuyển đơn chốt từ các nhóm Zalo khác mà kết nối hiện tại cho phép đọc.
+- Loop hiện vẫn tắt theo frontmatter; chỉ dẫn này cập nhật quy tắc xử lý, không xác nhận bot đang trực.
+
+## [2026-11-03] update | Ngăn lượt nhắc kích hoạt gửi lại đơn cũ
+
+- Rà lịch sử Zalo xác nhận đơn “3 hộp 76A có chip” ở TESTBOT đã được gửi hai lần vào 21:06:40 và 21:12:13. Giữa hai lần không có xác nhận chốt mới; có tin “Sao?” và tag Luna. Workflow nhận tag lúc 21:12:07 nhưng kết thúc `Not logged in`, nên chưa xác định được thành phần nào phát lệnh gửi thứ hai.
+- Sửa hướng dẫn Luna, workflow và Wiki: chỉ tin mới xác nhận chốt hoặc trả lời trực tiếp câu hỏi còn thiếu của đúng đơn mới được tiếp tục chuyển; tag/lời nhắc/câu hỏi việc khác không mở lại đơn cũ. Nếu trạng thái không rõ hoặc nghi xử lý song song thì dừng, không gửi mù.
+- Mở câu hỏi xác minh hệ thống có sổ chuyển/idempotency và khóa chống hai lượt gửi song song hay không.
+
+## [2026-11-04] ingest | tự học từ nhóm Zalo Victory Computer
+
+- Rà 322 tin trong 12 nhóm từ 08:34 ngày 03/11 đến 08:34 ngày 04/11/2026; kết nối báo `sync.complete: true`, không có gaps.
+- Ghi nhận mâu thuẫn mã hộp mực Canon 8720 trong [[Tương thích hộp mực HP và Canon đã tra cứu]], giữ cả câu trả lời Canon 533/533H và ý kiến đính chính HP 14A; chưa chọn mã nào.
+- Tạo nguồn trích đoạn [[Zalo TESTBOT 2026-11-04 - mâu thuẫn mã mực Canon 8720]] và mở câu hỏi xác minh.
+
+## [2026-11-04] update | Bổ sung giá bán buôn Canon 2900 mới
+
+- Cập nhật [[Giá tham khảo từ nhóm Zalo]] theo giá chủ cung cấp: máy in Canon 2900 NK KV mới, 3.150.000đ/máy.
+
+
+## [2026-11-05] ingest | Bảng giá bán buôn cụm sấy
+
+- Tạo [[Bảng giá bán buôn Victory]] với tám model HP và Canon, đồng giá 850.000đ/cụm theo chủ cung cấp.
+- Cập nhật [[wiki/index]]; tách giá bán buôn khỏi bảng giá bán đại lý và [[Bảng giá sản phẩm YSS]]. [[memory/conversations/2026-11-05]]
+
+
+## [2026-11-05] update | Chuyển giá cụm sấy sang giá bán đại lý
+
+- Theo đính chính của chủ, chuyển giá 850.000đ/cụm cho tám model HP/Canon vào [[Giá tham khảo từ nhóm Zalo]] dưới loại giá bán đại lý.
+- Lưu trữ trang [[Bảng giá bán buôn Victory]] do phân loại nhầm; gỡ khỏi [[wiki/index]].
+
+
+## [2026-11-05] update | Bổ sung giá đại lý cụm sấy HP 401
+
+- Thêm cụm sấy HP 401d, 401dn và 401dw giá 750K/cụm vào [[Giá tham khảo từ nhóm Zalo]].
+
+## [2026-11-05] ingest | tự học từ nhóm Zalo Victory Computer
+
+- Ghi một trích đoạn TESTBOT về cách tra mã hộp mực thay thế và chỉ báo giá theo dữ liệu đã có; cập nhật [[Không bịa thông tin và giá cả]].
+- Chưa chốt ingest toàn cửa sổ và chưa tiến mốc trạng thái: Zalo áp giới hạn tần suất ở lượt đối chiếu lại, nên cần rà tiếp các nhóm/tin còn lại trước khi đánh dấu hoàn tất.
+
+
+## [2026-11-05] update | Giá bán đại lý cáp quang 1FO
+
+- Thêm cáp quang 1FO cuộn 1.000m: 890K chưa VAT và 1.180K đã có VAT vào [[Giá tham khảo từ nhóm Zalo]]. [[memory/conversations/2026-11-05]]
+
+## [2026-11-05] ingest | tự học từ chat
+
+Đã tạo:
+- [[Tra cứu mã tương thích trước khi báo giá]]
+
+
+## [2026-11-05] update | Hợp nhất bảng giá ngoài YSS
+
+- Hợp nhất 84 mức giá dùng chung vào [[Bang_gia_Luna.xlsx]], có cột Loại giá để tách giá bán đại lý và bán buôn.
+- Giữ bảng giá YSS ở [[Bảng giá sản phẩm YSS]] riêng, không trộn vào danh mục chung.
+- Hai file Excel Luna cũ giống hệt nhau; giữ bản mới làm danh mục chính và chuyển bản trùng vào `archive/bang-gia-cu/`.
+- Loại khỏi danh mục áp dụng các giá nhà cung cấp, báo giá riêng theo khách/đơn và nguồn giá chưa được chủ duyệt. [[memory/conversations/2026-11-05]]

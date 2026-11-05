@@ -48,9 +48,42 @@
    "source": "self",
    "status": "active",
    "text": "Khi khách hỏi giá trong lượt trao đổi đơn, hãy dựa vào chính danh sách hàng trong đơn để báo giá đã được duyệt, rồi tiếp tục chuyển đơn theo quy trình."
+  },
+  {
+   "created_at": 1793527034.5960286,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Khi đối chiếu đèn báo Canon G1010, cần xác định đèn nào nháy và chúng nháy riêng lẻ hay luân phiên; chỉ biết số lần nháy chưa đủ để kết luận mã."
+  },
+  {
+   "created_at": 1793544441.7711496,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Khi khách chốt đơn, kể cả đơn gửi bằng ảnh, hãy cảm ơn khách, liệt kê lại hàng/biến thể và số lượng, rồi chuyển đơn sang nhóm XUẤT HÀNG VICTORY. Nêu đơn giá, thành tiền từng dòng và tổng đơn chỉ khi có giá đã xác nhận đúng mã/biến thể; nếu thiếu giá, ghi rõ dòng thiếu và chỉ nêu tổng tạm tính phần c"
+  },
+  {
+   "created_at": 1793715229.8482406,
+   "kind": "method",
+   "revoke_reason": "",
+   "revoked_at": null,
+   "revoked_by": "",
+   "scope": "*",
+   "source": "owner",
+   "status": "active",
+   "text": "Chống gửi trùng đơn sang nhóm XUẤT HÀNG VICTORY: Mỗi sự kiện chốt chỉ được tạo tối đa một lần chuyển. Trước khi gửi, rà lịch sử nhóm đích và lịch sử hội thoại nguồn để tìm đơn cùng mặt hàng/biến thể/số lượng đang chốt; nếu đã có tin tương ứng thì không gửi lại. Các lượt workflow lặp lại cùng tin ngu"
   }
  ],
  "presentation": [],
- "updated": "2026-10-25T15:19:35Z",
+ "updated": "2026-11-03T14:15:37Z",
  "version": 1
 }

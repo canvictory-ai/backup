@@ -27,3 +27,7 @@ Danh sách dưới đây là các họ máy chính tương thích với mã hộ
 
 - **070:** Canon LBP240 series và MF460 series; giá đã lưu phân biệt có chip/không chip. [[Nguồn hãng về tương thích hộp mực]]
 - **337:** Canon LBP151dw và imageCLASS MF210/MF220/MF230/MF240 series. [[Nguồn hãng về tương thích hộp mực]]
+
+## Mâu thuẫn
+
+- Trong nhóm TESTBOT ngày 04/11/2026, Luna Vũ trả lời Canon 8720 dùng Canon 533/533H; sau đó Victor Vu - Vũ Đức Cẩn nói “nó dùng 14a”. Hai thông tin mâu thuẫn, chưa được xác minh độc lập; không khẳng định mã hộp mực tương thích cho Canon 8720 cho đến khi kiểm tra model đầy đủ và mã trên cartridge/tem máy. [[Zalo TESTBOT 2026-11-04 - mâu thuẫn mã mực Canon 8720]]

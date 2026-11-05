@@ -3,6 +3,8 @@
 Questions the wiki cannot fully answer yet. One per line:
 - [ ] (YYYY-MM-DD) [[Topic]]: question or gap - status: open
 
+- [ ] (2026-11-03) [[Quy trình xử lý đơn chốt qua Zalo#Mâu thuẫn]]: Xác minh cơ chế gửi đơn có sổ chuyển/khóa idempotency theo ID tin xác nhận và có ngăn hai lượt song song gửi cùng đơn không; sự cố TESTBOT có hai bản cùng nội dung cách nhau 5 phút 33 giây, lượt workflow đi kèm báo `Not logged in`.
+
 - [ ] (2026-10-14) [[Cong Ty Co Phan Giai Phap Cong Nghe va Truyen Thong Victory Viet Nam]]: đề xuất bổ sung từ chat 2026-10-14 (dedup) - status: open
 - [ ] (2026-10-14) [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]]: Bổ sung địa chỉ đầy đủ điểm Đắc Hùng Nguyễn Xiển nếu cần - status: open.
 
@@ -51,3 +53,24 @@ Questions the wiki cannot fully answer yet. One per line:
 - [ ] (2026-11-01) [[Cong Ty Co Phan Giai Phap Cong Nghe va Truyen Thong Victory Viet Nam]]: đề xuất bổ sung từ chat 2026-11-01 (dedup) - status: open
 
 - [ ] (2026-11-01) [[Cong Ty Co Phan Giai Phap Cong Nghe va Truyen Thong Victory Viet Nam]]: đề xuất bổ sung từ chat 2026-11-01 (dedup) - status: open
+
+- [ ] (2026-11-01) [[Gia Tham Khao Tu Nhom Zalo]]: đề xuất bổ sung từ chat 2026-11-01 (dedup) - status: open
+
+- [x] (2026-11-01) [[Quy tắc báo giá trong nhóm Zalo]]: chủ quyết định giao Luna cả phần kỹ thuật và bán hàng trong workflow Zalo; phân công cũ được giữ làm lịch sử - status: resolved [[memory/facts/luna-phu-trach-ca-ky-thuat-zalo]]
+
+- [ ] (2026-11-01) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-11-01 (dedup) - status: open
+
+- [ ] (2026-11-01) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-11-01 (dedup) - status: open
+
+- [ ] (2026-11-02) [[Không lộ quy trình nội bộ với khách]]: model báo trùng với 'Không lộ quy trình nội bộ với khách' nhưng không tìm thấy trang đó - status: open
+
+- [ ] (2026-11-02) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-11-02 (dedup) - status: open
+
+- [ ] (2026-11-03) [[Quy trình xử lý đơn chốt qua Zalo]]: đề xuất bổ sung từ chat 2026-11-03 (dedup) - status: open
+
+- [ ] (2026-11-03) [[Canon LBP3500 - bản in đen toàn trang sau khi nạp mực]]: đề xuất bổ sung từ chat 2026-11-03 (dedup) - status: open
+- [ ] (2026-11-04) [[Tương thích hộp mực HP và Canon đã tra cứu#Mâu thuẫn]]: Canon 8720 dùng Canon 533/533H như Luna trả lời hay HP 14A như chủ đính chính trong nhóm TESTBOT? Xác minh model đầy đủ và mã cartridge trước khi cập nhật tương thích. [[Zalo TESTBOT 2026-11-04 - mâu thuẫn mã mực Canon 8720]] - status: open
+
+- [ ] (2026-11-05) [[Gia Tham Khao Tu Nhom Zalo]]: đề xuất bổ sung từ chat 2026-11-05 (dedup) - status: open
+
+- [ ] (2026-11-05) [[Tra cứu mã tương thích trước khi báo giá]]: đề xuất bổ sung từ chat 2026-11-05 (dedup) - status: open

@@ -2,8 +2,8 @@
 type: preference
 provenance: user
 origin: javis-learned
-created: 2026-10-23
-updated: 2026-10-23
-source: chat 2026-10-23 (5466840e)
+created: 2026-11-01
+updated: 2026-11-01
+source: chat 2026-11-01 (mvx0ddft)
 ---
-Sau khi chuyển đơn sang nhóm xuất hàng, báo theo cấu trúc: “Nhóm (tên nhóm): nội dung chốt đơn sang nhóm xuất hàng”. Không nêu tên người chốt vì người dùng không biết họ thuộc nhóm hay công ty nào.
+Khi khách xác nhận chốt, chỉ cảm ơn và nhắc lại ngắn gọn hàng/biến thể cùng số lượng đã chốt; không thêm tổng tiền hay lời ngoài lề. Tin gửi nhóm xuất hàng theo mẫu “Tên nhóm: đơn khách vừa chốt”, gồm tên nhóm nguồn, hàng/biến thể, số lượng, đơn giá và tổng tiền đã xác nhận. Sau khi chuyển, báo chủ chỉ tên nhóm nguồn.

@@ -2,8 +2,8 @@
 name: Lập báo giá Victory
 description: Lập, kiểm tra và gửi báo giá Victory theo hồ sơ, bảng giá YSS và mẫu đã lưu.
 group: Bán hàng
-updated: '2026-10-27'
-learned_updated: '2026-10-27'
+updated: '2026-11-04'
+learned_updated: '2026-11-04'
 ---
 ## Khi nào dùng
 Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặc gửi lại báo giá Victory. Không dùng cho câu hỏi giá thông thường.
@@ -11,6 +11,7 @@ Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặ
 ## Chuẩn bị
 - Đọc mẫu `bao-gia/mau-bao-gia-victory.html` trước khi tạo báo giá.
 - Tra khách hàng trong `wiki/Danh sach khach hang Victory.csv`; đối chiếu tên, mã số thuế, địa chỉ hồ sơ và địa chỉ giao hàng.
+- Nếu người dùng xác định khách hàng bằng ảnh đính kèm, đọc ảnh để nhận diện khách hàng và dùng thông tin trong ảnh làm căn cứ; không mặc định khách hàng là công ty trong tệp đang mở hoặc báo giá trước đó.
 - Xem các báo giá hiện có và xác minh số in bên trong file.
 - Tra từng mặt hàng trong bảng giá YSS theo mã, tên và biến thể tương đương; xác minh quy cách. Chỉ dùng giá người dùng cung cấp khi YSS không có giá khớp hoặc không thể xác định mặt hàng.
 - Mặc định số lượng là 1 nếu người dùng không nêu số khác. Áp dụng VAT và yêu cầu ảnh theo chỉ dẫn của người dùng và các mặc định đã lưu.
@@ -19,9 +20,10 @@ Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặ
 ## Cách chạy
 - Lập bản nháp từ mẫu chuẩn và chỉ thay các trường được yêu cầu.
 - Khi sửa báo giá có sẵn, đọc đúng tệp đích và ghi nhận nội dung liên quan trước khi sửa.
+- Khi đổi khách hàng trên báo giá, tra hồ sơ khách hàng mới và thay thông tin khách hàng cũ bằng thông tin có căn cứ từ hồ sơ mới. Không giữ lại mã số thuế, địa chỉ hoặc thông tin liên hệ của khách hàng cũ. Trường không có trong hồ sơ mới thì để trống.
 - Giữ nguyên đầy đủ mô tả, cấu hình và chi tiết hàng hóa từ bảng kê, PDF hoặc tài liệu nguồn. Không rút gọn thành tên hoặc tiêu đề sản phẩm. Nếu nội dung nguồn chưa rõ hoặc thiếu, hỏi người dùng hoặc ghi rõ phần chưa xác minh, không tự điền cấu hình.
 - Nếu người dùng gửi tài liệu mới để sửa nội dung hàng hóa, dùng tài liệu mới làm căn cứ đối chiếu chính cho phần được yêu cầu sửa.
-- Sau khi sửa, đọc lại chính tệp đích. Đối chiếu từng yêu cầu với nội dung thực tế đã lưu và kiểm tra rằng nội dung yêu cầu đã thay đổi so với bản trước nếu đó là mục cần sửa.
+- Sau khi sửa, đọc lại chính tệp đích. Đối chiếu từng yêu cầu với nội dung thực tế đã lưu và kiểm tra rằng nội内容 yêu cầu đã thay đổi so với bản trước nếu đó là mục cần sửa.
 - Nếu nội dung không thay đổi, chưa phản ánh yêu cầu hoặc không xác định đúng tệp, tiếp tục xử lý trước khi báo hoàn tất. Không chỉ lặp lại lời xác nhận từ lần trước.
 - Chỉ gửi liên kết tới tệp thực tế đã được tạo hoặc cập nhật.
 
@@ -42,12 +44,15 @@ Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặ
 - Cộng tiền hàng, VAT và tổng thanh toán; tự tính lại để đối chiếu.
 - Xác minh số báo giá từ nội dung file, không dựa riêng vào tên file.
 - Đối chiếu khách hàng, mã số thuế, địa chỉ giao hàng, mặt hàng, số lượng, đơn giá, ảnh, thời hạn và các tổng.
+- Khi đổi khách hàng, đối chiếu lại tên, mã số thuế, địa chỉ và thông tin liên hệ với hồ sơ khách hàng mới; bảo đảm không còn thông tin của khách hàng cũ.
 - Với số tiền bằng chữ song ngữ, kiểm tra cả phần tiếng Việt lẫn tiếng Anh và đối chiếu với tổng thanh toán bằng số.
 - Kiểm tra điều khoản theo đúng yêu cầu của người dùng; không giữ lại dòng thuế nếu người dùng yêu cầu bỏ vì thuế đã có trên bảng kê.
 
 ## Bẫy
 - Không kết luận YSS không có giá chỉ từ một tìm kiếm tên gần đúng.
 - Không ghép địa chỉ công ty khác hoặc bỏ địa chỉ giao hàng.
+- Không giữ mã số thuế, địa chỉ hay thông tin liên hệ của khách hàng cũ khi đổi sang khách hàng khác.
+- Không suy ra khách hàng từ tệp đang mở hoặc báo giá trước đó khi người dùng chỉ rõ khách hàng ở ảnh đính kèm; đọc ảnh và xác nhận đúng công ty trước khi lập báo giá.
 - Không làm mất logo hoặc dải logo chân trang.
 - Không thêm ảnh khi người dùng yêu cầu không có ảnh.
 - Không tự thêm phí, chiết khấu, tồn kho, vận chuyển hay cam kết chưa được xác nhận.
@@ -64,6 +69,8 @@ Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặ
 - Xác nhận các điều khoản cần sửa đã hiện diện và các mục cần bỏ không còn trong báo giá.
 - Xác nhận file cuối cùng tồn tại tại đúng đường dẫn, rồi gửi ngay link sau khi các kiểm tra trên đạt; không chờ kiểm định độc lập.
 - Xác nhận phần tổng hợp thuế nằm ngay sau bảng hàng, các nhóm hàng và mức VAT thể hiện đúng yêu cầu, các dòng tiền cộng lại khớp tổng thanh toán.
+- Nếu đổi khách hàng, mở lại báo giá cuối và xác nhận toàn bộ thông tin khách hàng khớp hồ sơ mới, không còn trường nào lấy từ hồ sơ khách hàng cũ.
+- Nếu khách hàng được xác định qua ảnh, đối chiếu tên công ty trong báo giá cuối với thông tin đọc được từ ảnh.
 
 ## Lịch sử (tự học)
 - [2026-10-20] Các workflow báo giá đã bị xóa theo yêu cầu người dùng. Xử lý trực tiếp, không gọi workflow đã xóa.
@@ -72,3 +79,7 @@ Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặ
 - [2026-10-26] Hội thoại ngày 2026-10-26 cho thấy báo giá VIC-57-2026 bị chép sai cấu hình và mô tả hàng hóa bị rút gọn còn tiêu đề. Bổ sung bước giữ nguyên, đối chiếu đầy đủ nội dung theo tài liệu nguồn và không tự suy đoán cấu hình.
 - [2026-10-27] Khi sửa VIC-59-2026, định dạng VAT ban đầu sai so với mẫu cũ; bổ sung bước đối chiếu nhãn VAT với mẫu và kiểm tra phần tổng hợp thuế sau khi sửa.
 - [2026-10-27] Hội thoại ngày 2026-10-27 cho thấy mục VAT của VIC-59-2026 sai định dạng mẫu cũ, sau đó yêu cầu làm rõ nhóm chịu thuế và không chịu thuế, đồng thời giữ tổng hợp ngay sau dòng hàng. Bổ sung đối chiếu nhãn thuế, cách nhóm mặt hàng và vị trí tổng hợp vào quy trình và kiểm chứng.
+- [2026-11-03] Khi đổi khách hàng từ Smart Shirts Bảo Minh sang Hải Vinh, thông tin công ty cũ ban đầu bị giữ lại. Bổ sung yêu cầu tra hồ sơ khách hàng mới, thay mọi thông tin định danh có căn cứ và để trống trường chưa có.
+- [2026-11-03] Trong batch này, khi đổi tên khách hàng trên VIC-71-2026, bản sửa đầu vẫn giữ MST, địa chỉ và liên hệ của khách hàng cũ; người dùng chỉ ra rằng công ty khác phải có thông tin khác. Bổ sung bước tra hồ sơ khách hàng mới, thay thông tin cũ và kiểm tra lại tệp cuối.
+- [2026-11-04] Khi lập VIC-80-2026, báo giá ban đầu dùng nhầm công ty trong tệp đang mở thay vì công ty trong ảnh đính kèm; thêm bước đọc ảnh và đối chiếu danh tính khách hàng với ảnh trước khi lập báo giá.
+- [2026-11-04] Trong batch này, VIC-80-2026 ban đầu dùng nhầm công ty trong tệp đang mở; người dùng phải nhắc lấy công ty trong ảnh. Bổ sung bước nhận diện và kiểm tra khách hàng từ ảnh để tránh lặp lại lỗi.

@@ -29,8 +29,10 @@
 - [Điều khoản mặc định trên báo giá Victory](facts/dieu-khoan-mac-dinh-bao-gia-victory.md) - Dùng các điều khoản giao hàng, thanh toán và bảo hành do người dùng chốt cho báo giá Victory.
 - [Giá màn hình Samsung LS24D300 trong bảng giá YSS](facts/gia-man-hinh-samsung-ls24d300-yss.md) - Khi lập báo giá cho YSS, dùng mức giá 2.250.000 đồng cho màn hình 24D300 theo xác nhận của người dùng.
 - [Giá bàn phím Fuhlen L500S](facts/gia-ban-phim-fuhlen-l500s.md) - Khi lập báo giá, dùng mức giá 160.000 đồng cho bàn phím Fuhlen L500S theo xác nhận của người dùng.
-- [Cộng sự tư vấn kỹ thuật](facts/cong-su-tu-van-ky-thuat.md) - Người dùng muốn có cộng sự chuyên trách tư vấn kỹ thuật.
-- [Muốn bot Zalo tư vấn kỹ thuật trong nhóm](facts/zalo-bot-tu-van-ky-thuat.md) - Người dùng muốn bot Zalo trả lời câu hỏi trong nhóm theo vai trò cộng sự Tư vấn Kỹ thuật.
+- [Luna phụ trách cả kỹ thuật Zalo](facts/luna-phu-trach-ca-ky-thuat-zalo.md) - Quyết định hiện hành: Luna phụ trách cả bán hàng, thông tin công ty và kỹ thuật trong workflow Zalo.
+- [Victory giao toàn bộ phần việc cho Luna](facts/victory-tam-dung-cho-phan-cong-moi.md) - Victory Computer đã tắt chatbot, kết nối và loop; Luna nhận nghiệp vụ Victory.
+- [Cộng sự tư vấn kỹ thuật](facts/cong-su-tu-van-ky-thuat.md) - Ghi nhận vai trò kỹ thuật cũ; trong workflow Zalo đã được chuyển cho Luna theo quyết định 2026-11-01.
+- [Muốn bot Zalo tư vấn kỹ thuật trong nhóm](facts/zalo-bot-tu-van-ky-thuat.md) - Mong muốn cũ; workflow Zalo hiện giao Luna phụ trách theo quyết định 2026-11-01.
 - [Muốn Javis tổng hợp và điều phối công việc](facts/muon-javis-tong-hop-cong-viec.md) - Người dùng muốn Javis làm trợ lý tổng hợp công việc và điều phối giữa các cộng sự.
 - [Quy ước đơn hàng trong nhóm Xuất hàng Victory](facts/xu-hang-victory-moi-tin-nhan-la-mot-don.md) - Trong nhóm Xuất hàng Victory, mặc định mỗi tin nhắn nghiệp vụ là một đơn.
 - [Muốn nhận tin chính từ báo điện tử mỗi ngày](facts/ban-tin-bao-dien-tu-hang-ngay.md) - Người dùng muốn Javis tóm tắt tin chính từ các báo điện tử do họ chỉ định.
@@ -84,7 +86,7 @@
 - [Tự đọc và ghi nhớ nội dung nhóm Zalo](facts/tu-dong-doc-va-ghi-nho-noi-dung-nhom-zalo.md) - Người dùng giao Javis theo dõi các nhóm Zalo được kết nối, ghi nhớ nội dung và trả lời tự động nội dung lặp lại đã có căn cứ.
 - [Điều chỉnh văn phong trả lời theo ngữ cảnh nhóm Zalo](facts/phong-cach-tra-loi-theo-ngu-canh-zalo.md) - Người dùng muốn Javis điều chỉnh giọng điệu theo cách giao tiếp quen thuộc trong từng nhóm Zalo.
 - [Tự học kiến thức hằng ngày lúc 18h](facts/tu-hoc-kien-thuc-hang-ngay-luc-18h.md) - Mỗi ngày lúc 18h, người dùng muốn Javis tự học kiến thức và lưu lại để tra cứu về sau.
-- [Bot Zalo Victory chỉ phụ trách kỹ thuật](facts/bot-zalo-victory-chi-phu-trach-ky-thuat.md) - Trong nhóm Zalo Victory Computer, bot chỉ trả lời nội dung thuộc chuyên môn kỹ thuật.
+- [Bot Zalo Victory chỉ phụ trách kỹ thuật](facts/bot-zalo-victory-chi-phu-trach-ky-thuat.md) - Cấu hình cũ; đã được thay thế, Luna hiện xử lý cả kỹ thuật trong workflow Zalo.
 - [Ưu tiên giá gần nhất đã báo trong nhóm Zalo](facts/uu-tien-gia-gan-nhat-nhom-zalo.md) - Khi tra giá đã báo trong nhóm Zalo, ưu tiên lần báo gần nhất cho cùng mặt hàng và giữ ngày, ngữ cảnh để tránh nhầm giá theo đơn.
 - [Số lượng thực nhận trên biên bản bàn giao](facts/so-luong-thuc-nhan-bien-ban-ban-giao.md) - Mặc định ghi số lượng thực nhận bằng số lượng trên đơn đặt hàng hoặc hóa đơn.
 - [Ngày, địa điểm và số bản của biên bản bàn giao](facts/quy-cach-ngay-dia-diem-va-so-ban-bien-ban.md) - Dùng ngày trên hóa đơn, địa chỉ bên mua làm địa điểm và lập hai bản.
@@ -95,10 +97,10 @@
 - [Giá hộp mực và máy tương thích](facts/gia-hop-muc-va-may-tuong-thich.md) - Tra giá hộp mực theo mã; giữ riêng biến thể có chip và không chip.
 - [Máy in một mặt cũ đầu tiên là HP 1102](facts/may-in-mot-mat-cu-dau-tien-hp-1102.md) - Khi tra danh sách máy in một mặt đã qua sử dụng, mã đầu tiên là HP 1102.
 - [Cấu trúc báo cáo đơn đã chuyển sang xuất hàng](facts/bao-cao-don-da-chuyen-sang-xuat-hang.md) - Khi báo đã chuyển đơn sang nhóm xuất hàng, chỉ nêu tên nhóm và nội dung chốt đơn, không nêu tên người chốt.
-- [Quy trình báo giá và chuyển đơn Zalo](facts/quy-trinh-bao-gia-va-chuyen-don-zalo.md) - Khi khách hỏi giá hoặc chốt đơn trong nhóm Zalo, áp dụng quy trình báo giá, xác nhận tổng đơn và chuyển đơn theo định dạng đã chốt.
+- [Quy trình báo giá và chuyển đơn Zalo](facts/quy-trinh-bao-gia-va-chuyen-don-zalo.md) - Khi khách chốt, chỉ cảm ơn và nhắc hàng/số lượng đã chốt; chuyển đơn ngắn gọn theo mẫu đã chốt.
 - [Hỏi mã và tag @all khi chưa rõ](facts/hoi-ma-va-tag-all-khi-chua-ro.md) - Khi chưa xác định được mã máy hoặc mã hàng, hỏi trong nhóm và tag @all.
 - [Quy tắc tra và trả lời giá trong nhóm Zalo](facts/quy-tac-tra-loi-gia-trong-nhom-zalo-cap-nhat.md) - Khi trả lời giá trong nhóm Zalo, chỉ dùng giá đã ghi nhận và làm theo mã được nhóm xác nhận.
-- [Quy trình báo giá và chuyển đơn Zalo](facts/quy-trinh-bao-gia-va-chuyen-don-zalo-cap-nhat.md) - Khi khách chốt đơn hoặc yêu cầu gửi hàng trong nhóm Zalo, cảm ơn, xác nhận đơn và chuyển sang nhóm xuất hàng.
+- [Quy trình báo giá và chuyển đơn Zalo](facts/quy-trinh-bao-gia-va-chuyen-don-zalo-cap-nhat.md) - Khi khách chốt, cảm ơn, nhắc lại hàng/số lượng; không nói ngoài lề và chuyển đơn gọn.
 - [Chỉ trả lời đúng yêu cầu giá trong nhóm Zalo](facts/khong-phan-bien-khi-tra-loi-gia-zalo.md) - Khi khách hỏi giá hoặc chốt hàng trong nhóm Zalo, bám sát yêu cầu và không thêm lời phản biện hay giải thích ngoài quy trình.
 - [Mã hộp mực theo máy và mã thay thế](facts/ma-hop-muc-theo-may-va-ma-thay-the.md) - Một máy in có thể dùng cả mã hộp mực theo máy và mã thay thế tương ứng.
 - [Hạn chế trò chuyện với Đăng vào buổi tối](facts/han-che-tro-chuyen-voi-dang.md) - Khi trò chuyện với Đăng, hạn chế nhắn tin để bạn ấy ngủ sớm và đi làm vào sáng hôm sau.
@@ -116,7 +118,7 @@
 - [Báo giá trọn bộ khi người dùng cho giá gói](facts/bao-gia-tron-bo-khi-nguoi-dung-cho-gia-goi.md) - Khi bạn đưa một mức giá chung cho nhiều món, thể hiện thành một dòng bộ trọn gói thay vì tự chia giá cho từng món.
 - [Phân loại chiều giao dịch theo nhóm Zalo](facts/phan-loai-chieu-giao-dich-theo-nhom-zalo.md) - Khi đọc nội dung chốt đơn trong nhóm Zalo, xác định nhóm là khách hàng hay nhà cung cấp trước khi chuyển đơn.
 - [Giá máy in Canon LBP2900 cũ](facts/gia-may-in-cu-canon-lbp-2900.md) - Giá được báo trong nhóm Zalo là 2.000K cho máy in Canon LBP2900 cũ.
-- [Chuyển mọi đơn chốt từ các nhóm Zalo](facts/chuyen-moi-don-chot-tu-cac-nhom-zalo.md) - Khi có đơn chốt trong bất kỳ nhóm Zalo nào Javis có mặt, chuyển nội dung đơn giản sang nhóm Xuất hàng Victory.
+- [Chuyển mọi đơn chốt từ các nhóm Zalo](facts/chuyen-moi-don-chot-tu-cac-nhom-zalo.md) - Chỉ chuyển theo xác nhận chốt mới; tag/lời nhắc không mở lại đơn cũ, kiểm tra nhóm đích và dừng nếu trạng thái mơ hồ.
 - [Giá Canon LBP 2900 nhập khẩu không vỏ](facts/gia-canon-lbp-2900-nhap-khau-khong-vo.md) - Giá người dùng cung cấp cho Canon LBP 2900 nhập khẩu không vỏ.
 - [Giá Canon LBP 2900 nhập khẩu không vỏ](facts/gia-canon-lbp2900-nhap-khau-khong-vo.md) - Khi báo giá đúng biến thể Canon LBP 2900 nhập khẩu không vỏ, dùng giá 3.150.000đ do người dùng cung cấp.
 - [Giữ nguyên chi tiết hàng hóa trong báo giá](facts/giu-nguyen-chi-tiet-hang-hoa-trong-bao-gia.md) - Khi lập hoặc sửa báo giá, giữ nguyên đầy đủ mô tả và cấu hình hàng hóa từ tài liệu nguồn, không rút gọn còn tiêu đề.
@@ -160,7 +162,7 @@
 - [Xác minh nguồn gốc và tình trạng linh kiện](facts/xac-minh-nguon-goc-tinh-trang-linh-kien.md) - Không tự suy ra linh kiện là hàng bóc từ máy nguyên bản; hỏi khéo khi nguồn gốc hoặc tình trạng ảnh hưởng đến việc báo giá hay ghi nhận đơn.
 - [Giá cụm con lăn ra giấy Canon 3300](facts/gia-cum-con-lan-ra-giay-canon-3300.md) - Giá người dùng cung cấp cho cụm con lăn ra giấy Canon 3300.
 - [Giá sửa Canon 2900 do Tâm Trúc báo ngày 31/10/2026](facts/gia-sua-canon-2900-tu-tam-truc-2026-10-31.md) - Tâm Trúc báo công sửa một máy Canon 2900 là 100.000 đồng.
-- [Muốn hai bot Zalo trực liên tục](facts/muon-hai-bot-zalo-truc-lien-tuc.md) - Người dùng muốn cấu hình các bot Zalo hoạt động liên tục 24/7.
+- [Muốn hai bot Zalo trực liên tục](facts/muon-hai-bot-zalo-truc-lien-tuc.md) - Mong muốn cũ đã thay thế: chỉ Luna phụ trách, Victory tạm dừng chờ việc mới.
 - [Email nhận hóa đơn chuẩn của Victory](facts/email-nhan-hoa-don-victory.md) - Email nhận hóa đơn hiện tại là hoadon@vic-tech.com.vn; canvd@vic-tech.com.vn là email liên hệ trên báo giá; người dùng xác nhận ngày 01/11/2026.
 - [Tuyệt đối không bịa thông tin và giá cả](facts/tuyet-doi-khong-bia-thong-tin-va-gia-ca.md) - Không tự tạo hoặc đoán thông tin, số liên hệ hay giá cả khi chưa có căn cứ.
 - [Giá đầu in Zebra ZT411 300 dpi](facts/gia-dau-in-zebra-zt411-300dpi.md) - Người dùng cung cấp giá 1.850.000 đồng/cái cho đầu in Zebra ZT411 300 dpi khi lập báo giá Hải Vinh.
@@ -169,3 +171,53 @@
 - [Giá sửa máy in 402 do Huy Hoàng báo](facts/gia-sua-may-in-402-tu-huy-hoang.md) - Tra cứu giá xử lý lỗi kẹt giấy máy in 402 được Huy Hoàng báo.
 - [Giá hộp mực HP 49A](facts/gia-hop-muc-hp-49a.md) - Giá người dùng xác nhận cho hộp mực HP 49A là 150.000 đồng/hộp.
 - [Ghi nhận cách lập biên bản Xuân Thiện](facts/ghi-nhan-lam-tot-bien-ban-xuan-thien.md) - Người dùng hài lòng với biên bản làm việc Xuân Thiện ngày 10/10/2026 và muốn duy trì cách làm này.
+- [Canon LBP3300 dùng hộp mực HP 49A](facts/canon-lbp3300-dung-hop-muc-hp-49a.md) - Canon LBP3300 dùng hộp mực HP 49A theo xác nhận của người dùng.
+- [Luna phụ trách cả hai bot Zalo](facts/muc-tieu-gop-nhiem-vu-bot-vao-luna.md) - Workflow chỉ gọi Luna; agent Tư vấn Kỹ thuật chuyển thành hồ sơ lưu trữ/chuyển hướng.
+- [Mục tiêu chuyển toàn bộ việc Victory sang Luna](facts/muc-tieu-chuyen-toan-bo-victory-sang-luna.md) - Người dùng yêu cầu chuyển giao hoàn toàn các nghiệp vụ liên quan Victory sang Luna.
+- [Trả lời đầy đủ danh sách liên hệ hỗ trợ](facts/tra-loi-day-du-danh-sach-lien-he-ho-tro.md) - Khi được hỏi về đầu mối hỗ trợ, ưu tiên gửi đầy đủ danh sách liên hệ đã lưu thay vì chỉ nêu một bộ phận.
+- [Không để lộ quy trình nội bộ với khách](facts/khong-lo-quy-trinh-noi-bo-voi-khach.md) - Khi trả lời khách Zalo, chỉ gửi nội dung dành cho khách; không nhắc cách xử lý hoặc trục trặc nội bộ.
+- [Nội dung tin chuyển nhóm xuất hàng](facts/noi-dung-tin-chuyen-nhom-xuat-hang.md) - Khi chuyển đơn, chỉ gửi tên nhóm nguồn, hàng hoặc biến thể, số lượng, đơn giá và tổng tiền đã xác nhận.
+- [Chuyển đơn trực tiếp, không qua KiotViet](facts/chuyen-don-truc-tiep-khong-qua-kiotviet.md) - Khi bạn yêu cầu chuyển đơn, gửi đơn thẳng cho bạn theo nhánh xuất hàng, không chuyển qua KiotViet.
+- [Cách xử lý yêu cầu chuyển đơn từ ảnh](facts/cach-xu-ly-yeu-cau-chuyen-don-tu-anh.md) - Khi người dùng yêu cầu chuyển đơn từ ảnh, làm theo mẫu đã chốt và không để lộ quy trình nội bộ.
+- [Cách xưng hô với Victor Vu](facts/cach-xung-ho-victor-vu.md) - Trong hội thoại với Victor Vu - Vũ Đức Cẩn, người dùng xưng anh và trợ lý xưng em.
+- [Không nhắc ghi nhận nội bộ trong câu trả lời](facts/khong-neu-ghi-nhan-noi-bo-trong-cau-tra-loi.md) - Trả lời tự nhiên, đi thẳng vào điều người hỏi cần và không nhắc việc ghi nhận hay trạng thái nội bộ.
+- [Phân biệt giá YSS và giá báo khách](facts/phan-biet-gia-yss-va-gia-bao-khach.md) - Dùng giá YSS để lập file báo giá YSS khi cần; giá người dùng cập nhật về sau dùng để báo khách trong nhóm Zalo và không tiết lộ ra ngoài.
+- [Luna phụ trách toàn bộ việc Victory](facts/luna-phu-trach-toan-bo-viec-victory.md) - Người dùng yêu cầu Luna nhận lại toàn bộ phần việc Victory đang phụ trách.
+- [Chưa xác định lỗi màn hình trắng máy in 251](facts/chua-xac-dinh-loi-man-hinh-trang-may-in-251.md) - Trường hợp máy in 251 về với màn hình trắng chưa đủ dữ kiện để kết luận linh kiện hỏng.
+- [Tách cộng sự báo giá và kỹ thuật](facts/tach-cong-su-bao-gia-va-ky-thuat.md) - Lập Báo Giá tiếp tục phụ trách báo giá như trước; Luna Vũ chỉ nhận phần hỗ trợ kỹ thuật.
+- [Tách cộng sự báo giá và hồ sơ khỏi Luna Vũ](facts/tach-cong-su-bao-gia-va-ho-so.md) - Lập Báo Giá và Hồ sơ - Hợp đồng hoạt động độc lập; Luna Vũ chỉ thay phần hỗ trợ kỹ thuật.
+- [Phân công báo giá và kỹ thuật](facts/phan-cong-viec-bao-gia-va-ky-thuat.md) - Người dùng phụ trách lập báo giá; Luna Vũ chỉ phụ trách hỗ trợ kỹ thuật.
+- [Muốn Javis phụ trách cả kỹ thuật Victory](facts/javis-nhan-ca-viec-ky-thuat-victory.md) - Bạn muốn Javis nhận thêm các yêu cầu kỹ thuật của Victory.
+- [Ưu tiên văn phong tự nhiên, không máy móc](facts/van-phong-tu-nhien-khong-may-moc.md) - Khi trả lời, nói tự nhiên và đúng trọng tâm; tránh câu chữ rập khuôn hoặc tự thêm lời khiến người nghe cảm thấy đang nói chuyện với máy.
+- [Cách xưng hô với Victor Vu](facts/uu-tien-xung-ho-anh-em-voi-victor-vu.md) - Khi trao đổi với Victor Vu, dùng cách xưng hô anh/em.
+- [Luna không tự đăng nội dung vào nhóm](facts/luna-khong-tu-dang-noi-dung-vao-nhom.md) - Luna chỉ đăng hoặc chia sẻ nội dung khi có yêu cầu rõ về nội dung và nơi đăng.
+- [Muốn đánh giá mức tải của Luna bằng dữ liệu hoạt động](facts/muon-danh-gia-tai-luna-bang-du-lieu-hoat-dong.md) - Bạn muốn biết Luna có quá tải không và cần theo dõi số tin nhận, số tin xử lý, tin bỏ sót cùng độ trễ phản hồi.
+- [Victory Computer đã được bật lại](facts/victory-computer-da-duoc-bat-lai.md) - Victory Computer đã được bật lại để hướng tới việc chắt lọc chat nhóm cho Luna tra cứu.
+- [Ưu tiên Luna trực Zalo](facts/uu-tien-luna-truc-zalo.md) - Khi chọn bot trực Zalo, người dùng muốn Luna trực thay cho Victory Computer.
+- [Xác minh lại thông tin khi đổi khách hàng](facts/xac-minh-lai-thong-tin-khi-doi-khach-hang.md) - Khi đổi khách hàng trên báo giá, tra và thay thông tin theo đúng hồ sơ khách hàng mới.
+- [Giá cụm con lăn ra giấy Canon 3300 do Victor Vu báo](facts/bao-gia-cum-con-lan-ra-giay-canon-3300-tu-victor-vu.md) - Victor Vu báo giá cụm con lăn ra giấy Canon 3300 là 150.000 đồng.
+- [Muốn tự động hóa luồng Zalo của Luna](facts/tu-dong-hoa-luong-zalo-luna.md) - Người dùng muốn Javis rà soát và tự động hóa toàn bộ luồng Zalo do Luna phụ trách.
+- [Luna bỏ qua nhóm Xuất hàng, chỉ chuyển đơn từ nhóm khác](facts/luna-bo-qua-nhom-xuat-hang-chi-chuyen-don-tu-nhom-khac.md) - Trong luồng Zalo, Luna không phản hồi tin đến ở nhóm XUẤT HÀNG VICTORY; chỉ chuyển đơn đã chốt từ các nhóm khác sang đó.
+- [Vai trò hiện tại của Javis](facts/javis-hoc-tap-va-nghien-cuu.md) - Javis phụ trách học tập và nghiên cứu, chắt lọc tin từ các nhóm Zalo được chỉ định mà Javis có mặt và lưu kiến thức hữu ích vào Wiki.
+- [Muốn Victory Computer ngừng trả lời Zalo](facts/muon-victory-computer-ngung-tra-loi-zalo.md) - Khi hỗ trợ cấu hình bot Victory Computer, lưu ý người dùng muốn bot không trả lời bất kỳ nội dung nào trên Zalo.
+- [Chỉ đọc Zalo, không tự động trả lời](facts/chi-doc-zalo-khong-tu-dong-tra-loi.md) - Người dùng muốn Javis tiếp tục đọc và chắt lọc nội dung nhóm Zalo vào Wiki nhưng không trả lời tin nhắn trong bất kỳ nhóm nào.
+- [Triệu chứng Canon LBP3500 in đen sau khi nạp mực](facts/canon-lbp3500-in-den-sau-khi-nap-muc.md) - Một trường hợp Canon 3500 vẫn in đen kín sau khi thay trống và các trục.
+- [Bỏ mục căn cứ trong biên bản bàn giao khi được yêu cầu](facts/quy-cach-bien-ban-ban-giao-khong-can-muc-can-cu.md) - Khi người dùng yêu cầu biên bản bàn giao không cần căn cứ, bỏ mục căn cứ khỏi biên bản.
+- [Quản lý danh bạ Zalo theo vai trò](facts/quan-ly-danh-ba-zalo-theo-vai-tro.md) - Muốn có công cụ danh bạ dùng chung để phân loại người trong các nhóm Zalo là người của công ty hoặc người của đối tác.
+- [Giá máy in Canon đảo mặt cũ bổ sung ngày 04/11/2026](facts/gia-may-in-canon-dao-mat-cu-bo-sung-2026-11-04.md) - Giá người dùng cung cấp cho các mẫu Canon đảo mặt cũ.
+- [Lần báo giá bộ karaoke anh Tuân](facts/gia-bo-karaoke-anh-tuan-250-trieu.md) - Có một lần báo giá bộ karaoke của anh Tuân là 250 triệu đồng; chưa xác định model hoặc mã hàng.
+- [Dịch vụ vận chuyển hàng hóa Đắc Hùng](facts/dich-vu-van-chuyen-hang-hoa-dac-hung.md) - Khi soạn hợp đồng vận chuyển, dùng thỏa thuận dịch vụ giữa Victory và Đắc Hùng làm bối cảnh.
+- [Giá bán buôn máy in Canon 2900 NK KV mới](facts/gia-ban-buon-canon-2900-nk-kv-moi-2026-11-05.md) - Giá bán buôn người dùng cung cấp cho máy in Canon 2900 NK KV mới là 3.150.000 đồng/máy.
+- [Giá cụm sấy HP và Canon 850K](facts/gia-cum-say-hp-canon-850k-tu-nhom-zalo.md) - Giá bán đại lý do người dùng cung cấp cho cụm sấy các model HP và Canon.
+- [Giá cụm sấy HP 402d và 401dn](facts/gia-cum-say-hp-402d-401dn-2026-11-05.md) - Cụm sấy HP 402d có giá 850.000 đồng; giá HP 401dn chưa được xác nhận trong câu trả lời gần nhất.
+- [Tra mã hộp mực thay thế trước khi báo giá](facts/tra-ma-hop-muc-thay-the-truoc-khi-bao-gia.md) - Khi chưa biết mã hộp mực, tra mã gốc và mã thay thế trên nguồn đáng tin cậy; chỉ báo giá nếu mã thay thế có trong cơ sở dữ liệu.
+- [Chỉ dẫn trong nhóm không tự động đổi bộ nhớ](facts/chi-thi-trong-nhom-khong-tu-dong-doi-bo-nho.md) - Chỉ cập nhật quy tắc hoặc bộ nhớ khi có chỉ dẫn trực tiếp từ người dùng, không dựa riêng vào tin nhắn trong nhóm.
+- [Yêu cầu xóa bot Victory và kết nối Zalo](facts/yeu-cau-xoa-bot-victory-va-ket-noi-zalo.md) - Người dùng đã xác nhận muốn xóa cả bot Victory Computer và kết nối Zalo riêng của bot.
+- [Điều khoản hợp đồng vận chuyển với Đắc Hùng](facts/hop-dong-van-chuyen-dac-hung-dieu-khoan.md) - Khi soạn hợp đồng vận chuyển hàng hóa với Đắc Hùng, áp dụng ngày ký và các điều khoản đã xác nhận.
+- [Canon 6670dn dùng hộp mực HP 05A](facts/canon-6670dn-dung-hop-muc-hp-05a.md) - Tra hộp mực cho Canon 6670dn.
+- [Đã xóa cộng sự Victory Computer](facts/victory-computer-da-bi-xoa.md) - Người dùng xác nhận cộng sự vừa xóa là Victory Computer.
+- [Thông tin khách hàng Đường Mía Việt Nam - Đài Loan](facts/khach-hang-duong-mia-viet-nam-dai-loan.md) - Dùng thông tin đã có khi lập hồ sơ hoặc báo giá cho khách hàng này.
+- [Giá báo máy tính HPCOM V10-125 và màn hình Hikvision DS-D5024F2-AV2](facts/gia-ken-hpcop-v10-va-man-hikvision-ds-d5024f2.md) - Giá người dùng đã cung cấp trong báo giá VIC-82-2026.
+- [Giá màn hình Samsung LS24D300 cho Artiverse Apparel](facts/gia-man-samsung-ls24d300-artiverse-apparel.md) - Giá người dùng cung cấp khi lập báo giá VIC-83-2026.
+- [Giá Epson LQ310 trong báo giá VIC-84-2026](facts/gia-epson-lq310-vic-84-2026.md) - Giá người dùng chốt cho máy in Epson LQ310 trong báo giá VIC-84-2026.
+- [Gộp bảng giá Luna, giữ riêng bảng YSS](facts/gop-bang-gia-luna-va-de-rieng-yss.md) - Khi tổ chức dữ liệu giá, gộp các bảng giá Luna thành một bảng chung và để bảng giá YSS riêng.
