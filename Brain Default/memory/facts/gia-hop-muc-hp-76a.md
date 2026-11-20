@@ -1,9 +1,9 @@
 ---
-type: business
-provenance: source
+type: reference
+provenance: user
 origin: javis-learned
-created: 2026-10-24
-updated: 2026-10-24
-source: chat 2026-10-24 (d83891d2)
+created: 2026-11-08
+updated: 2026-11-08
+source: chat 2026-11-08 (858db30c)
 ---
-Theo tin nhắn của Luna Vũ trong nhóm, hộp mực HP 76A không chip giá 140.000đ/hộp; loại có chip giá 220.000đ/hộp.
+Hộp mực HP 76A loại không chip giá 140.000đ/hộp; loại có chip giá 220.000đ/hộp.

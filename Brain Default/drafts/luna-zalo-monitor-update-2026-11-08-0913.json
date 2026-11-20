@@ -1,0 +1,31 @@
+{
+  "proposed_checkpoint": "Javis/state/luna-zalo-monitor.json",
+  "version": 1,
+  "updated_at": "2026-11-08T09:13:00Z",
+  "cursor": 147,
+  "last_poll": {
+    "from_cursor": 143,
+    "to_cursor": 147,
+    "returned_count": 4,
+    "message_ids": ["8465467109738", "8465467585289", "8465471631817", "8465476122635"],
+    "classifications": {
+      "8465467109738": "self_message_recorded_for_reconciliation",
+      "8465467585289": "self_message_recorded_for_reconciliation",
+      "8465471631817": "reaction_recorded_no_reply",
+      "8465476122635": "in_scope_technical_followup_pending_listener"
+    },
+    "hasMore": false,
+    "sync": {"connected": true, "complete": true, "gaps": []},
+    "action": "Lịch sử TESTBOT đã được đối chiếu; tin 8465476122635 hỏi mã thay thế Brother HL-L6210DW chưa có phản hồi sau đó. Lưu chờ listener xử lý. Loop không gửi tin."
+  },
+  "processed_source_message_ids_append": ["8465467109738", "8465467585289", "8465471631817", "8465476122635"],
+  "pending_messages_upsert": [{
+    "message_id": "8465476122635",
+    "thread_id": "5049425754926522263",
+    "first_seen": "2026-11-08T09:11:56Z",
+    "status": "pending_listener_reply",
+    "reason": "Người dùng hỏi mã thay thế cho Brother HL-L6210DW trong TESTBOT. Poll và lịch sử nhóm chưa thấy phản hồi sau tin này; loop không phản hồi thay listener."
+  }],
+  "sync_complete": true,
+  "note": "Checkpoint chính chưa cập nhật được: quyền auto chặn ghi vào Javis/state/. Đây là bản cập nhật dự kiến; không phải checkpoint đang dùng."
+}

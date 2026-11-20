@@ -1,0 +1,198 @@
+{
+  "created_at": "2026-11-08T16:11:56Z",
+  "reason": "Javis chặn mức auto ghi vào Javis/state/",
+  "monitor_update": {
+    "version": 1,
+    "initialized_at": "2026-11-08T00:00:00Z",
+    "baseline_at": "2026-11-08T00:00:00Z",
+    "baseline_only": false,
+    "connection": {
+      "name": "Luna Vũ",
+      "status": "ok",
+      "sync_complete": true
+    },
+    "cursor": 147,
+    "processed_source_message_ids": [
+      "8464465413316",
+      "8464466301486",
+      "8464468376988",
+      "8464471810109",
+      "8464472028908",
+      "8464473186246",
+      "8464474754908",
+      "8464542475577",
+      "8464553391112",
+      "8464576544947",
+      "8464598160175",
+      "8464669934595",
+      "8464678143192",
+      "8464767967322",
+      "8464768187928",
+      "8464768942739",
+      "8464769596908",
+      "8464783350787",
+      "8464793514418",
+      "8464793928617",
+      "8464794882527",
+      "8464806331458",
+      "8464819743661",
+      "8465169202894",
+      "8465169705100",
+      "8465179850323",
+      "8465233801185",
+      "8465236378822",
+      "8465237709593",
+      "8465237923287",
+      "8465238008786",
+      "8465238137065",
+      "8465250269992",
+      "8465250665638",
+      "8465252429413",
+      "8465252712824",
+      "8465253508454",
+      "8465253916660",
+      "8465254631908",
+      "8465255219493",
+      "8465256029260",
+      "8465256425491",
+      "8465256789994",
+      "8465257500323",
+      "8465257841069",
+      "8465258246995",
+      "8465259039201",
+      "8465271827653",
+      "8465272594953",
+      "8465272982977",
+      "8465273519403",
+      "8465274208321",
+      "8465274692458",
+      "8465275015958",
+      "8465276605145",
+      "8465276992987",
+      "8465277036749",
+      "8465277476478",
+      "8465277648549",
+      "8465279377954",
+      "8465280321623",
+      "8465282083005",
+      "8465430615207",
+      "8465451896915",
+      "8465452636319",
+      "8465453576468",
+      "8465454342889",
+      "8465456381120",
+      "8465476122635"
+    ],
+    "pending_messages": [
+      {
+        "message_id": "8465337139990",
+        "thread_id": "6037079067171344716",
+        "first_seen": "2026-11-08T08:05:27Z",
+        "status": "resolved_no_reply_needed",
+        "reason": "Ảnh là phiếu xuất kho bán hàng gửi kèm chú thích “gui px”; phiếu ghi rõ khách hàng Công ty Cổ phần Giải pháp Công nghệ và Truyền thông Victory Việt Nam, hàng Type to LAN thường 1 chiếc. Tin đã gửi chính phiếu, không cần gửi lại ảnh hoặc phản hồi."
+      },
+      {
+        "message_id": "8465476122635",
+        "thread_id": "5049425754926522263",
+        "first_seen": "2026-11-08T16:11:56Z",
+        "status": "pending",
+        "reason": "Tin hỏi mã thay thế Brother HL-L6210DW; lịch sử nhóm đã đối chiếu nhưng chưa thấy phản hồi Luna/người thật phù hợp. Giữ chờ listener, không phản hồi thay."
+      }
+    ],
+    "pending_orders": [
+      {
+        "source_message_id": "8464659108104",
+        "source_thread_id": "6037079067171344716",
+        "source_thread_name": "VICTORY-NAM TRƯỜNG COMPUTER 114LÊHỒNGPHONG",
+        "summary": "Có thể là 1 bộ chuyển Type-C sang LAN loại rẻ, 85K, dựa trên ngữ cảnh gần đó.",
+        "status": "pending_destination_duplicate_check",
+        "reason": "Chưa thể xác minh trạng thái đã chuyển; không gửi lại mù."
+      },
+      {
+        "source_message_id": "8464669934595",
+        "followup_message_id": "8464688543070",
+        "source_thread_id": "5049425754926522263",
+        "source_thread_name": "TESTBOT",
+        "summary": "10 hộp mực Canon 057 Starter có chip, đơn giá 220K/hộp, tổng 2.200K; tin nhắc về đơn cũ.",
+        "status": "pending_destination_duplicate_check",
+        "reason": "Tin nhắc về xác nhận cũ; không gửi lại."
+      },
+      {
+        "source_message_id": "8464769596908",
+        "followup_message_id": "8464783350787",
+        "source_thread_id": "5049425754926522263",
+        "source_thread_name": "TESTBOT",
+        "summary": "5 hộp Canon 070 không chip; 155K/hộp, tổng 775K.",
+        "status": "pending_destination_duplicate_check",
+        "reason": "Đã thấy bản chuyển tương ứng ở nhóm đích; không gửi lại."
+      },
+      {
+        "source_message_id": "8465179850323",
+        "confirmation_message_id": "8465236378822",
+        "source_thread_id": "5049425754926522263",
+        "source_thread_name": "TESTBOT",
+        "summary": "5 hộp mực Canon 057 Starter có chip, đơn giá 220K/hộp, tổng 1.100K.",
+        "status": "transferred",
+        "reason": "Xác nhận mới 8465236378822 là câu trả lời cho câu hỏi chọn biến thể trong đơn mới; đã đối chiếu nhóm đích và không có bản chuyển cùng sự kiện. Chuyển thành công; đơn cũ cùng mặt hàng/số lượng không được dùng để chặn.",
+        "output_message_id": "8465459131130",
+        "resolved_at": "2026-11-08T08:55:00Z"
+      }
+    ],
+    "last_poll": {
+      "at": "2026-11-08T16:11:56Z",
+      "from_cursor": 143,
+      "to_cursor": 147,
+      "returned_count": 4,
+      "message_ids": [
+        "8465467109738",
+        "8465467585289",
+        "8465471631817",
+        "8465476122635"
+      ],
+      "classifications": {
+        "8465467109738": "self_message_recorded_for_reconciliation",
+        "8465467585289": "self_message_recorded_for_reconciliation",
+        "8465471631817": "reaction_recorded_for_reconciliation",
+        "8465476122635": "pending_unanswered_listener_check"
+      },
+      "hasMore": false,
+      "sync": {
+        "connected": true,
+        "complete": true,
+        "gaps": []
+      },
+      "action": "Đối chiếu lịch sử TESTBOT; tin 8465476122635 chưa thấy được trả lời, lưu pending cho listener. Không gửi Zalo."
+    },
+    "notes": "Poll thực tế từ cursor 143 trả 4 sự kiện, cursor 147, hasMore=false, sync.complete=true, gaps=[]. Hai tin isSelf và reaction ghi nhận để đối soát. Tin 8465476122635 trong TESTBOT chưa có phản hồi phù hợp theo lịch sử đã kiểm tra; lưu chờ."
+  },
+  "audit_append": {
+    "message_id": "8465476122635",
+    "thread_id": "5049425754926522263",
+    "thread_name": "TESTBOT",
+    "timestamp": "2026-11-08T16:11:56Z",
+    "sync": {
+      "complete": true,
+      "gaps": []
+    },
+    "result": "unanswered",
+    "response_message_id": null,
+    "match_basis": "Đã đọc lịch sử đúng nhóm đến sau tin này; chưa có câu trả lời Luna/người thật phù hợp.",
+    "internal_reason": "internal_reason_unavailable"
+  },
+  "observed_poll": {
+    "from_cursor": 143,
+    "to_cursor": 147,
+    "returned_count": 4,
+    "ids": [
+      "8465467109738",
+      "8465467585289",
+      "8465471631817",
+      "8465476122635"
+    ],
+    "hasMore": false,
+    "sync": {
+      "complete": true,
+      "gaps": []
+    }
+  }
+}

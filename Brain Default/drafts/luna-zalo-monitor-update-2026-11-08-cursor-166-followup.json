@@ -1,0 +1,65 @@
+{
+  "note": "Bản nháp đối soát; không áp dụng trực tiếp vào state/audit.",
+  "observed_poll": {
+    "from_cursor": 166,
+    "to_cursor": 166,
+    "returned_count": 0,
+    "message_ids": [],
+    "hasMore": false,
+    "sync": {
+      "connected": true,
+      "complete": false,
+      "gaps": [
+        {
+          "from": 1794142922988,
+          "to": 1794142928681
+        }
+      ]
+    }
+  },
+  "state_patch": {
+    "cursor": 166,
+    "sync_complete": false,
+    "pending_updates": [
+      {
+        "message_id": "8465476122635",
+        "thread_id": "5049425754926522263",
+        "status": "resolved_human_replied",
+        "reply_message_id": "8466215784763",
+        "reason": "Lịch sử TESTBOT cho thấy Victor trả lời trực tiếp câu Luna hỏi xác nhận biến thể 136A: “136a có chip nhé”."
+      },
+      {
+        "message_id": "8465632224961",
+        "thread_id": "3573310846900104466",
+        "status": "resolved_human_replied",
+        "reply_message_id": "8465669028984",
+        "reason": "Lịch sử VICTORY - PDC cho thấy Victor gửi ảnh phiếu xuất và nhắn “a gửi e nhé”."
+      }
+    ]
+  },
+  "audit_updates": [
+    {
+      "message_id": "8465476122635",
+      "thread_id": "5049425754926522263",
+      "thread_name": "TESTBOT",
+      "sync_complete": false,
+      "result": "human_replied",
+      "reply_message_id": "8466215784763",
+      "match_basis": "Victor trả lời trực tiếp câu hỏi xác nhận biến thể trong cùng mạch trao đổi."
+    },
+    {
+      "message_id": "8465632224961",
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "sync_complete": false,
+      "result": "human_replied",
+      "reply_message_id": "8465669028984",
+      "match_basis": "Victor gửi phiếu xuất và nhắn “a gửi e nhé” trong cùng nhóm."
+    }
+  ],
+  "note_on_new_messages": "Không có message mới trả về từ poll nên không thêm message_id mới vào processed_source_message_ids hoặc audit.",
+  "files_to_update_if_authorized": [
+    "Javis/state/luna-zalo-monitor.json",
+    "Javis/state/luna-zalo-audit.jsonl"
+  ]
+}

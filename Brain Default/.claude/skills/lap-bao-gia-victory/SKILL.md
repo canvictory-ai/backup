@@ -2,8 +2,8 @@
 name: Lập báo giá Victory
 description: Lập, kiểm tra và gửi báo giá Victory theo hồ sơ, bảng giá YSS và mẫu đã lưu.
 group: Bán hàng
-updated: '2026-11-04'
-learned_updated: '2026-11-04'
+updated: '2026-11-18'
+learned_updated: '2026-11-18'
 ---
 ## Khi nào dùng
 Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặc gửi lại báo giá Victory. Không dùng cho câu hỏi giá thông thường.
@@ -22,6 +22,8 @@ Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặ
 - Khi sửa báo giá có sẵn, đọc đúng tệp đích và ghi nhận nội dung liên quan trước khi sửa.
 - Khi đổi khách hàng trên báo giá, tra hồ sơ khách hàng mới và thay thông tin khách hàng cũ bằng thông tin có căn cứ từ hồ sơ mới. Không giữ lại mã số thuế, địa chỉ hoặc thông tin liên hệ của khách hàng cũ. Trường không có trong hồ sơ mới thì để trống.
 - Giữ nguyên đầy đủ mô tả, cấu hình và chi tiết hàng hóa từ bảng kê, PDF hoặc tài liệu nguồn. Không rút gọn thành tên hoặc tiêu đề sản phẩm. Nếu nội dung nguồn chưa rõ hoặc thiếu, hỏi người dùng hoặc ghi rõ phần chưa xác minh, không tự điền cấu hình.
+- Khi ghi tên hàng, ưu tiên tên chuẩn trong danh mục nhưng không thêm mã hàng nội bộ của danh mục trong ngoặc (ví dụ `(VT02669)`). Giữ model/part number của nhà sản xuất nếu thuộc tên hoặc thông tin nhận diện sản phẩm.
+- Ảnh mặc định đi cùng mỗi sản phẩm cần nền trong suốt và được thu nhỏ theo kích thước hiển thị của ô ảnh (thường tối đa khoảng 160×160 px); không nhúng ảnh gốc quá lớn khi không cần độ phân giải đó.
 - Nếu người dùng gửi tài liệu mới để sửa nội dung hàng hóa, dùng tài liệu mới làm căn cứ đối chiếu chính cho phần được yêu cầu sửa.
 - Sau khi sửa, đọc lại chính tệp đích. Đối chiếu từng yêu cầu với nội dung thực tế đã lưu và kiểm tra rằng nội内容 yêu cầu đã thay đổi so với bản trước nếu đó là mục cần sửa.
 - Nếu nội dung không thay đổi, chưa phản ánh yêu cầu hoặc không xác định đúng tệp, tiếp tục xử lý trước khi báo hoàn tất. Không chỉ lặp lại lời xác nhận từ lần trước.
@@ -34,7 +36,7 @@ Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặ
 4. Đối chiếu cấu trúc, định dạng, logo, địa chỉ giao hàng, nội dung yêu cầu, giá, phép tính và HTML hợp lệ.
 5. Đối chiếu nguyên văn phần mô tả và cấu hình hàng hóa với tài liệu nguồn; kiểm tra không bị lược bỏ hoặc chép nhầm.
 6. Với yêu cầu sửa, kiểm tra trực tiếp các đoạn đã yêu cầu trong tệp sau khi lưu; xác nhận nội dung hiển thị và không bị giữ nguyên bản cũ.
-7. Chỉ đặt phần tổng hợp thuế ngay sau bảng hàng theo bố cục mẫu. Trình bày riêng tiền hàng chịu thuế theo từng mức thuế, tiền VAT tương ứng và tiền hàng không chịu thuế; giữ nhãn và định dạng đúng mẫu đã lưu. Nếu cần để khách nhận biết mặt hàng thuộc nhóm thuế nào, thể hiện nhóm thuế trên các dòng hàng hoặc chia nhóm hàng theo yêu cầu, đồng thời giữ tổng hợp thuế ngay sau bảng hàng.
+7. Chỉ đặt phần tổng hợp thuế ngay sau bảng hàng theo bố cục mẫu. Không ghi VAT/thuế trên từng dòng hàng hoặc trong mô tả sản phẩm. Trình bày riêng tiền hàng chịu thuế theo từng mức thuế, tiền VAT tương ứng và tiền hàng không chịu thuế; giữ nhãn và định dạng đúng mẫu đã lưu.
 8. Sau khi tạo hoặc cập nhật file thành công, kiểm tra phép tính, VAT, tổng tiền, bảo toàn mẫu và xác nhận file tồn tại đúng đường dẫn, gửi ngay link cho người dùng. Không yêu cầu kết quả kiểm định độc lập `pass: true`. Nếu thiếu dữ liệu bắt buộc, lỗi mẫu, sai số liệu hoặc không xác nhận được file/đường dẫn, không gửi; nêu rõ lý do.
 9. Chỉ xác nhận đã tạo hoặc gửi khi có tệp thực tế hoặc phản hồi thành công từ kênh gửi.
 10. Trả lời ngắn bằng tiếng Việt, nêu số báo giá, khách hàng, tiền hàng, VAT và tổng thanh toán.
@@ -68,7 +70,7 @@ Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặ
 - Đối chiếu số tiền bằng chữ với tổng tiền bằng số, gồm cả bản dịch nếu được yêu cầu.
 - Xác nhận các điều khoản cần sửa đã hiện diện và các mục cần bỏ không còn trong báo giá.
 - Xác nhận file cuối cùng tồn tại tại đúng đường dẫn, rồi gửi ngay link sau khi các kiểm tra trên đạt; không chờ kiểm định độc lập.
-- Xác nhận phần tổng hợp thuế nằm ngay sau bảng hàng, các nhóm hàng và mức VAT thể hiện đúng yêu cầu, các dòng tiền cộng lại khớp tổng thanh toán.
+- Xác nhận phần tổng hợp thuế nằm ngay sau bảng hàng, không có nhãn VAT/thuế trên từng dòng hàng, các mức thuế được tách tại phần tổng hợp và các dòng tiền cộng lại khớp tổng thanh toán.
 - Nếu đổi khách hàng, mở lại báo giá cuối và xác nhận toàn bộ thông tin khách hàng khớp hồ sơ mới, không còn trường nào lấy từ hồ sơ khách hàng cũ.
 - Nếu khách hàng được xác định qua ảnh, đối chiếu tên công ty trong báo giá cuối với thông tin đọc được từ ảnh.
 
@@ -83,3 +85,6 @@ Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặ
 - [2026-11-03] Trong batch này, khi đổi tên khách hàng trên VIC-71-2026, bản sửa đầu vẫn giữ MST, địa chỉ và liên hệ của khách hàng cũ; người dùng chỉ ra rằng công ty khác phải có thông tin khác. Bổ sung bước tra hồ sơ khách hàng mới, thay thông tin cũ và kiểm tra lại tệp cuối.
 - [2026-11-04] Khi lập VIC-80-2026, báo giá ban đầu dùng nhầm công ty trong tệp đang mở thay vì công ty trong ảnh đính kèm; thêm bước đọc ảnh và đối chiếu danh tính khách hàng với ảnh trước khi lập báo giá.
 - [2026-11-04] Trong batch này, VIC-80-2026 ban đầu dùng nhầm công ty trong tệp đang mở; người dùng phải nhắc lấy công ty trong ảnh. Bổ sung bước nhận diện và kiểm tra khách hàng từ ảnh để tránh lặp lại lỗi.
+
+## Lịch sử cập nhật
+- [2026-11-18] Mọi báo giá: không ghi VAT/thuế từng dòng, đặt phần tổng hợp sau bảng; tối ưu ảnh nhúng theo kích thước hiển thị để giảm dung lượng.

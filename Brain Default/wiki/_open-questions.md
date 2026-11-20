@@ -3,8 +3,6 @@
 Questions the wiki cannot fully answer yet. One per line:
 - [ ] (YYYY-MM-DD) [[Topic]]: question or gap - status: open
 
-- [ ] (2026-11-03) [[Quy trình xử lý đơn chốt qua Zalo#Mâu thuẫn]]: Xác minh cơ chế gửi đơn có sổ chuyển/khóa idempotency theo ID tin xác nhận và có ngăn hai lượt song song gửi cùng đơn không; sự cố TESTBOT có hai bản cùng nội dung cách nhau 5 phút 33 giây, lượt workflow đi kèm báo `Not logged in`.
-
 - [ ] (2026-10-14) [[Cong Ty Co Phan Giai Phap Cong Nghe va Truyen Thong Victory Viet Nam]]: đề xuất bổ sung từ chat 2026-10-14 (dedup) - status: open
 - [ ] (2026-10-14) [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]]: Bổ sung địa chỉ đầy đủ điểm Đắc Hùng Nguyễn Xiển nếu cần - status: open.
 
@@ -20,21 +18,15 @@ Questions the wiki cannot fully answer yet. One per line:
 
 - [ ] (2026-10-20) [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]]: đề xuất bổ sung từ chat 2026-10-20 (dedup) - status: open
 
-- [ ] (2026-10-21) [[Mẫu Hợp Đồng Mua Bán Victory Bán Ra]]: đề xuất bổ sung từ chat 2026-10-21 (dedup) - status: open
+- [x] (2026-10-21) [[Mẫu Hợp Đồng Mua Bán Victory Bán Ra]]: người dùng đã chốt mẫu Word mới ngày 2026-11-17; các bản trùng cùng phạm vi đã được xóa.
 
 - [ ] (2026-10-22) [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]]: đề xuất bổ sung từ chat 2026-10-22 (dedup) - status: open
 
 - [ ] (2026-10-22) [[Gia Tham Khao Tu Nhom Zalo]]: đề xuất bổ sung từ chat 2026-10-22 (dedup) - status: open
 
-- [ ] (2026-10-23) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-10-23 (dedup) - status: open
-
-- [ ] (2026-10-23) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-10-23 (dedup) - status: open
-
-- [ ] (2026-10-24) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-10-24 (dedup) - status: open
-
 - [ ] (2026-10-27) [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]]: đề xuất bổ sung từ chat 2026-10-27 (dedup) - status: open
-- [ ] (2026-10-28) Canon MF455DW: nhóm ghi lỗi “E00” khi in; cần ảnh/mã đầy đủ và đối chiếu tài liệu đúng model trước khi xác định ý nghĩa. [[Zalo TESTBOT 2026-10-27 - triệu chứng kỹ thuật]] - status: open
-- [ ] (2026-10-28) Canon MF241d/226dw: ghép đúng model với ảnh E014-0000 và xác minh bằng tài liệu đúng model; chưa dùng mô tả mã từ manual dòng Canon khác làm chẩn đoán. [[Zalo TESTBOT 2026-10-27 - triệu chứng kỹ thuật]] - status: open
+- [ ] (2026-10-28) Canon MF455DW: nhóm ghi lỗi “E00” khi in; cần ảnh/mã đầy đủ và đối chiếu tài liệu đúng model trước khi xác định ý nghĩa. - status: open
+- [ ] (2026-10-28) Canon MF241d/226dw: ghép đúng model với ảnh E014-0000 và xác minh bằng tài liệu đúng model; chưa dùng mô tả mã từ manual dòng Canon khác làm chẩn đoán. - status: open
 - [ ] (2026-10-28) Canon G1010: câu hỏi “nháy 5 đèn liên tục” chưa cho biết đèn Alarm hay ON/Alarm luân phiên và chưa có support code. [[Canon G1010 - mã nháy đèn]] - status: open
 
 - [ ] (2026-10-27) [[Trình bày phần tổng hợp thuế trên báo giá]]: đề xuất bổ sung từ chat 2026-10-27 (dedup) - status: open
@@ -45,7 +37,6 @@ Questions the wiki cannot fully answer yet. One per line:
 
 - [ ] (2026-10-28) [[Quy tắc ưu tiên giá khi lập báo giá]]: đề xuất bổ sung từ chat 2026-10-28 (dedup) - status: open
 
-- [ ] (2026-10-30) [[Trả lời không kèm đường link nguồn]]: đề xuất bổ sung từ chat 2026-10-30 (dedup) - status: open
 - [ ] (2026-10-31) [[Zalo TESTBOT 2026-10-31 - triệu chứng kỹ thuật]]: Đầu ghi Hikvision kêu liên tục nhưng chưa có model và thông báo/sự kiện trên màn hình; cần dữ kiện để đối chiếu tài liệu đúng model. Ảnh mã lỗi nhóm Sửa chữa máy in chưa tải được; cần ảnh rõ hoặc mã và model. - status: open
 
 - [ ] (2026-11-01) [[Không bịa thông tin và giá cả]]: đề xuất bổ sung từ chat 2026-11-01 (dedup) - status: open
@@ -56,17 +47,7 @@ Questions the wiki cannot fully answer yet. One per line:
 
 - [ ] (2026-11-01) [[Gia Tham Khao Tu Nhom Zalo]]: đề xuất bổ sung từ chat 2026-11-01 (dedup) - status: open
 
-- [x] (2026-11-01) [[Quy tắc báo giá trong nhóm Zalo]]: chủ quyết định giao Luna cả phần kỹ thuật và bán hàng trong workflow Zalo; phân công cũ được giữ làm lịch sử - status: resolved [[memory/facts/luna-phu-trach-ca-ky-thuat-zalo]]
-
-- [ ] (2026-11-01) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-11-01 (dedup) - status: open
-
-- [ ] (2026-11-01) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-11-01 (dedup) - status: open
-
 - [ ] (2026-11-02) [[Không lộ quy trình nội bộ với khách]]: model báo trùng với 'Không lộ quy trình nội bộ với khách' nhưng không tìm thấy trang đó - status: open
-
-- [ ] (2026-11-02) [[Quy tắc báo giá trong nhóm Zalo]]: đề xuất bổ sung từ chat 2026-11-02 (dedup) - status: open
-
-- [ ] (2026-11-03) [[Quy trình xử lý đơn chốt qua Zalo]]: đề xuất bổ sung từ chat 2026-11-03 (dedup) - status: open
 
 - [ ] (2026-11-03) [[Canon LBP3500 - bản in đen toàn trang sau khi nạp mực]]: đề xuất bổ sung từ chat 2026-11-03 (dedup) - status: open
 - [ ] (2026-11-04) [[Tương thích hộp mực HP và Canon đã tra cứu#Mâu thuẫn]]: Canon 8720 dùng Canon 533/533H như Luna trả lời hay HP 14A như chủ đính chính trong nhóm TESTBOT? Xác minh model đầy đủ và mã cartridge trước khi cập nhật tương thích. [[Zalo TESTBOT 2026-11-04 - mâu thuẫn mã mực Canon 8720]] - status: open
@@ -74,3 +55,13 @@ Questions the wiki cannot fully answer yet. One per line:
 - [ ] (2026-11-05) [[Gia Tham Khao Tu Nhom Zalo]]: đề xuất bổ sung từ chat 2026-11-05 (dedup) - status: open
 
 - [ ] (2026-11-05) [[Tra cứu mã tương thích trước khi báo giá]]: đề xuất bổ sung từ chat 2026-11-05 (dedup) - status: open
+
+- [ ] (2026-11-08) [[Cách viết thông báo đối chiếu công nợ]]: model báo trùng với 'Cách viết thông báo đối chiếu công nợ' nhưng không tìm thấy trang đó - status: open
+
+- [ ] (2026-11-08) [[Cách viết thông báo đối chiếu công nợ]]: model báo trùng với 'Cách viết thông báo đối chiếu công nợ' nhưng không tìm thấy trang đó - status: open
+
+- [ ] (2026-11-12) [[Cong Ty Co Phan Giai Phap Cong Nghe va Truyen Thong Victory Viet Nam]]: đề xuất bổ sung từ chat 2026-11-12 (dedup) - status: open
+
+- [ ] (2026-11-13) [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]]: đề xuất bổ sung từ chat 2026-11-13 (dedup) - status: open
+
+- [ ] (2026-11-17) [[Quy Cách Trình Bày Hợp Đồng Victory]]: đề xuất bổ sung từ chat 2026-11-17 (dedup) - status: open

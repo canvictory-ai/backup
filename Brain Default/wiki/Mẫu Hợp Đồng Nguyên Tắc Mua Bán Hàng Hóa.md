@@ -3,13 +3,15 @@ type: wiki
 status: active
 tags: [wiki, hợp đồng, mẫu]
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-11-19
 source: "[[Xac Nhan Mau Hop Dong Khanh Toan 2026-10-20]]"
 ---
 
 # Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa
 
-Bản tham chiếu hiện được người dùng chọn làm mẫu dùng lại là [dự thảo hợp đồng Khánh Toàn](../hop-dong/Du%20thao%20HDNTMB%20Khanh%20Toan%2020102026.html); khi lập hợp đồng mới, giữ bố cục và các điều khoản của bản này, chỉ thay thông tin giao dịch/đối tác theo yêu cầu và dữ liệu được cung cấp. Thông tin pháp nhân và người đại diện của Khánh Toàn chỉ thuộc bản tham chiếu, không mặc định cho đối tác khác. [[Xac Nhan Mau Hop Dong Khanh Toan 2026-10-20]]
+Đây là mẫu hợp đồng nguyên tắc, tách biệt với [[Mẫu Hợp Đồng Mua Bán Victory Bán Ra]] dùng cho hợp đồng mua bán hàng hóa khi Victory là bên bán.
+
+Bản tham chiếu duy nhất được người dùng chọn làm khung dùng lại là [dự thảo hợp đồng Khánh Toàn](../hop-dong/Du%20thao%20HDNTMB%20Khanh%20Toan%2020102026.html). Không dùng bản DOCX cũ đã bị gỡ để tránh trùng với bản HTML chuẩn. Giữ bố cục của mẫu, nhưng điều khoản pháp lý cần linh hoạt theo khách hàng và giao dịch; không áp cứng toàn bộ điều khoản riêng của Khánh Toàn cho đối tác khác. Các mặc định chung người dùng đã chốt vẫn áp dụng; điều kiện riêng cần dựa trên thông tin hoặc xác nhận của giao dịch đó. [[Điều khoản hợp đồng linh hoạt theo khách hàng]] [[Xac Nhan Mau Hop Dong Khanh Toan 2026-10-20]]
 
 ## Các điều khoản mặc định đã được người dùng chốt
 
@@ -25,4 +27,8 @@ Bản tham chiếu hiện được người dùng chọn làm mẫu dùng lại 
 
 ## Lưu ý khi tái sử dụng
 
-Bản PDF nguồn lịch sử có thời hạn nợ 7 ngày, lãi sau 30 ngày, điều kiện khởi kiện sau 3 tháng và câu về hiệu lực đến khi quyết toán; các nội dung này khác bản Khánh Toàn hiện được chọn. Giữ PDF như nguồn lịch sử, không lấy các điều khoản khác biệt đó thay cho mẫu hiện hành đã được người dùng xác nhận. [[Mau Hop Dong Nguyen Tac Mua Ban Hang Hoa PDF]][[Xac Nhan Mau Hop Dong Khanh Toan 2026-10-20]]
+Bản trích xuất từ PDF cũ còn lưu trong `sources/` để tra cứu lịch sử; các điều khoản trong đó khác mẫu Khánh Toàn hiện được chọn và không dùng để soạn hợp đồng mới. File PDF gốc đã được xóa theo yêu cầu ngày 10/11/2026. [[Mau Hop Dong Nguyen Tac Mua Ban Hang Hoa PDF]][[Xac Nhan Mau Hop Dong Khanh Toan 2026-10-20]]
+
+## Quy cách trình bày dùng chung
+
+Khi xuất, áp dụng quy cách dữ liệu bảng theo [[Quy Cách Trình Bày Hợp Đồng Victory]] nhưng giữ định dạng của mẫu nguyên tắc. Quy định riêng của mẫu bán ra Victory, gồm cách định dạng số khoản 2.1 và đại diện, chỉ áp dụng cho mẫu bán ra.

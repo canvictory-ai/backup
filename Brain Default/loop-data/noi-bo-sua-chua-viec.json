@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "group": {
+    "id": "2433597573334150721",
+    "name": "Nội bộ | Sửa chữa - Bảo hành - Việc phát sinh"
+  },
+  "baseline_at": "2026-11-14T03:30:56Z",
+  "last_processed_message_id": "8487400390407",
+  "tasks": [
+    {
+      "id": "KEEP-20261114-01",
+      "category": "sửa chữa",
+      "title": "Tìm 243dw thiếu 1",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận thiết bị/khách liên quan, người phụ trách và tiến độ.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Nội dung ghi chú; ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-02",
+      "category": "sửa chữa",
+      "title": "2 Hộp bảo hành Thanh Bình",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận việc cần làm với hộp bảo hành và người phụ trách.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Chủ bổ sung số lượng 2 trong mẫu danh sách ngày 2026-11-14; nội dung gốc ảnh Keep ghi hộp bảo hành Thanh Bình."
+    },
+    {
+      "id": "KEEP-20261114-04",
+      "category": "sửa chữa",
+      "title": "Thanh toán máy đơn Cam Lộc Phát, chú Hải Liên Việt...",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận khoản thanh toán cần xử lý, đối tượng và người phụ trách.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Phần cuối ghi chú bị rút gọn bằng dấu ba chấm; ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-05",
+      "category": "lấy hàng",
+      "title": "Hợp đồng Dũng: 2 bộ mới và 1 bộ cũ",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận nơi lấy, người phụ trách và thời điểm cần lấy.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Nội dung ghi chú; ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-06",
+      "category": "lấy hàng",
+      "title": "Lấy hợp đồng Nam Hà Thành (mang theo dấu tên)",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận người đi lấy và thời điểm.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Nội dung ghi chú; ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-07",
+      "category": "lấy hàng",
+      "title": "Bộ Agribank mới nhất",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận cần lấy bộ hồ sơ nào, nơi lấy và người phụ trách.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Nội dung ghi chú; ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-08",
+      "category": "lấy hàng",
+      "title": "Hợp đồng chị Thủy ĐB",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận địa điểm/đầu mối, người phụ trách và thời điểm lấy.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Nội dung ghi chú; ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-09",
+      "category": "lấy hàng",
+      "title": "Mấy bộ hợp đồng giải ngân gần nhất",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác định các bộ hợp đồng cần lấy, đầu mối và người phụ trách.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Nội dung ghi chú; số lượng chưa rõ; ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-11",
+      "category": "giấy tờ",
+      "title": "Đã gửi BB Trường An",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận biên bản đã gửi hay là việc cần gửi; ghi nhận kết quả.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Dòng ghi 'Đã gửi BB Trường An' nhưng ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-12",
+      "category": "giấy tờ",
+      "title": "Đã gửi BB Lạc Hồng",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận biên bản đã gửi hay là việc cần gửi; ghi nhận kết quả.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Dòng ghi 'Đã gửi BB Lạc Hồng' nhưng ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-13",
+      "category": "giấy tờ",
+      "title": "Đã gửi HĐ trạm sạc ra Hải Phòng",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận hợp đồng đã gửi hay là việc cần gửi; ghi nhận kết quả.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Dòng ghi 'Đã gửi HĐ trạm sạc ra Hải Phòng' nhưng ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-14",
+      "category": "Mình nợ hàng khách",
+      "title": "Minh Thành: 4 chuột M08S",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận số hàng còn nợ và kế hoạch thu hồi/bàn giao.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Nội dung ghi chú; ô chưa đánh dấu."
+    },
+    {
+      "id": "KEEP-20261114-15",
+      "category": "Khách nợ hàng mình",
+      "title": "A Sáng mượn 3 SW, đã trả 2",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận còn nợ 1 SW và người theo dõi thu hồi.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Theo nội dung ghi chú, đã trả 2 trong 3; trạng thái hiện tại cần xác minh."
+    },
+    {
+      "id": "KEEP-20261114-16",
+      "category": "Khách nợ hàng mình",
+      "title": "Điệp nợ 1 thẻ 64 đổi BH trước",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận tình trạng thẻ và nội dung 'đổi BH trước', người phụ trách.",
+      "source": "Ảnh Google Keep IMG_0738.png do chủ gửi trong chat; 2026-11-14",
+      "source_note": "Nội dung ghi chú chưa làm rõ 'đổi BH trước'; ô chưa đánh dấu."
+    },
+    {
+      "id": "INB-20261114-02",
+      "category": "sửa chữa",
+      "title": "Sửa cam 29 Nguyễn Đức Thuận lúc 17h30",
+      "status": "mới tiếp nhận",
+      "owner": "unknown",
+      "due": null,
+      "next_step": "Phân công người phụ trách.",
+      "source": "Tin nhóm Nội bộ 8487400390407; 2026-11-14",
+      "source_note": "Victor báo “17h30 sửa cam 29 nguyễn đức thuận”; chưa nêu người phụ trách."
+    }
+  ],
+  "notes": "Chủ cho biết trước đây chỉ theo dõi bằng Google Keep. Các mục trên được chép từ ảnh Keep gửi ngày 2026-11-14; chưa có xác nhận người phụ trách, hạn hoặc hoàn tất. Mốc khởi đầu theo lần poll cuối (2026-11-14T03:30:56Z); không hồi tố tin nhóm trước mốc này. Chỉ gửi tin phối hợp công việc vào đúng nhóm đã chỉ định; ghi ID tin đã gửi để chống lặp. Quy tắc chủ giao ngày 2026-11-14: mọi người cùng phụ trách các việc đang mở; khi có thành viên báo hoàn tất trong nhóm, xóa mục đó khỏi sổ theo dõi; không giữ bản ghi hoàn tất. Chủ xác nhận ngày 2026-11-14: chưa có mục nào hoàn tất; không đặt thời hạn cho các mục hiện tại. Phân loại nợ hàng được làm rõ ngày 2026-11-14: tách hai chiều; Minh Thành thuộc 'Mình nợ hàng khách', A Sáng và Điệp thuộc 'Khách nợ hàng mình', theo hai tiêu đề tương ứng trong ảnh Keep. Quy tắc chủ mới nhất: khi thành viên hỏi việc tồn đọng trong nhóm đã chỉ định, liệt kê toàn bộ mục đang mở theo nhóm, dạng gạch đầu dòng; khi có báo hoàn tất rõ mục nào, xóa mục đó khỏi sổ, không lưu lịch sử hoàn tất. Lượt 2026-11-14 04:05:38Z: Victor hỏi lại việc còn cần làm; đã trả danh sách 16 mục đang mở theo sổ Keep, tin gửi 8487119001918.\nLượt 2026-11-14T04:15:33.935Z: Victor hỏi danh sách việc (8487130051005); Luna trả danh sách 16 mục theo mẫu (8487153573769), đã lưu ID gửi để chống lặp.\nLượt 2026-11-14T04:22:09Z: lịch sử nhóm xác nhận Victor báo đã in biên bản Thể thao Xuân Thiện (8487167008374), Luna đã xác nhận xóa mục (8487168215787). Mục không còn trong sổ khi đối chiếu; còn 15 việc đang mở.\nCập nhật 2026-11-14: Victor giao Đăng lấy cả xe Việt Nam và laptop; sổ việc đã cập nhật.\nLượt 2026-11-14T04:29:48Z: ghi nhận việc lấy hàng xe bà Thuận từ tin 8487202670429; chưa có người phụ trách, đã yêu cầu nhóm phân công.\nLượt 2026-11-14T04:37:08Z: Victor hỏi danh sách việc còn tồn (8487212449505); Luna đã trả lời theo sổ hiện hành, 16 mục mở, tin gửi 8487213420768.\nLượt 2026-11-14T05:23:36Z: ghi nhận việc sửa cam tại 29 Nguyễn Đức Thuận lúc 17h30 từ tin 8487400390407; chưa có người phụ trách, cần hỏi nhóm phân công. Tin phối hợp hỏi người phụ trách gửi 8487417890359.",
+  "last_processed_at": "2026-11-14T05:23:36Z",
+  "sent_message_ids": [
+    "8487119001918",
+    "8487117760045",
+    "8487153573769",
+    "8487168215787",
+    "8487211417227",
+    "8487213420768",
+    "8487417890359"
+  ],
+  "status": "paused",
+  "paused_at": "2026-11-15T03:00:06Z",
+  "pause_reason": "Chủ yêu cầu tạm dừng toàn bộ công việc của cộng sự Dịch vụ."
+}

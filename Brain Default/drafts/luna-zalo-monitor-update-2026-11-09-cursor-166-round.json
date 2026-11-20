@@ -1,0 +1,533 @@
+{
+  "round_at": "2026-11-09T06:55:50.322Z",
+  "cursor_start": 166,
+  "cursor_end": 249,
+  "returned_count": 55,
+  "hasMore": false,
+  "sync": {
+    "connected": true,
+    "connectedSince": 1794142933980,
+    "trackingSince": 1792590531552,
+    "complete": false,
+    "gaps": [
+      {
+        "from": 1794142922988,
+        "to": 1794142928681
+      }
+    ],
+    "note": "The connection was down during part of this period and Zalo's replay did not cover it; a message from then may be missing here. Do not conclude there was no reply."
+  },
+  "canonical_cursor_kept": 166,
+  "pending_message_ids": [
+    "8465476122635"
+  ],
+  "resolved_message_ids": [
+    {
+      "message_id": "8465632224961",
+      "reply_message_id": "8465669028984"
+    }
+  ],
+  "price_group": {
+    "thread_id": "3345965267368578027",
+    "history_count": 0,
+    "sync_complete": true,
+    "price_updates": 0
+  },
+  "message_ids": [
+    {
+      "id": "8467501716659",
+      "cursor": 167,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8467501729715",
+      "cursor": 168,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8467535786671",
+      "cursor": 178,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "text",
+      "text": "cái mặt B qua e hỏi có ko a",
+      "isSelf": false
+    },
+    {
+      "id": "8467545688568",
+      "cursor": 183,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "text",
+      "text": "sáng nay annh check",
+      "isSelf": false
+    },
+    {
+      "id": "8467545878881",
+      "cursor": 184,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "text",
+      "text": "tẹo anh báo nhé",
+      "isSelf": false
+    },
+    {
+      "id": "8467546170344",
+      "cursor": 185,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "text",
+      "text": "Ok a",
+      "isSelf": false
+    },
+    {
+      "id": "8467546207900",
+      "cursor": 186,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "chat.sticker",
+      "text": "[chat.sticker: {\"id\":34842,\"catId\":11190,\"type\":3}]",
+      "isSelf": false
+    },
+    {
+      "id": "8467564135320",
+      "cursor": 192,
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "type": "share.file",
+      "text": "PDC.pdf",
+      "isSelf": false
+    },
+    {
+      "id": "8467564362667",
+      "cursor": 193,
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "type": "text",
+      "text": "E gửi px nhé!",
+      "isSelf": false
+    },
+    {
+      "id": "8467577649502",
+      "cursor": 194,
+      "thread_id": "2153646594752296039",
+      "thread_name": "VICTORY - PHÚC THÀNH HẢI HẬU",
+      "type": "share.file",
+      "text": "Phúc Thành.pdf",
+      "isSelf": false
+    },
+    {
+      "id": "8467578728992",
+      "cursor": 195,
+      "thread_id": "2153646594752296039",
+      "thread_name": "VICTORY - PHÚC THÀNH HẢI HẬU",
+      "type": "text",
+      "text": "e gửi phiếu xuất hộp mực hôm trước a/c nhé!",
+      "isSelf": false
+    },
+    {
+      "id": "8467583613935",
+      "cursor": 196,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "chat.photo",
+      "text": "https://photo-stal-31.zdn.vn/gr/jpg/5ec3c223e9d33d8d64c2/2aOboRBLR6QXgUyplwTBGYs7QLJElc1ItfT1qjiK.jpg",
+      "isSelf": false
+    },
+    {
+      "id": "8467583630206",
+      "cursor": 197,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "chat.photo",
+      "text": "https://photo-stal-32.zdn.vn/gr/jpg/ee5bbcbc974c43121a5d/2aOboRBLR6LiTRACrOxgR6KrQ4ujd6AyIJinfEiO.jpg",
+      "isSelf": false
+    },
+    {
+      "id": "8467584321298",
+      "cursor": 198,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "text",
+      "text": "E xin giá pin này với",
+      "isSelf": false
+    },
+    {
+      "id": "8467584706089",
+      "cursor": 199,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8467585856067",
+      "cursor": 200,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "text",
+      "text": "tháo máy xem pin e ơi",
+      "isSelf": false
+    },
+    {
+      "id": "8467586814196",
+      "cursor": 201,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "chat.photo",
+      "text": "https://photo-stal-28.zdn.vn/gr/e5bf4ef43504e15ab815/2HGb6FLnB9MBeY1CpqtUd5JOG98RquQThcHI.jpg",
+      "isSelf": false
+    },
+    {
+      "id": "8467586968362",
+      "cursor": 202,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "text",
+      "text": "4 mã",
+      "isSelf": false
+    },
+    {
+      "id": "8467588744391",
+      "cursor": 203,
+      "thread_id": "6281139143347648175",
+      "thread_name": "VICTORY - LAPTOP TRƯỜNG AN",
+      "type": "text",
+      "text": "giá cao nhất 430k",
+      "isSelf": false
+    },
+    {
+      "id": "8467626449720",
+      "cursor": 205,
+      "thread_id": "1702441115124235556",
+      "thread_name": "Tech365-VICTORY",
+      "type": "text",
+      "text": "Máy in 203d xong r e nhé",
+      "isSelf": false
+    },
+    {
+      "id": "8467626642844",
+      "cursor": 206,
+      "thread_id": "1702441115124235556",
+      "thread_name": "Tech365-VICTORY",
+      "type": "text",
+      "text": "@Bùi Như Nhật",
+      "isSelf": false
+    },
+    {
+      "id": "8467642222317",
+      "cursor": 207,
+      "thread_id": "6579962472502837716",
+      "thread_name": "HƯNG THỊNH HH - VICTORY",
+      "type": "chat.video.msg",
+      "text": "https://video-stal-39.dlmd.me/gr/674528503ba3effdb6b2/2aOboRBLbrmRTYksgZCQToNNbjQr2KzpFeXVBUVE",
+      "isSelf": false
+    },
+    {
+      "id": "8467643241399",
+      "cursor": 208,
+      "thread_id": "6579962472502837716",
+      "thread_name": "HƯNG THỊNH HH - VICTORY",
+      "type": "text",
+      "text": "Máy rất bt nay e gửi trả về a nhed",
+      "isSelf": false
+    },
+    {
+      "id": "8467650700998",
+      "cursor": 209,
+      "thread_id": "6579962472502837716",
+      "thread_name": "HƯNG THỊNH HH - VICTORY",
+      "type": "chat.sticker",
+      "text": "[chat.sticker: {\"id\":21237,\"catId\":10291,\"type\":3}]",
+      "isSelf": false
+    },
+    {
+      "id": "8467650781237",
+      "cursor": 210,
+      "thread_id": "6579962472502837716",
+      "thread_name": "HƯNG THỊNH HH - VICTORY",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8467735885494",
+      "cursor": 213,
+      "thread_id": "8283704417201016177",
+      "thread_name": "MINH AN - VICTORRY",
+      "type": "text",
+      "text": "Lụa brother 2321 báo e với",
+      "isSelf": false
+    },
+    {
+      "id": "8467737046418",
+      "cursor": 214,
+      "thread_id": "8283704417201016177",
+      "thread_name": "MINH AN - VICTORRY",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8467742415199",
+      "cursor": 215,
+      "thread_id": "8283704417201016177",
+      "thread_name": "MINH AN - VICTORRY",
+      "type": "text",
+      "text": "Lô sấy brother 2701/2366/2385/7080/2360 47k",
+      "isSelf": false
+    },
+    {
+      "id": "8467895231403",
+      "cursor": 219,
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "type": "text",
+      "text": "A/c có lấy nốt 2 hộp mực hôm qua ko ạ?",
+      "isSelf": false
+    },
+    {
+      "id": "8467902548899",
+      "cursor": 221,
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "type": "text",
+      "text": "dạ có gì chuyến sau lấy bên e báo ạ",
+      "isSelf": false
+    },
+    {
+      "id": "8467906912768",
+      "cursor": 222,
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8467980455969",
+      "cursor": 226,
+      "thread_id": "8404017101126147877",
+      "thread_name": "XUẤT HÀNG VICTORY",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8467982328276",
+      "cursor": 227,
+      "thread_id": "1702441115124235556",
+      "thread_name": "Tech365-VICTORY",
+      "type": "chat.photo",
+      "text": "https://photo-stal-15.zdn.vn/gr/jpg/b85d2d35d2c906975fd8/2aOboRBMLddNfPtOKFedPqCLy7KNc7IRSFwEXwqe.jpg",
+      "isSelf": false
+    },
+    {
+      "id": "8467982628658",
+      "cursor": 228,
+      "thread_id": "1702441115124235556",
+      "thread_name": "Tech365-VICTORY",
+      "type": "text",
+      "text": "C gửi px nhé!",
+      "isSelf": false
+    },
+    {
+      "id": "8468003791158",
+      "cursor": 229,
+      "thread_id": "7034378920410854427",
+      "thread_name": "VICTORY - TOÀN PHÁT",
+      "type": "text",
+      "text": "@Tạ Hải Đăng   Khách họ lấy hộp mực có chip r ạ",
+      "isSelf": false
+    },
+    {
+      "id": "8468004530312",
+      "cursor": 230,
+      "thread_id": "7034378920410854427",
+      "thread_name": "VICTORY - TOÀN PHÁT",
+      "type": "text",
+      "text": "@Tạ Hải Đăng gửi e bộ vỏ 2900",
+      "isSelf": false
+    },
+    {
+      "id": "8468005104648",
+      "cursor": 231,
+      "thread_id": "7034378920410854427",
+      "thread_name": "VICTORY - TOÀN PHÁT",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8468005995416",
+      "cursor": 232,
+      "thread_id": "8283704417201016177",
+      "thread_name": "MINH AN - VICTORRY",
+      "type": "chat.photo",
+      "text": "https://photo-stal-28.zdn.vn/gr/jpg/c1a0f646b3b967e73ea8/2aOboRBMOtdGY1CarDSJLMEVwbxtw8aPcRDOuJFo.jpg",
+      "isSelf": false
+    },
+    {
+      "id": "8468006333334",
+      "cursor": 233,
+      "thread_id": "7034378920410854427",
+      "thread_name": "VICTORY - TOÀN PHÁT",
+      "type": "text",
+      "text": "báo khách con 211d cho e chưa",
+      "isSelf": false
+    },
+    {
+      "id": "8468006987811",
+      "cursor": 234,
+      "thread_id": "8283704417201016177",
+      "thread_name": "MINH AN - VICTORRY",
+      "type": "text",
+      "text": "Con hộp 89a ko chip",
+      "isSelf": false
+    },
+    {
+      "id": "8468008007957",
+      "cursor": 235,
+      "thread_id": "8283704417201016177",
+      "thread_name": "MINH AN - VICTORRY",
+      "type": "text",
+      "text": "Giá 275k? Xem lại hộ c có sai giá ko?",
+      "isSelf": false
+    },
+    {
+      "id": "8468009059690",
+      "cursor": 236,
+      "thread_id": "8283704417201016177",
+      "thread_name": "MINH AN - VICTORRY",
+      "type": "text",
+      "text": "@KD MINH AN",
+      "isSelf": false
+    },
+    {
+      "id": "8468011409384",
+      "cursor": 237,
+      "thread_id": "8283704417201016177",
+      "thread_name": "MINH AN - VICTORRY",
+      "type": "text",
+      "text": "sao à c?",
+      "isSelf": false
+    },
+    {
+      "id": "8468011909155",
+      "cursor": 238,
+      "thread_id": "8283704417201016177",
+      "thread_name": "MINH AN - VICTORRY",
+      "type": "text",
+      "text": "Giá 275k á",
+      "isSelf": false
+    },
+    {
+      "id": "8468012219904",
+      "cursor": 239,
+      "thread_id": "7034378920410854427",
+      "thread_name": "VICTORY - TOÀN PHÁT",
+      "type": "text",
+      "text": "@Le Duy  xem máy móc gì báo chi khách kìa",
+      "isSelf": false
+    },
+    {
+      "id": "8468012304278",
+      "cursor": 240,
+      "thread_id": "8283704417201016177",
+      "thread_name": "MINH AN - VICTORRY",
+      "type": "text",
+      "text": "vang c",
+      "isSelf": false
+    },
+    {
+      "id": "8468019764619",
+      "cursor": 241,
+      "thread_id": "7034378920410854427",
+      "thread_name": "VICTORY - TOÀN PHÁT",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8468020633643",
+      "cursor": 242,
+      "thread_id": "7034378920410854427",
+      "thread_name": "VICTORY - TOÀN PHÁT",
+      "type": "text",
+      "text": "@All",
+      "isSelf": false
+    },
+    {
+      "id": "8468021403140",
+      "cursor": 243,
+      "thread_id": "7034378920410854427",
+      "thread_name": "VICTORY - TOÀN PHÁT",
+      "type": "text",
+      "text": "con đa năng còn ngoài đó sửa giúp e",
+      "isSelf": false
+    },
+    {
+      "id": "8468030941235",
+      "cursor": 244,
+      "thread_id": "8404017101126147877",
+      "thread_name": "XUẤT HÀNG VICTORY",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8468137593143",
+      "cursor": 245,
+      "thread_id": "8404017101126147877",
+      "thread_name": "XUẤT HÀNG VICTORY",
+      "type": "text",
+      "text": "novel\nthêm 1 HDMI 3M",
+      "isSelf": false
+    },
+    {
+      "id": "8468293567228",
+      "cursor": 246,
+      "thread_id": "5049425754926522263",
+      "thread_name": "TESTBOT",
+      "type": "text",
+      "text": "Báo a giá hộp 1111A",
+      "isSelf": false
+    },
+    {
+      "id": "8468430910323",
+      "cursor": 247,
+      "thread_id": "8404017101126147877",
+      "thread_name": "XUẤT HÀNG VICTORY",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8468430994169",
+      "cursor": 248,
+      "thread_id": "8404017101126147877",
+      "thread_name": "XUẤT HÀNG VICTORY",
+      "type": "reaction",
+      "text": null,
+      "isSelf": false
+    },
+    {
+      "id": "8468458006340",
+      "cursor": 249,
+      "thread_id": "5049425754926522263",
+      "thread_name": "TESTBOT",
+      "type": "text",
+      "text": null,
+      "isSelf": true
+    }
+  ]
+}

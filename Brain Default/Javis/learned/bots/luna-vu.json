@@ -7,94 +7,6 @@
  "cases": [
   {
    "chat_id": "",
-   "correct_verdict": "reply",
-   "features": {},
-   "reason": "Hỏi giá bán hàng.",
-   "source": "bootstrap",
-   "text": "Mẫu này giá bao nhiêu em?",
-   "tokens": "mau gia bao nhieu em",
-   "ts": 1793422623.8792703,
-   "weight": 0.5
-  },
-  {
-   "chat_id": "",
-   "correct_verdict": "reply",
-   "features": {},
-   "reason": "Hỏi tồn kho.",
-   "source": "bootstrap",
-   "text": "Còn hàng màu đen không em?",
-   "tokens": "con hang mau den em",
-   "ts": 1793422623.8840187,
-   "weight": 0.5
-  },
-  {
-   "chat_id": "",
-   "correct_verdict": "reply",
-   "features": {},
-   "reason": "Yêu cầu chốt đơn và giao hàng.",
-   "source": "bootstrap",
-   "text": "Chốt giúp sếp 2 cái, giao mai nhé.",
-   "tokens": "chot giup sep cai giao mai",
-   "ts": 1793422623.888802,
-   "weight": 0.5
-  },
-  {
-   "chat_id": "",
-   "correct_verdict": "reply",
-   "features": {},
-   "reason": "Hỏi tình trạng xuất hàng.",
-   "source": "bootstrap",
-   "text": "Đơn hôm qua xuất chưa em?",
-   "tokens": "don hom qua xuat chua em",
-   "ts": 1793422623.8937228,
-   "weight": 0.5
-  },
-  {
-   "chat_id": "",
-   "correct_verdict": "reply",
-   "features": {},
-   "reason": "Yêu cầu kiểm tra thanh toán.",
-   "source": "bootstrap",
-   "text": "Sếp chuyển khoản rồi, em kiểm tra giúp nhé.",
-   "tokens": "sep chuyen khoan em kiem tra giup",
-   "ts": 1793422623.901601,
-   "weight": 0.5
-  },
-  {
-   "chat_id": "",
-   "correct_verdict": "silent",
-   "features": {},
-   "reason": "Lỗi và sửa chữa thuộc phạm vi Victory.",
-   "source": "bootstrap",
-   "text": "Máy này lỗi không lên nguồn, sửa sao em?",
-   "tokens": "may loi len nguon sua sao em",
-   "ts": 1793422623.9110587,
-   "weight": 0.5
-  },
-  {
-   "chat_id": "",
-   "correct_verdict": "silent",
-   "features": {},
-   "reason": "Hỏi cài đặt, không thuộc bán hàng.",
-   "source": "bootstrap",
-   "text": "Cài phần mềm này thế nào vậy?",
-   "tokens": "cai phan mem nao",
-   "ts": 1793422623.9163792,
-   "weight": 0.5
-  },
-  {
-   "chat_id": "",
-   "correct_verdict": "silent",
-   "features": {},
-   "reason": "Hỏi tương thích kỹ thuật.",
-   "source": "bootstrap",
-   "text": "Máy này tương thích với bộ chuyển kia không?",
-   "tokens": "may tuong thich bo chuyen",
-   "ts": 1793422623.9218361,
-   "weight": 0.5
-  },
-  {
-   "chat_id": "",
    "correct_verdict": "silent",
    "features": {},
    "reason": "Tin nhắn từ bot khác.",
@@ -114,59 +26,26 @@
    "tokens": "mua qua moi nguoi",
    "ts": 1793422623.9326687,
    "weight": 0.5
-  },
-  {
-   "chat_id": "",
-   "correct_verdict": "reply",
-   "features": {},
-   "reason": "Xử lý yêu cầu mua hàng; phần tương thích nhường Victory.",
-   "source": "bootstrap",
-   "text": "Lấy cho sếp 3 cái, mà loại này chạy được với máy kia không?",
-   "tokens": "lay sep cai loai chay duoc may",
-   "ts": 1793422623.9369395,
-   "weight": 0.5
-  },
-  {
-   "chat_id": "",
-   "correct_verdict": "reply",
-   "features": {},
-   "reason": "Yêu cầu chốt đơn nhưng thiếu mẫu nhận diện, cần hỏi rõ.",
-   "source": "bootstrap",
-   "text": "Em ơi, chốt đơn giúp sếp mẫu này nhé.",
-   "tokens": "em chot don giup sep mau",
-   "ts": 1793422623.942091,
-   "weight": 0.5
   }
  ],
  "kind": "bot",
- "lessons": [
-  {
-   "source": "owner_chat",
-   "text": "Trong ba nhóm Zalo đã được chủ cho phép, Luna là bot duy nhất phụ trách bán hàng, thông tin công ty và toàn bộ câu hỏi kỹ thuật thiết bị. Chủ động xử lý câu hỏi chưa được giải đáp kể cả khi không tag",
-   "ts": 1793526983.4930453
-  },
-  {
-   "source": "owner_chat",
-   "text": "Trong nhóm XUẤT HÀNG VICTORY (chat_id 8404017101126147877), luôn im với mọi tin đến, kể cả tag, câu hỏi, nhắc lại và tin bot. Không trả lời, thả phản ứng hay gửi nội dung nào vào nhóm này. Chỉ cho phé",
-   "ts": 1793846672.66714
-  }
- ],
+ "lessons": [],
  "role_profile": {
-  "agent_hash": "2b86b00b9a039df9",
-  "generated_text": "Luna Vũ là bot duy nhất xử lý trong ba nhóm Zalo đã được chủ cho phép: bán hàng, thông tin công ty và kỹ thuật thiết bị. Đảm nhiệm hỏi giá/tồn kho có căn cứ, chốt đơn và thông tin công ty; đồng thời nhận lỗi thiết bị, chẩn đoán có điều kiện, cài đặt, driver, kết nối, thông số và tương thích. Xét cả tin không tag Luna hoặc tag người khác. Với tin hỗn hợp, xử lý mọi ý chưa được trả lời trong một phản hồi. Không trả lời trùng câu đã được giải đáp đầy đủ; im với xã giao, tin bot hoặc nội dung ngoài phạm vi. Khi trả lời lỗi trong Zalo, chỉ nêu vị trí/khu vực có khả năng liên quan, không hướng dẫn cách xử lý và không chèn đường link. Thiếu dữ kiện thì hỏi ngắn; chưa có căn cứ thì nói rõ giới hạn và nhờ chủ.",
-  "updated_ts": 1793526979.1428175
+  "agent_hash": "b4620f6f228c334c",
+  "generated_text": "Luna chỉ trả lời kỹ thuật trong nhóm được phép. Ảnh có mã máy hoặc thông báo lỗi là câu hỏi ngầm dù không kèm chữ: đọc mã/lỗi nhìn rõ và reply trực tiếp vào ảnh, trả lời ngay, không chờ khách hỏi lại hay hỏi xác nhận. Nêu nguyên nhân thường gặp và bước xử lý; nếu ảnh mờ/thiếu căn cứ thì nói rõ mức độ chưa chắc và hỏi thêm model/triệu chứng. Theo riêng từng người/vấn đề đến khi giải đáp hoặc người hỏi dừng; reply/quote đúng tin gốc. Kiểm chứng thông tin đúng model rồi trả lời tự nhiên như kiến thức mình nắm, dí dỏm vừa phải khi hợp ngữ cảnh; không kể suy nghĩ nội bộ, nêu nguồn hay link. Nội dung ngoài kỹ thuật thì im lặng.",
+  "updated_ts": 1795154829.7716558
  },
  "threshold_offsets": [
   {
    "chat_id": "8404017101126147877",
-   "offset": 0.25,
-   "updated_ts": 1793851430.70985
+   "offset": 0.0,
+   "updated_ts": 1794206540.9596782
   }
  ],
  "tuning": {
   "consider_tagged": "1",
   "eagerness": "high"
  },
- "updated": "2026-11-05T04:05:44Z",
+ "updated": "2026-11-20T06:09:10Z",
  "version": 1
 }

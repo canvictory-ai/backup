@@ -1,0 +1,33 @@
+{
+  "cursor_start": 143,
+  "cursor_end": 147,
+  "returned_count": 4,
+  "message_ids": [
+    "8465467109738",
+    "8465467585289",
+    "8465471631817",
+    "8465476122635"
+  ],
+  "hasMore": false,
+  "sync": {
+    "connected": true,
+    "complete": true,
+    "gaps": []
+  },
+  "classifications": {
+    "8465467109738": "self_message",
+    "8465467585289": "self_message",
+    "8465471631817": "reaction_event_no_response",
+    "8465476122635": "in_scope_technical_question_pending_listener_reply_check"
+  },
+  "pending_messages": [
+    {
+      "message_id": "8465476122635",
+      "thread_id": "5049425754926522263",
+      "first_seen": "2026-11-08T09:11:56Z",
+      "status": "pending_listener_reply_check",
+      "reason": "Chủ hỏi mã thay thế cho mực Brother trong TESTBOT; lịch sử sau tin xác nhận chưa có phản hồi phù hợp. Loop không gửi thay listener."
+    }
+  ],
+  "checkpoint_write": "blocked_by_auto_permissions"
+}

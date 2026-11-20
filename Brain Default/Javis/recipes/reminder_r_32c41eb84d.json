@@ -1,0 +1,57 @@
+{
+ "version": 1,
+ "job": "reminder:r_32c41eb84d",
+ "task_sha": "87f60a1b3159d8049ebfd8e1",
+ "mode": "suggest",
+ "skeleton": "[{\"args\": {\"type\": \"group\"}, \"tool\": \"zalo__zalo_list_threads\"}, {\"args\": {\"limit\": 200, \"since\": \"{{d0}}\", \"threadId\": \"8404017101126147877\", \"threadType\": 1, \"until\": \"{{d1}}\"}, \"tool\": \"zalo__zalo_get_history\"}, {\"args\": {\"limit\": 200, \"since\": \"{{d2}}\", \"threadId\": \"6037079067171344716\", \"threadType\": 1, \"until\": \"{{d3}}\"}, \"tool\": \"zalo__zalo_get_history\"}]",
+ "slots": [
+  [
+   [
+    "literal",
+    "2026-11-18"
+   ],
+   [
+    "day",
+    0
+   ]
+  ],
+  [
+   [
+    "literal",
+    "2026-11-18"
+   ],
+   [
+    "day",
+    0
+   ]
+  ],
+  [
+   [
+    "literal",
+    "2026-11-18"
+   ],
+   [
+    "day",
+    0
+   ]
+  ],
+  [
+   [
+    "literal",
+    "2026-11-18"
+   ],
+   [
+    "day",
+    0
+   ]
+  ]
+ ],
+ "days": [
+  "2026-11-18"
+ ],
+ "observations": 1,
+ "replays": 0,
+ "fails": 0,
+ "recorded_at": 1794999675,
+ "note": "Read calls Javis repeats for this recurring job before the model starts. Delete this file to forget it."
+}

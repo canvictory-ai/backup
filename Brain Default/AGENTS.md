@@ -33,7 +33,7 @@ Kiểm frontmatter source: `status: processed` -> DỪNG, hỏi re-ingest. `unpr
 - Các bước: đọc (kèm ảnh nếu có) -> tóm tắt 3-5 ý -> rút insight/framework -> xác định trang Wiki mới/cập nhật/merge -> viết Wiki (1 trang = 1 ý, có `[[...]]` ngược) -> cập nhật `wiki/index.md` -> set source `status: processed` + `wiki_links` -> append `wiki/log.md` -> đề xuất task nếu có (không tự thêm). Báo cáo ngắn.
 
 ### QUERY - trả lời câu hỏi
-Đọc `wiki/index.md` trước -> đọc trang liên quan -> thiếu thì đọc `sources/` -> vẫn thiếu thì append `wiki/_open-questions.md`. Trả lời có `[[citation]]`. Câu trả lời giá trị tái dùng -> đề xuất lưu thành trang Wiki mới (compounding).
+Đọc `wiki/index.md` trước -> đọc trang liên quan -> thiếu thì đọc `sources/` -> vẫn thiếu thì append `wiki/_open-questions.md`. Trả lời có wikilink tới nguồn thật cho mọi khẳng định cụ thể; citation chỉ là dẫn nguồn, không tự lưu tri thức. Nếu câu trả lời có kiến thức mới, có nguồn dẫn và có giá trị dùng lại, lưu thật vào brain đang chọn: với nguồn web, tạo/cập nhật trang Wiki nguồn ghi URL và ngày truy cập (không ghi nội dung vào `sources/`, đây là lớp nguồn do người dùng quản lý); cập nhật trang tri thức có citation, `wiki/index.md`, `wiki/log.md`, rồi đọc lại và xác minh wikilink. Khi người dùng nói “wiki/lưu”, làm đủ các bước trong brain đang chọn; không dùng memory, drafts hay lịch sử chat thay cho Wiki. Câu trả lời một lần không cần lưu thì không tạo trang.
 
 ### LINT - health-check định kỳ (chỉ trả CHECKLIST, KHÔNG tự sửa 50 chỗ)
 Quét `wiki/`: mâu thuẫn, claim cũ, orphan (không inbound link), khái niệm thiếu trang riêng, broken `[[link]]`, trùng lặp nên merge, vùng mỏng cần thêm source, open-question tồn lâu. Báo cáo -> người dùng chọn sửa từng cái.
@@ -55,3 +55,10 @@ Source: `type: source`, `source_kind: article|book|podcast|video|own-note|screen
 - Nhóm chủ đề trong `wiki/` MỌC DẦN theo source thực tế (tạo subfolder khi một chủ đề đủ dày), không định sẵn theo ngành.
 - Cần bộ khung sẵn (vd Bullet Journal, nghiên cứu, đọc sách) -> người dùng áp "gói mẫu" (opt-in), không seed mặc định.
 - Viết bằng ngôn ngữ ghi ở khối `# === NGÔN NGỮ ===` của prompt (mặc định tiếng Việt); code/tag/frontmatter key luôn dùng tiếng Anh. Tone thực tế, ngắn gọn. KHÔNG dùng ký tự em dash.
+
+## 9. Hợp đồng thực thi yêu cầu sửa và ghi nhớ
+- Khi người dùng yêu cầu rõ ràng sửa, xóa, cập nhật hoặc ghi nhớ, thực hiện ngay trong lượt hiện tại trên đúng file/quy tắc có thẩm quyền. Không chỉ phân tích, đề xuất, hỏi lại điều đã rõ, hoặc dừng ở checklist.
+- Trước khi sửa, tìm quy tắc hiện hành và các bản trùng liên quan. Quy tắc mới nhất do người dùng nói trực tiếp được ưu tiên; giữ phần cũ còn tương thích, xóa hẳn phần đã lỗi thời hoặc bị thay thế theo yêu cầu của người dùng. Cập nhật đồng bộ nơi có hiệu lực, gồm schema, skill/agent/workflow và memory index nếu liên quan.
+- Khi người dùng yêu cầu ghi nhớ, sửa hoặc tạo ngay fact chuẩn trong `memory/facts/` và cập nhật `memory/MEMORY.md`; không để bản cũ mâu thuẫn tiếp tục được nạp. Nếu yêu cầu là xóa quy tắc cũ, xóa fact cũ và dòng index của nó, trừ khi người dùng yêu cầu lưu lịch sử.
+- Chỉ nói "đã sửa", "đã ghi nhớ" hoặc "đã xong" sau khi đọc lại file/kết quả tool và xác nhận thay đổi thực sự tồn tại. Nếu mới hoàn thành một phần, nêu rõ phần đã làm và phần còn thiếu; không biến dự định thành kết quả.
+- LINT mặc định chỉ báo checklist khi người dùng yêu cầu kiểm tra. Nếu người dùng đồng thời yêu cầu sửa hoặc đã chỉ rõ vấn đề cần khắc phục, hãy sửa các mục được chỉ định ngay; giới hạn "không sửa hàng loạt" chỉ áp dụng cho các lỗi ngoài phạm vi đó.

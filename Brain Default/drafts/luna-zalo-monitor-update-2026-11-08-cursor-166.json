@@ -1,0 +1,64 @@
+{
+  "note": "Bản nháp cập nhật dự phòng; ghi state bị quyền auto chặn.",
+  "observed_poll": {
+    "from_cursor": 166,
+    "to_cursor": 166,
+    "returned_count": 0,
+    "message_ids": [],
+    "hasMore": false,
+    "sync": {
+      "connected": true,
+      "complete": false,
+      "gaps": [
+        {
+          "from": 1794142922988,
+          "to": 1794142928681
+        }
+      ]
+    }
+  },
+  "state_patch": {
+    "cursor": 166,
+    "sync_complete": false,
+    "pending_updates": [
+      {
+        "message_id": "8465476122635",
+        "status": "uncertain_sync_incomplete",
+        "thread_id": "5049425754926522263",
+        "reason": "Lịch sử TESTBOT chưa thấy phản hồi phù hợp; không kết luận unanswered do sync có gap."
+      },
+      {
+        "message_id": "8465632224961",
+        "status": "resolved_human_replied",
+        "thread_id": "3573310846900104466",
+        "reply_message_id": "8465669028984",
+        "reason": "Victor gửi ảnh phiếu xuất và nhắn “a gửi e nhé” trong cùng nhóm."
+      }
+    ]
+  },
+  "audit_append": [
+    {
+      "message_id": "8465476122635",
+      "thread_id": "5049425754926522263",
+      "thread_name": "TESTBOT",
+      "sync_complete": false,
+      "result": "uncertain",
+      "reply_message_id": null,
+      "match_basis": "Lịch sử hiện có chưa thấy trả lời phù hợp; gap đồng bộ nên chưa kết luận unanswered.",
+      "internal_reason_unavailable": true
+    },
+    {
+      "message_id": "8465632224961",
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "sync_complete": false,
+      "result": "human_replied",
+      "reply_message_id": "8465669028984",
+      "match_basis": "Victor gửi phiếu xuất và nhắn “a gửi e nhé” trong cùng nhóm."
+    }
+  ],
+  "files": [
+    "Javis/state/luna-zalo-monitor.json",
+    "Javis/state/luna-zalo-audit.jsonl"
+  ]
+}

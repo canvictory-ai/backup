@@ -1,0 +1,24 @@
+{
+  "proposed_checkpoint_only": true,
+  "source_state": "Javis/state/luna-zalo-monitor.json",
+  "from_cursor": 143,
+  "to_cursor": 147,
+  "returned_count": 4,
+  "message_ids": ["8465467109738", "8465467585289", "8465471631817", "8465476122635"],
+  "hasMore": false,
+  "sync": {"connected": true, "complete": true, "gaps": []},
+  "classifications": {
+    "8465467109738": "isSelf=true; outgoing Luna message recorded for reconciliation only",
+    "8465467585289": "isSelf=true; outgoing Luna message recorded for reconciliation only",
+    "8465471631817": "reaction event",
+    "8465476122635": "new in-scope request; pending listener check"
+  },
+  "pending_messages_append": {
+    "message_id": "8465476122635",
+    "thread_id": "5049425754926522263",
+    "first_seen": "2026-11-08T08:51:56Z",
+    "status": "pending_listener_check",
+    "reason": "Chủ hỏi mã thay thế cho vật tư Brother trong TESTBOT; cần kiểm tra lịch sử ở vòng sau để xác minh listener đã trả lời hay chưa. Loop không phản hồi."
+  },
+  "note": "Checkpoint file could not be updated: hub denied writes to Javis/state under auto permission. Do not treat this draft as the active checkpoint."
+}

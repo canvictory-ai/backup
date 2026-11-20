@@ -1,0 +1,67 @@
+{
+  "created_at": "2026-11-08T09:39:51.984Z",
+  "reason": "Quyền auto không cho ghi trực tiếp Javis/state; đây là bản cập nhật dự kiến sau poll và đối chiếu lịch sử.",
+  "state_update": {
+    "cursor": 160,
+    "connection": {
+      "name": "Luna Vũ",
+      "status": "ok",
+      "sync_complete": true
+    },
+    "last_poll": {
+      "at": "2026-11-08T09:39:51.984Z",
+      "from_cursor": 159,
+      "to_cursor": 160,
+      "returned_count": 1,
+      "message_ids": [
+        "8465593543352"
+      ],
+      "classifications": {
+        "8465593543352": "human_replied_pending_order_delivery_confirmed"
+      },
+      "hasMore": false,
+      "sync": {
+        "connected": true,
+        "complete": true,
+        "gaps": []
+      }
+    },
+    "pending_changes": [
+      {
+        "message_id": "8465572349720",
+        "status": "resolved_human_replied",
+        "reply_message_id": "8465593543352",
+        "reason": "Victor xác nhận đã giao hàng, trả lời trực tiếp tin cập nhật đơn 8465582743640; số lượng cập nhật được xác nhận."
+      },
+      {
+        "message_id": "8465582743640",
+        "status": "resolved_human_replied",
+        "reply_message_id": "8465593543352",
+        "reason": "Victor trả lời trực tiếp: ok đã giao."
+      },
+      {
+        "message_id": "8465476122635",
+        "status": "unanswered",
+        "reason": "Tin hỏi tra mã thay thế chưa có phản hồi sau đó gắn đúng mạch trong TESTBOT."
+      },
+      {
+        "message_id": "8465567670383",
+        "status": "unanswered",
+        "reason": "Hỏi giá 136A trong TESTBOT chưa có phản hồi cùng nhóm; tin trả lời ở nhóm PDC không cùng mạch."
+      }
+    ],
+    "notes": "Poll 159→160 trả 1 tin; hasMore=false, sync.complete=true, gaps=[]. Lịch sử PDC xác nhận Victor đã giao đơn theo số lượng cập nhật. TESTBOT còn hai tin chưa được xử lý; không gửi tin hay chuyển đơn."
+  },
+  "audit_append": [
+    {
+      "message_id": "8465593543352",
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "observed_at": "2026-11-08T09:39:51.984Z",
+      "sync_complete": true,
+      "result": "human_replied",
+      "reply_message_id": "8465582743640",
+      "match_basis": "Lịch sử cùng nhóm cho thấy Victor trả lời trực tiếp tin cập nhật đơn 8465582743640: “ok e a giao rồi nhé”; hoàn tất đối soát đơn."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "round_at": "2026-11-09T00:00:00Z",
+  "cursor_start": 166,
+  "cursor_end": 166,
+  "returned_count": 0,
+  "hasMore": false,
+  "sync": {
+    "connected": true,
+    "complete": false,
+    "gaps": [
+      {
+        "from": 1794142922988,
+        "to": 1794142928681
+      }
+    ],
+    "note": "Zalo báo có khoảng mất kết nối và replay không bao phủ; không thể kết luận không có tin trong khoảng đó."
+  },
+  "canonical_cursor_kept": 166,
+  "followup_checks": [
+    {
+      "message_id": "8465476122635",
+      "thread_id": "5049425754926522263",
+      "status": "unanswered",
+      "evidence": "Lịch sử được lấy đến message 8470462392583 nhưng sync.complete=false, gaps tồn tại; chưa xác minh được phản hồi do thiếu dữ liệu lịch sử."
+    },
+    {
+      "message_id": "8465632224961",
+      "thread_id": "3573310846900104466",
+      "status": "resolved_human_replied",
+      "reply_message_ids": [
+        "8465668579329",
+        "8465669028984",
+        "8467564135320",
+        "8467564362667"
+      ],
+      "evidence": "Victor gửi ảnh phiếu và nhắn 'a gửi e nhé'; sau đó Phương gửi PDC.pdf và 'E gửi px nhé!'."
+    }
+  ],
+  "price_group": {
+    "thread_id": "3345965267368578027",
+    "history_count": 4,
+    "sync_complete": true,
+    "price_updates": 0,
+    "observed_price_messages": [
+      {
+        "message_id": "8470457099582",
+        "text": "Thanh nhiệt a3 giá 250k",
+        "status": "not_updated",
+        "reason": "Chưa nêu đơn vị."
+      },
+      {
+        "message_id": "8470457661742",
+        "text": "Bao lụa a3 bóc máy giá 450k",
+        "status": "not_updated",
+        "reason": "Chưa nêu đơn vị."
+      }
+    ]
+  },
+  "notes": "Poll không trả tin mới, cursor giữ 166 do sync không đầy đủ. Lịch sử Báo giá Luna đầy đủ nhưng hai tin giá thiếu đơn vị nên chưa đủ điều kiện cập nhật Excel/wiki. Không gửi tin, không chuyển đơn."
+}

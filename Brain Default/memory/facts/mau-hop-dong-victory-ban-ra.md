@@ -1,8 +1,8 @@
 ---
-type: preference
+type: decision
 provenance: user
 origin: javis-learned
-created: 2026-10-21
-updated: 2026-10-21
+created: 2026-11-17
+updated: 2026-11-17
 ---
-Khi Victory là bên bán, dùng mẫu hợp đồng bán ra đã lưu. Để tiêu đề “ĐIỀU 2: THANH TOÁN” và nội dung thanh toán chữ thường, không in đậm, theo bố cục các điều khoản khác. Giữ định dạng mẫu đã chốt: Times New Roman, chữ màu đen, tiêu đề “HỢP ĐỒNG KINH TẾ” cỡ 18 pt và bỏ đánh dấu chân trang.
+Người dùng xác nhận mẫu hợp đồng hiện tại đã hoàn chỉnh và muốn dùng cho các hợp đồng sau. Các mẫu hợp đồng mua bán trước đó cùng phạm vi cần được xóa để tránh trùng lặp, xung đột. Mẫu hợp đồng nguyên tắc và hợp đồng vận chuyển là loại khác, không thuộc yêu cầu xóa này.

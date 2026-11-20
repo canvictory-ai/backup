@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, máy-in, xử-lý-sự-cố]
 created: 2026-10-20
-updated: 2026-11-01
+updated: 2026-11-20
 source: "[[Tài liệu hãng về lỗi cơ bản máy in phun và laser]]"
 aliases: [Lỗi máy in thường gặp, Lỗi cơ bản máy in]
 ---
@@ -72,33 +72,13 @@ Cập nhật theo yêu cầu chủ ngày 31/10/2026. Đây là hướng dẫn ti
 
 ## Cụm sấy này lỗi do cái gì
 
-Các cách hỏi tương đương: cụm sấy bị lỗi gì, cụm sấy này hỏng do đâu, lỗi bộ sấy, màng sấy rách, lô sấy hỏng, máy in sống mực, mực không bám giấy, xem ảnh cụm sấy, bắt bệnh theo video. Theo phân công Zalo hiện hành, Luna Vũ nhận cả câu hỏi kỹ thuật và báo giá; không chuyển câu hỏi kỹ thuật sang agent Victory riêng. [[memory/facts/luna-phu-trach-ca-ky-thuat-zalo]]
+Các cách hỏi tương đương: cụm sấy bị lỗi gì, cụm sấy này hỏng do đâu, lỗi bộ sấy, màng sấy rách, lô sấy hỏng, máy in sống mực, mực không bám giấy, xem ảnh cụm sấy, bắt bệnh theo video.
 
 Khi khách hỏi “Cụm sấy này lỗi do cái gì”, xem ảnh/video và ngữ cảnh liền trước nếu có. Chỉ mô tả dấu hiệu nhìn thấy, không suy ra chắc chắn nguyên nhân gốc khi thiếu model và kiểm tra thực tế. Nếu chưa có ảnh rõ hoặc model, trả lời trực tiếp: “Anh cho em xin model máy và ảnh rõ phần cụm sấy bị lỗi nhé.” Có ảnh thì hỏi đúng chi tiết còn thiếu. Không im lặng chỉ vì tài liệu chưa có câu trả lời khớp.
 
 Khi đủ model/triệu chứng, dùng công cụ tra tài liệu kỹ thuật phù hợp để kiểm chứng. Không tự khẳng định linh kiện hỏng, không bịa kết quả kiểm tra, không hướng dẫn tháo cụm nhiệt/điện khi chưa có căn cứ phù hợp.
 
-Giữ đúng giới hạn nhóm đã được chủ cho phép. Trong Zalo, Luna là agent xử lý duy nhất cho cả kỹ thuật lẫn bán hàng. Không lời dẫn “Mình sẽ tra”, không link, không ký hiệu [[...]] trong tin trả lời.
+## Quy tắc phản hồi Zalo
 
-## Quy trình kỹ thuật hiện hành — cập nhật 01/11/2026
-
-Áp dụng cho Luna khi nhận yêu cầu kỹ thuật thật trong nhóm đã cho phép. BẮT BUỘC phản hồi, không \[IM\_LANG\], không kết thúc rỗng vì chưa biết đáp án, thiếu tài liệu nội bộ, thiếu model hoặc chưa chắc nguyên nhân. Bộ phán xử phải cho yêu cầu kỹ thuật vào xử lý để Luna tra cứu/hỏi rõ, không dùng việc thiếu tài liệu để chặn. [[memory/facts/luna-phu-trach-ca-ky-thuat-zalo]]  
-Nếu dữ liệu nội bộ thiếu hoặc chưa đủ: bắt buộc tìm trên mạng bằng công cụ tìm kiếm/đọc trang có sẵn ngay trong lượt. Ưu tiên nguồn chính hãng đúng model; chỉ tìm thông tin kỹ thuật cần thiết, không đưa dữ liệu riêng của khách vào truy vấn. Không nói đã tra mạng khi chưa thực hiện. Nếu công cụ tra lỗi hoặc chưa tìm được nguồn đáng tin, vẫn phản hồi ngắn: nêu giới hạn, hỏi một chi tiết cần thiết hoặc mời gửi máy kiểm tra; không im lặng.  
-Được trả lời dạng dự đoán có điều kiện từ triệu chứng/ảnh/video: dùng “Có thể…”, “Khả năng…”, “Em dự đoán…”. Nêu 1–3 khả năng phù hợp, không biến dự đoán thành kết luận chắc chắn, không bịa model/thông số/kết quả đo. Thiếu model quan trọng thì hỏi rõ nhưng vẫn phản hồi trong lượt.  
-Trong Zalo khi trả lời về lỗi, chỉ nêu khu vực có khả năng liên quan, không hướng dẫn cách xử lý. Nêu rõ mức độ chắc chắn và khi nào cần kiểm tra trực tiếp; không bịa địa chỉ, lịch hẹn, phí sửa hoặc bảo hành. Nếu thiếu model/triệu chứng, hỏi ngắn đúng dữ kiện còn thiếu.  
-Không lời dẫn “Mình sẽ tra…”/“Mình sẽ dựa trên…”, không gửi URL/link/trích dẫn [[...]]; tra cứu âm thầm rồi chỉ gửi câu trả lời cuối. Quy tắc không im lặng chỉ áp dụng yêu cầu kỹ thuật thật trong nhóm được phép. Với giá/tồn kho/đặt/giao hàng thuần túy, tin bot khác hoặc chuyện ngoài phạm vi vẫn im để Luna xử lý; không mở rộng nhóm được trả lời.
-
-## Không bỏ khách và nhờ chủ xử lý ca khó — ưu tiên cao nhất, 31/10/2026
-
-Mọi yêu cầu kỹ thuật thật của khách trong nhóm được phép đều phải có phản hồi cuối, tuyệt đối không im lặng/\[IM\_LANG\] vì chưa biết, khó, thiếu thông tin, thiếu tài liệu hoặc tra mạng chưa ra. Thiếu dữ liệu thì hỏi rõ; có cơ sở thì dự đoán có điều kiện; tra cứu không giải quyết được, ca quá khó hoặc cần người chịu trách nhiệm thì trả lời ngắn, tự nhiên: “Ca này em chưa đủ căn cứ để hướng dẫn tiếp. Nhờ anh @Victor Vu - Vũ Đức Cẩn hỗ trợ xử lý giúp em nhé.” Kèm tóm tắt rất ngắn triệu chứng và những bước khách đã thử nếu đã biết; không bịa.  
-Chủ là Victor Vu - Vũ Đức Cẩn (Victor Vũ). Khi nhờ chủ, phải dùng mention thật của đúng thành viên này trong chính nhóm nếu công cụ hỗ trợ: tra danh sách/thông tin thành viên để xác minh, không tự đoán ID, không tag người trùng tên hoặc bot. Nếu chưa xác định được mention thật, vẫn gửi lời nhờ “Nhờ anh Victor Vũ hỗ trợ xử lý giúp em nhé”, hỏi chủ cung cấp đúng tài khoản khi cần; không tuyên bố đã tag nếu chỉ ghi tên bằng chữ. Không nhắn riêng hay chuyển tiếp sang nhóm khác để nhờ hỗ trợ nếu chưa được phép.  
-Nếu khách đã thử nhưng chưa xử lý được hoặc cần đo kiểm thực tế, đề nghị gửi máy về công ty để kỹ thuật kiểm tra trực tiếp; ca khó có thể vừa nhờ chủ vừa đề nghị gửi máy, diễn đạt gọn, không lặp máy móc. Không tự cam kết phí/lịch sửa hay địa chỉ chưa có căn cứ. Giữ trả lời tóm tắt, văn phong tự nhiên, dự đoán “Bệnh này có thể là…”, không lời dẫn tra cứu, không link hoặc [[...]].  
-Quy định luôn phản hồi áp dụng cho câu hỏi kỹ thuật thật của Luna trong các nhóm được phép. Tin bot khác và chuyện trò không yêu cầu hỗ trợ không cần phản hồi.
-
-## Mention chủ đúng đường gửi tự động — ưu tiên cao nhất
-Khi cần nhờ chủ, câu trả lời cuối phải dùng nguyên tên đầy đủ @Victor Vu - Vũ Đức Cẩn. Javis tự đổi tên đầy đủ khớp danh bạ nhóm thành metadata mention thật. Không dùng tên rút gọn; không gọi công cụ gửi thêm một bản tin trùng. Mẫu dùng chung cho Luna: “Nhờ sếp kiểm tra giúp em @Victor Vu - Vũ Đức Cẩn”.
-
-## Mâu thuẫn và quyết định đã chốt
-
-Các ghi chú kỹ thuật cũ giao Victory Computer/Tư vấn Kỹ thuật trả lời và cho phép gợi ý bước xử lý an toàn. Chủ đã chuyển toàn bộ phần này cho Luna trong workflow Zalo từ 01/11/2026, đồng thời yêu cầu khi trả lời lỗi chỉ nêu vị trí/khu vực có thể liên quan, không hướng dẫn xử lý. Giữ kiến thức kỹ thuật theo model làm nội dung tham khảo, còn phân công và cách trả lời cũ chỉ là lịch sử. [[memory/facts/luna-phu-trach-ca-ky-thuat-zalo]]
+Phạm vi và cách phản hồi hiện hành của Luna được quy định duy nhất trong [[agents/luna-vu]]. Các hướng dẫn vận hành cũ từng nằm trong trang kiến thức này đã được gỡ; phần còn lại chỉ là tài liệu kỹ thuật tham khảo.
 

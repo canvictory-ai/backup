@@ -1,102 +1,127 @@
-  1|# Wiki Log
-  2|
-  3|Time-ordered log (append-only). Each entry: `## [YYYY-MM-DD] kind | title` (kind: init/ingest/update/query/lint/migrate).
-  4|
-  5|## [2026-10-14] ingest | Thông tin Công ty Victory Việt Nam
-  6|
-  7|- Source: [[Thông Tin Công Ty Victory Việt Nam]] (ghi chú do người dùng cung cấp).
-  8|- Tạo: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
-  9|- Insight: tập hợp thông tin pháp nhân, thanh toán và đầu mối liên hệ trong một trang tra cứu; dữ liệu chưa được xác minh độc lập.
- 10|
- 11|## [2026-10-14] ingest | Thông tin nhận hàng và nhà xe Victory Việt Nam
- 12|
- 13|- Source: [[Thông Tin Nhan Hang Va Nha Xe Victory Viet Nam]] (ghi chú do người dùng cung cấp).
- 14|- Cập nhật: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
- 15|- Ghi nhận thông tin nhận hàng, hai điểm nhà xe Đắc Hùng và mâu thuẫn địa chỉ cần người dùng xác minh.
- 16|
- 17|## [2026-10-14] update | Làm rõ địa chỉ hồ sơ và địa chỉ nhận hàng
- 18|
- 19|- Source: [[Giai Thich Dia Chi Ho So Va Nhan Hang]] (lời giải thích do người dùng cung cấp).
- 20|- Cập nhật: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
- 21|- Phân biệt địa chỉ mới dùng cho hồ sơ với cách ghi địa chỉ cũ chỉ để nhận diện điểm nhận hàng; bỏ câu hỏi xác minh địa chỉ khỏi danh sách mở.
- 22|
- 23|## [2026-10-14] ingest | Báo giá Victory T10 2026
- 24|
- 25|- Source: [[Báo Giá Victory T10 2026]] (trích xuất từ workbook người dùng gửi).
- 26|- Tạo: [[Đề nghị mua hàng IT tháng 10 năm 2026]].
- 27|- Insight: workbook chứa đề nghị mua 9 mặt hàng IT, không có đơn giá; tên tệp/ngữ cảnh YSS chưa khớp rõ với nội dung sheet.
- 28|
- 29|## [2026-10-14] update | Xóa file gửi nhầm của YSS
- 30|
- 31|- Theo yêu cầu người dùng, xóa source và trang Wiki phát sinh từ workbook gửi nhầm; gỡ mục khỏi chỉ mục và câu hỏi mở liên quan. Bản ghi cũ trong log được giữ nguyên để làm lịch sử.
- 32|
- 33|## [2026-10-15] ingest | Danh sách khách hàng Victory
- 34|
- 35|- Source: [[Danh sach khach hang Victory]] (workbook do người dùng cung cấp).
- 36|- Tạo: [[Danh sách khách hàng Victory]].
- 37|- Ghi nhận dữ liệu khách hàng để tra cứu theo tên pháp lý, mã số thuế và thông tin liên hệ.
- 38|
- 39|## [2026-10-16] ingest | Quy cách mẫu báo giá dùng chung Victory
- 40|
- 41|- Sources: [[Mau Bao Gia Chuyen Nghiep Victory Artiverse]] (mẫu PDF ban đầu) và [[Cap Nhat Quy Cach Bao Gia Victory 2026-10-16]] (các cập nhật trực tiếp của người dùng).
- 42|- Tạo: [[Mẫu Báo Giá Dùng Chung Victory]].
- 43|- Ghi nhận mẫu tái sử dụng, quy tắc song ngữ, ảnh sản phẩm nền trong suốt, dòng phí vận chuyển và bộ logo đối tác theo yêu cầu gần nhất.
- 44|
- 45|## [2026-10-16] update | Mặc định hiệu lực và người liên hệ báo giá Victory
- 46|
- 47|- Source: [[Mac Dinh Hieu Luc Va Nguoi Lien He Bao Gia Victory 2026-10-16]].
- 48|- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]] và mẫu HTML dùng chung.
- 49|- Áp dụng mặc định hiệu lực 7 ngày và người liên hệ Phòng mua hàng; cập nhật báo giá Artiverse hiện tại.
- 50|
- 51|## [2026-10-16] ingest | Báo giá Artiverse làm ví dụ cho mẫu Victory
- 52|
- 53|- Source: [[Bao Gia Artiverse VIC-2-2026]]; tệp báo giá HTML hiện hành được liên kết trong source.
- 54|- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]].
- 55|- Insight: lưu báo giá Artiverse như ví dụ áp dụng; thông tin giao dịch không trở thành mặc định cho khách hàng khác.
- 56|
- 57|## [2026-10-17] ingest | Luật Doanh nghiệp và Luật Thuế giá trị gia tăng
- 58|
- 59|- Sources: [[Luat Doanh nghiep 59 2020 va sua doi]] và [[Luat Thue gia tri gia tang 48 2024 va sua doi]], gồm liên kết văn bản chính thức.
- 60|- Tạo: [[Luật Doanh nghiệp Việt Nam]] và [[Luật Thuế giá trị gia tăng Việt Nam]].
- 61|- Ghi nhận bản đồ tra cứu có dẫn nguồn; VAT được cập nhật theo sửa đổi 09/2026/QH16. Đây không phải bản hợp nhất toàn văn hay tư vấn cho hồ sơ cụ thể.
- 62|
- 63|## [2026-10-17] ingest | Xác nhận mẫu báo giá Victory sau khi khôi phục
- 64|
- 65|- Source: [[Xac Nhan Mau Bao Gia Victory 2026-10-17]] (người dùng xác nhận tệp HTML hiện hành là mẫu chuẩn).
- 66|- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]] và [[index]].
- 67|- Ghi nhận: mẫu HTML đã duyệt có trường địa chỉ giao hàng khách hàng và ghi chú phí vận chuyển song ngữ; xác nhận này không biến các điều khoản thương mại khác thành mặc định.
- 68|
- 69|## [2026-10-18] ingest | tự học từ chat
- 70|
- 71|Đã tạo:
- 72|- [[Chia sẻ kho tri thức qua bot Zalo nhóm]]
- 73|
- 74|## [2026-10-18] ingest | Danh sách hàng hóa dịch vụ
- 75|
- 76|- Source: [[inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx]] (workbook người dùng gửi; giữ nguyên bản gốc).
- 77|- Tạo: [[Danh Mục Hàng Hóa Dịch Vụ]].
- 78|- Chưng cất 3.491 dòng gồm mã, tên hàng hóa/dịch vụ, đơn vị tính chính và thuế suất GTGT nếu có. Ghi quy tắc ưu tiên tên chuẩn và đối chiếu mã, tên gần giống, model/cấu hình; hỏi khi còn nhiều ứng viên không phân biệt được.
- 79|
- 80|## [2026-10-18] update | Thuế suất GTGT danh mục hàng hóa
- 81|
- 82|- Source: [[Xac Nhan Thue Suat Hang Hoa 2026-10-18]] (xác nhận trực tiếp của người dùng).
- 83|- Cập nhật: [[Danh Mục Hàng Hóa Dịch Vụ]] và [[index]].
- 84|- Áp dụng mức mặc định 8% cho toàn bộ 3.491 mặt hàng; các mức 10% trong workbook được ghi nhận là dữ liệu cũ. Workbook gốc không bị sửa.
- 85|
- 86|## [2026-10-18] ingest | Luật Đất đai Việt Nam
- 87|
- 88|- Sources: [[Luat Dat dai va van ban chinh thuc den 2026-10-18]], gồm Luật 31/2024/QH15, Luật 43/2024/QH15, văn bản hợp nhất 46/VBHN-BNNMT, Nghị quyết 254/2025/QH15, Nghị định 49/2026/NĐ-CP, 50/2026/NĐ-CP, Nghị quyết 29/2026/QH16 và nguồn về các mốc sửa đổi tương lai.
- 89|- Tạo: [[Luật Đất đai Việt Nam]]; cập nhật [[index]].
- 90|- Insight: dùng Luật 31 làm khung nhưng phải kiểm tra sửa đổi, quy định chi tiết, chuyển tiếp và văn bản địa phương; tách rõ Luật 21/2026/QH16 (hiệu lực 01/01/2027) và kế hoạch sửa luật khỏi quy định đang có hiệu lực.
- 91|- Phạm vi: bản đồ tra cứu khái quát, chưa phải bản hợp nhất toàn văn hay kết luận cho hồ sơ cụ thể.
- 92|
- 93|## [2026-10-18] update | Xóa trang Luật Đất đai theo yêu cầu người dùng
- 94|
- 95|- Theo yêu cầu người dùng, gỡ trang tri thức khỏi Wiki, chỉ mục và câu hỏi mở; xóa đoạn tư vấn luật đất đai khỏi bộ nhớ hội thoại có thể truy xuất.
- 96|- Giữ nguyên lịch sử nhật ký và file trong `sources/` theo quy ước nguồn thô bất biến.
- 97|
- 98|## [2026-10-18] ingest | Mẫu hợp đồng nguyên tắc mua bán hàng hóa
- 99|
+# Wiki Log
+
+Time-ordered log (append-only). Each entry: `## [YYYY-MM-DD] kind | title` (kind: init/ingest/update/query/lint/migrate).
+
+## [2026-11-19] update | Luna chỉ trực Zalo và hỗ trợ kỹ thuật
+
+- Theo yêu cầu mới nhất của chủ, giữ cho Luna duy nhất nhiệm vụ trực Zalo và trả lời vấn đề kỹ thuật; gỡ việc báo giá, xử lý/chuyển đơn, gửi thông tin hỗ trợ chung và việc nội bộ khỏi phạm vi hiện hành.
+- Ghi nhận loop chuyển đơn đã bị xóa; cập nhật hồ sơ agent, bộ phán xử và [[Phạm vi công việc của bot Luna trên Zalo]].
+
+## [2026-11-19] update | Cách Luna tra cứu và trả lời kỹ thuật
+
+- Theo yêu cầu mới nhất, trước mỗi câu trả lời kỹ thuật Luna tra cứu nguồn trực tuyến đáng tin cậy, ưu tiên thông tin sát model/tình huống; diễn đạt tự nhiên, không nhắc việc tra cứu hoặc gửi link, không đưa suy luận vào câu trả lời.
+- Đồng bộ hướng dẫn agent, hồ sơ bộ phán xử, Wiki và memory. Nếu chưa đủ căn cứ, Luna hỏi chi tiết còn thiếu hoặc nói rõ chưa xác định được.
+
+## [2026-11-19] update | Học phản biện và nêu dự đoán có điều kiện
+
+- Theo bổ sung mới nhất của chủ, Luna kiểm chứng phản biện trong nhóm; chỉ lưu câu trả lời xác nhận đúng vào Wiki kèm nguồn/ngữ cảnh để dùng lại.
+- Khi chưa có câu trả lời chuẩn, Luna được nêu nguyên nhân khả dĩ dựa trên dấu hiệu thực tế nếu nói rõ đó là dự đoán, không trình bày như sự thật. Đồng bộ agent, hồ sơ bộ phán xử, Wiki và memory.
+
+## [2026-11-19] update | Không trích nguồn trong tin kỹ thuật gửi khách
+
+- Làm rõ rằng Luna dùng nguồn trực tuyến để kiểm chứng, nhưng tin gửi khách phải tự nhiên như kiến thức đã nắm, không có trích dẫn, tên nguồn, link tham khảo hay lời nhắc đã tra cứu.
+- Cập nhật hồ sơ agent, bộ phán xử, Wiki và memory.
+
+## [2026-11-19] update | Không hứa tra cứu trong tin gửi khách
+
+- Theo yêu cầu mới nhất, không đưa câu “em sẽ tra mã/tìm hiểu rồi báo lại” vào tin khách. Tra cứu phải hoàn tất trước khi trả lời; câu gửi khách chỉ nêu nội dung kỹ thuật cần thiết.
+- Đồng bộ hồ sơ agent, bộ phán xử, Wiki và memory.
+
+## [2026-10-14] ingest | Thông tin Công ty Victory Việt Nam
+
+- Source: [[Thông Tin Công Ty Victory Việt Nam]] (ghi chú do người dùng cung cấp).
+- Tạo: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
+- Insight: tập hợp thông tin pháp nhân, thanh toán và đầu mối liên hệ trong một trang tra cứu; dữ liệu chưa được xác minh độc lập.
+
+## [2026-10-14] ingest | Thông tin nhận hàng và nhà xe Victory Việt Nam
+
+- Source: [[Thông Tin Nhan Hang Va Nha Xe Victory Viet Nam]] (ghi chú do người dùng cung cấp).
+- Cập nhật: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
+- Ghi nhận thông tin nhận hàng, hai điểm nhà xe Đắc Hùng và mâu thuẫn địa chỉ cần người dùng xác minh.
+
+## [2026-10-14] update | Làm rõ địa chỉ hồ sơ và địa chỉ nhận hàng
+
+- Source: [[Giai Thich Dia Chi Ho So Va Nhan Hang]] (lời giải thích do người dùng cung cấp).
+- Cập nhật: [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]].
+- Phân biệt địa chỉ mới dùng cho hồ sơ với cách ghi địa chỉ cũ chỉ để nhận diện điểm nhận hàng; bỏ câu hỏi xác minh địa chỉ khỏi danh sách mở.
+
+## [2026-10-14] ingest | Báo giá Victory T10 2026
+
+- Source: [[Báo Giá Victory T10 2026]] (trích xuất từ workbook người dùng gửi).
+- Tạo: [[Đề nghị mua hàng IT tháng 10 năm 2026]].
+- Insight: workbook chứa đề nghị mua 9 mặt hàng IT, không có đơn giá; tên tệp/ngữ cảnh YSS chưa khớp rõ với nội dung sheet.
+
+## [2026-10-14] update | Xóa file gửi nhầm của YSS
+
+- Theo yêu cầu người dùng, xóa source và trang Wiki phát sinh từ workbook gửi nhầm; gỡ mục khỏi chỉ mục và câu hỏi mở liên quan. Bản ghi cũ trong log được giữ nguyên để làm lịch sử.
+
+## [2026-10-15] ingest | Danh sách khách hàng Victory
+
+- Source: [[Danh sach khach hang Victory]] (workbook do người dùng cung cấp).
+- Tạo: [[Danh sách khách hàng Victory]].
+- Ghi nhận dữ liệu khách hàng để tra cứu theo tên pháp lý, mã số thuế và thông tin liên hệ.
+
+## [2026-10-16] ingest | Quy cách mẫu báo giá dùng chung Victory
+
+- Sources: [[Mau Bao Gia Chuyen Nghiep Victory Artiverse]] (mẫu PDF ban đầu) và [[Cap Nhat Quy Cach Bao Gia Victory 2026-10-16]] (các cập nhật trực tiếp của người dùng).
+- Tạo: [[Mẫu Báo Giá Dùng Chung Victory]].
+- Ghi nhận mẫu tái sử dụng, quy tắc song ngữ, ảnh sản phẩm nền trong suốt, dòng phí vận chuyển và bộ logo đối tác theo yêu cầu gần nhất.
+
+## [2026-10-16] update | Mặc định hiệu lực và người liên hệ báo giá Victory
+
+- Source: [[Mac Dinh Hieu Luc Va Nguoi Lien He Bao Gia Victory 2026-10-16]].
+- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]] và mẫu HTML dùng chung.
+- Áp dụng mặc định hiệu lực 7 ngày và người liên hệ Phòng mua hàng; cập nhật báo giá Artiverse hiện tại.
+
+## [2026-10-16] ingest | Báo giá Artiverse làm ví dụ cho mẫu Victory
+
+- Source: [[Bao Gia Artiverse VIC-2-2026]]; tệp báo giá HTML hiện hành được liên kết trong source.
+- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]].
+- Insight: lưu báo giá Artiverse như ví dụ áp dụng; thông tin giao dịch không trở thành mặc định cho khách hàng khác.
+
+## [2026-10-17] ingest | Luật Doanh nghiệp và Luật Thuế giá trị gia tăng
+
+- Sources: [[Luat Doanh nghiep 59 2020 va sua doi]] và [[Luat Thue gia tri gia tang 48 2024 va sua doi]], gồm liên kết văn bản chính thức.
+- Tạo: [[Luật Doanh nghiệp Việt Nam]] và [[Luật Thuế giá trị gia tăng Việt Nam]].
+- Ghi nhận bản đồ tra cứu có dẫn nguồn; VAT được cập nhật theo sửa đổi 09/2026/QH16. Đây không phải bản hợp nhất toàn văn hay tư vấn cho hồ sơ cụ thể.
+
+## [2026-10-17] ingest | Xác nhận mẫu báo giá Victory sau khi khôi phục
+
+- Source: [[Xac Nhan Mau Bao Gia Victory 2026-10-17]] (người dùng xác nhận tệp HTML hiện hành là mẫu chuẩn).
+- Cập nhật: [[Mẫu Báo Giá Dùng Chung Victory]] và [[index]].
+- Ghi nhận: mẫu HTML đã duyệt có trường địa chỉ giao hàng khách hàng và ghi chú phí vận chuyển song ngữ; xác nhận này không biến các điều khoản thương mại khác thành mặc định.
+
+## [2026-10-18] ingest | tự học từ chat
+
+Đã tạo:
+- [[Chia sẻ kho tri thức qua bot Zalo nhóm]]
+
+## [2026-10-18] ingest | Danh sách hàng hóa dịch vụ
+
+- Source: [[inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx]] (workbook người dùng gửi; giữ nguyên bản gốc).
+- Tạo: [[Danh Mục Hàng Hóa Dịch Vụ]].
+- Chưng cất 3.491 dòng gồm mã, tên hàng hóa/dịch vụ, đơn vị tính chính và thuế suất GTGT nếu có. Ghi quy tắc ưu tiên tên chuẩn và đối chiếu mã, tên gần giống, model/cấu hình; hỏi khi còn nhiều ứng viên không phân biệt được.
+
+## [2026-10-18] update | Thuế suất GTGT danh mục hàng hóa
+
+- Source: [[Xac Nhan Thue Suat Hang Hoa 2026-10-18]] (xác nhận trực tiếp của người dùng).
+- Cập nhật: [[Danh Mục Hàng Hóa Dịch Vụ]] và [[index]].
+- Áp dụng mức mặc định 8% cho toàn bộ 3.491 mặt hàng; các mức 10% trong workbook được ghi nhận là dữ liệu cũ. Workbook gốc không bị sửa.
+
+## [2026-10-18] ingest | Luật Đất đai Việt Nam
+
+- Sources: [[Luat Dat dai va van ban chinh thuc den 2026-10-18]], gồm Luật 31/2024/QH15, Luật 43/2024/QH15, văn bản hợp nhất 46/VBHN-BNNMT, Nghị quyết 254/2025/QH15, Nghị định 49/2026/NĐ-CP, 50/2026/NĐ-CP, Nghị quyết 29/2026/QH16 và nguồn về các mốc sửa đổi tương lai.
+- Tạo: [[Luật Đất đai Việt Nam]]; cập nhật [[index]].
+- Insight: dùng Luật 31 làm khung nhưng phải kiểm tra sửa đổi, quy định chi tiết, chuyển tiếp và văn bản địa phương; tách rõ Luật 21/2026/QH16 (hiệu lực 01/01/2027) và kế hoạch sửa luật khỏi quy định đang có hiệu lực.
+- Phạm vi: bản đồ tra cứu khái quát, chưa phải bản hợp nhất toàn văn hay kết luận cho hồ sơ cụ thể.
+
+## [2026-10-18] update | Xóa trang Luật Đất đai theo yêu cầu người dùng
+
+- Theo yêu cầu người dùng, gỡ trang tri thức khỏi Wiki, chỉ mục và câu hỏi mở; xóa đoạn tư vấn luật đất đai khỏi bộ nhớ hội thoại có thể truy xuất.
+- Giữ nguyên lịch sử nhật ký và file trong `sources/` theo quy ước nguồn thô bất biến.
+
+## [2026-10-18] ingest | Mẫu hợp đồng nguyên tắc mua bán hàng hóa
+
 - Source: [[Mau Hop Dong Nguyen Tac Mua Ban Hang Hoa]]; bản DOC gốc được bảo toàn tại `sources/`.
 - Source: [[Quy Tac Lap Hop Dong Victory 2026-10-18]] (quy tắc lập ngày, số hợp đồng, trường khách hàng và hạn cuối năm do người dùng đưa).
 - Tạo: [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]]; cập nhật [[index]].
@@ -223,7 +248,6 @@
 
 - Người dùng yêu cầu ghi nhớ giá được báo trong nhóm để dùng tham khảo chung khi khách ở các nhóm hỏi.
 - Tạo [[Giá tham khảo từ nhóm Zalo]] và cập nhật [[index]]. Lưu giá kèm mặt hàng, đơn/ngữ cảnh và thread/message ID để đối chiếu.
-- Quy tắc áp dụng: nếu một mặt hàng có nhiều lần báo giá, ưu tiên mức gần nhất phù hợp; giữ rõ khác biệt theo đơn/cấu hình và không dùng mục chưa đủ ngữ cảnh để báo giá.
 
 ## [2026-10-23] ingest | HP LaserJet Pro M404dn jam error codes
 - Nguồn chính hãng HP về mã kẹt giấy cho dòng M304/M305/M404/M405.
@@ -336,17 +360,11 @@
 
 - Đọc 154 tin trong cửa sổ 24 giờ; kết nối báo đồng bộ đầy đủ, không có khoảng mất kết nối.
 - Tạo [[Canon G1010 - mã nháy đèn]] theo bảng support code chính hãng; thêm model vào [[Danh mục model máy in đã tra cứu]].
-- Ghi lại các triệu chứng và giới hạn xác minh tại [[Zalo TESTBOT 2026-10-27 - triệu chứng kỹ thuật]]. Ảnh nhóm không tải được từ lịch sử, nên E00 của MF455DW và việc ghép E014-0000 với MF241d/226dw được đưa vào [[_open-questions]] thay vì kết luận.
 
 ## [2026-10-28] ingest | tự học từ chat
 
 Đã tạo:
 - [[Diễn đạt mức độ chắc chắn khi chẩn đoán từ xa]]
-
-## [2026-10-28] quy tắc | Ưu tiên giá chủ cung cấp khi lập báo giá
-
-Đã ghi nhận quy tắc: ưu tiên giá chủ cung cấp; khi chưa có giá thì tra data, nếu không có giá khớp thì hỏi lại chủ. [[Quy tắc ưu tiên giá khi lập báo giá]]
-
 
 ## [2026-10-28] ingest | Triệu chứng kỹ thuật máy tính từ Zalo
 
@@ -408,9 +426,8 @@
 
 ## [2026-11-01] update | Gộp trách nhiệm Zalo kỹ thuật vào Luna
 
-- Cập nhật workflow Zalo để chỉ gọi Luna; gộp phần kỹ thuật đã xác nhận vào hướng dẫn và bộ nhớ của Luna. Chuyển agent Tư vấn Kỹ thuật thành hồ sơ lưu trữ/chuyển hướng, giữ bản cấu hình cũ và nhật ký chạy.
-- Cập nhật [[Quy tắc báo giá trong nhóm Zalo]] và [[Các lỗi cơ bản thường gặp ở máy in]]; giữ phân công cũ và nhật ký Victory làm lịch sử, ghi nhận quyết định mới tại [[memory/facts/luna-phu-trach-ca-ky-thuat-zalo]].
-- Theo yêu cầu tiếp theo, tạm dừng bộ phán xử và agent Victory; loop đã tắt, hàng đợi Kanban trống. Kết nối MCP Victory vẫn bật mức full, cần tắt tại trang Kết nối để ngừng hoàn toàn.
+- Cập nhật workflow Zalo để chỉ gọi Luna; gộp hướng dẫn kỹ thuật hiện hành vào hướng dẫn và bộ nhớ của Luna.
+- Cập nhật [[Quy tắc báo giá trong nhóm Zalo]] và [[Các lỗi cơ bản thường gặp ở máy in]].
 
 ## [2026-11-01] update | Quy trình chốt và chuyển đơn Zalo
 - Theo chỉ dẫn mới của chủ, cập nhật [[Quy tắc báo giá trong nhóm Zalo]] và `agents/luna-vu.md`: khi khách chốt, chỉ cảm ơn và chuyển đơn sang XUẤT HÀNG VICTORY; không tự đưa KiotViet vào quy trình.
@@ -460,21 +477,6 @@
 - Cập nhật trang giá YSS, [[Giá tham khảo từ nhóm Zalo]], [[Quy tắc báo giá trong nhóm Zalo]] và [[index]] để cấm dùng/tiết lộ giá YSS trong câu trả lời Zalo hoặc ngoài file báo giá YSS. [[memory/conversations/2026-11-01]].
 
 
-## [2026-11-02] update | Diễn đạt khi chưa nắm được giá
-
-- Theo hướng dẫn của chủ, sửa mẫu trả lời trong [[Quy tắc báo giá trong nhóm Zalo]] và [[Không bịa thông tin và giá cả]] thành “Em chưa nắm được giá ..., nhờ sếp ... hỗ trợ báo giá giúp em”; không nói với khách “giá nội bộ”. [[memory/conversations/2026-11-02]]
-
-
-## [2026-11-02] update | Phân loại giá chủ cung cấp thành giá bán đại lý
-
-- Rà soát [[Giá tham khảo từ nhóm Zalo]] và phân loại các mức do chủ trực tiếp cung cấp thành giá bán đại lý; giữ riêng giá nhà cung cấp, giá đơn riêng và nguồn chưa được duyệt.
-- Làm rõ bảng giá bán đại lý độc lập với [[Bảng giá sản phẩm YSS]]; cập nhật [[Quy tắc báo giá trong nhóm Zalo]] và [[index]]. [[memory/conversations/2026-11-02]]
-
-
-## [2026-11-02] update | Không dùng câu đệm khi trả lời hỏi giá
-
-- Rà soát và sửa các mẫu mâu thuẫn trong [[Quy tắc báo giá trong nhóm Zalo]] và [[Không bịa thông tin và giá cả]]: biết giá thì báo thẳng; chưa nắm giá thì nhờ sếp trong nhóm để chủ báo; bỏ câu “ghi nhận” và cách nói “giá nội bộ”. [[memory/conversations/2026-11-02]]
-
 ## [2026-11-02] cập nhật giá | Máy in A3 cũ
 
 Thêm giá bán buôn do người dùng cung cấp cho Canon 8710/8720/441, HP 706n và Canon 8610/8620/8630; đều đầy đủ phụ kiện. Cập nhật [[Gia Tham Khao Tu Nhom Zalo]].
@@ -505,12 +507,6 @@ Thêm giá bán buôn do người dùng cung cấp cho Canon 8710/8720/441, HP 7
 - Sửa hướng dẫn Luna, workflow và Wiki: chỉ tin mới xác nhận chốt hoặc trả lời trực tiếp câu hỏi còn thiếu của đúng đơn mới được tiếp tục chuyển; tag/lời nhắc/câu hỏi việc khác không mở lại đơn cũ. Nếu trạng thái không rõ hoặc nghi xử lý song song thì dừng, không gửi mù.
 - Mở câu hỏi xác minh hệ thống có sổ chuyển/idempotency và khóa chống hai lượt gửi song song hay không.
 
-## [2026-11-04] ingest | tự học từ nhóm Zalo Victory Computer
-
-- Rà 322 tin trong 12 nhóm từ 08:34 ngày 03/11 đến 08:34 ngày 04/11/2026; kết nối báo `sync.complete: true`, không có gaps.
-- Ghi nhận mâu thuẫn mã hộp mực Canon 8720 trong [[Tương thích hộp mực HP và Canon đã tra cứu]], giữ cả câu trả lời Canon 533/533H và ý kiến đính chính HP 14A; chưa chọn mã nào.
-- Tạo nguồn trích đoạn [[Zalo TESTBOT 2026-11-04 - mâu thuẫn mã mực Canon 8720]] và mở câu hỏi xác minh.
-
 ## [2026-11-04] update | Bổ sung giá bán buôn Canon 2900 mới
 
 - Cập nhật [[Giá tham khảo từ nhóm Zalo]] theo giá chủ cung cấp: máy in Canon 2900 NK KV mới, 3.150.000đ/máy.
@@ -532,12 +528,6 @@ Thêm giá bán buôn do người dùng cung cấp cho Canon 8710/8720/441, HP 7
 
 - Thêm cụm sấy HP 401d, 401dn và 401dw giá 750K/cụm vào [[Giá tham khảo từ nhóm Zalo]].
 
-## [2026-11-05] ingest | tự học từ nhóm Zalo Victory Computer
-
-- Ghi một trích đoạn TESTBOT về cách tra mã hộp mực thay thế và chỉ báo giá theo dữ liệu đã có; cập nhật [[Không bịa thông tin và giá cả]].
-- Chưa chốt ingest toàn cửa sổ và chưa tiến mốc trạng thái: Zalo áp giới hạn tần suất ở lượt đối chiếu lại, nên cần rà tiếp các nhóm/tin còn lại trước khi đánh dấu hoàn tất.
-
-
 ## [2026-11-05] update | Giá bán đại lý cáp quang 1FO
 
 - Thêm cáp quang 1FO cuộn 1.000m: 890K chưa VAT và 1.180K đã có VAT vào [[Giá tham khảo từ nhóm Zalo]]. [[memory/conversations/2026-11-05]]
@@ -554,3 +544,305 @@ Thêm giá bán buôn do người dùng cung cấp cho Canon 8710/8720/441, HP 7
 - Giữ bảng giá YSS ở [[Bảng giá sản phẩm YSS]] riêng, không trộn vào danh mục chung.
 - Hai file Excel Luna cũ giống hệt nhau; giữ bản mới làm danh mục chính và chuyển bản trùng vào `archive/bang-gia-cu/`.
 - Loại khỏi danh mục áp dụng các giá nhà cung cấp, báo giá riêng theo khách/đơn và nguồn giá chưa được chủ duyệt. [[memory/conversations/2026-11-05]]
+
+
+## [2026-11-05] update | Bỏ danh sách giá Luna trùng lặp
+
+- Lưu trữ trang giá cũ [[Giá tham khảo từ nhóm Zalo]] sau khi các mức dùng chung đã được hợp nhất vào một danh mục duy nhất [[Bang_gia_Luna.xlsx]].
+- Bảng giá YSS tiếp tục tách riêng tại [[Bảng giá sản phẩm YSS]].
+
+## [2026-11-05] cleanup | Xóa các bản giá Luna cũ
+
+- Theo yêu cầu của chủ, xóa trang giá Luna cũ và file Excel trùng đã lưu trữ để tránh nhầm tên hoặc cập nhật nhầm bảng.
+- Bảng giá Luna duy nhất đang dùng: [[Bang_gia_Luna.xlsx]]. Bảng giá YSS vẫn riêng: [[Bảng giá sản phẩm YSS]].
+
+## [2026-11-05] update | Bổ sung linh kiện Canon 2900
+
+- Thêm bảy dòng linh kiện do chủ cung cấp vào [[Bang_gia_Luna.xlsx]]: thanh nhiệt 80K, xương sấy 100K, bao lụa bóc máy 100K, lô ép bóc máy 100K, sensor nhận giấy 80K, sensor cụm sấy 50K và khung 100K.
+- Giữ đơn vị ở trạng thái chưa nêu vì chủ chưa cung cấp đơn vị. Bảng YSS không thay đổi.
+
+## [2026-11-06] update | Bổ sung main cao áp
+
+- Thêm riêng sáu mã main cao áp HP 402, HP 404, Canon 223, 226, 243 và 246 vào [[Bang_gia_Luna.xlsx]], mỗi mã 500K.
+- Đơn vị chưa được nêu nên để là “Chưa nêu”; bảng giá YSS không thay đổi.
+
+
+## [2026-11-07] update | Thiết lập nhóm Báo giá Luna làm nguồn giá bán buôn
+
+- Theo xác nhận của chủ, nhóm Zalo Báo giá Luna (thread ID `3345965267368578027`) là nguồn chuẩn cho giá bán buôn. Các tin có mặt hàng và giá rõ ràng sẽ được nhập vào [[Bang_gia_Luna.xlsx]] với loại giá bán buôn; giá YSS vẫn tách riêng.
+- Tin trong nhóm chỉ hỏi giá, chưa có mức giá cụ thể, không được ghi thành giá. Quyền dùng làm nguồn giá không mở quyền trả lời trong nhóm.
+- Lượt rà hiện tại chưa có tin nào chứa mức giá cụ thể để thêm vào bảng; có một câu hỏi giá Canon 122dw nhưng chưa có giá trả lời.
+- Cập nhật [[Quy tắc báo giá trong nhóm Zalo]] và bài học của Luna Vũ. [[memory/conversations/2026-11-07]]
+
+
+## [2026-11-07] cập nhật giá | Main nguồn máy in HP 402D
+
+- Ghi nhận tin giá trong nhóm Báo giá Luna: main nguồn máy in HP 402D giá 600K. Thêm vào [[Bang_gia_Luna.xlsx]] với loại giá bán buôn; đơn vị và biến thể chưa được nêu. Nguồn tin Zalo ID `8461023375023`. [[memory/conversations/2026-11-07]]
+
+
+## [2026-11-07] cập nhật giá | Thiết bị và mực từ nhóm Báo giá Luna
+
+- Thêm giá bán buôn vào [[Bang_gia_Luna.xlsx]]: mic không dây Newosund HS 58 pro 700K; Shengfu W15 930K; Ezviz H9C 3MP 2 mắt ngoài trời 1.270K; mực in Starink 071 có chip 165K, không chip 135K. Đơn vị chưa được nêu. Nguồn tin Zalo IDs `8461047741802`, `8461050170805`, `8461123795827`. [[memory/conversations/2026-11-07]]
+
+
+## [2026-11-07] cập nhật giá từ ảnh | Linh kiện Canon 2900
+
+- Đọc ảnh tin `8461055199015` trong nhóm Báo giá Luna: Bộ vỏ Canon 2900, 250K/bộ; mặt trên (ốp sấy) máy in Canon 2900, 85K/cái. Mỗi dòng số lượng 1; tình trạng bộ vỏ chưa nêu. Thêm hai mục bán buôn riêng vào [[Bang_gia_Luna.xlsx]], không nhập chung với giá bộ vỏ mới đã có vì tình trạng khác nhau hoặc chưa rõ. [[memory/conversations/2026-11-07]]
+
+## [2026-11-08] fix | Làm bảng giá Luna truy xuất được cho chatbot
+
+- Tạo [[Bang gia Luna - tra cuu chatbot]] từ toàn bộ 113 dòng dữ liệu trong [[Bang_gia_Luna.xlsx]], giữ các trường loại giá, mã, biến thể, đơn vị, giá, VAT, ngày cập nhật và ghi chú.
+- Ghi rõ Excel là nguồn chuẩn; thêm yêu cầu đồng bộ bản Markdown mỗi khi loop cập nhật giá. Cập nhật [[index]].
+- Lý do: bộ tra cứu chatbot hiện chỉ lập chỉ mục `.md`, `.txt`, `.markdown`, không lập chỉ mục `.xlsx`.
+
+## [2026-11-08] fix | Chặn tin báo giá trong nhóm xuất hàng
+
+- Ghi nhận Luna gửi nhầm câu trả lời giá hộp mực 133333A vào [[XUẤT HÀNG VICTORY]]. Nhóm này chỉ nhận đơn qua nhánh chuyển đơn cố định; bổ sung chặn rõ các tin báo giá và trao đổi khác trong [[agents/luna-vu]] và [[Quy tắc báo giá trong nhóm Zalo]]. Chưa tìm thấy công cụ thu hồi tin đã gửi. [[memory/conversations/2026-11-08]]
+
+
+
+## [2026-11-09] update | Hợp nhất quy trình cộng sự và quy tắc Zalo
+
+- Rà soát prompt các cộng sự, workflow, loop, bộ nhớ Luna và Wiki. Đặt `agents/luna-vu.md` làm nguồn chuẩn duy nhất cho hành vi Luna; Sales phụ trách file báo giá chính thức, Hồ sơ - Hợp đồng phụ trách hồ sơ, Pháp lý - Luật phụ trách câu hỏi pháp luật, Phương sai vặt chỉ tổng hợp/điều phối khi chủ yêu cầu.
+- Gỡ các bản quy tắc sao chép hoặc lệch vai trò trong bộ nhớ Luna và prompt Sales/Hồ sơ; sửa định tuyến pháp lý khỏi Luna. Workflow tiếp nhận Zalo được giữ ở trạng thái `off`, chỉ để tra cứu lịch sử. Loop chỉ đối soát tin đến và đồng bộ giá, không trả lời hoặc chuyển đơn.
+- Sửa quy tắc Wiki về tin chốt: khách chỉ nhận lời cảm ơn và hàng/biến thể/số lượng; tổng tiền nếu đã xác nhận chỉ có thể nằm trong tin nội bộ chuyển đơn.
+- Còn điểm cần xác minh vận hành: `Javis/index.md` báo loop tự tạm dừng trong khi tệp loop ghi `enabled: true`; chưa có bằng chứng trạng thái runtime để kết luận loop thực sự chạy. `Javis/index.md` là chỉ mục tự sinh, không sửa tay.
+
+
+## [2026-11-09] update | Luna xác nhận và chuyển đơn Zalo
+
+- Theo yêu cầu của chủ, khi khách chốt Luna cảm ơn và nhắc hàng/vật tư, biến thể, số lượng trong nhóm nguồn; nếu không nắm được giá thì dùng đúng nguyên tắc duy nhất đã chốt tại hướng dẫn Luna.
+- Sau đó gửi đúng một bản tóm tắt sang XUẤT HÀNG VICTORY qua `zalo_send_message` với thread `8404017101126147877`, `threadType=1`. Giá chưa xác nhận không chặn chuyển nếu hàng và số lượng đã rõ. Chỉ xác nhận hoàn tất khi công cụ xác nhận hoặc thấy đúng tin ở nhóm đích.
+- Cập nhật hướng dẫn Luna, quy tắc báo giá, quy trình chốt đơn và dữ liệu học/bộ phán xử; thay mẫu mention cũ bằng mẫu mention thật ở đầu tin theo quyết định gần nhất của chủ.
+
+## [2026-11-09] fix | Báo đủ biến thể giá khi khách hỏi chung
+
+- Sửa [[agents/luna-vu]], [[Quy tắc báo giá trong nhóm Zalo]] và bộ nhớ Luna: nếu khách hỏi chung mặt hàng có nhiều biến thể giá đã xác nhận, báo đủ mọi biến thể trong một tin; chỉ báo riêng một loại khi khách chỉ rõ loại đó.
+- Thêm ví dụ HP 76A: 140.000đ/hộp không chip và 220.000đ/hộp có chip. Cập nhật [[memory/facts/khong-phan-bien-khi-tra-loi-gia-zalo]].
+
+## [2026-11-09] fix | Hiểu yêu cầu ship/xuất là đơn khách đã chốt
+
+- Trong nhóm khách nguồn Luna được phép xử lý, “ship”, “lấy”, “gọi”, “chuyển” hoặc “xuất” kèm mặt hàng và số lượng được hiểu là đơn bán ra đã chốt. Luna cảm ơn trong nhóm nguồn rồi chuyển tóm tắt sang XUẤT HÀNG VICTORY; không hỏi lại khách đã chốt chưa hoặc hỏi chiều mua/bán.
+- Gỡ câu hỏi xác nhận chiều giao dịch khỏi hướng dẫn Luna và cập nhật quy trình cùng bộ nhớ liên quan.
+- Đối chiếu nhóm đích không thấy hai đơn này; đã gửi lời cảm ơn ở TESTBOT và mỗi đơn một bản tóm tắt vào XUẤT HÀNG VICTORY: 8 hộp HP 12A, và 2 hộp 289A + 1 hộp 35 + 2 hộp 05A.
+
+## [2026-11-09] preference | Linh hoạt điều khoản hợp đồng theo khách hàng
+
+- Người dùng xác nhận điều khoản pháp lý trong hợp đồng không cố định cho mọi khách hàng; giữ mẫu làm khung trình bày và linh hoạt điều khoản theo khách hàng/giao dịch. Các mặc định chung đã chốt vẫn áp dụng. Cập nhật [[Điều khoản hợp đồng linh hoạt theo khách hàng]], [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]] và [[agents/tro-ly-soan-thao-ho-so]].
+
+## [2026-11-09] fix | Chốt mẫu duy nhất nhờ báo giá cho Luna
+
+- Khi chưa nắm được giá, Luna chỉ gửi: `@<người hỏi> Em chưa nắm được giá <tên hàng/mã hàng>, nhờ sếp @Vũ Đức Cẩn báo giúp ạ.`
+- Gắn mention thật của cả người hỏi và chủ; thay tên hàng bằng nội dung khách hỏi. Không chèn lời dẫn/giải thích, không dùng mẫu khác. Đồng bộ hướng dẫn Luna, Wiki, bộ nhớ và hồ sơ vai bot.
+
+## [2026-11-09] format | Chữ đậm nhấn ý chính trong tin Zalo Luna
+
+- Mọi ý chính trong tin Zalo Luna gửi phải vừa đậm vừa đỏ bằng cú pháp `**{red:<ý chính>}**`; cú pháp `**<ý chính>**` chỉ tạo chữ đậm.
+- Đồng bộ hướng dẫn Luna, quy trình ghi nhớ hiện hành, Wiki quy tắc Zalo và hồ sơ vai bot hiện tại. Không tạo năng lực hoặc tệp mới.
+
+## [2026-11-10] fix | Gắn bảng giá duy nhất vào tài liệu Luna
+
+- Gắn [[Bang gia Luna - tra cuu chatbot]] vào tài liệu của Agent Luna để bộ truy xuất giới hạn theo tài liệu Agent có thể lấy được bảng giá.
+- Chốt đây là căn cứ giá duy nhất Luna dùng khi trả lời khách; Excel là bảng gốc để cập nhật bản tra cứu, còn nhóm Báo giá Luna chỉ là đầu vào cập nhật bảng, không phải nguồn trả lời trực tiếp.
+- Gỡ cách diễn đạt có thể khiến nhóm Zalo hoặc các ghi nhớ giá cũ bị hiểu là nguồn trả lời song song. Đồng bộ hồ sơ vai, hướng dẫn Luna, Wiki quy tắc và fact/index bộ nhớ.
+
+## [2026-11-10] maintenance | Xóa các bản mẫu cũ được yêu cầu
+
+- Đã xóa bản HTML cũ của mẫu biên bản làm việc Xuân Thiện, bản backup báo giá Victory ngày 17/10/2026 và PDF hợp đồng nguyên tắc cũ khỏi thư mục làm việc theo yêu cầu người dùng.
+- Giữ các file trong `sources/` theo quy ước vault: đây là nguồn bất biến, không do AI xóa/sửa. Bản trích xuất hợp đồng nguyên tắc vẫn được đánh dấu là tài liệu lịch sử, không dùng để soạn mới.
+
+## [2026-11-10] update | Sửa quy trình lưu câu trả lời có nguồn và loop Zalo
+
+- QUERY trước đây chỉ yêu cầu đề xuất lưu tri thức tái sử dụng; đã đổi thành ghi thật trang Wiki nguồn chứa URL/ngày truy cập + trang tri thức + index/log khi nội dung có nguồn và giá trị dùng lại, hoặc khi chủ nói “wiki/lưu”. Không ghi nội dung vào `sources/`.
+- Hướng dẫn Luna làm rõ link trong câu trả lời không đồng nghĩa tri thức đã lưu; không gửi URL nguồn vào nhóm Zalo.
+- Loop Zalo được sửa để gap đồng bộ không chặn tin mới, không gán mọi tin `isSelf=true` cho loop, và không nhầm quyền `auto` với cấm ghi file trong vault.
+- Vừa xác định runtime chặn loop `auto` ghi vào `Javis/`; checkpoint/audit đã được chuyển nguyên trạng sang `loop-data/` ở gốc brain để loop có thể lưu dữ liệu vận hành.
+- Bổ sung bước đếm tin theo nhóm từ danh sách message và đối chiếu tổng trước khi báo cáo, sau khi verifier bắt được số lượng nhóm sai.
+
+## [2026-11-12] fix | Ngăn Luna gán giá cho nhầm mã
+
+Nhật ký Zalo TESTBOT ghi Luna lấy 250.000đ từ dòng Cụm trống B022 nhưng trả lời thành Cụm trống HP 102A; bảng không xác nhận hai mã là cùng mặt hàng. Đã cập nhật quy tắc chuẩn: giá luôn phải lấy đúng dòng trong [[Bang gia Luna - tra cuu chatbot]]. Theo chỉ dẫn mới nhất của chủ, Luna có thể nêu mã ứng viên như một phán đoán, kèm giá đúng dòng của mã đó và hỏi khách xác nhận; không được trình bày suy đoán như giá đã xác nhận hoặc lấy dòng tương tự gán sang mã khác. Nếu không có ứng viên hợp lý hay giá đúng dòng, dùng mẫu mention nhờ chủ báo giá. Đồng bộ hướng dẫn Agent, Wiki, memory; gỡ fact trùng đã bị thay thế.
+
+## [2026-11-12] fix | Buộc mention báo giá của Luna dùng UID thật
+
+Mẫu nhờ chủ báo giá trước đây chỉ nói “mention thật” nhưng chưa buộc truyền danh sách `mentions` có UID; gửi chuỗi `@Tên` bằng công cụ tin nhắn thường chỉ tạo chữ, không tag người nhận. Đã sửa hướng dẫn Agent, quy tắc Wiki, memory và hồ sơ vai bộ phán xử: dùng `zalo_send_mention` với object `{name, uid}` cho người hỏi và chủ (UID chủ `1204382391224364082`), không dùng `zalo_send_message`; thiếu UID hoặc lỗi tool thì không giả lập tag bằng chữ và không gửi bản thay thế.
+
+## [2026-11-12] update | Thông tin tài khoản nhận thanh toán Victory
+
+- Cập nhật [[Công Ty Cổ Phần Giải Pháp Công Nghệ và Truyền Thông Victory Việt Nam]] với tên chủ tài khoản, số tài khoản và ngân hàng theo thông tin người dùng cung cấp.
+- Cập nhật [[memory/facts/thanh-toan-vao-tai-khoan-cong-ty]] để gửi đầy đủ thông tin khi khách yêu cầu thanh toán.
+
+## [2026-11-12] fix | Dùng đúng tên hiển thị Zalo khi nhờ chủ báo giá
+
+Đọc lịch sử TESTBOT thấy tin Luna chỉ có mention UID của người hỏi; `@Vũ Đức Cẩn` trong thân tin là chữ thường. Luồng trả lời tự động gửi qua `zalo_personal_channel.gui`: tự tag người hỏi, còn các tên `@...` thêm vào được dò theo tên người đã nhắn trong nhóm. Tên thành viên là `Victor Vu - Vũ Đức Cẩn`, nên bí danh rút gọn không khớp. Đã thay mẫu thành `@Victor Vu - Vũ Đức Cẩn` trong hướng dẫn Agent, Wiki, memory và hồ sơ vai để khớp tên Zalo thật; không gọi tool gửi mention riêng để tránh tạo hai tin.
+
+## [2026-11-12] correction | Nguyên nhân tag chủ trong câu trả lời tự động
+
+Điều chỉnh ghi chú vừa nêu ở entry “Buộc mention báo giá của Luna dùng UID thật”: câu trả lời tự động của bot không gửi qua tool plugin `zalo_send_mention`, nên thêm tham số `mentions` vào hướng dẫn không làm thay đổi đường gửi này. Lịch sử TESTBOT cho thấy Luna chỉ có UID mention của người được trả lời; transport chỉ tag các @Tên khác nếu khớp tên người đã nhắn trong nhóm. Tên chủ trong lịch sử là `Victor Vu - Vũ Đức Cẩn`, còn mẫu rút gọn `@Vũ Đức Cẩn` không khớp. Đã sửa mẫu trong Agent, Wiki, memory và hồ sơ bộ phán xử sang tên hiển thị đầy đủ.
+
+## [2026-11-12] ingest | Mã QR tài khoản ngân hàng Victory
+
+- Lưu ảnh gốc tại `attachments/QR_Tai_Khoan_Victory.jpeg` và tạo source ảnh đã xử lý tại [[QR Tai Khoan Ngan Hang Victory]].
+- Cập nhật [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]] và quy tắc thanh toán: gửi kèm ảnh QR khi khách xin thông tin chuyển khoản.
+
+## [2026-11-12] update | Chuẩn hóa chữ nhấn mạnh thành đậm và đỏ
+
+Đồng bộ lại quy tắc định dạng Zalo trong Agent, Wiki và memory: mọi thông tin làm nổi bật phải dùng chính xác `**{red:<nội dung>}**`, để bộ gửi tạo đồng thời style đậm và đỏ. Không dùng Markdown `**...**` đứng riêng vì chỉ làm chữ đậm. Đã cập nhật fact cũ về in đậm giá thay vì tạo fact trùng.
+
+## [2026-11-13] update | Gộp thông tin công ty và nhà xe cho Luna
+
+Đã giữ trang công ty Victory hiện có làm nguồn Wiki duy nhất về pháp nhân, nhận hàng, hỗ trợ và nhà xe; sửa các wikilink nhận hàng thành đường dẫn nguồn thật, đồng bộ nguồn và mốc ngày. Gắn chính trang này cùng bảng giá vào tài liệu Luna, thêm chỉ dẫn trả lời đúng dữ kiện và không tự bịa địa chỉ còn thiếu của điểm Đắc Hùng Nguyễn Xiển. Xóa fact memory riêng về địa chỉ hồ sơ/nhận hàng vì đã được gộp vào trang công ty; giữ các fact quy trình thanh toán và điều khoản hợp đồng vì chúng nói về quy trình khác.
+
+## [2026-11-13] update | Chừa chỗ ghi người đại diện trên biên bản bàn giao
+
+- Cập nhật mẫu HTML bàn giao: tách dòng Đại diện và Chức vụ cho cả hai bên, để khoảng chấm dài đủ viết tay tên người đại diện và chức vụ.
+- Đồng bộ quy cách vào [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]] và hướng dẫn mẫu Markdown.
+
+## [2026-11-15] update | Để trống ngày tháng năm trên biên bản bàn giao
+
+- Theo yêu cầu mới, mẫu bàn giao để trống ngày, tháng, năm trên dòng ngày lập; không tự lấy ngày trên hóa đơn/đơn đặt hàng điền vào dòng này.
+- Giữ riêng quy tắc đánh số biên bản, địa điểm theo địa chỉ Bên Mua, và lập hai bản mỗi bên giữ một bản. Đồng bộ vào [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]], hướng dẫn mẫu và ghi nhớ.
+
+## [2026-11-15] update | Xác nhận mẫu chuẩn hợp đồng mua bán hàng hóa
+
+- Theo xác nhận của người dùng, `hop-dong/Mau hop dong mua ban hang hoa va dich vu thong thuong.md` là mẫu chuẩn để lập hợp đồng mua bán hàng hóa, riêng với hợp đồng nguyên tắc.
+- Cập nhật nhãn mẫu, tạo [[Mẫu Hợp Đồng Mua Bán Hàng Hóa Victory]], thêm vào [[index]] và chỉ dẫn skill soạn hồ sơ; giữ riêng mẫu hợp đồng nguyên tắc và mẫu bán ra Victory.
+## [2026-11-15] update | Không ghi mã nội bộ trong tên hàng báo giá
+
+- Theo yêu cầu người dùng, tên hàng trong báo giá không thêm mã nội bộ danh mục trong ngoặc, ví dụ `(VT02669)`; vẫn giữ model/part number nhận diện sản phẩm. Đồng bộ vào [[Mẫu Báo Giá Dùng Chung Victory]], kỹ năng lập báo giá và ghi nhớ [[memory/facts/quy-cach-bao-gia-victory]].
+
+## [2026-11-15] update | Bố cục, đánh số và câu kết quả biên bản bàn giao
+
+- Chừa một dòng giữa tiêu ngữ và tiêu đề; mở cột STT lên 10% bề rộng bảng.
+- Số biên bản giữ đúng dạng `DDMMYYYY/BBBGNT/VIC-XXX`, không thêm số hóa đơn, PO hoặc hậu tố.
+- Mở rộng câu kết quả để nêu rõ chủng loại, nhãn hiệu và chất lượng theo thỏa thuận.
+- Đồng bộ mẫu HTML, hướng dẫn, Wiki và ghi nhớ.
+
+## [2026-11-15] update | Ghi nhớ quy cách mới nhất của biên bản bàn giao
+
+- Đồng bộ quy cách mẫu hiện hành vào memory: tiêu đề 16 pt, nội dung 12 pt, dòng trống sau quốc hiệu, cột STT 10% và câu kết quả mở rộng.
+- Giữ quy tắc đã lưu về ngày trống, số biên bản không có hậu tố hóa đơn/PO và dòng đại diện/chức vụ đủ dài.
+## [2026-11-16] update | Bổ sung dấu hiệu chốt đơn và tách nhiều đơn Zalo
+
+- Bổ sung các cách nói thể hiện ý muốn lấy/gửi hàng, đồng thời quy định xét ý định trong mạch hội thoại và loại trừ câu giả định, phủ định, hủy đơn hoặc Victory mua từ nhà cung cấp.
+- Quy định tách các đơn riêng trong tin nhiều dòng/nhiều tin và chuyển tuần tự theo thứ tự khách nêu; không gộp, bỏ sót hoặc gửi trùng.
+- Đồng bộ [[Quy trình xử lý đơn chốt qua Zalo]], [[Quy tắc báo giá trong nhóm Zalo]], [[agents/luna-vu]] và bộ nhớ dài hạn.
+
+## [2026-11-16] update | Duyệt mẫu giấy đề nghị thanh toán Victory
+
+- Người dùng duyệt [[thanh-toan/Mau giay de nghi thanh toan Victory]] làm mẫu chung cho các giấy đề nghị thanh toán về sau.
+- Tạo trang [[Mẫu Giấy Đề Nghị Thanh Toán Victory]], cập nhật mục lục Wiki, bộ nhớ và kỹ năng soạn hồ sơ; lưu quy cách tên công ty viết theo kiểu thông thường và in đậm.
+
+## [2026-11-17] update | Chuẩn hóa bảng kê và khoản 2.1 trên hợp đồng
+
+- Chỉnh bảng hàng hóa trong [[hop-dong/Hop dong mua ban hang hoa VIC-MT86 17112026]] gọn theo nội dung và đặt khoản 2.1 về chữ thường.
+- Cập nhật mẫu Word Victory bán ra, tạo [[Quy Cách Trình Bày Hợp Đồng Victory]], đồng bộ mục lục, hướng dẫn soạn hồ sơ và bộ nhớ để dùng cho các hợp đồng sau.
+
+## [2026-11-17] update | Dùng bảng kê kiểu hóa đơn GTGT trong hợp đồng
+
+- Chỉnh bảng kê hợp đồng Công nghệ Môi trường 86 theo 8 cột hóa đơn GTGT, thêm dòng quy chiếu cột và tổng hợp tiền hàng/thuế bên dưới bảng.
+- Cập nhật [[Quy Cách Trình Bày Hợp Đồng Victory]], các Wiki hợp đồng, kỹ năng soạn hồ sơ và memory để áp dụng cho hợp đồng về sau; giữ khoản 2.1 ở kiểu chữ bình thường, không in đậm.
+
+## [2026-11-17] update | Bỏ nhãn tiếng Anh khỏi bảng kê hợp đồng
+
+- Theo yêu cầu mới, bảng kê trong [[hop-dong/Hop dong mua ban hang hoa VIC-MT86 17112026]] bỏ các dòng tiếng Anh trong ngoặc và được dàn rộng theo vùng nội dung để hạn chế nhãn xuống dòng.
+- Đồng bộ quy cách này vào [[Quy Cách Trình Bày Hợp Đồng Victory]], hướng dẫn soạn hồ sơ và memory dùng chung.
+
+
+## [2026-11-17] update | Chốt mẫu hợp đồng bán ra Victory và dọn mẫu trùng
+
+- Tạo lại [[hop-dong/Mau hop dong mua ban Victory ban ra]] từ hợp đồng Công nghệ Môi trường 86 đã duyệt; xóa dữ liệu riêng giao dịch, giữ cấu trúc và điều khoản, bảng 8 cột tiếng Việt, tên đại diện in đậm, chỉ số 2.1 in đậm.
+- Cập nhật [[Mẫu Hợp Đồng Mua Bán Victory Bán Ra]], [[Quy Cách Trình Bày Hợp Đồng Victory]], chỉ mục Wiki, kỹ năng soạn thảo và bộ nhớ.
+- Xóa mẫu Word Siêu Việt cũ và mẫu Markdown mua bán thông thường cùng trang Wiki trùng phạm vi. Giữ riêng mẫu hợp đồng nguyên tắc, hồ sơ vận chuyển và các hợp đồng giao dịch đã lập.
+
+## [2026-11-18] update | Luna chỉ chuyển đơn, im lặng với nội dung khác
+
+- Thay hướng dẫn phản hồi nhóm cũ bằng quy tắc duy nhất: nhận diện đơn lấy/gửi hàng trong mọi nhóm Luna tham gia, tách nhiều đơn và chuyển tuần tự sang XUẤT HÀNG VICTORY; mọi nội dung khác im lặng.
+- Gỡ bài học cũ của bộ phán xử về trả lời việc tồn đọng; cập nhật hồ sơ vai, loop, Wiki và memory, bỏ các fact vận hành phản hồi Zalo đã bị thay thế.
+
+## [2026-11-18] fix | Gỡ chỉ dẫn Luna trả lời giá trong nhóm
+
+- Đổi tên và rút gọn trang quy tắc Zalo để chỉ còn luồng chuyển đơn; bỏ chỉ dẫn trả lời giá, kỹ thuật, hỗ trợ, cảm ơn và hỏi lại.
+- Đánh dấu các câu hỏi Wiki cũ về mở rộng trả lời nhóm là đã bị chỉ dẫn mới nhất thay thế.
+
+
+## [2026-11-18] create | Mẫu phiếu xuất kho kiêm bàn giao Victory
+
+- Người dùng duyệt nội dung phiếu và chốt mẫu số, số phiếu tuần tự, ngày lập, địa chỉ bàn giao, kho xuất, lý do xuất, thông tin khách hàng và lượng nhận bằng lượng xuất.
+- Căn các bảng theo hai lề và giữa trang; lưu mẫu Word tại [[bien-ban/Mau phieu xuat kho kiem ban giao hang hoa Victory]], cập nhật [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]], mục lục, kỹ năng và bộ nhớ.
+
+
+## [2026-11-18] create | Phiếu xuất kho PXK-VIC-2026-001 cho Maple
+
+- Lập phiếu theo hóa đơn 00001078; ghi kho VICTORY, ngày 18/11/2026, địa chỉ Maple và số lượng thực xuất bằng số lượng nhận.
+- Ghi nhận số phiếu 001; số tiếp theo theo mẫu là 002. [[bien-ban/Phieu xuat kho PXK-VIC-2026-001 Maple]]
+
+## [2026-11-18] update | VAT tổng hợp và ảnh báo giá gọn nhẹ
+
+- Cập nhật VIC-106-2026: bỏ nhãn VAT khỏi từng dòng hàng, giữ phần tổng hợp thuế sau bảng; thu nhỏ ảnh sản phẩm nhúng còn 160×160 px.
+- Quy tắc áp dụng cho báo giá sau: không ghi VAT/thuế trên từng dòng; tối ưu ảnh theo kích thước hiển thị. [[Mẫu Báo Giá Dùng Chung Victory]] [[memory/facts/thue-bao-gia-chi-o-phan-tong-hop]] [[memory/facts/bao-gia-moi-san-pham-co-anh]]
+
+## [2026-11-19] update | Quy tắc địa điểm bàn giao trên phiếu xuất kho
+
+- Sửa mẫu Word và quy tắc: chỉ ghi nhãn `Địa điểm bàn giao:`; lấy địa chỉ từ cơ sở dữ liệu khách hàng nếu có, nếu không thì để trống. Đã bỏ cụm `(địa chỉ khách hàng)` khỏi mẫu và phiếu Genesis hiện tại. [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+## [2026-11-19] create | Mẫu biên bản đối chiếu công nợ Victory
+
+- Tạo mẫu Word gọn theo tông xanh Victory; dàn bảng đối chiếu rộng bằng vùng lề văn bản, mở rộng chỗ ghi người đại diện/chức vụ; ghi quy tắc lấy thông tin Bên B từ danh sách khách hàng. [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]]
+
+## [2026-11-19] update | Tách phiếu xuất kho Genesis
+
+- Tách phiếu `002` thành phiếu riêng cho mặt hàng thứ 4 và phiếu `003` cho các mặt hàng còn lại; cập nhật tổng thành tiền và số tiếp theo là `004`. [[bien-ban/Phieu xuat kho PXK-VIC-2026-002]] [[bien-ban/Phieu xuat kho PXK-VIC-2026-003 Genesis cac dong con lai]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+## [2026-11-19] update | Chốt mẫu phiếu xuất kho Victory
+
+- Cập nhật mẫu Word theo bản Genesis người dùng duyệt: bảng gồm số lượng, đơn giá, thành tiền, tình trạng; mã hàng lấy từ ký hiệu/model trong tên; tình trạng mặc định `Mới 100%`. Xóa bản xem trước phiếu xuất kho cũ đã bị thay thế; giữ các phiếu giao dịch riêng. Cập nhật Wiki, mục lục, skill và bộ nhớ. [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+## [2026-11-19] update | Mỗi loại văn bản chỉ dùng một mẫu chuẩn
+
+- Chốt nguyên tắc duy trì một mẫu hiện hành cho mỗi loại văn bản. Chuyển Wiki biên bản bàn giao về tệp HTML chuẩn, gỡ liên kết mẫu Markdown đã thay thế; xóa bản Word trùng của hợp đồng nguyên tắc Khánh Toàn vì bản HTML là bản chuẩn. Nguồn gốc và hồ sơ giao dịch được giữ nguyên, không dùng làm mẫu. [[Nguyên tắc giữ nguyên mẫu đã duyệt]] [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]] [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]]
+
+## [2026-11-19] create | Phiếu xuất kho PXK-VIC-2026-004 Hà Thành
+
+- Lập phiếu theo mẫu chuẩn cho báo giá VIC-104-2026: máy in kim Epson LQ-310+ kèm dây tín hiệu USB, số lượng 1; địa chỉ và mã số thuế theo thông tin khách hàng; giá trị bảng kê chưa VAT. Cập nhật số tiếp theo thành `005`. [[bien-ban/Phieu xuat kho PXK-VIC-2026-004 Hai Thanh Epson LQ310]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+## [2026-11-19] create | Phiếu xuất kho PXK-VIC-2026-005 Genesis
+
+- Lập phiếu theo hóa đơn GTGT 1C26TAA số 00000000 ngày 19/11/2026, gồm 4 dòng hàng; địa chỉ, mã số thuế người mua theo dữ liệu hóa đơn và hồ sơ khách hàng. Thành tiền bảng kê 713.638 đồng, chưa VAT. Cập nhật số tiếp theo là `006`. [[bien-ban/Phieu xuat kho PXK-VIC-2026-005 Genesis hoa don 00000000]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+## [2026-11-19] update | Căn chỉnh bảng phiếu xuất kho
+
+- Đặt chữ hàng tiêu đề màu trắng trên nền xanh đậm; phân lại độ rộng cột để nhãn không xuống dòng và căn tên hàng, số liệu, mã/ĐVT theo chuẩn. Cập nhật mẫu chuẩn và phiếu PXK-VIC-2026-005. [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+## [2026-11-20] cleanup | Gỡ quy tắc Zalo cũ trùng lặp
+
+- Gỡ quy trình vận hành Zalo lỗi thời khỏi trang kiến thức máy in, xóa trang riêng trùng lặp về không dẫn link, và rút gọn trang phạm vi Luna cùng memory thành liên kết về hồ sơ chuẩn `agents/luna-vu`.
+- Quy tắc phản hồi hiện hành vẫn giới hạn Luna ở hỗ trợ kỹ thuật; mọi nội dung khác im lặng. Giữ nguyên các ghi chép hội thoại và nhật ký lịch sử, không xem chúng là chỉ dẫn đang hiệu lực.
+
+## [2026-11-20] fix | Xóa ca mẫu cũ ngoài phạm vi kỹ thuật
+
+- Gỡ 6 ca mẫu Luna vẫn được hướng dẫn trả lời hỏi giá, tồn kho, chốt đơn, tình trạng xuất hàng và thanh toán. Giữ 2 ca mẫu im lặng với tin bot khác và chuyện trò; giữ các ví dụ kỹ thuật riêng. Bộ phán xử hiện còn 2 ca mẫu bootstrap và một bài học kỹ thuật-only.
+
+## [2026-11-20] update | Theo dõi nhiều yêu cầu kỹ thuật song song
+
+- Luna giữ riêng ngữ cảnh từng người/vấn đề đến khi được giải đáp hoặc người hỏi dừng; trả lời gắn trực tiếp với tin hỏi khi có thể. Ảnh lỗi trong nhóm được xem là yêu cầu kỹ thuật dù không có chữ; nếu chỉ có ảnh, hỏi lịch sự và nêu nguyên nhân khả dĩ dựa trên dấu hiệu. Phạm vi được lưu trong [[agents/luna-vu]].
+- Bỏ bài học kỹ thuật-only trùng lặp khỏi bộ phán xử; hồ sơ vai và agent chuẩn là nơi duy nhất chứa quy tắc phạm vi.
+
+## [2026-11-20] update | Không đưa suy nghĩ nội bộ vào câu trả lời Luna
+
+- Hướng dẫn Luna trả lời trực tiếp bằng dấu hiệu, nguyên nhân khả dĩ và bước xử lý; không kể quá trình phân tích hay dùng lời dẫn mô tả suy nghĩ nội bộ. [[agents/luna-vu]]
+
+## [2026-11-20] update | Chủ động xử lý ảnh lỗi có mã máy
+
+- Khi ảnh trong nhóm cho thấy mã máy hoặc mã lỗi, Luna đọc thông tin nhìn rõ, xác nhận nhẹ nhàng khách đang hỏi về lỗi rồi trả lời ngay trong luồng ảnh; hỏi thêm khi ảnh thiếu căn cứ. [[agents/luna-vu]]
+
+## [2026-11-20] clarify | Ảnh lỗi là câu hỏi ngầm
+
+- Không chờ khách hỏi lại hoặc hỏi xác nhận. Luna chủ động đọc mã/lỗi nhìn rõ trong ảnh và trả lời ngay; chỉ hỏi thêm khi thiếu thông tin để nhận định. [[agents/luna-vu]]
+
+
+## [2026-11-20] create | Phiếu xuất kho PXK-VIC-2026-007 Artiverse Apparel
+
+- Lập theo ảnh phiếu người dùng cung cấp; Bên Nhận, mã số thuế và địa chỉ đối chiếu theo danh sách khách hàng Victory.
+- Gồm máy quét mã vạch Honeywell 1472GHD số lượng 1 và loa mini TTA-TM6 số lượng 2; tổng thành tiền 6.060.000 đồng trước VAT; kèm PO 66218976.
+- Cập nhật số phiếu tiếp theo thành `008`. [[bien-ban/Phieu xuat kho PXK-VIC-2026-007 Artiverse Apparel PO 66218976]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]

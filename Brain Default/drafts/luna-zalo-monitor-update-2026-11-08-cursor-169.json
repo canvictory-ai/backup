@@ -1,0 +1,262 @@
+{
+  "created_at": "2026-11-08T10:17:25Z",
+  "poll": {
+    "from_cursor": 166,
+    "to_cursor": 169,
+    "returned_count": 3,
+    "hasMore": false,
+    "sync": {
+      "complete": true,
+      "gaps": []
+    },
+    "message_ids": [
+      "8465668214963",
+      "8465668579329",
+      "8465669028984"
+    ]
+  },
+  "state_update": {
+    "version": 1,
+    "initialized_at": "2026-11-08T00:00:00Z",
+    "baseline_at": "2026-11-08T00:00:00Z",
+    "baseline_only": false,
+    "connection": {
+      "name": "Luna Vũ",
+      "status": "ok",
+      "sync_complete": true
+    },
+    "cursor": 169,
+    "processed_source_message_ids": [
+      "8464465413316",
+      "8464466301486",
+      "8464468376988",
+      "8464471810109",
+      "8464472028908",
+      "8464473186246",
+      "8464474754908",
+      "8464542475577",
+      "8464553391112",
+      "8464576544947",
+      "8464598160175",
+      "8464669934595",
+      "8464678143192",
+      "8464767967322",
+      "8464768187928",
+      "8464768942739",
+      "8464769596908",
+      "8464783350787",
+      "8464793514418",
+      "8464793928617",
+      "8464794882527",
+      "8464806331458",
+      "8464819743661",
+      "8465169202894",
+      "8465169705100",
+      "8465179850323",
+      "8465233801185",
+      "8465236378822",
+      "8465237709593",
+      "8465237923287",
+      "8465238008786",
+      "8465238137065",
+      "8465250269992",
+      "8465250665638",
+      "8465252429413",
+      "8465252712824",
+      "8465253508454",
+      "8465253916660",
+      "8465254631908",
+      "8465255219493",
+      "8465256029260",
+      "8465256425491",
+      "8465256789994",
+      "8465257500323",
+      "8465257841069",
+      "8465258246995",
+      "8465259039201",
+      "8465271827653",
+      "8465272594953",
+      "8465272982977",
+      "8465273519403",
+      "8465274208321",
+      "8465274692458",
+      "8465275015958",
+      "8465276605145",
+      "8465276992987",
+      "8465277036749",
+      "8465277476478",
+      "8465277648549",
+      "8465279377954",
+      "8465280321623",
+      "8465282083005",
+      "8465430615207",
+      "8465451896915",
+      "8465452636319",
+      "8465453576468",
+      "8465454342889",
+      "8465456381120",
+      "8465467109738",
+      "8465467585289",
+      "8465471631817",
+      "8465476122635",
+      "8465566243677",
+      "8465566589665",
+      "8465566703991",
+      "8465566850606",
+      "8465567670383",
+      "8465572349720",
+      "8465573623612",
+      "8465574037353",
+      "8465575845931",
+      "8465576159483",
+      "8465582743640",
+      "8465589376537",
+      "8465593543352",
+      "8465617718858",
+      "8465621882385",
+      "8465624923094",
+      "8465629272603",
+      "8465632224961",
+      "8465632637415",
+      "8465668214963",
+      "8465668579329",
+      "8465669028984"
+    ],
+    "pending_messages": [
+      {
+        "message_id": "8465337139990",
+        "thread_id": "6037079067171344716",
+        "first_seen": "2026-11-08T08:05:27Z",
+        "status": "resolved_no_reply_needed",
+        "reason": "Ảnh là phiếu xuất kho bán hàng gửi kèm chú thích “gui px”; phiếu ghi rõ khách hàng Công ty Cổ phần Giải pháp Công nghệ và Truyền thông Victory Việt Nam, hàng Type to LAN thường 1 chiếc. Tin đã gửi chính phiếu, không cần gửi lại ảnh hoặc phản hồi."
+      },
+      {
+        "message_id": "8465476122635",
+        "thread_id": "5049425754926522263",
+        "first_seen": "2026-11-08T08:51:56.167Z",
+        "status": "unanswered",
+        "reason": "Lịch sử TESTBOT đến cursor 152 không có phản hồi phù hợp cho yêu cầu tra mã thay thế."
+      },
+      {
+        "message_id": "8465567670383",
+        "thread_id": "5049425754926522263",
+        "first_seen": "2026-11-08T09:23:13.327Z",
+        "status": "resolved_replied",
+        "reason": "Luna trả lời trong TESTBOT bằng giá bán buôn 150K/hộp và hỏi rõ biến thể chip; phản hồi cùng nhóm.",
+        "reply_message_id": "8465632637415"
+      },
+      {
+        "message_id": "8465582743640",
+        "thread_id": "3573310846900104466",
+        "first_seen": "2026-11-08T09:28:26.799Z",
+        "status": "resolved_human_replied",
+        "reason": "Victor xác nhận đã giao hàng theo số lượng cập nhật trong cùng nhóm.",
+        "reply_message_id": "8465593543352"
+      },
+      {
+        "message_id": "8465632224961",
+        "thread_id": "3573310846900104466",
+        "first_seen": "2026-11-08T09:45:10Z",
+        "status": "resolved_human_replied",
+        "reason": "Victor gửi ảnh rồi nhắn “a gửi e nhé” trong cùng nhóm sau yêu cầu xin phiếu; phản hồi người thật phù hợp.",
+        "reply_message_id": "8465669028984"
+      }
+    ],
+    "pending_orders": [
+      {
+        "source_message_id": "8464659108104",
+        "source_thread_id": "6037079067171344716",
+        "source_thread_name": "VICTORY-NAM TRƯỜNG COMPUTER 114LÊHỒNGPHONG",
+        "summary": "Có thể là 1 bộ chuyển Type-C sang LAN loại rẻ, 85K, dựa trên ngữ cảnh gần đó.",
+        "status": "pending_destination_duplicate_check",
+        "reason": "Chưa thể xác minh trạng thái đã chuyển; không gửi lại mù."
+      },
+      {
+        "source_message_id": "8464669934595",
+        "followup_message_id": "8464688543070",
+        "source_thread_id": "5049425754926522263",
+        "source_thread_name": "TESTBOT",
+        "summary": "10 hộp mực Canon 057 Starter có chip, đơn giá 220K/hộp, tổng 2.200K; tin nhắc về đơn cũ.",
+        "status": "pending_destination_duplicate_check",
+        "reason": "Tin nhắc về xác nhận cũ; không gửi lại."
+      },
+      {
+        "source_message_id": "8464769596908",
+        "followup_message_id": "8464783350787",
+        "source_thread_id": "5049425754926522263",
+        "source_thread_name": "TESTBOT",
+        "summary": "5 hộp Canon 070 không chip; 155K/hộp, tổng 775K.",
+        "status": "pending_destination_duplicate_check",
+        "reason": "Đã thấy bản chuyển tương ứng ở nhóm đích; không gửi lại."
+      },
+      {
+        "source_message_id": "8465179850323",
+        "confirmation_message_id": "8465236378822",
+        "source_thread_id": "5049425754926522263",
+        "source_thread_name": "TESTBOT",
+        "summary": "5 hộp mực Canon 057 Starter có chip, đơn giá 220K/hộp, tổng 1.100K.",
+        "status": "transferred",
+        "reason": "Xác nhận mới 8465236378822 là câu trả lời cho câu hỏi chọn biến thể trong đơn mới; đã đối chiếu nhóm đích và không có bản chuyển cùng sự kiện. Chuyển thành công; đơn cũ cùng mặt hàng/số lượng không được dùng để chặn.",
+        "output_message_id": "8465459131130",
+        "resolved_at": "2026-11-08T08:55:00Z"
+      }
+    ],
+    "last_poll": {
+      "at": "2026-11-08T10:17:25Z",
+      "from_cursor": 166,
+      "to_cursor": 169,
+      "returned_count": 3,
+      "message_ids": [
+        "8465668214963",
+        "8465668579329",
+        "8465669028984"
+      ],
+      "classifications": {
+        "8465668214963": "reaction_recorded",
+        "8465668579329": "human_reply_attachment_observed",
+        "8465669028984": "human_replied_to_8465632224961"
+      },
+      "hasMore": false,
+      "sync": {
+        "connected": true,
+        "complete": true,
+        "gaps": []
+      },
+      "action": "Poll thực tế từ cursor 166 trả 3 sự kiện đến cursor 169. Đối chiếu lịch sử VICTORY - PDC: Victor gửi ảnh và nhắn “a gửi e nhé”, giải quyết yêu cầu phiếu xuất 8465632224961; yêu cầu 8465476122635 trong TESTBOT vẫn unanswered. Không gửi tin hoặc chuyển đơn."
+    },
+    "notes": "Poll thực tế cursor 166→169: 3 sự kiện, hasMore=false, sync.complete=true, gaps=[]. Yêu cầu phiếu xuất 8465632224961 đã được Victor xử lý bằng ảnh và tin nhắn 8465669028984. Tin TESTBOT 8465476122635 vẫn chưa thấy trả lời phù hợp. Không gửi tin/chuyển đơn."
+  },
+  "audit_additions": [
+    {
+      "message_id": "8465668214963",
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "observed_at": "2026-11-08T10:17:25Z",
+      "sync_complete": true,
+      "result": "silent_by_scope",
+      "reply_message_id": null,
+      "match_basis": "Reaction 👍 của Victor được ghi nhận; loop không phản ứng hoặc gửi tin."
+    },
+    {
+      "message_id": "8465668579329",
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "observed_at": "2026-11-08T10:17:25Z",
+      "sync_complete": true,
+      "result": "human_replied",
+      "reply_message_id": "8465669028984",
+      "match_basis": "Victor gửi ảnh trong cùng nhóm rồi nhắn “a gửi e nhé”, phù hợp với yêu cầu xin phiếu xuất 8465632224961."
+    },
+    {
+      "message_id": "8465669028984",
+      "thread_id": "3573310846900104466",
+      "thread_name": "VICTORY - PDC",
+      "observed_at": "2026-11-08T10:17:25Z",
+      "sync_complete": true,
+      "result": "human_replied",
+      "reply_message_id": "8465669028984",
+      "match_basis": "Tin xác nhận của Victor sau ảnh gửi phiếu, cùng nhóm và cùng mạch yêu cầu 8465632224961."
+    }
+  ],
+  "write_blocked": "Quyền auto từ chối ghi Javis/state/; đây là nội dung dự kiến, chưa áp dụng."
+}

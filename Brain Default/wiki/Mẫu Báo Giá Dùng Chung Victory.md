@@ -4,7 +4,7 @@ status: active
 tags: [wiki, báo-giá, Victory]
 aliases: [mẫu báo giá Victory, Victory quotation template, báo giá dùng chung]
 created: 2026-10-16
-updated: 2026-10-17
+updated: 2026-11-18
 source:
   - "[[Mau Bao Gia Chuyen Nghiep Victory Artiverse]]"
   - "[[Cap Nhat Quy Cach Bao Gia Victory 2026-10-16]]"
@@ -21,7 +21,11 @@ source:
 
 Mẫu dùng tiêu đề **BÁO GIÁ / QUOTATION**. Lời dẫn cần trang trọng, dùng chung cho mọi khách hàng và mặt hàng, không nêu tên khách hàng hay sản phẩm cụ thể. Số báo giá theo dạng `VIC-<số thứ tự>-2026`; các tiêu đề chính và phần tiền trình bày song ngữ Việt-Anh. [[Cap Nhat Quy Cach Bao Gia Victory 2026-10-16]]
 
-Nhãn hạng mục là “Hạng mục: Hàng hóa / Dịch vụ”. Bảng hàng hóa có cột hình ảnh cạnh tên sản phẩm; với một mặt hàng thì bỏ dòng hàng hóa trống. Ảnh sản phẩm dùng trong báo giá cần có nền trong suốt và giữ sản phẩm rõ nét. [[Cap Nhat Quy Cach Bao Gia Victory 2026-10-16]]
+Trong tên hàng trên báo giá, không thêm mã nội bộ của danh mục trong ngoặc, ví dụ `(VT02669)`. Giữ model hoặc part number thuộc tên/nhận diện sản phẩm khi có. [[memory/facts/quy-cach-bao-gia-victory]]
+
+Nhãn hạng mục là “Hạng mục: Hàng hóa / Dịch vụ”. Bảng hàng hóa có cột hình ảnh cạnh tên sản phẩm; với một mặt hàng thì bỏ dòng hàng hóa trống. Ảnh sản phẩm dùng trong báo giá cần có nền trong suốt, giữ sản phẩm rõ nét và được tối ưu theo kích thước hiển thị, không nhúng ảnh độ phân giải lớn không cần thiết. [[Cap Nhat Quy Cach Bao Gia Victory 2026-10-16]] [[memory/facts/bao-gia-moi-san-pham-co-anh]]
+
+Không ghi VAT/thuế ở từng dòng hàng hoặc trong mô tả sản phẩm. Đặt phần tổng hợp thuế ngay sau bảng hàng; nếu có nhiều mức thuế, tách tiền hàng chịu thuế, VAT theo mức và tiền hàng không chịu thuế tại phần tổng hợp. [[memory/facts/thue-bao-gia-chi-o-phan-tong-hop]]
 
 Mục giao hàng hoặc thực hiện phải ghi địa chỉ của khách hàng. Mẫu hiện hành có ghi chú song ngữ: “Phí vận chuyển: Đơn giá trên đã bao gồm chi phí vận chuyển tận nơi.” / “The unit prices above include delivery to the customer's premises.” Người dùng xác nhận mẫu sau khi có các nội dung này là chuẩn. [[Cap Nhat Quy Cach Bao Gia Victory 2026-10-16]] [[Xac Nhan Mau Bao Gia Victory 2026-10-17]]
 
