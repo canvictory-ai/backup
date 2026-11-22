@@ -133,7 +133,7 @@
       "id": "r_32c41eb84d",
       "text": "Mỗi ngày lúc 18:00, tổng hợp các tin nhắn mới trong các nhóm Zalo Victory có thể truy cập, nhóm xuất hàng, nhật ký quy trình, Kanban và lịch liên quan trong ngày. Báo cáo cho chủ trong chat này gồm: đơn đã chốt, yêu cầu xuất, giao hàng/thanh toán chỉ khi có xác nhận, phản ánh, việc đang vướng, lỗi quy trình và ưu tiên cần chủ xử lý. Ghi nhóm, người gửi, thời điểm và nguồn. Gộp nội dung trùng; phân biệt yêu cầu với hoàn tất; không suy đoán. Nêu rõ khoảng đồng bộ thiếu hoặc nguồn không truy cập được. Luna Vũ vẫn là người phản hồi khách; chỉ đọc và báo cáo, không trả lời khách hoặc tạo việc mới. Riêng mỗi thứ Sáu, thêm mục rà soát lỗi lặp lại trong tuần: nêu ví dụ, tần suất nếu kiểm chứng được, ảnh hưởng và đề xuất khắc phục; không tự sửa cấu hình hay tạo việc.",
       "mode": "task",
-      "due_at": 1795345200.0,
+      "due_at": 1795431600.0,
       "chat_id": "web:97609117d6dd46aca8262c91b2df92de",
       "repeat_min": 0,
       "cron": "0 18 * * *",
@@ -146,11 +146,11 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1794206486.384005,
-      "fired_at": 1795258893.325099,
-      "result": "- **Đơn đã chốt:** Nhóm **VICTORY-NAM TRƯỜNG COMPUTER 114LÊHỒNGPHONG**, Victor Vu xác nhận lấy 1 camera EZVIZ H90 và 3 camera EZVIZ H6C G1 vào sáng hôm sau; Luna Vũ ghi chốt đơn ở nhóm **XUẤT HÀNG VICTORY** lúc 02:24 UTC. Cùng nhóm, Huy Hoàng yêu cầu xuất thêm 1 màn Samsung 27\", Thiệp Ntcz trả lời “ok” lúc 03:38 UTC. Chưa thấy xác nhận đã giao.\n- **Yêu cầu và việc còn vướng:** Thanh Lâm nhờ xuất 2 USB Wi‑Fi, chưa thấy xác nhận xuất. Cũng trong nhóm **THANH LÂM - VICTORY**, lúc 04:50–05:19 UTC có trao đổi về hợp đồng và hóa đơn; Victor nói kế toán sẽ gửi, chưa có xác nhận đã gửi. Nhóm **Sửa chữa máy in VICTORY**, Vũ Tiến Hợp hỏi máy 402 của ai và bị sao, chưa thấy câu trả lời trong dữ liệu đã đọc.\n- **Giao hàng, thanh toán, phản ánh:** Không thấy xác nhận giao hàng hay thanh toán trong các tin đã đọc. Có dòng “122 âu cơ 1 thẻ 64 350k ck” ở nhóm nội bộ lúc 10:00 UTC, nhưng không đủ bằng chứng xác nhận đã thanh toán. Chưa thấy phản ánh khách rõ ràng.\n- **Giới hạn nguồn:** Zalo báo đồng bộ hoàn tất, không có khoảng mất kết nối, nhưng lịch sử đã rà chỉ gồm một số nhóm đang có tin trong bộ đệm; nhóm khác không được xác minh đầy đủ. Kanban không đọc được do quyền hiện tại chặn thao tác ở mức `safe`; lịch hôm nay không truy cập được. Nhật ký workflow mới nhất trả về là ngày 08/11 và các lần chạy báo “Not logged in”, nên không xác minh được quy trình trong ngày. Không có rà soát lỗi lặp lại tuần này vì hôm nay là thứ Bảy.",
+      "fired_at": 1795345320.1455326,
+      "result": "**Báo cáo ngày 22/11/2026**\n\n- **Đơn đã chốt:** Chưa thấy đơn bán hàng nào được xác nhận chốt trong 13 nhóm Zalo đang truy cập.\n- **Yêu cầu xuất:** Nhóm **XUẤT HÀNG VICTORY**, Huy Hoàng, 11:09 UTC: liệt kê camera H3/H6C, thẻ 64, hộp nối và đế tròn cho “C Quế”, kèm tin “26/10”. Đây là nội dung yêu cầu, chưa có xác nhận đã xuất.\n- **Giao hàng, thanh toán:** Chưa thấy xác nhận giao hàng. Máy 6030 sửa xong, báo giá 150.000đ; Vũ Thị Vui nói sẽ trả sau khi nhận máy, nhưng chưa có xác nhận đã thanh toán. Nguồn: nhóm **ATP - VICTORY**, Tạ Hải Đăng và Vũ Thị Vui, 02:33 và 09:34 UTC.\n- **Việc còn vướng:** Nhóm **ND_Victory 99 Hùng Vương - Khánh Toàn**, Nam Kd Khánh Toàn và Thủy KD Khánh Toàn, khoảng 09:13-09:22 UTC: bộ tản thiếu các miếng nhựa kê nên bên nhận nói không lắp được; Huy Hoàng nói sẽ tìm và mang qua. Chưa thấy xác nhận đã xử lý. **Cần chủ lưu ý tình trạng này.**\n- **Khác:** Nhóm **VICTORY - NAM TRƯỜNG**, Thiệp Ntcz, 01:59 UTC, nhờ ship và lấy hàng; tin nhắn chưa xác nhận việc đã giao. Nhóm **Victory - CP9**, 03:50 UTC, trao đổi mã màn hình X1 và báo hàng đặt chiều mai có; chưa thấy xác nhận đặt hàng.\n- **Lịch và lỗi nguồn:** Danh sách việc/lịch cá nhân hôm nay trống. Công cụ Kanban không cho đọc ở chế độ hiện tại; lịch sử quy trình báo “Not logged in”; lần tra cứu không tìm thấy công cụ Google Calendar. Nhật ký ngày và tuần trong vault trống. Các lịch sử Zalo trả về `sync.complete: true`, không báo khoảng mất đồng bộ trong dữ liệu đã đọc. Hôm nay là Chủ nhật nên không có mục rà lỗi lặp lại thứ Sáu.",
       "error": "",
       "agent": "phuong-sai-vat",
-      "last_slot": 1795258800.0
+      "last_slot": 1795345200.0
     },
     {
       "id": "r_2490085073",
@@ -245,5 +245,5 @@
       "last_slot": 1795221960.0
     }
   ],
-  "updated": 1795309327.8623106
+  "updated": 1795345320.148005
 }
