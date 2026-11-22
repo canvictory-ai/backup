@@ -846,3 +846,177 @@ Mẫu nhờ chủ báo giá trước đây chỉ nói “mention thật” nhưn
 - Lập theo ảnh phiếu người dùng cung cấp; Bên Nhận, mã số thuế và địa chỉ đối chiếu theo danh sách khách hàng Victory.
 - Gồm máy quét mã vạch Honeywell 1472GHD số lượng 1 và loa mini TTA-TM6 số lượng 2; tổng thành tiền 6.060.000 đồng trước VAT; kèm PO 66218976.
 - Cập nhật số phiếu tiếp theo thành `008`. [[bien-ban/Phieu xuat kho PXK-VIC-2026-007 Artiverse Apparel PO 66218976]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+
+## [2026-11-20] create | Hai phiếu xuất kho cho Hải Vinh
+
+- Lập hai phiếu riêng theo hai ảnh danh sách hàng; Bên Nhận, mã số thuế và địa chỉ đối chiếu theo danh sách khách hàng Victory.
+- Phiếu `008` có 5 mặt hàng, phiếu `009` có 5 mặt hàng; đơn giá và thành tiền để trống vì ảnh không có giá.
+- Cập nhật số phiếu tiếp theo thành `010`. [[bien-ban/Phieu xuat kho PXK-VIC-2026-008 Hai Vinh - danh sach 1]] [[bien-ban/Phieu xuat kho PXK-VIC-2026-009 Hai Vinh - danh sach 2]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+
+## [2026-11-20] update | Chốt mẫu phiếu xuất kho A4 dọc Victory
+
+- Dựng lại tệp mẫu chuẩn từ bố cục phiếu 007 đã duyệt, xóa dữ liệu khách hàng, PO, số phiếu, ngày và mặt hàng giao dịch khỏi mẫu; giữ thông tin cố định của Victory.
+- Chốt phong cách A4 dọc tông xanh như báo giá, tên công ty một dòng kèm MST, tiêu đề 15 pt một dòng, giờ căn cột với số phiếu, bảng 8 cột và chữ ký ghi chú sát chức danh.
+- Rà thư mục mẫu: không còn bản mẫu xuất kho trùng khác; các phiếu đã lập vẫn là hồ sơ giao dịch riêng. Đồng bộ Wiki, memory và skill soạn hồ sơ. [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]] [[Nguyên tắc giữ nguyên mẫu đã duyệt]]
+
+
+## [2026-11-20] update | Chuẩn hóa mẫu đối chiếu công nợ A4 dọc
+
+- Chuyển mẫu Word sang A4 dọc; dàn lại bảng thông tin hai bên, bảng công nợ sáu cột và phần ký theo vùng lề, dùng tông xanh Victory đồng bộ với mẫu phiếu xuất kho. Giữ nguyên nội dung và các trường đối chiếu đã có.
+- Cập nhật quy cách trong Wiki, mục lục và memory. [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+
+## [2026-11-20] update | Bổ sung đầu trang và thông tin Bên A cho mẫu đối chiếu công nợ
+
+- Đồng bộ đầu trang với cụm nhận diện trên mẫu phiếu xuất kho. Địa điểm “tại” dùng địa chỉ khách hàng do người dùng cung cấp hoặc tra cứu trong cơ sở dữ liệu. Điền Bên A: Vũ Đức Cẩn, Giám đốc, điện thoại 0228.86.22222.
+- Cập nhật mẫu Word, Wiki và memory. [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]] [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]]
+
+
+## [2026-11-20] update | Đồng bộ đầu trang và Bên A mẫu đối chiếu công nợ
+
+- Sao chép cụm nhận diện Victory, MST và địa chỉ từ mẫu phiếu xuất kho lên đầu trang mẫu công nợ. Dòng “tại” được để chỗ trống để điền địa chỉ khách hàng do người dùng cung cấp hoặc tra cứu trong cơ sở dữ liệu.
+- Điền Bên A là Vũ Đức Cẩn, Giám đốc, điện thoại 0228.86.22222; cập nhật quy tắc Wiki và memory. [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+
+## [2026-11-20] update | Bỏ quốc hiệu và thu gọn phần ký mẫu đối chiếu công nợ
+
+- Bỏ hai dòng quốc hiệu/tiêu ngữ đầu trang; thu gọn khoảng cách để “(Ký, ghi rõ họ tên)” nằm sát ngay dưới dòng đại diện. Đồng bộ quy tắc Wiki và memory. [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]]
+
+
+## [2026-11-20] approve | Chốt mẫu đối chiếu công nợ dùng lâu dài
+
+- Người dùng xác nhận mẫu hiện tại là chuẩn và yêu cầu dùng cho các lần sau. Rà thư mục `thanh-toan/`: chỉ có một tệp mẫu đối chiếu công nợ, không có bản mẫu cũ trùng cần xóa. Hồ sơ giao dịch và nguồn lưu trữ không phải bản mẫu.
+- Đánh dấu đây là mẫu chuẩn duy nhất trong Wiki và memory. [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]] [[memory/facts/mau-bien-ban-doi-chieu-cong-no-victory]]
+
+
+## [2026-11-20] cleanup | Xóa bản tham chiếu cũ trong attachments theo yêu cầu
+
+- Xóa bản DOCX gốc biên bản Xuân Thiện và PDF mẫu báo giá khỏi `attachments/`; gỡ các ghi chú hiện hành trỏ tới hai tệp này.
+- Các nguồn trong `sources/` được giữ nguyên theo quy tắc vault: lớp nguồn thô do người dùng quản lý và AI không được sửa/xóa. Mẫu chuẩn hiện hành trong thư mục nghiệp vụ không bị xóa.
+
+
+## [2026-11-20] create | Mẫu phiếu nhập kho kiêm kiểm nhận Victory
+
+- Tạo mẫu Word A4 dọc theo nhận diện xanh Victory, có thông tin nhà cung cấp, chứng từ tham chiếu, số lượng theo chứng từ và thực nhận, tình trạng/ghi chú, kết quả kiểm nhận, hướng xử lý và bốn vị trí ký.
+- Không mặc định kết quả kiểm nhận; để trống số phiếu cho đến khi người dùng chốt quy tắc đánh số. Cập nhật Wiki, mục lục và memory. [[Mẫu Phiếu Nhập Kho Kiêm Kiểm Nhận Hàng Hóa Victory]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+
+## [2026-11-20] fix | Căn lại đầu trang mẫu phiếu nhập kho
+
+- Sửa bảng nhận diện Victory bị co hẹp: đặt độ rộng cố định theo vùng lề, căn thương hiệu thành hai dòng gọn và giảm cỡ chữ phần thông tin công ty để tránh vỡ dòng. [[Mẫu Phiếu Nhập Kho Kiêm Kiểm Nhận Hàng Hóa Victory]]
+
+
+## [2026-11-20] update | Căn chỉnh lại trang mẫu phiếu nhập kho
+
+- Chuẩn hóa A4 dọc, tiêu đề căn giữa; số phiếu trái và ngày/giờ nhập phải trên cùng hàng; tiêu đề mục căn trái, bảng dàn theo lề. Bổ sung dòng lý do nhập và địa điểm nhập.
+- Đồng bộ mô tả trong Wiki và memory. [[Mẫu Phiếu Nhập Kho Kiêm Kiểm Nhận Hàng Hóa Victory]]
+
+
+## [2026-11-20] update | Căn hai phía đầu trang mẫu phiếu nhập kho
+
+- Căn “VICTORY TECHNOLOGY” sát trái và tên pháp nhân, MST, địa chỉ sát phải trên cùng hàng đầu trang. Cập nhật quy cách Wiki và memory. [[Mẫu Phiếu Nhập Kho Kiêm Kiểm Nhận Hàng Hóa Victory]]
+
+
+## [2026-11-20] approve | Chốt mẫu phiếu nhập kho dùng lâu dài
+
+- Người dùng xác nhận mẫu phiếu nhập kho kiêm kiểm nhận hiện tại là chuẩn, áp dụng cho các lần sau và yêu cầu xóa bản cũ bị thay thế. Rà soát thư mục mẫu: chỉ có một tệp mẫu hiện hành, không có bản cũ trùng để xóa.
+- Đánh dấu mẫu hiện tại là bản chuẩn duy nhất trong Wiki và memory. [[Mẫu Phiếu Nhập Kho Kiêm Kiểm Nhận Hàng Hóa Victory]]
+
+## [2026-11-20] update | Mẫu HTML xanh Victory cho biên bản Xuân Thiện
+
+- Chuyển mẫu dùng lại sang HTML phong cách xanh Victory và đặt HTML làm định dạng đầu ra mặc định cho biên bản Xuân Thiện.
+- Giữ nguyên câu chữ cố định, bố cục hai bên, quy cách chữ đã duyệt và vị trí ảnh dưới mục 1.
+- Cập nhật [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]], [[index]], memory và skill soạn hồ sơ.
+- Nguồn nội dung cố định: [[Mau bien ban lam viec Cong ty The thao Xuan Thien]].
+
+## [2026-11-20] update | Tinh chỉnh bố cục mẫu Xuân Thiện
+
+- Bỏ gạch trang trí đầu trang, chuẩn hóa hai ô tên công ty cùng kích thước và thêm sẵn hai khung ảnh dưới mục 1.
+- Đưa dòng “(Ký, ghi rõ họ tên)” sát tên hai công ty.
+- Cập nhật mẫu HTML, Wiki, memory và skill soạn hồ sơ.
+
+## [2026-11-20] update | Căn chỉnh tên công ty và thứ tự phần ký Xuân Thiện
+
+- Chia tên mỗi công ty thành hai dòng; giảm cỡ chữ tên Victory để vừa khung và đặt “XUÂN THIỆN” ở dòng thứ hai.
+- Đảo phần ký để Công ty Thể thao Xuân Thiện đứng trước Victory.
+- Cập nhật mẫu HTML, Wiki, memory và skill soạn hồ sơ.
+
+## [2026-11-20] delete | Gỡ nguồn biểu mẫu cũ trùng loại
+
+- Theo yêu cầu người dùng, xóa các nguồn biểu mẫu cũ liên quan đến biên bản Xuân Thiện, báo giá Victory và hợp đồng nguyên tắc BCA/PDF khỏi `sources/`.
+- Cập nhật các Wiki mẫu hiện hành để không còn trỏ đến các nguồn đã xóa; giữ nguyên các mẫu đang dùng và thông tin điều khoản hiện hành.
+
+## [2026-11-20] update | Đồng bộ bố cục biên bản Xuân Thiện với phiếu xuất kho
+
+- Thêm đầu trang nhận diện Victory hai phía, giữ quốc hiệu/tiêu ngữ, dùng các khối xanh nhạt và điểm nhấn xanh Victory theo mẫu phiếu xuất kho.
+- Giữ nguyên câu chữ cố định, các khung ảnh và quy cách đã duyệt.
+- Cập nhật HTML, Wiki, memory và skill soạn hồ sơ.
+
+## [2026-11-20] update | Đặt quốc hiệu lên đầu mẫu Xuân Thiện
+
+- Gỡ khối nhận diện Victory và thông tin pháp nhân khỏi đầu trang; đặt quốc hiệu/tiêu ngữ ở vị trí đầu tiên.
+- Giữ các khối thông tin, điểm nhấn xanh và nội dung đã duyệt; cập nhật Wiki, memory và skill.
+
+## [2026-11-21] update | Định dạng xuất biên bản bàn giao
+
+- Người dùng đặt định dạng mặc định mới: biên bản bàn giao xuất Word `.doc`, không xuất HTML.
+- Giữ tệp HTML hiện hành làm mẫu tham chiếu; cập nhật Wiki, chỉ mục, memory và skill.
+- Biên bản Xingyu được xuất lại thành Word-compatible RTF trong tệp `.doc`; bỏ bản HTML đầu ra cũ để tránh nhầm.
+
+
+## [2026-11-21] create | Phiếu xuất kho Hải Vinh số 010
+
+- Lập phiếu PXK-VIC-2026-010 theo ảnh người dùng gửi: 5 hộp mực HP 45, mã CC625AA; đơn giá và thành tiền để trống vì ảnh không nêu giá.
+- Dùng địa chỉ và mã số thuế Hải Vinh VN từ danh sách khách hàng. Số phiếu tiếp theo là 011. [[bien-ban/Phieu xuat kho PXK-VIC-2026-010 Hai Vinh CC625AA]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+
+## [2026-11-21] create | Phiếu xuất kho Artiverse Apparel Yên Lư số 011
+
+- Lập phiếu theo ảnh hóa đơn HD041449, gồm máy tính để bàn Dell QVT1260 và màn hình Samsung LS24D300GAEXXV, mỗi loại 1 chiếc. Giá không có trong ảnh nên để trống.
+- Lấy mã số thuế và địa chỉ bên nhận từ danh sách khách hàng; số phiếu tiếp theo là 012. [[bien-ban/Phieu xuat kho PXK-VIC-2026-011 Artiverse Apparel Yen Lu HD041449]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+
+## [2026-11-21] create | Phiếu xuất kho Artiverse Apparel Yên Lư số 012
+
+- Lập phiếu theo ảnh: bộ kiểm soát cửa Outdoor và công tắc Datic Basic, mỗi dòng số lượng 1; đơn giá và thành tiền để trống vì ảnh không có giá.
+- Dùng thông tin bên nhận trong danh sách khách hàng; số phiếu tiếp theo là 013. [[bien-ban/Phieu xuat kho PXK-VIC-2026-012 Artiverse Apparel Yen Lu]] [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]]
+
+
+## [2026-11-21] update | Chỉ dùng mẫu DOC cho biên bản bàn giao
+
+- Theo yêu cầu mới nhất, xóa mẫu HTML bàn giao đã dùng để tham chiếu; tạo mẫu Word `.doc` làm mẫu chuẩn duy nhất và đổi toàn bộ hướng dẫn hiện hành sang `.doc`.
+- Cập nhật Wiki, mục lục, memory và kỹ năng soạn hồ sơ; lịch sử các biên bản đã lập được giữ nguyên. [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]] [[Nguyên tắc giữ nguyên mẫu đã duyệt]]
+
+
+## [2026-11-21] update | Chuyển mẫu hợp đồng nguyên tắc sang Word
+
+- Chuyển bản tham chiếu Khánh Toàn sang mẫu Word `.docx`, giữ nguyên nội dung, điều khoản và dữ liệu trong bản đã duyệt; kiểm tra lại các điều khoản chính sau khi chuyển.
+- Xóa tệp HTML làm mẫu cũ; cập nhật Wiki, mục lục, memory và kỹ năng để chỉ dùng/xuất hợp đồng nguyên tắc dạng Word `.docx`. [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]] [[hop-dong/Mau hop dong nguyen tac mua ban Victory]]
+
+
+## [2026-11-21] update | Chuyển mẫu bàn giao từ DOC sang DOCX
+
+- Theo yêu cầu mới nhất, chuyển mẫu bàn giao sang Word `.docx`; giữ quy cách đã duyệt, xóa bản `.doc` RTF cũ để tránh trùng.
+- Cập nhật Wiki, mục lục, memory và kỹ năng: biên bản bàn giao về sau chỉ dùng/xuất `.docx`. [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]] [[bien-ban/Mau bien ban ban giao nghiem thu hang hoa Victory.docx]]
+
+## [2026-11-21] update | Chuẩn hóa quy trình lập hồ sơ Victory
+
+- Chuẩn hóa trường dữ liệu thiếu thành `...` trên bản giấy tờ; giữ nguyên khoảng ký, khung ảnh và cấu trúc mẫu; không sửa dữ liệu nguồn.
+- Cập nhật Wiki các mẫu hợp đồng, báo giá, biên bản, phiếu kho, đối chiếu công nợ và đề nghị thanh toán; cập nhật skill soạn hồ sơ và memory, thay quy tắc cũ yêu cầu để trống.
+- Tạo [[Quy Trình Chuẩn Hóa Hồ Sơ Victory]] và [[Sổ Theo Dõi Số Văn Bản Victory]]. Số kế tiếp đã kiểm kê: báo giá 112, phiếu xuất kho 013.
+
+## [2026-11-21] update | Cho phép bộ mẫu và biến thể theo khách hàng
+
+- Điều chỉnh cách quản lý: mẫu hiện hành là mặc định cho tình huống phổ biến; có thể lưu mẫu biến thể theo khách hàng/tình huống và ghép nhiều loại chứng từ thành bộ hồ sơ cho cùng một việc.
+- Người dùng xác nhận bộ mẫu hiện có đã đủ, chưa tạo thêm loại chứng từ lúc này. Không xóa biến thể có nhu cầu; chỉ dọn bản sao y hệt hoặc mẫu bị thay thế.
+- Đồng bộ Wiki, memory và skill soạn hồ sơ. [[Nguyên tắc giữ nguyên mẫu đã duyệt]] [[Quy Trình Chuẩn Hóa Hồ Sơ Victory]]
+
+- Tạo [[Bộ Mẫu Chứng Từ Theo Khách Hàng Và Quy Trình]] để ghi nhận hiện bộ mẫu đã đủ, chưa cần tạo thêm.
+
+## [2026-11-22] ingest | Nghị định 399/2026/NĐ-CP về lương tối thiểu
+
+- Nguồn chính thức: [[Nguồn Nghị định 399-2026-NĐ-CP - Cổng văn bản Chính phủ]].
+- Tạo: [[Lương tối thiểu từ ngày 01-01-2027]].
+- Ghi nhận mức tháng/giờ theo 4 vùng, ngày hiệu lực 01/01/2027, Nghị định 293/2025/NĐ-CP hết hiệu lực cùng ngày và yêu cầu rà soát thỏa thuận tiền lương.

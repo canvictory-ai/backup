@@ -3,12 +3,12 @@
  "job": "reminder:r_32c41eb84d",
  "task_sha": "87f60a1b3159d8049ebfd8e1",
  "mode": "suggest",
- "skeleton": "[{\"args\": {\"type\": \"group\"}, \"tool\": \"zalo__zalo_list_threads\"}, {\"args\": {\"limit\": 200, \"since\": \"{{d0}}\", \"threadId\": \"8404017101126147877\", \"threadType\": 1, \"until\": \"{{d1}}\"}, \"tool\": \"zalo__zalo_get_history\"}, {\"args\": {\"limit\": 200, \"since\": \"{{d2}}\", \"threadId\": \"6037079067171344716\", \"threadType\": 1, \"until\": \"{{d3}}\"}, \"tool\": \"zalo__zalo_get_history\"}]",
+ "skeleton": "[{\"args\": {\"limit\": 30, \"query\": \"Victory\", \"type\": \"group\"}, \"tool\": \"zalo__zalo_search_threads\"}, {\"args\": {\"type\": \"group\"}, \"tool\": \"zalo__zalo_list_threads\"}, {\"args\": {\"limit\": 100, \"since\": \"{{d0}}T00:00:00Z\", \"threadId\": \"5761372048867324272\", \"threadType\": 1}, \"tool\": \"zalo__zalo_get_history\"}, {\"args\": {\"limit\": 100, \"since\": \"{{d1}}T00:00:00Z\", \"threadId\": \"5094744651729254448\", \"threadType\": 1}, \"tool\": \"zalo__zalo_get_history\"}, {\"args\": {\"limit\": 100, \"since\": \"{{d2}}T00:00:00Z\", \"threadId\": \"6037079067171344716\", \"threadType\": 1}, \"tool\": \"zalo__zalo_get_history\"}, {\"args\": {\"limit\": 100, \"since\": \"{{d3}}T00:00:00Z\", \"threadId\": \"8404017101126147877\", \"threadType\": 1}, \"tool\": \"zalo__zalo_get_history\"}, {\"args\": {\"limit\": 100, \"since\": \"{{d4}}T00:00:00Z\", \"threadId\": \"9031756794371629267\", \"threadType\": 1}, \"tool\": \"zalo__zalo_get_history\"}, {\"args\": {\"limit\": 100, \"since\": \"{{d5}}T00:00:00Z\", \"threadId\": \"2433597573334150721\", \"threadType\": 1}, \"tool\": \"zalo__zalo_get_history\"}]",
  "slots": [
   [
    [
     "literal",
-    "2026-11-18"
+    "2026-11-21"
    ],
    [
     "day",
@@ -18,7 +18,7 @@
   [
    [
     "literal",
-    "2026-11-18"
+    "2026-11-21"
    ],
    [
     "day",
@@ -28,7 +28,7 @@
   [
    [
     "literal",
-    "2026-11-18"
+    "2026-11-21"
    ],
    [
     "day",
@@ -38,7 +38,27 @@
   [
    [
     "literal",
-    "2026-11-18"
+    "2026-11-21"
+   ],
+   [
+    "day",
+    0
+   ]
+  ],
+  [
+   [
+    "literal",
+    "2026-11-21"
+   ],
+   [
+    "day",
+    0
+   ]
+  ],
+  [
+   [
+    "literal",
+    "2026-11-21"
    ],
    [
     "day",
@@ -47,11 +67,11 @@
   ]
  ],
  "days": [
-  "2026-11-18"
+  "2026-11-21"
  ],
  "observations": 1,
  "replays": 0,
  "fails": 0,
- "recorded_at": 1794999675,
+ "recorded_at": 1795258893,
  "note": "Read calls Javis repeats for this recurring job before the model starts. Delete this file to forget it."
 }

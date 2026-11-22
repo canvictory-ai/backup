@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện</title>
+<style>
+  @page { size: A4 portrait; margin: 12mm 15mm 12mm; }
+  :root { --victory: #007a47; --victory-dark: #005b37; --mint: #eaf4ef; --line: #9ab9a8; --ink: #202820; }
+  * { box-sizing: border-box; }
+  html { background: #eef2ef; }
+  body { margin: 0; color: var(--ink); font-family: "Times New Roman", Times, serif; font-size: 13pt; line-height: 1.35; }
+  .sheet { width: 210mm; min-height: 297mm; margin: 12mm auto; padding: 12mm 15mm; background: #fff; box-shadow: 0 3mm 10mm #163b281c; }
+  .national { text-align: center; line-height: 1.2; }
+  .national p { margin: 0; font-size: 11pt; }
+  .separator { margin: 2mm auto 4mm; color: var(--victory); letter-spacing: 1px; }
+  h1 { margin: 1mm 0 4mm; padding: 2mm 1mm; color: var(--victory-dark); background: var(--mint); border-bottom: 1px solid var(--line); text-align: center; font-size: 16pt; line-height: 1.2; font-weight: bold; }
+  .parties { display: grid; grid-template-columns: 1fr 1fr; gap: 4mm; margin: 0 0 5mm; }
+  .party { min-width: 0; border: 1px solid var(--line); overflow: hidden; background: #fbfdfc; }
+  .party-name { height: 22mm; display: flex; align-items: center; justify-content: center; padding: 2.5mm 3mm; background: #f2f8f5; color: var(--victory); border-bottom: 1px solid var(--line); text-align: center; font-weight: bold; font-size: 12pt; line-height: 1.15; }
+  .victory-name { font-size: 10.5pt; }
+  .party-details { min-height: 34mm; padding: 3mm; background: #fbfdfc; }
+  .party-details p { margin: 0 0 1.4mm; }
+  .party-details p:last-child { margin-bottom: 0; }
+  .intro { margin: 0 0 3mm; text-align: justify; }
+  .intro-line { margin: 0 0 3mm; text-align: justify; }
+  .field { display: inline-block; min-width: 23mm; height: 1em; border-bottom: 1px dotted #66766d; vertical-align: baseline; }
+  .field.wide { min-width: 50mm; }
+  .content-lead { margin: 0 0 3mm; padding: 1.5mm 2mm; color: var(--victory-dark); background: var(--mint); border-left: 1.2mm solid var(--victory); font-weight: bold; text-align: justify; }
+  .item { margin: 0 0 1.2mm; padding: 1mm 2mm; background: #fbfdfc; border-left: 1px solid var(--line); text-align: justify; }
+  .item-no { color: var(--victory); }
+  .fill-line { min-height: 9mm; margin: 1mm 0 2mm; border-bottom: 1px dotted #a7b6ac; }
+  .photo-row { display: grid; grid-template-columns: 1fr 1fr; gap: 4mm; margin: 2mm 0 4mm; }
+  .photo-frame { height: 52mm; border: 1px dashed var(--line); border-radius: 1mm; display: flex; align-items: center; justify-content: center; color: #708277; font-size: 11pt; }
+  .photo-frame img { display: block; width: 100%; height: 100%; object-fit: contain; }
+  .signatures { display: grid; grid-template-columns: 1fr 1fr; gap: 10mm; margin-top: 9mm; text-align: center; page-break-inside: avoid; }
+  .sign-company { min-height: 11mm; padding: 1mm; color: var(--victory-dark); background: var(--mint); font-size: 11pt; font-weight: bold; line-height: 1.2; }
+  .sign-space { height: 18mm; }
+  .sign-note { margin-top: 1mm; font-size: 11pt; font-style: italic; }
+  @media screen and (max-width: 760px) { .sheet { width: 100%; min-height: 0; margin: 0; padding: 22px 18px; box-shadow: none; } .parties { grid-template-columns: 1fr; } }
+  @media print { html, body { background: #fff; } .sheet { width: auto; min-height: 0; margin: 0; padding: 0; box-shadow: none; } .party, .party-name, h1, .content-lead, .sign-company { print-color-adjust: exact; -webkit-print-color-adjust: exact; } }
+</style>
+</head>
+<body>
+<main class="sheet">
+  <header class="national">
+    <p>CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM</p>
+    <p>Độc lập – Tự do – Hạnh phúc</p>
+    <p class="separator">------------*------------</p>
+  </header>
+  <h1>BIÊN BẢN LÀM VIỆC</h1>
+
+  <section class="parties" aria-label="Thông tin các bên">
+    <article class="party">
+      <div class="party-name">CÔNG TY CỔ PHẦN THỂ THAO<br>XUÂN THIỆN</div>
+      <div class="party-details">
+        <p>Đại diện: Ông: Trần Xuân Bách</p>
+        <p>Chức vụ: Chánh văn phòng</p>
+        <p>Ông: Nguyễn Công Tác</p>
+        <p>Chức vụ: Cán bộ kỹ thuật</p>
+        <p>Sau đây gọi là “Bên A” hoặc “Thép Xanh Nam Định”</p>
+      </div>
+    </article>
+    <article class="party">
+      <div class="party-name victory-name">CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ<br>VÀ TRUYỀN THÔNG VICTORY VIỆT NAM</div>
+      <div class="party-details">
+        <p>Đại diện: Ông: Vũ Đức Cẩn</p>
+        <p>Chức vụ: Giám đốc</p>
+        <p>Ông: Tạ Hải Đăng</p>
+        <p>Chức vụ: Cán bộ kỹ thuật</p>
+        <p>Sau đây gọi là “Bên B” hoặc “Victory”</p>
+      </div>
+    </article>
+  </section>
+
+  <p class="intro">Vào hồi <span class="field">...</span> ngày <span class="field">...</span> tại SVĐ Thiên Trường, Phường Nam Định, Tỉnh Ninh Bình, chúng tôi gồm các bên dưới đây:</p>
+  <p class="content-lead">Hai bên đã tiến hành làm việc về các nội dung sau:</p>
+
+  <p class="item"><span class="item-no">1.</span> Ngày <span class="field">...</span> hệ thống bảng quảng cáo điện tử trên SVĐ Thiên Trường, Phường Nam Định, Tỉnh Ninh Bình đã phát sinh sự cố, cụ thể:</p>
+  <div class="fill-line" aria-label="Nội dung sự cố"></div>
+  <!-- Nếu người dùng cung cấp hai ảnh, chèn ngay bên dưới nội dung mục 1, trước mục 2. -->
+  <div class="photo-row" aria-label="Hai khung chờ ảnh minh chứng">
+    <div class="photo-frame" aria-label="Khung ảnh thứ nhất">ẢNH 1</div>
+    <div class="photo-frame" aria-label="Khung ảnh thứ hai">ẢNH 2</div>
+  </div>
+
+  <p class="item"><span class="item-no">2.</span> Qua kiểm tra, bên B đã tìm ra nguyên nhân của sự cố là do</p>
+  <div class="fill-line" aria-label="Nguyên nhân sự cố"></div>
+
+  <p class="item"><span class="item-no">3.</span> Bên B đã báo cáo thực trạng cho bên A. Sau khi được sự cho phép của bên A, bên B đã tiến hành sửa chữa hệ thống bảng quảng cáo điện tử trên SVĐ Thiên Trường, Phường Nam Định, Tỉnh Ninh Bình, cụ thể:</p>
+  <div class="fill-line" aria-label="Biện pháp sửa chữa"></div>
+
+  <p class="item"><span class="item-no">4.</span> Sau khi sửa chữa, hệ thống quảng cáo điện tử trên SVĐ Thiên Trường, Phường Nam Định, Tỉnh Ninh Bình đã vận hành ổn định. Các bên đã tiến hành chạy thử và theo dõi trong vòng 02 giờ. Trong thời gian chạy thử không có hiện tượng lỗi.</p>
+  <p class="item"><span class="item-no">5.</span> Biên bản làm việc được lập thành 02 (hai) bản, Công ty cổ phần giải pháp công nghệ và truyền thông Victory Việt Nam giữ 01 (một) bản; Công ty cổ phần Thể thao Xuân Thiện 01 (một) bản. Kèm theo biên bản này là hình ảnh trước và sau khi sửa chữa./.</p>
+
+  <section class="signatures" aria-label="Ký xác nhận">
+    <div>
+      <div class="sign-company">CÔNG TY CỔ PHẦN<br>THỂ THAO XUÂN THIỆN</div>
+      <div class="sign-note">(Ký, ghi rõ họ tên)</div>
+      <div class="sign-space"></div>
+    </div>
+    <div>
+      <div class="sign-company">CÔNG TY CỔ PHẦN<br>GIẢI PHÁP CÔNG NGHỆ VÀ TRUYỀN THÔNG VICTORY VIỆT NAM</div>
+      <div class="sign-note">(Ký, ghi rõ họ tên)</div>
+      <div class="sign-space"></div>
+    </div>
+  </section>
+</main>
+</body>
+</html>

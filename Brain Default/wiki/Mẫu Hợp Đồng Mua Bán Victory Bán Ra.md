@@ -11,7 +11,7 @@ source:
 
 # Mẫu Hợp Đồng Mua Bán Victory Bán Ra
 
-Dùng duy nhất tệp Word [[hop-dong/Mau hop dong mua ban Victory ban ra]] cho hợp đồng mua bán hàng hóa khi Victory là Bên Bán. Mẫu Word đã được làm sạch từ hợp đồng Công nghệ Môi trường 86 đã duyệt; dữ liệu riêng của giao dịch đã được xóa khỏi bản mẫu. [[hop-dong/Hop dong mua ban hang hoa VIC-MT86 17112026]]
+Dùng tệp Word mặc định [[hop-dong/Mau hop dong mua ban Victory ban ra]] cho hợp đồng mua bán hàng hóa khi Victory là Bên Bán. Mẫu Word đã được làm sạch từ hợp đồng Công nghệ Môi trường 86 đã duyệt; dữ liệu riêng của giao dịch đã được xóa khỏi bản mẫu. [[hop-dong/Hop dong mua ban hang hoa VIC-MT86 17112026]]
 
 ## Quy tắc dùng mẫu
 
@@ -20,7 +20,7 @@ Dùng duy nhất tệp Word [[hop-dong/Mau hop dong mua ban Victory ban ra]] cho
 - Bảng hàng hóa theo hóa đơn GTGT gồm 8 cột: STT, Tên hàng hóa, dịch vụ, ĐVT, Số lượng, Đơn giá, Thành tiền, Thuế suất, Tiền thuế. Dàn bảng rộng theo vùng nội dung; tiêu đề chỉ ghi tiếng Việt, không thêm bản dịch tiếng Anh trong ngoặc; phân cột để nhãn không bị xuống dòng. [[Quy Cách Trình Bày Hợp Đồng Victory]]
 - Tên người đại diện viết theo kiểu chữ thường và chữ cái đầu viết hoa như tên riêng, đồng thời in đậm thống nhất cho cả hai bên. Ở khoản 2.1, chỉ số khoản `2.1.` in đậm; nội dung điều khoản để chữ thường, không in đậm. [[hop-dong/Hop dong mua ban hang hoa VIC-MT86 17112026]]
 - Điều 2 giữ nội dung thanh toán theo mẫu đã duyệt: thanh toán toàn bộ sau khi ký, giao đủ hàng và cung cấp hóa đơn/chứng từ hợp lệ; trường hợp thanh toán chậm phải có thỏa thuận bằng văn bản, tối đa 30 ngày từ khi Bên Mua nhận đủ hàng và chứng từ. Nếu người dùng đưa điều kiện khác cho giao dịch, dùng điều kiện được xác nhận cho giao dịch đó. [[hop-dong/Mau hop dong mua ban Victory ban ra]]
-- Trường thiếu thông tin để trống. Tên và thông tin pháp nhân Bên Bán lấy từ [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]], rồi đối chiếu lại trước khi phát hành.
+- Trường dữ liệu chưa được cung cấp hoặc chưa xác minh ghi `...`; không suy đoán. Khoảng ký và cấu trúc mẫu giữ nguyên. Tên và thông tin pháp nhân Bên Bán lấy từ [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]], rồi đối chiếu lại trước khi phát hành.
 
 ## Phạm vi
 

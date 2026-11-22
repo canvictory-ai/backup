@@ -13,12 +13,14 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Tương thích hộp mực HP và Canon đã tra cứu]] - Các họ máy tương thích đã đối chiếu; có mâu thuẫn chưa xác minh về mã mực Canon 8720.
 - [[Nguồn hãng về tương thích hộp mực]] - Trang HP và Canon chính hãng dùng để đối chiếu các họ máy tương thích với mã hộp mực.
 - [[Danh sách khách hàng Victory]] - Danh mục 579 dòng khách hàng, tra theo mã số thuế và thông tin liên hệ; dữ liệu đầy đủ ở CSV.
-- [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]] - Mẫu Word tông xanh, bảng dàn theo lề văn bản; thông tin Bên B lấy từ cơ sở dữ liệu khách hàng.
+- [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]] - Mẫu Word chuẩn duy nhất, A4 dọc; đầu trang Victory, địa điểm theo địa chỉ khách hàng, Bên A đã điền thông tin cố định.
 - [[Mẫu Giấy Đề Nghị Thanh Toán Victory]] - Mẫu Victory đã duyệt, tên pháp nhân viết theo kiểu thường và in đậm; trường giao dịch để điền theo từng hóa đơn.
 - [[Mẫu Báo Giá Dùng Chung Victory]] - Mẫu báo giá Victory chuẩn, gồm quy cách song ngữ, ảnh tối ưu dung lượng, không ghi thuế trên từng dòng và tổng hợp thuế ngay sau bảng hàng.
 - [[Luật Doanh nghiệp Việt Nam]] - Bản đồ tra cứu Luật 59/2020/QH14, các sửa đổi và Nghị định 296/2026/NĐ-CP về đăng ký doanh nghiệp.
 - [[Nguồn Nghị định 296-2026-NĐ-CP - Cổng văn bản Chính phủ]] - Trang đối chiếu nguồn chính thức, số hiệu và hiệu lực Nghị định 296/2026/NĐ-CP về đăng ký doanh nghiệp.
 - [[Nguồn Nghị định 384-2026-NĐ-CP - Cổng văn bản Chính phủ]] - Nghị định về xác định xuất xứ Việt Nam đối với hàng hóa sản xuất và lưu thông trong nước, hiệu lực từ 01/01/2027.
+- [[Lương tối thiểu từ ngày 01-01-2027]] - Mức lương tối thiểu theo vùng từ 01/01/2027 và nghĩa vụ rà soát thỏa thuận tiền lương theo Nghị định 399/2026/NĐ-CP.
+- [[Nguồn Nghị định 399-2026-NĐ-CP - Cổng văn bản Chính phủ]] - Trang nguồn chính thức và các tệp toàn văn/phụ lục về mức lương tối thiểu.
 - [[Luật Thuế giá trị gia tăng Việt Nam]] - Bản đồ tra cứu Luật 48/2024/QH15, các sửa đổi và hướng dẫn mới đến Nghị định 144/2026/NĐ-CP.
 - [[Pháp luật giám đốc doanh nghiệp]] - Bản đồ ưu tiên các nhóm luật giám đốc cần theo dõi và cách xác định nghĩa vụ áp dụng.
 - [[Danh Mục Hàng Hóa Dịch Vụ]] - Danh mục 3.491 dòng hàng hóa và dịch vụ; mã, tên chuẩn, đơn vị và mức thuế mặc định 8% theo xác nhận người dùng.
@@ -38,19 +40,26 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Nguồn Dell - xử lý máy tính không hình]] - Tài liệu Dell chính hãng về no power, no POST, no boot và no video, đã đối chiếu trực tuyến ngày 31/10/2026.
 
 - [[Vật Tư Thay Thế Hệ Thống LED Thể Thao Xuân Thiện]] - Ba tên vật tư người dùng xác nhận sẽ thay thế; chưa có số lượng, đơn vị tính hoặc giá.
-- [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]] - Mẫu Word đã duyệt; nội dung cố định được giữ nguyên, nội dung vụ việc để trống, hai ảnh đặt dưới mục 1.
-- [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]] - Mẫu biên bản gọn đã được người dùng duyệt; quy định lề, cỡ chữ, bảng giữa trang và phần ký không viền.
-- [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]] - Mẫu Word khổ ngang; mẫu số PXK-VIC-năm, số phiếu tăng lần lượt, kho VICTORY, địa điểm ghi `Địa điểm bàn giao:` và lấy địa chỉ trong cơ sở dữ liệu nếu có, nếu không thì để trống; bảng kê có số lượng, đơn giá, thành tiền và tình trạng.
+- [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]] - Mẫu HTML xanh Victory duy nhất; giữ nguyên nội dung cố định, ảnh đặt dưới mục 1.
+- [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]] - Mẫu Word `.docx` duy nhất; không dùng hoặc xuất HTML hay `.doc`.
+- [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]] - Mẫu Word chuẩn duy nhất, A4 dọc tông xanh; tiêu đề 15 pt, bảng 8 cột, quy tắc đánh số và giao nhận đã chốt.
+- [[Mẫu Phiếu Nhập Kho Kiêm Kiểm Nhận Hàng Hóa Victory]] - Mẫu Word chuẩn duy nhất, A4 dọc; đầu trang Victory căn hai phía, bảng ghi số lượng chứng từ/thực nhận, tình trạng và xử lý chênh lệch.
+
 - [[Quy Cách Trình Bày Hợp Đồng Victory]] - Bảng kê theo 8 cột hóa đơn GTGT, dàn rộng, tiêu đề tiếng Việt; tên đại diện in đậm; chỉ số 2.1 in đậm.
 - [[Mẫu Hợp Đồng Mua Bán Victory Bán Ra]] - Mẫu Word duy nhất đã duyệt cho hợp đồng mua bán khi Victory là bên bán; bản cũ trùng phạm vi đã được dọn.
 
 - [[Quy tắc ưu tiên giá khi lập báo giá]] - Ưu tiên giá do chủ cung cấp; nếu chưa có thì tra data, không thấy giá khớp thì hỏi lại.
 - [[Không bịa thông tin và giá cả]] - Chỉ khẳng định thông tin và giá có căn cứ; nói rõ khi thiếu nguồn, thiếu dữ kiện hoặc có mâu thuẫn.
 
+- [[Quy Trình Chuẩn Hóa Hồ Sơ Victory]] - Quy trình tiếp nhận, đối chiếu, xử lý trường thiếu, đánh số và kiểm tra cuối cho bộ hồ sơ.
+
+- [[Sổ Theo Dõi Số Văn Bản Victory]] - Số báo giá và phiếu xuất kho gần nhất đã xác minh cùng số kế tiếp.
+
 ## Tự học
 - [[Chia sẻ kho tri thức qua bot Zalo nhóm]] - Một nhóm Zalo có thể dùng bot Javis để hỏi đáp trên cùng một brain nếu bot được
-- [[Nguyên tắc giữ nguyên mẫu đã duyệt]] - Mỗi loại văn bản chỉ có một mẫu chuẩn hiện hành; mẫu bị thay thế được gỡ khỏi thư mục dùng lại.
-- [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]] - Mẫu hợp đồng được người dùng chọn dùng lại, với thanh toán ngay sau khi nhận hàng và các điều khoản mặc định đã chốt.
+- [[Bộ Mẫu Chứng Từ Theo Khách Hàng Và Quy Trình]] - Duy trì mẫu mặc định, mẫu biến thể theo nhu cầu và nhiều chứng từ khác loại trong cùng một bộ việc; hiện chưa tạo thêm mẫu mới.
+- [[Nguyên tắc giữ nguyên mẫu đã duyệt]] - Duy trì mẫu mặc định cùng các biến thể theo khách hàng/quy trình; chỉ dọn bản sao y hệt hoặc mẫu đã thay thế.
+- [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]] - Mẫu Word `.docx` duy nhất; thanh toán ngay sau khi nhận hàng và các điều khoản mặc định đã chốt.
 - [[Canon PIXMA TS series - mã hỗ trợ lỗi]] - Mã hiển thị đã xác minh cho TS3100 và danh sách model/phạm vi TS8100, TS6100, TS700.
 - [[Canon G1010 - mã nháy đèn]] - Phân biệt 5 nháy Alarm với 5 nháy luân phiên ON/Alarm theo tài liệu Canon; cần support code để kết luận trường hợp cụ thể.
 - [[Canon G1010 series - An Error Occurs]] - Nguồn chính hãng Canon về số lần nháy và support code của G1010 series.
@@ -72,4 +81,3 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Đổi khách hàng trên báo giá]] - Khi đổi khách hàng trên báo giá, cần tra hồ sơ của khách hàng mới và cập nhật th
 - [[Thời điểm lập hóa đơn giá trị gia tăng]] - Hóa đơn lập sai thời điểm là hóa đơn được lập sớm hơn hoặc muộn hơn thời điểm ph
 - [[Tra cứu mã tương thích trước khi báo giá]] - Khi mã máy hoặc mã hộp mực khách hỏi không có trong bảng giá đại lý, tra cứu mã
-

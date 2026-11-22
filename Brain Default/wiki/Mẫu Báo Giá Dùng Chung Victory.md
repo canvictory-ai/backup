@@ -4,9 +4,9 @@ status: active
 tags: [wiki, báo-giá, Victory]
 aliases: [mẫu báo giá Victory, Victory quotation template, báo giá dùng chung]
 created: 2026-10-16
-updated: 2026-11-18
+updated: 2026-11-20
 source:
-  - "[[Mau Bao Gia Chuyen Nghiep Victory Artiverse]]"
+  - "[[bao-gia/mau-bao-gia-victory]]"
   - "[[Cap Nhat Quy Cach Bao Gia Victory 2026-10-16]]"
   - "[[Mac Dinh Hieu Luc Va Nguoi Lien He Bao Gia Victory 2026-10-16]]"
   - "[[Bao Gia Artiverse VIC-2-2026]]"
@@ -37,9 +37,13 @@ Khu vực đối tác công nghệ gồm Cisco, Aruba, UniFi, DrayTek, CommScope
 
 ## Thông tin cần thay theo từng báo giá
 
-Tên và địa chỉ khách hàng, mã số thuế/liên hệ nếu có, số và ngày báo giá, hiệu lực, người phụ trách, hạng mục, danh mục hàng hóa/dịch vụ, đơn vị tính, số lượng, đơn giá, thành tiền, thuế và điều khoản giao dịch phải lấy theo yêu cầu cụ thể. Không mặc định giá, thuế hay điều khoản thương mại từ báo giá cũ. [[Mau Bao Gia Chuyen Nghiep Victory Artiverse]]
+Tên và địa chỉ khách hàng, mã số thuế/liên hệ nếu có, số và ngày báo giá, hiệu lực, người phụ trách, hạng mục, danh mục hàng hóa/dịch vụ, đơn vị tính, số lượng, đơn giá, thành tiền, thuế và điều khoản giao dịch phải lấy theo yêu cầu cụ thể. Không mặc định giá, thuế hay điều khoản thương mại từ báo giá cũ. [[bao-gia/mau-bao-gia-victory]]
 
-Ghi chú phí vận chuyển trong mẫu là nội dung mẫu đã được người dùng duyệt, nhưng mọi điều khoản khác như VAT, thời gian giao, thanh toán và bảo hành cần lấy theo yêu cầu hoặc căn cứ riêng của từng giao dịch. [[Mau Bao Gia Chuyen Nghiep Victory Artiverse]] [[Xac Nhan Mau Bao Gia Victory 2026-10-17]]
+Ghi chú phí vận chuyển trong mẫu là nội dung mẫu đã được người dùng duyệt, nhưng mọi điều khoản khác như VAT, thời gian giao, thanh toán và bảo hành cần lấy theo yêu cầu hoặc căn cứ riêng của từng giao dịch. [[bao-gia/mau-bao-gia-victory]] [[Xac Nhan Mau Bao Gia Victory 2026-10-17]]
+
+## Quy tắc dữ liệu thiếu
+
+Mọi trường dữ liệu chưa được cung cấp hoặc chưa xác minh trên báo giá ghi `...`; không giữ ô dữ liệu trống hoặc tự suy đoán. Giữ các vùng cấu trúc như ô ảnh và bố cục mẫu. Số báo giá kế tiếp tra trong [[Sổ Theo Dõi Số Văn Bản Victory]].
 
 ## Tệp mẫu
 
@@ -47,4 +51,4 @@ Mẫu HTML dùng chung: [mau-bao-gia-victory.html](../bao-gia/mau-bao-gia-victor
 
 Báo giá Artiverse là ví dụ đã áp dụng quy cách này; thông tin khách hàng, mặt hàng, giá và thuế trong đó chỉ thuộc giao dịch Artiverse, không tự dùng lại cho báo giá khác. [[Bao Gia Artiverse VIC-2-2026]]
 
-PDF người dùng cung cấp làm mẫu tham chiếu ban đầu: [[Mau Bao Gia Chuyen Nghiep Victory Artiverse]].
+Tệp tham chiếu PDF cũ đã được xóa khỏi `attachments/`; dùng mẫu HTML hiện hành được liên kết ở trên.

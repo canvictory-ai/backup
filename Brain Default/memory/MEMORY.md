@@ -1,9 +1,12 @@
 # Javis Memory - Index
+- [Bộ mẫu chung và mẫu đặc thù](facts/bo-mau-chung-va-mau-dac-thu.md) - Có mẫu mặc định và biến thể theo khách hàng/quy trình; một bộ việc có thể gồm nhiều loại chứng từ. Bộ hiện tại đã đủ, chưa tạo thêm.
+- [Chuẩn hóa lập hồ sơ Victory](facts/chuan-hoa-lap-ho-so-victory.md) - Tiếp nhận dữ liệu có cấu trúc, đối chiếu nguồn, dùng `...` cho dữ liệu thiếu, theo dõi số và rà soát tệp trước khi gửi.
 - [Gợi ý chuyển việc cho đúng cộng sự](facts/goi-y-chuyen-viec-dung-cong-su.md) - Khi người dùng giao nhầm loại việc cho Javis Core, gợi ý chuyển sang cộng sự chuyên trách; không khẳng định đã chuyển nếu chưa có xác nhận.
-- [Phạm vi hiện tại của bot Luna trên Zalo](facts/pham-vi-hien-tai-cua-bot-luna-tren-zalo.md) - Luna chỉ trả lời kỹ thuật, theo riêng từng yêu cầu song song và gắn trả lời với tin hỏi.
-- [Mẫu biên bản đối chiếu công nợ Victory](facts/mau-bien-ban-doi-chieu-cong-no-victory.md) - Tông xanh, bảng rộng theo lề; Bên B tra từ danh sách khách hàng; chỗ người đại diện/chức vụ đủ dài.
+- [Phạm vi hiện tại của bot Luna trên Zalo](facts/pham-vi-hien-tai-cua-bot-luna-tren-zalo.md) - Luna chỉ trả lời kỹ thuật trong nhóm Zalo được thêm vào và được chủ cho phép; theo riêng từng yêu cầu và gắn trả lời với tin hỏi.
+- [Mẫu biên bản đối chiếu công nợ Victory](facts/mau-bien-ban-doi-chieu-cong-no-victory.md) - Mẫu Word A4 dọc, đầu trang theo mẫu phiếu xuất kho; địa điểm theo địa chỉ khách hàng cung cấp/tra cứu. Bên A là Vũ Đức Cẩn, Giám đốc, 0228.86.22222; Bên B tra danh sách khách hàng; bỏ hai dòng quốc hiệu/tiêu ngữ, ghi chú ký sát dưới đại diện.
 
-- [Mẫu phiếu xuất kho kiêm bàn giao Victory](facts/mau-phieu-xuat-kho-victory.md) - Mẫu số PXK-VIC-năm, số phiếu tăng lần lượt (đã lập đến 007, số tiếp theo 008), kho VICTORY, ngày lập, địa chỉ khách hàng từ cơ sở dữ liệu; bảng gồm số lượng, đơn giá, thành tiền và tình trạng; mã lấy từ model trong tên hàng, tình trạng mặc định Mới 100%; đầu bảng nền xanh đậm chữ trắng, cột dàn vừa và căn chỉnh theo nội dung.
+- [Mẫu phiếu xuất kho kiêm bàn giao Victory](facts/mau-phieu-xuat-kho-victory.md) - Mẫu A4 dọc theo phong cách báo giá Victory; tiêu đề 15 pt một dòng, bảng 8 cột, header xanh chữ trắng, ký tên đặt đúng vị trí; số gần nhất 012, tiếp theo 013.
+- [Mẫu phiếu nhập kho kiêm kiểm nhận Victory](facts/mau-phieu-nhap-kho-kiem-kiem-nhan-victory.md) - Mẫu chuẩn duy nhất, A4 dọc tông xanh; đầu trang hai phía, tiêu đề giữa; tách số lượng chứng từ/thực nhận, ghi tình trạng và chênh lệch.
 > Index of Javis's long-term memory. One line = one memory, pointing to a file in `facts/`.
 > This file is loaded at the start of every question so Javis remembers the context.
 
@@ -42,16 +45,16 @@
 - [Kiểm tra ảnh trong báo giá đã xuất](facts/kiem-tra-hinh-anh-trong-bao-gia-xuat.md) - Khi xuất báo giá có ảnh, kiểm tra ảnh hiển thị đúng trong file cuối trước khi gửi.
 - [Số lượng mặc định trên báo giá](facts/so-luong-bao-gia-mac-dinh-mot.md) - Nếu không nêu số lượng, mặc định mỗi mặt hàng có số lượng 1.
 - [Ưu tiên giá bảng YSS khi đối chiếu báo giá](facts/uu-tien-gia-yss-khi-doi-chieu-bao-gia.md) - Khi giá hoặc tên hàng chưa khớp ngay, tiếp tục đối chiếu bảng giá YSS trước khi dùng giá bạn cung cấp.
-- [Giữ nguyên mẫu đã duyệt](facts/giu-nguyen-moi-mau-da-duyet.md) - Mỗi loại văn bản chỉ có một mẫu chuẩn hiện hành; khi mẫu mới thay thế, cập nhật hướng dẫn và xóa bản dùng lại cũ, còn nguồn và hồ sơ giao dịch được giữ riêng.
+- [Giữ nguyên mẫu đã duyệt](facts/giu-nguyen-moi-mau-da-duyet.md) - Mỗi loại văn bản có thể có mẫu mặc định và biến thể theo phạm vi; khi mẫu mới thay thế, cập nhật hướng dẫn và xóa bản dùng lại cũ, còn nguồn và hồ sơ giao dịch được giữ riêng.
 - [Ưu tiên tự động hóa mẫu hợp đồng](facts/tu-dong-hoa-mau-hop-dong.md) - Khi soạn mẫu hợp đồng dùng lại, ưu tiên điền sẵn thông tin và điều khoản mặc định đã được người dùng xác nhận để giảm trường phải nhập.
 - [Bố cục hợp đồng Victory](facts/bo-cuc-hop-dong-victory.md) - Trong hợp đồng mua bán Victory, bên mua là Bên A, Victory là Bên B; bảng kê hàng hóa/dịch vụ đặt trong điều khoản của hợp đồng, không dùng phụ lục.
-- [Mẫu hợp đồng mua bán Victory bán ra](facts/mau-hop-dong-victory-ban-ra.md) - Dùng duy nhất mẫu Word đã duyệt khi Victory là Bên Bán; 8 cột hóa đơn GTGT, đại diện in đậm, chỉ số khoản 2.1 in đậm.
+- [Mẫu hợp đồng mua bán Victory bán ra](facts/mau-hop-dong-victory-ban-ra.md) - Dùng mẫu Word đã duyệt làm mặc định khi Victory là Bên Bán; cho phép biến thể theo khách hàng/giao dịch; 8 cột hóa đơn GTGT, đại diện in đậm, chỉ số khoản 2.1 in đậm.
 - [Thông tin đã xác nhận cho hợp đồng Hưng Thịnh](facts/hop-dong-hung-thinh-thong-tin-da-xac-nhan.md) - Hạn mức tín dụng và số điện thoại đã được người dùng xác nhận cho dự thảo hợp đồng với Công ty TNHH Hưng Thịnh.
 - [Dùng Javis trên iPhone bằng Chrome](facts/dung-javis-tren-iphone-bang-chrome.md) - Khi hướng dẫn thao tác trên Javis, ưu tiên chỉ dẫn phù hợp với iPhone và Chrome.
 - [Ưu tiên trả lời bằng gạch đầu dòng](facts/uu-tien-gach-dau-dong.md) - Khi trả lời, ưu tiên trình bày bằng gạch đầu dòng.
 - [Đối chiếu báo giá Sales với form gốc trước khi xuất](facts/kiem-tra-bao-gia-sales-truoc-khi-xuat.md) - Sau khi Sales hoàn tất báo giá, đối chiếu với form gốc rồi mới yêu cầu Sales xuất file.
 - [Hạn mức tín dụng mặc định cho hợp đồng](facts/han-muc-tin-dung-mac-dinh-hop-dong.md) - Khi soạn hợp đồng, mặc định đặt hạn mức tín dụng 200 triệu đồng cho mọi đối tác.
-- [Để trống trường thông tin còn thiếu trong hồ sơ](facts/de-trong-truong-thieu-trong-ho-so.md) - Khi lập hồ sơ hoặc hợp đồng, để trống trường chưa có dữ liệu thay vì chèn lời nhắc bổ sung.
+- [Dữ liệu thiếu dùng dấu chấm](facts/du-lieu-thieu-dung-dau-cham.md) - Trong giấy tờ, trường dữ liệu chưa có/ chưa xác minh ghi `...`; giữ khoảng trống ký và khung cấu trúc theo mẫu.
 - [Đối chiếu báo giá Sales với form gốc trước khi xuất](facts/doi-chieu-bao-gia-sales-voi-form-goc-truoc-khi-xuat.md) - Sau khi Sales hoàn tất báo giá, đối chiếu với form gốc rồi mới yêu cầu Sales xuất file.
 - [Thời hạn công nợ trong hợp đồng Khánh Toàn](facts/thoi-han-cong-no-hop-dong-khanh-toan.md) - Trong dự thảo hợp đồng Khánh Toàn, thời hạn mua nợ tối đa là 90 ngày từ ngày Bên Bán giao hàng.
 - [Chấp nhận một bot Zalo dùng chung](facts/chap-nhan-mot-bot-zalo-cho-nhieu-cong-su.md) - Người dùng chấp nhận dùng một bot Zalo làm đầu mối cho nhiều cộng sự.
@@ -59,7 +62,7 @@
 - [Điều khoản bổ sung hợp đồng Khánh Toàn](facts/dieu-khoan-bo-sung-hop-dong-khanh-toan.md) - Các điều khoản bạn đã chốt để bổ sung vào dự thảo hợp đồng Khánh Toàn.
 - [Điều khoản hợp đồng linh hoạt theo khách hàng](facts/dieu-khoan-hop-dong-linh-hoat-theo-khach-hang.md) - Giữ mẫu làm khung, nhưng điều chỉnh điều khoản pháp lý theo khách hàng và giao dịch; không áp cứng điều khoản riêng của một khách hàng cho tất cả.
 - [Đếm đơn chốt dựa trên nhóm Zalo](facts/dem-don-chot-tu-nhom-zalo.md) - Khi hỏi số đơn đã chốt, người dùng muốn dựa vào dữ liệu các nhóm Zalo có thể truy cập.
-- [Chỉ dùng mẫu đã duyệt cho hợp đồng nguyên tắc mua bán](facts/chi-dung-mau-hop-dong-nguyen-tac-da-duyet.md) - Khi soạn hợp đồng nguyên tắc mua bán, chỉ dùng mẫu đã được người dùng duyệt.
+- [Chỉ dùng mẫu đã duyệt cho hợp đồng nguyên tắc mua bán](facts/chi-dung-mau-hop-dong-nguyen-tac-da-duyet.md) - Chỉ dùng mẫu Word `.docx` đã duyệt; hợp đồng nguyên tắc xuất dạng Word.
 - [Dừng báo giá VIC-34-2026](facts/ngung-bao-gia-vic-34-2026.md) - Báo giá VIC-34-2026 đã dừng theo yêu cầu và chưa gửi file vì chưa có kiểm định độc lập đạt yêu cầu.
 - [Thông tin báo giá Maple](facts/bao-gia-maple-galaxy-a07-at156t-3566.md) - Báo giá Maple gồm Galaxy A07 và máy tính bảng công nghiệp AT156T-3566, có VAT 8% và cần ảnh sản phẩm.
 - [Đếm đơn chốt dựa trên nhóm Zalo](facts/dem-don-chot-dua-tren-nhom-zalo.md) - Khi hỏi số đơn chốt, người dùng muốn dựa vào dữ liệu các nhóm Zalo có thể truy cập.
@@ -69,7 +72,7 @@
 - [Quy cách hợp đồng mua bán Victory](facts/quy-cach-hop-dong-victory-cap-nhat.md) - Khi soạn hợp đồng Victory bán ra, áp dụng các chỉnh sửa đã chốt cho địa điểm, tiêu đề Điều 2 và bảng hàng hóa.
 - [Học lỗi cơ bản một model máy in mỗi ngày](facts/hoc-loi-may-in-hang-ngay.md) - Theo yêu cầu hiện tại, mỗi ngày nghiên cứu một model máy in, tiêu hóa và lưu các lỗi cơ bản để tra cứu sau.
 - [Cộng sự tự xử lý phần việc của mình](facts/cong-su-tu-xu-ly-viec-rieng.md) - Hiện tại, mỗi cộng sự tự xử lý phần việc thuộc chuyên môn của mình, không dùng workflow điều phối chung.
-- [Mẫu biên bản bàn giao nghiệm thu mặc định](facts/mau-bien-ban-ban-giao-nghiem-thu-mac-dinh.md) - Mặc định dùng mẫu bàn giao đã duyệt; hiện tiêu đề 16 pt, chữ còn lại 12 pt, câu kết quả mở rộng và trình bày theo quy cách đã chốt.
+- [Mẫu biên bản bàn giao nghiệm thu mặc định](facts/mau-bien-ban-ban-giao-nghiem-thu-mac-dinh.md) - Chỉ dùng mẫu Word `.docx` hiện hành và xuất biên bản bàn giao dạng `.docx`; mẫu HTML và `.doc` cũ đã gỡ.
 - [Đang dùng KiotViet để bán hàng](facts/dang-dung-kiotviet-de-ban-hang.md) - Người dùng đang sử dụng dịch vụ KiotViet để bán hàng.
 - [Mã hàng Zebra FX7500](facts/ma-hang-zebra-fx7500.md) - Tra mã hàng Zebra FX7500 Fixed RF Reader 4 cổng trong bảng giá YSS.
 - [Mã hàng GoChek Ultra S25-03](facts/ma-hang-gochek-ultra-s25-03.md) - Tra mã hàng micro thu âm không dây GoChek Ultra S25-03 trong bảng giá YSS.
@@ -106,8 +109,8 @@
 - [Ưu tiên thông tin chi tiết, cụ thể](facts/uu-tien-thong-tin-chi-tiet-cu-the.md) - Người dùng đánh giá cao câu trả lời có thông tin chi tiết và cụ thể; không nên hiểu nhận xét đó là yêu cầu trả lời ngắn hơn.
 - [Gửi thông tin liên hệ khi cần hỗ trợ chuyên sâu](facts/gui-thong-tin-ho-tro-chuyen-sau.md) - Khi có người cần hỗ trợ chuyên sâu hoặc hỏi thông tin hỗ trợ, gửi nguyên văn danh sách liên hệ do người dùng cung cấp.
 - [Giữ nguyên nội dung cố định và xác nhận hoàn tất trong biên bản Xuân Thiện](facts/quy-uoc-noi-dung-bien-ban-xuan-thien.md) - Khi trình bày lại biên bản Xuân Thiện, giữ nguyên toàn bộ nội dung cố định của mẫu; biên bản phát hành được xem là xác nhận các bên đã hoàn tất công việc.
-- [Định dạng biên bản làm việc Xuân Thiện](facts/dinh-dang-bien-ban-lam-viec-xuan-thien.md) - Khi trình bày biên bản Xuân Thiện, áp dụng quy cách định dạng đã chốt.
-- [Quy cách trình bày mẫu biên bản Xuân Thiện](facts/quy-cach-trinh-bay-mau-bien-ban-xuan-thien.md) - Khi dùng lại mẫu biên bản Xuân Thiện, giữ quy cách trình bày đã được người dùng duyệt.
+- [Định dạng biên bản làm việc Xuân Thiện](facts/dinh-dang-bien-ban-lam-viec-xuan-thien.md) - Định dạng hiện hành của mẫu HTML xanh Victory.
+- [Quy cách trình bày mẫu biên bản Xuân Thiện](facts/quy-cach-trinh-bay-mau-bien-ban-xuan-thien.md) - Dùng mẫu HTML xanh Victory duy nhất và xuất các biên bản Xuân Thiện mới ở dạng HTML.
 - [Giá card LED NOVASTAR DH7508-S](facts/gia-card-led-novastar-dh7508-s.md) - Khi báo giá card thu tín hiệu hình ảnh NOVASTAR DH7508-S cho Xuân Thiện, dùng giá 680.000 đồng chưa VAT do người dùng cung cấp.
 - [Trả lời uyển chuyển khi nhận định lỗi kỹ thuật](facts/tra-loi-uy-mem-khi-du-doan-loi-ky-thuat.md) - Khi chưa thể xác định lỗi kỹ thuật nếu chưa kiểm tra trực tiếp, hãy trình bày nhận định như một khả năng và nói rõ cần kiểm tra để kết luận.
 - [Muốn phần mềm quản lý bán hàng trên điện thoại](facts/muon-phan-mem-quan-ly-ban-hang-tren-dien-thoai.md) - Người dùng muốn xây phần mềm quản lý bán hàng để sử dụng trên điện thoại, theo hướng giống Javis.
@@ -225,3 +228,6 @@
 - [Tên miền và hosting website Nam Định](facts/website-maytinhnamdinh.md) - Tên miền maytinhnamdinh.com mua tại Nhân Hòa; hosting mua tại Hostinger để chạy website.
 - [Javis chỉ trả lời về kỹ thuật](facts/vai-tro-javis-chi-ho-tro-ky-thuat.md) - Javis chỉ trả lời yêu cầu liên quan đến kỹ thuật; với nội dung khác thì im lặng.
 - [Không trình bày suy nghĩ nội bộ](facts/khong-trinh-bay-suy-nghi-noi-bo.md) - Trả lời thẳng vào nội dung, không đưa lời dẫn về suy nghĩ hay quá trình phân tích.
+- [Không cần giữ bản gốc mẫu để tra cứu](facts/khong-can-luu-ban-goc-mau-de-tra-cuu.md) - Bạn không cần giữ bản gốc hoặc tài liệu tham chiếu cũ của mẫu giấy tờ chỉ để tra cứu về sau.
+- [Luna chỉ hỗ trợ kỹ thuật, không chuyển đơn](facts/luna-chi-ho-tro-ky-thuat-khong-chuyen-don.md) - Đã chốt gỡ hoàn toàn nhánh chuyển đơn của Luna khỏi mã nguồn.
+- [Phần mềm quản trị doanh nghiệp đang sử dụng](facts/phan-mem-quan-tri-doanh-nghiep-dang-su-dung.md) - Công ty đang dùng KiotViet, MISA AMIS, MISA meInvoice và MISA ASP; người dùng vẫn nhập liệu tốt trên các phần mềm hiện tại.
