@@ -231,3 +231,4 @@
 - [Không cần giữ bản gốc mẫu để tra cứu](facts/khong-can-luu-ban-goc-mau-de-tra-cuu.md) - Bạn không cần giữ bản gốc hoặc tài liệu tham chiếu cũ của mẫu giấy tờ chỉ để tra cứu về sau.
 - [Luna chỉ hỗ trợ kỹ thuật, không chuyển đơn](facts/luna-chi-ho-tro-ky-thuat-khong-chuyen-don.md) - Đã chốt gỡ hoàn toàn nhánh chuyển đơn của Luna khỏi mã nguồn.
 - [Phần mềm quản trị doanh nghiệp đang sử dụng](facts/phan-mem-quan-tri-doanh-nghiep-dang-su-dung.md) - Công ty đang dùng KiotViet, MISA AMIS, MISA meInvoice và MISA ASP; người dùng vẫn nhập liệu tốt trên các phần mềm hiện tại.
+- [Tên miền đang sử dụng](facts/ten-mien-dang-su-dung.md) - Bạn đang sử dụng maytinhnamdinh.com và vic-tech.com.vn.
