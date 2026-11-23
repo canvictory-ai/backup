@@ -3,20 +3,17 @@ type: wiki
 status: active
 tags: [wiki, san-pham, bao-gia]
 created: 2026-10-18
-updated: 2026-10-18
+updated: 2026-11-23
 source: [[inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx]], [[Xac Nhan Thue Suat Hang Hoa 2026-10-18]]
 aliases: [danh mục sản phẩm, danh mục hàng hóa, danh sách hàng hóa dịch vụ, mã hàng Victory]
 ---
 
 # Danh Mục Hàng Hóa Dịch Vụ
 
-Danh mục chuẩn để đối chiếu hàng hóa, dịch vụ khi lập báo giá Victory. Ưu tiên tên và mã trong danh mục khi khớp với cách gọi, tên gần giống hoặc mô tả người dùng đưa; giá không có trong danh mục này thì lấy từ yêu cầu hoặc nguồn giá đã xác nhận riêng. [[inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx]]
+Danh mục chuẩn để tra mã, tên và đơn vị tính hàng hóa/dịch vụ cho hồ sơ Victory. Quy tắc chọn tên và xử lý trường hợp mơ hồ xem [[Ưu Tiên Tên Khách Hàng Và Hàng Hóa Theo Danh Mục]]. Giá không có trong danh mục này thì lấy từ yêu cầu hoặc nguồn giá đã xác nhận riêng. [[inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx]]
 
-## Cách đối chiếu
+## Thuế suất
 
-- Đối chiếu mã hàng trước, sau đó so tên, model, cấu hình và mô tả; chuẩn hóa lỗi gõ và biến thể viết tắt khi bằng chứng đủ rõ. [[inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx]]
-- Nếu chỉ có một mặt hàng khớp rõ ràng, dùng tên chuẩn ở cột Tên và đơn vị tính trong báo giá. [[inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx]]
-- Nếu có nhiều ứng viên hoặc khác biệt model/cấu hình ảnh hưởng mặt hàng, hỏi người dùng để xác nhận thay vì tự chọn. [[inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx]]
 - Theo xác nhận của người dùng ngày 2026-10-18, mặc định thuế suất GTGT của tất cả mặt hàng là 8%; mức 10% trong workbook là mức cũ. Dùng 8% khi lập báo giá và không lấy mức 10% cũ trong workbook. [[Xac Nhan Thue Suat Hang Hoa 2026-10-18]]
 
 ## Danh mục nguồn

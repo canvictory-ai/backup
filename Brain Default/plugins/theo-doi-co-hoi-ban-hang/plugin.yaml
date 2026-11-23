@@ -1,0 +1,10 @@
+name: Theo dõi cơ hội bán hàng
+slug: theo-doi-co-hoi-ban-hang
+version: 1.0.0
+description: Tạo, xem, cập nhật giai đoạn và lưu trữ cơ hội bán hàng ngay trong Javis.
+author: Javis
+enabled: true
+min_mode: safe
+tools:
+- sales_opportunity
+hooks: []

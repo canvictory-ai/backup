@@ -13,6 +13,7 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Tương thích hộp mực HP và Canon đã tra cứu]] - Các họ máy tương thích đã đối chiếu; có mâu thuẫn chưa xác minh về mã mực Canon 8720.
 - [[Nguồn hãng về tương thích hộp mực]] - Trang HP và Canon chính hãng dùng để đối chiếu các họ máy tương thích với mã hộp mực.
 - [[Danh sách khách hàng Victory]] - Danh mục 579 dòng khách hàng, tra theo mã số thuế và thông tin liên hệ; dữ liệu đầy đủ ở CSV.
+- [[Ưu Tiên Tên Khách Hàng Và Hàng Hóa Theo Danh Mục]] - Quy tắc thống nhất dùng tên khách hàng và hàng hóa/dịch vụ từ hai danh mục Victory; xác minh khi mơ hồ hoặc mâu thuẫn.
 - [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]] - Mẫu Word chuẩn duy nhất, A4 dọc; đầu trang Victory, địa điểm theo địa chỉ khách hàng, Bên A đã điền thông tin cố định.
 - [[Mẫu Giấy Đề Nghị Thanh Toán Victory]] - Mẫu Victory đã duyệt, tên pháp nhân viết theo kiểu thường và in đậm; trường giao dịch để điền theo từng hóa đơn.
 - [[Mẫu Báo Giá Dùng Chung Victory]] - Mẫu báo giá Victory chuẩn, gồm quy cách song ngữ, ảnh tối ưu dung lượng, không ghi thuế trên từng dòng và tổng hợp thuế ngay sau bảng hàng.

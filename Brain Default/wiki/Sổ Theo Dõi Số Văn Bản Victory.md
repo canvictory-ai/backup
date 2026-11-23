@@ -13,7 +13,7 @@ Sổ theo dõi số đã phát hành để tra số kế tiếp, tránh trùng. 
 
 | Loại văn bản | Quy tắc | Số gần nhất đã xác minh | Số tiếp theo | Ghi chú |
 |---|---|---:|---:|---|
-| Báo giá Victory năm 2026 | `VIC-NNN-2026` | 113 | 114 | Đối chiếu tệp VIC-113-2026 trong `bao-gia/` ngày 23/11/2026. |
+| Báo giá Victory năm 2026 | `VIC-NNN-2026` | 114 | 115 | Đối chiếu tệp VIC-114-2026 trong `bao-gia/` ngày 23/11/2026. |
 | Phiếu xuất kho Victory năm 2026 | `PXK-VIC-2026-NNN` | 012 | 013 | Đối chiếu hồ sơ trong `bien-ban/` ngày 21/11/2026. |
 | Biên bản bàn giao hàng hóa | `DDMMYYYY/BBBGNT/VIC-XXX` | `23112026/BBBGNT/VIC-TVM` | Theo ngày và mã đối tác | Đã lập cho Thịnh Vượng Minh Châu ngày 23/11/2026; không thêm số hóa đơn/PO/hậu tố. |
 | Hợp đồng mua bán | `DDMMYYYY/HĐKT/VIC-XXX` | Theo từng hồ sơ | Theo quy tắc ngày/mã đối tác | Không tự tạo dãy tăng liên tục. |

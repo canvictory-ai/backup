@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, vận-hành, hồ-sơ, Victory]
 created: 2026-11-21
-updated: 2026-11-21
+updated: 2026-11-23
 source: [[memory/facts/du-lieu-thieu-dung-dau-cham]]
 ---
 
@@ -15,7 +15,7 @@ Quy trình áp dụng khi lập hợp đồng, báo giá, biên bản và phiế
 
 - Xác định loại văn bản, khách hàng, mục đích, nguồn dữ liệu và định dạng cần xuất.
 - Thu thập ngày/số chứng từ, PO/hóa đơn, danh mục hàng/dịch vụ, model, đơn vị tính, số lượng, đơn giá, thuế, tổng tiền, thông tin giao nhận và điều khoản riêng nếu có.
-- Tra hồ sơ khách hàng và đối chiếu từng trường với chứng từ hiện tại. Chỉ dùng thông tin có căn cứ; không tái sử dụng dữ liệu giao dịch cũ. [[Danh sách khách hàng Victory]]
+- Áp dụng [[Ưu Tiên Tên Khách Hàng Và Hàng Hóa Theo Danh Mục]] khi tra tên pháp nhân, hàng hóa và dịch vụ; đối chiếu với chứng từ hiện tại, không tái sử dụng dữ liệu giao dịch cũ.
 - Hỏi lại khi dữ liệu thiếu có thể làm thay đổi nghĩa vụ, giá trị hoặc nội dung xác nhận; các trường còn thiếu khác được biểu diễn bằng `...`.
 
 ## Quy tắc trường thiếu

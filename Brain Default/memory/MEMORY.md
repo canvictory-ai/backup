@@ -14,7 +14,6 @@
 - [Cách xưng hô tôi/bạn](facts/cach-xung-ho-anh-em.md) - Người dùng muốn xưng hô tôi-bạn, không dùng anh-em.
 - [Dùng mẫu báo giá của công ty](facts/dung-mau-bao-gia-cong-ty.md) - Khi làm báo giá mới, dùng mẫu báo giá công ty đã cung cấp làm mẫu tham chiếu.
 - [Giá đầu in Novexx N102006](facts/gia-dau-in-novexx-n102006.md) - Giá người dùng cung cấp cho đầu in Novexx XLP 604 / XPA 934, 300 dpi.
-- [Tra cứu danh sách khách hàng khi làm hồ sơ](facts/tra-cuu-danh-sach-khach-hang-khi-lam-ho-so.md) - Tra cứu dữ liệu khách hàng; trường nào chưa có thì để trống, không chèn câu báo thiếu hồ sơ.
 - [Quy cách báo giá Victory](facts/quy-cach-bao-gia-victory.md) - Giữ mẫu dùng chung, quy cách song ngữ; không thêm mã hàng nội bộ trong ngoặc vào tên hàng.
 - [Mặc định hiệu lực và người liên hệ trên báo giá](facts/mac-dinh-bao-gia-hieu-luc-va-nguoi-lien-he.md) - Khi lập báo giá mới, đặt hiệu lực 7 ngày và người liên hệ là Phòng mua hàng, trừ khi bạn yêu cầu khác.
 - [Kiểm tra tổng tiền báo giá trước khi gửi](facts/kiem-tra-tong-tien-bao-gia.md) - Trước khi gửi báo giá, đối chiếu số lượng nhân đơn giá, thuế GTGT và tổng thanh toán.
@@ -27,7 +26,7 @@
 - [Giá máy in Canon LBP 6030](facts/gia-may-in-canon-lbp-6030.md) - Giá người dùng đã cung cấp cho máy in Canon 6030 khi lập báo giá.
 - [Giữ nguyên mẫu báo giá Victory](facts/giu-nguyen-mau-bao-gia-victory.md) - Khi lập hoặc sửa báo giá, giữ nguyên mẫu đã lưu; chỉ điền thông tin vào chỗ tương ứng.
 - [Dùng chung kho tri thức Brain trong công ty](facts/chia-se-kho-tri-thuc-brain-cong-ty.md) - Người dùng muốn nhân viên cùng tra cứu tri thức đã lưu trong brain qua Javis.
-- [Ưu tiên tên hàng trong danh mục](facts/uu-tien-ten-hang-trong-danh-muc.md) - Khi lập báo giá, đối chiếu mặt hàng với danh mục và ưu tiên tên chuẩn trong cơ sở dữ liệu.
+- [Ưu tiên tên khách hàng và hàng hóa theo danh mục](facts/uu-tien-ten-khach-hang-va-hang-hoa-theo-danh-muc.md) - Dùng tên trong hai danh mục Victory, đối chiếu pháp nhân/mặt hàng và xác minh khi dữ liệu mơ hồ hoặc mâu thuẫn.
 - [Ưu tiên mặt hàng đã chọn khi mã trùng](facts/uu-tien-mat-hang-da-chon.md) - Khi một mã hàng từng có nhiều dòng khớp và người dùng đã chọn một dòng, ưu tiên dòng đó trong báo giá sau cho mọi khách hàng.
 - [Muốn dùng Telegram làm kênh giao tiếp quản trị](facts/kenh-giao-tiep-admin-telegram.md) - Người dùng muốn Javis giao tiếp với họ qua Telegram như một kênh quản trị.
 - [Điều khoản mặc định trên báo giá Victory](facts/dieu-khoan-mac-dinh-bao-gia-victory.md) - Dùng các điều khoản giao hàng, thanh toán và bảo hành do người dùng chốt cho báo giá Victory.
@@ -232,3 +231,4 @@
 - [Luna chỉ hỗ trợ kỹ thuật, không chuyển đơn](facts/luna-chi-ho-tro-ky-thuat-khong-chuyen-don.md) - Đã chốt gỡ hoàn toàn nhánh chuyển đơn của Luna khỏi mã nguồn.
 - [Phần mềm quản trị doanh nghiệp đang sử dụng](facts/phan-mem-quan-tri-doanh-nghiep-dang-su-dung.md) - Công ty đang dùng KiotViet, MISA AMIS, MISA meInvoice và MISA ASP; người dùng vẫn nhập liệu tốt trên các phần mềm hiện tại.
 - [Tên miền đang sử dụng](facts/ten-mien-dang-su-dung.md) - Bạn đang sử dụng maytinhnamdinh.com và vic-tech.com.vn.
+- [Muốn theo dõi cơ hội bán hàng trong Javis](facts/theo-doi-co-hoi-ban-hang-trong-javis.md) - Người dùng muốn có module theo dõi cơ hội bán hàng ngay trong Javis.

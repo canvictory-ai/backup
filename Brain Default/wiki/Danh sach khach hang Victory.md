@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, khach-hang, bao-gia]
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-11-23
 source: [[Danh sach khach hang chuan co ma so thue]]
 ---
 
@@ -15,4 +15,4 @@ Các cột gồm STT, mã người mua, tên người mua, mã số thuế, tên
 
 Trong workbook này chưa tìm thấy tên “Vietpower”. Trước đó người dùng đã nêu Vietpower trong yêu cầu làm báo giá, nên hiện chưa có dữ liệu hồ sơ của đơn vị này trong danh sách; cần người dùng cung cấp hoặc xác nhận tên pháp lý/mã số thuế để đối chiếu. [[Danh sach khach hang chuan co ma so thue]]
 
-Khi lập báo giá, hợp đồng hoặc biểu mẫu, tra cứu từ CSV này và chỉ điền trường có dữ liệu khớp. Không tự suy ra giá trị còn thiếu; kiểm tra lại các bản ghi trùng tên/mã số thuế hoặc khác địa chỉ với người dùng trước khi phát hành giấy tờ. [[Danh sach khach hang chuan co ma so thue]]
+Khi lập hồ sơ, tra dữ liệu trong CSV; quy tắc chọn tên và xử lý bản ghi mơ hồ xem [[Ưu Tiên Tên Khách Hàng Và Hàng Hóa Theo Danh Mục]]. [[Danh sach khach hang chuan co ma so thue]]

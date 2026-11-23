@@ -67,3 +67,5 @@ Questions the wiki cannot fully answer yet. One per line:
 - [ ] (2026-11-17) [[Quy Cách Trình Bày Hợp Đồng Victory]]: đề xuất bổ sung từ chat 2026-11-17 (dedup) - status: open
 
 - [ ] (2026-11-23) [[Các lỗi cơ bản thường gặp ở máy in]]: đề xuất bổ sung từ chat 2026-11-23 (dedup) - status: open
+
+- [ ] (2026-11-23) [[Ưu Tiên Tên Khách Hàng Và Hàng Hóa Theo Danh Mục]]: đề xuất bổ sung từ chat 2026-11-23 (dedup) - status: open

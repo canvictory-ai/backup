@@ -2,6 +2,11 @@
 
 Time-ordered log (append-only). Each entry: `## [YYYY-MM-DD] kind | title` (kind: init/ingest/update/query/lint/migrate).
 
+## [2026-11-23] update | Hợp nhất quy tắc tên khách hàng và hàng hóa theo danh mục
+
+- Gộp hai quy tắc bộ nhớ trùng phạm vi tra cứu tên khách hàng/hàng hóa thành [[Ưu Tiên Tên Khách Hàng Và Hàng Hóa Theo Danh Mục]] và một fact duy nhất.
+- Thay nội dung quy tắc lặp ở trang danh sách khách hàng, danh mục hàng hóa và quy trình bằng liên kết đến trang chuẩn; giữ nguyên dữ liệu nguồn và lịch sử giao dịch.
+
 ## [2026-11-19] update | Luna chỉ trực Zalo và hỗ trợ kỹ thuật
 
 - Theo yêu cầu mới nhất của chủ, giữ cho Luna duy nhất nhiệm vụ trực Zalo và trả lời vấn đề kỹ thuật; gỡ việc báo giá, xử lý/chuyển đơn, gửi thông tin hỗ trợ chung và việc nội bộ khỏi phạm vi hiện hành.
