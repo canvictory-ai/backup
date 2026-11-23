@@ -21,6 +21,8 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Nguồn Nghị định 384-2026-NĐ-CP - Cổng văn bản Chính phủ]] - Nghị định về xác định xuất xứ Việt Nam đối với hàng hóa sản xuất và lưu thông trong nước, hiệu lực từ 01/01/2027.
 - [[Lương tối thiểu từ ngày 01-01-2027]] - Mức lương tối thiểu theo vùng từ 01/01/2027 và nghĩa vụ rà soát thỏa thuận tiền lương theo Nghị định 399/2026/NĐ-CP.
 - [[Nguồn Nghị định 399-2026-NĐ-CP - Cổng văn bản Chính phủ]] - Trang nguồn chính thức và các tệp toàn văn/phụ lục về mức lương tối thiểu.
+- [[Miễn phí tên miền biz.vn cho doanh nghiệp đủ điều kiện từ 2027]] - Miễn lệ phí đăng ký và phí duy trì 3 năm cho một tên miền biz.vn mới nếu doanh nghiệp đáp ứng điều kiện.
+- [[Nguồn Thông tư 149-2026-TT-BTC - Cổng Chính phủ]] - Toàn văn và thuộc tính chính thức của Thông tư 149/2026/TT-BTC, hiệu lực 23/11/2026.
 - [[Luật Thuế giá trị gia tăng Việt Nam]] - Bản đồ tra cứu Luật 48/2024/QH15, các sửa đổi và hướng dẫn mới đến Nghị định 144/2026/NĐ-CP.
 - [[Pháp luật giám đốc doanh nghiệp]] - Bản đồ ưu tiên các nhóm luật giám đốc cần theo dõi và cách xác định nghĩa vụ áp dụng.
 - [[Danh Mục Hàng Hóa Dịch Vụ]] - Danh mục 3.491 dòng hàng hóa và dịch vụ; mã, tên chuẩn, đơn vị và mức thuế mặc định 8% theo xác nhận người dùng.

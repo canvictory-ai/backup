@@ -1020,3 +1020,10 @@ Mẫu nhờ chủ báo giá trước đây chỉ nói “mention thật” nhưn
 - Nguồn chính thức: [[Nguồn Nghị định 399-2026-NĐ-CP - Cổng văn bản Chính phủ]].
 - Tạo: [[Lương tối thiểu từ ngày 01-01-2027]].
 - Ghi nhận mức tháng/giờ theo 4 vùng, ngày hiệu lực 01/01/2027, Nghị định 293/2025/NĐ-CP hết hiệu lực cùng ngày và yêu cầu rà soát thỏa thuận tiền lương.
+
+
+## [2026-11-23] ingest | Thông tư 149/2026/TT-BTC và ưu đãi tên miền biz.vn
+
+- Nguồn chính thức: [[Nguồn Thông tư 149-2026-TT-BTC - Cổng Chính phủ]]; ban hành 08/10/2026, hiệu lực 23/11/2026.
+- Tạo [[Miễn phí tên miền biz.vn cho doanh nghiệp đủ điều kiện từ 2027]]: miễn lệ phí đăng ký và phí duy trì 3 năm cho một tên miền mới nếu doanh nghiệp thỏa điều kiện; chính sách áp dụng từ 01/01/2027.
+- Đã cập nhật wiki/index.md. Không phát hiện mâu thuẫn với nội dung Wiki hiện có.
