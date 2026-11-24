@@ -3,6 +3,88 @@
 - [[Ưu tiên kiểm soát rủi ro pháp lý Victory]] - Checklist ưu tiên về hợp đồng, chứng từ/thuế, lao động, an toàn lắp đặt, dữ liệu và website; còn cần xác nhận luồng bán online và nhân sự.
 - [[Nguồn chính thức về kiểm soát rủi ro pháp lý của Victory]] - URL và thuộc tính văn bản tra cứu trên Cổng văn bản Chính phủ ngày 24/11/2026.
 
+
+## Epson
+- [[Epson Manual Web-Site]] - Danh mục tài liệu User Guide chính hãng Epson.
+- [[Epson User Guides]] - Nguồn danh mục hướng dẫn theo model của Epson.
+
+- [[Epson L200 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L200 User Guide]]
+- [[Epson L200 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L220 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L220 User Guide]]
+- [[Epson L220 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L360 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L360 User Guide]]
+- [[Epson L360 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L380 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L380 User Guide]]
+- [[Epson L380 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L385 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L385 User Guide]]
+- [[Epson L385 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L405 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L405 User Guide]]
+- [[Epson L405 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L455 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L455 User Guide]]
+- [[Epson L455 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L485 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L485 User Guide]]
+- [[Epson L485 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L550 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L550 User Guide]]
+- [[Epson L550 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L555 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L555 User Guide]]
+- [[Epson L555 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L565 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L565 User Guide]]
+- [[Epson L565 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L605 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L605 User Guide]]
+- [[Epson L605 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L655 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L655 User Guide]]
+- [[Epson L655 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L850 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L850 User Guide]]
+- [[Epson L850 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L6160 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6160 User Guide]]
+- [[Epson L6160 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L6170 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6170 User Guide]]
+- [[Epson L6170 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L6190 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6190 User Guide]]
+- [[Epson L6190 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L6460 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6460 User Guide]]
+- [[Epson L6460 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L6550 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6550 User Guide]]
+- [[Epson L6550 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L6570 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6570 User Guide]]
+- [[Epson L6570 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L6580 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6580 User Guide]]
+- [[Epson L6580 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson L3100 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L3100 User Guide]]
+- [[Epson L3100 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson M200 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson M200 User Guide]]
+- [[Epson M200 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson M205 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson M205 User Guide]]
+- [[Epson M205 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson M2140 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson M2140 User Guide]]
+- [[Epson M2140 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson M3170 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson M3170 User Guide]]
+- [[Epson M3170 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+- [[Epson M2120 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson M2120 User Guide]]
+- [[Epson M2120 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
+
+
+- [[Epson LQ-310 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model LQ-310, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson LQ-310 User Guide troubleshooting]]
+- [[Epson L310 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L310, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L310 L313 User Guide]]
+- [[Epson L313 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L313, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L310 L313 User Guide]]
+- [[Epson L3110 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L3110, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L3110 User Guide]]
+- [[Epson L3150 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L3150, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L3150 User Guide]]
+- [[Epson L3210 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L3210, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L3210 User Guide]]
+- [[Epson L3250 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L3250, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L3250 L3251 User Guide]]
+- [[Epson L3251 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L3251, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L3250 L3251 User Guide]]
+- [[Epson L5290 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L5290, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L5290 User Guide]]
+- [[Epson L1250 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L1250, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L1250 User Guide]]
+- [[Epson L121 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L121, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L121 User Guide]]
+- [[Epson LQ-310 User Guide troubleshooting]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
+- [[Epson L310 L313 User Guide]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
+- [[Epson L3110 User Guide]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
+- [[Epson L3150 User Guide]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
+- [[Epson L3210 User Guide]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
+- [[Epson L3250 L3251 User Guide]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
+- [[Epson L5290 User Guide]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
+- [[Epson L1250 User Guide]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
+- [[Epson L121 User Guide]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
+
 Catalogue of the wiki's content (updated on every INGEST). Read this file before answering a question.
 
 - [[Lưu câu trả lời có nguồn vào đúng brain]] - Phân biệt link trích dẫn với tri thức đã lưu; lưu nguồn và Wiki vào brain đang chọn, cùng nguyên nhân loop Zalo bị kẹt.
@@ -35,15 +117,18 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Canon LBP 251dw và 252dw - lỗi cơ bản và xử lý an toàn]] - Lỗi hiển thị, giấy, chất lượng in, mạng và driver theo User's Guide Canon dùng chung hai model.
 - [[Các lỗi cơ bản thường gặp ở máy in]] - Bản đồ triệu chứng phổ biến cho máy in phun và laser; chỉ khoanh vùng khả năng, cần model cụ thể để kết luận.
 - [[Lỗi cơ bản laptop và cách nhận diện]] - Phân biệt mất nguồn, lỗi POST/khởi động, mất hình và lỗi pin theo tài liệu hãng.
+- [[Nguồn hãng - kiểm tra nguồn pin và màn hình laptop]] - Tài liệu hỗ trợ HP và Lenovo về adapter, pin, nguồn và dấu hiệu hiển thị laptop.
 - [[Dell Inspiron 15 3520 - đèn chẩn đoán]] - Bảng mã đèn amber/white của đúng model, phân biệt với tiếng bíp và giới hạn áp dụng.
 - [[Nguồn Dell Inspiron 15 3520 Service Manual]] - Nguồn Dell chính hãng về mã đèn chẩn đoán của Inspiron 15 3520.
 - [[Lỗi cơ bản camera IP và hệ thống giám sát]] - Nhận diện camera mất kết nối, không có hình, giật hình và vấn đề chất lượng ảnh.
+- [[Nguồn hãng - khắc phục sự cố camera IP và analog]] - Tài liệu Axis và Dahua về mạng, chất lượng ảnh, nguồn, cáp analog và lưu trữ.
 - [[Hikvision DVR/NVR - khoanh vùng tiếng bíp sau khởi động]] - Trình tự khoanh vùng tiếng bíp sau khởi động; không kết luận lỗi HDD khi thiếu model/trạng thái sự kiện.
 - [[Nguồn Hikvision - đầu ghi kêu bíp sau khi khởi động]] - Hỏi đáp hỗ trợ Hikvision về tiếng bíp sau khởi động, mặt trước tháo rời và HDD.
 - [[Lỗi cơ bản máy photocopy]] - Nhóm lỗi giấy, vật tư, chất lượng sao chụp, bộ nạp bản gốc và kết nối.
 - [[Lỗi cơ bản hệ thống mạng]] - Phân biệt lỗi kết nối vật lý, Wi-Fi, IP/DHCP, DNS, gateway và nghẽn mạng.
 - [[Lỗi máy tính để bàn có nguồn nhưng không lên hình]] - Trình tự kiểm tra màn hình, cáp, ngõ vào và phân biệt mất hình với lỗi POST; cần manual đúng model khi có mã chẩn đoán.
 - [[Nguồn Dell - xử lý máy tính không hình]] - Tài liệu Dell chính hãng về no power, no POST, no boot và no video, đã đối chiếu trực tuyến ngày 31/10/2026.
+- [[Nguồn Microsoft - khởi động và phục hồi Windows]] - Tài liệu Microsoft về Safe Mode, Startup Repair và rủi ro mất dữ liệu khi phục hồi.
 
 - [[Vật Tư Thay Thế Hệ Thống LED Thể Thao Xuân Thiện]] - Ba tên vật tư người dùng xác nhận sẽ thay thế; chưa có số lượng, đơn vị tính hoặc giá.
 - [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]] - Mẫu HTML xanh Victory duy nhất; giữ nguyên nội dung cố định, ảnh đặt dưới mục 1.
@@ -64,6 +149,20 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Quy Trình Chuẩn Hóa Hồ Sơ Victory]] - Quy trình tiếp nhận, đối chiếu, xử lý trường thiếu, đánh số và kiểm tra cuối cho bộ hồ sơ.
 
 - [[Sổ Theo Dõi Số Văn Bản Victory]] - Số báo giá và phiếu xuất kho gần nhất đã xác minh cùng số kế tiếp.
+
+- [[Epson L355 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L355, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L355 User Guide]]
+- [[Epson L365 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L365, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L365 User Guide]]
+- [[Epson L4150 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L4150, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L4150 User Guide]]
+- [[Epson L4160 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L4160, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L4160 User Guide]]
+- [[Epson L4260 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L4260, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L4260 User Guide]]
+- [[Epson L6270 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L6270, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L6270 User Guide]]
+- [[Epson L805 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L805, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L805 User Guide]]
+- [[Epson L1300 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L1300, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L1300 User Guide]]
+- [[Epson L1800 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L1800, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L1800 User Guide]]
+
+- [[Epson L5190 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng model L5190, có an toàn và điểm chuyển kỹ thuật. [[Epson L5190 User Guide]]
+- [[Epson L14150 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng model L14150, có an toàn và điểm chuyển kỹ thuật. [[Epson L14150 User Guide]]
+- [[Epson L6490 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng model L6490, có an toàn và điểm chuyển kỹ thuật. [[Epson L6490 User Guide]]
 
 ## Tự học
 - [[Chia sẻ kho tri thức qua bot Zalo nhóm]] - Một nhóm Zalo có thể dùng bot Javis để hỏi đáp trên cùng một brain nếu bot được
@@ -89,7 +188,7 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Hậu quả chậm đóng bảo hiểm xã hội]] - Doanh nghiệp chậm đóng BHXH phải nộp khoản còn thiếu và khoản tính thêm 0,03% mỗ
 - [[Diễn đạt mức độ chắc chắn khi chẩn đoán từ xa]] - Khi nhận định lỗi kỹ thuật chỉ dựa trên trao đổi trong chat và chưa được xác min
 - [[Zalo TESTBOT 2026-10-28 - triệu chứng kỹ thuật]] - Ghi nhận nền đen Canon LBP3500 sau nạp mực và trao đổi laptop sập nguồn/lỗi pin; phân biệt lời kể với chẩn đoán.
-- [[Xử lý camera analog chập chờn qua dây đồng trục]] - Khi hình camera analog lúc có lúc mất, kiểm tra đầu BNC, dây đồng trục và nguồn
+- [[Xử lý camera analog chập chờn qua dây đồng trục]] - Khoanh vùng nguồn, BNC, cáp đồng trục, tương thích tín hiệu và kênh đầu ghi theo hướng dẫn Dahua.
 - [[Zalo TESTBOT 2026-10-30 - triệu chứng kỹ thuật]] - Ghi nhận Dell 3520 kêu bíp khi bật và Imou A32 ngoại tuyến, đèn vàng nháy; các nhận định chưa xác minh.
 - [[Zalo TESTBOT 2026-10-31 - triệu chứng kỹ thuật]] - Ghi nhận máy tính bàn mất hình khi thùng máy vẫn chạy, đầu ghi Hikvision kêu liên tục và ảnh mã lỗi không đọc được; chưa đủ căn cứ chẩn đoán.
 - [[Phân biệt xử lý tệp và yêu cầu đăng nội dung trong nhóm]] - Việc tin nhắn nhắc đến một tệp không tự nó tạo thành yêu cầu đăng hoặc chia sẻ t
@@ -143,6 +242,152 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Brother MFC-L2900DWXL - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
 - [[Brother MFC-L2980DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
 
+
+
+## Canon: tra cứu model bổ sung
+
+### PIXMA TS200
+
+- [[Canon TS205 - tra cứu lỗi cơ bản]] - Model TS205 được Canon liệt kê trong phạm vi TS200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TS200 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### PIXMA TS3100
+
+- [[Canon TS3150 - tra cứu lỗi cơ bản]] - Model TS3150 được Canon liệt kê trong phạm vi TS3100; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3151 - tra cứu lỗi cơ bản]] - Model TS3151 được Canon liệt kê trong phạm vi TS3100; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3165 - tra cứu lỗi cơ bản]] - Model TS3165 được Canon liệt kê trong phạm vi TS3100; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3160 - tra cứu lỗi cơ bản]] - Model TS3160 được Canon liệt kê trong phạm vi TS3100; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3170 - tra cứu lỗi cơ bản]] - Model TS3170 được Canon liệt kê trong phạm vi TS3100; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3190 - tra cứu lỗi cơ bản]] - Model TS3190 được Canon liệt kê trong phạm vi TS3100; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3170S - tra cứu lỗi cơ bản]] - Model TS3170S được Canon liệt kê trong phạm vi TS3100; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3177S - tra cứu lỗi cơ bản]] - Model TS3177S được Canon liệt kê trong phạm vi TS3100; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3195 - tra cứu lỗi cơ bản]] - Model TS3195 được Canon liệt kê trong phạm vi TS3100; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### PIXMA TS3300
+
+- [[Canon TS3320 - tra cứu lỗi cơ bản]] - Model TS3320 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3310 - tra cứu lỗi cơ bản]] - Model TS3310 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3350 - tra cứu lỗi cơ bản]] - Model TS3350 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3351 - tra cứu lỗi cơ bản]] - Model TS3351 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3352 - tra cứu lỗi cơ bản]] - Model TS3352 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3360 - tra cứu lỗi cơ bản]] - Model TS3360 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3370 - tra cứu lỗi cơ bản]] - Model TS3370 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3390 - tra cứu lỗi cơ bản]] - Model TS3390 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3340 - tra cứu lỗi cơ bản]] - Model TS3340 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3355 - tra cứu lỗi cơ bản]] - Model TS3355 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3365 - tra cứu lỗi cơ bản]] - Model TS3365 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3370S - tra cứu lỗi cơ bản]] - Model TS3370S được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3380 - tra cứu lỗi cơ bản]] - Model TS3380 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3391 - tra cứu lỗi cơ bản]] - Model TS3391 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS3392 - tra cứu lỗi cơ bản]] - Model TS3392 được Canon liệt kê trong phạm vi TS3300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TS3300 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### PIXMA TS5300
+
+- [[Canon TS5320 - tra cứu lỗi cơ bản]] - Model TS5320 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5340 - tra cứu lỗi cơ bản]] - Model TS5340 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5350 - tra cứu lỗi cơ bản]] - Model TS5350 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5351 - tra cứu lỗi cơ bản]] - Model TS5351 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5352 - tra cứu lỗi cơ bản]] - Model TS5352 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5353 - tra cứu lỗi cơ bản]] - Model TS5353 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5360 - tra cứu lỗi cơ bản]] - Model TS5360 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5365 - tra cứu lỗi cơ bản]] - Model TS5365 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5370 - tra cứu lỗi cơ bản]] - Model TS5370 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5390 - tra cứu lỗi cơ bản]] - Model TS5390 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5391 - tra cứu lỗi cơ bản]] - Model TS5391 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS5392 - tra cứu lỗi cơ bản]] - Model TS5392 được Canon liệt kê trong phạm vi TS5300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### PIXMA TS6200
+
+- [[Canon TS6220 - tra cứu lỗi cơ bản]] - Model TS6220 được Canon liệt kê trong phạm vi TS6200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6240 - tra cứu lỗi cơ bản]] - Model TS6240 được Canon liệt kê trong phạm vi TS6200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6250 - tra cứu lỗi cơ bản]] - Model TS6250 được Canon liệt kê trong phạm vi TS6200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6251 - tra cứu lỗi cơ bản]] - Model TS6251 được Canon liệt kê trong phạm vi TS6200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6210 - tra cứu lỗi cơ bản]] - Model TS6210 được Canon liệt kê trong phạm vi TS6200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6260 - tra cứu lỗi cơ bản]] - Model TS6260 được Canon liệt kê trong phạm vi TS6200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6290 - tra cứu lỗi cơ bản]] - Model TS6290 được Canon liệt kê trong phạm vi TS6200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TS6200 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### PIXMA TS6300
+
+- [[Canon TS6320 - tra cứu lỗi cơ bản]] - Model TS6320 được Canon liệt kê trong phạm vi TS6300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6340 - tra cứu lỗi cơ bản]] - Model TS6340 được Canon liệt kê trong phạm vi TS6300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6350 - tra cứu lỗi cơ bản]] - Model TS6350 được Canon liệt kê trong phạm vi TS6300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6351 - tra cứu lỗi cơ bản]] - Model TS6351 được Canon liệt kê trong phạm vi TS6300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6365 - tra cứu lỗi cơ bản]] - Model TS6365 được Canon liệt kê trong phạm vi TS6300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6360 - tra cứu lỗi cơ bản]] - Model TS6360 được Canon liệt kê trong phạm vi TS6300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6370 - tra cứu lỗi cơ bản]] - Model TS6370 được Canon liệt kê trong phạm vi TS6300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS6390 - tra cứu lỗi cơ bản]] - Model TS6390 được Canon liệt kê trong phạm vi TS6300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TS6300 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### PIXMA TS8200
+
+- [[Canon TS8295 - tra cứu lỗi cơ bản]] - Model TS8295 được Canon liệt kê trong phạm vi TS8200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8220 - tra cứu lỗi cơ bản]] - Model TS8220 được Canon liệt kê trong phạm vi TS8200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8240 - tra cứu lỗi cơ bản]] - Model TS8240 được Canon liệt kê trong phạm vi TS8200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8250 - tra cứu lỗi cơ bản]] - Model TS8250 được Canon liệt kê trong phạm vi TS8200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8251 - tra cứu lỗi cơ bản]] - Model TS8251 được Canon liệt kê trong phạm vi TS8200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8252 - tra cứu lỗi cơ bản]] - Model TS8252 được Canon liệt kê trong phạm vi TS8200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8260 - tra cứu lỗi cơ bản]] - Model TS8260 được Canon liệt kê trong phạm vi TS8200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8270 - tra cứu lỗi cơ bản]] - Model TS8270 được Canon liệt kê trong phạm vi TS8200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8290 - tra cứu lỗi cơ bản]] - Model TS8290 được Canon liệt kê trong phạm vi TS8200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8298 - tra cứu lỗi cơ bản]] - Model TS8298 được Canon liệt kê trong phạm vi TS8200; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TS8200 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### PIXMA TS8300
+
+- [[Canon TS8320 - tra cứu lỗi cơ bản]] - Model TS8320 được Canon liệt kê trong phạm vi TS8300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8340 - tra cứu lỗi cơ bản]] - Model TS8340 được Canon liệt kê trong phạm vi TS8300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8350 - tra cứu lỗi cơ bản]] - Model TS8350 được Canon liệt kê trong phạm vi TS8300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8351 - tra cứu lỗi cơ bản]] - Model TS8351 được Canon liệt kê trong phạm vi TS8300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8352 - tra cứu lỗi cơ bản]] - Model TS8352 được Canon liệt kê trong phạm vi TS8300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8360 - tra cứu lỗi cơ bản]] - Model TS8360 được Canon liệt kê trong phạm vi TS8300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8370 - tra cứu lỗi cơ bản]] - Model TS8370 được Canon liệt kê trong phạm vi TS8300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS8390 - tra cứu lỗi cơ bản]] - Model TS8390 được Canon liệt kê trong phạm vi TS8300; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TS8300 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### PIXMA TS9000
+
+- [[Canon TS9020 - tra cứu lỗi cơ bản]] - Model TS9020 được Canon liệt kê trong phạm vi TS9000; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS9040 - tra cứu lỗi cơ bản]] - Model TS9040 được Canon liệt kê trong phạm vi TS9000; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS9050 - tra cứu lỗi cơ bản]] - Model TS9050 được Canon liệt kê trong phạm vi TS9000; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS9010 - tra cứu lỗi cơ bản]] - Model TS9010 được Canon liệt kê trong phạm vi TS9000; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS9055 - tra cứu lỗi cơ bản]] - Model TS9055 được Canon liệt kê trong phạm vi TS9000; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS9060 - tra cứu lỗi cơ bản]] - Model TS9060 được Canon liệt kê trong phạm vi TS9000; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TS9080 - tra cứu lỗi cơ bản]] - Model TS9080 được Canon liệt kê trong phạm vi TS9000; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TS9000 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### PIXMA TR4500
+
+- [[Canon TR4520 - tra cứu lỗi cơ bản]] - Model TR4520 được Canon liệt kê trong phạm vi TR4500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR4540 - tra cứu lỗi cơ bản]] - Model TR4540 được Canon liệt kê trong phạm vi TR4500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR4550 - tra cứu lỗi cơ bản]] - Model TR4550 được Canon liệt kê trong phạm vi TR4500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR4551 - tra cứu lỗi cơ bản]] - Model TR4551 được Canon liệt kê trong phạm vi TR4500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR4570S - tra cứu lỗi cơ bản]] - Model TR4570S được Canon liệt kê trong phạm vi TR4500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR4560 - tra cứu lỗi cơ bản]] - Model TR4560 được Canon liệt kê trong phạm vi TR4500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR4570 - tra cứu lỗi cơ bản]] - Model TR4570 được Canon liệt kê trong phạm vi TR4500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR4590 - tra cứu lỗi cơ bản]] - Model TR4590 được Canon liệt kê trong phạm vi TR4500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR4580 - tra cứu lỗi cơ bản]] - Model TR4580 được Canon liệt kê trong phạm vi TR4500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR4595 - tra cứu lỗi cơ bản]] - Model TR4595 được Canon liệt kê trong phạm vi TR4500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TR4500 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### PIXMA TR8500
+
+- [[Canon TR8520 - tra cứu lỗi cơ bản]] - Model TR8520 được Canon liệt kê trong phạm vi TR8500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR8540 - tra cứu lỗi cơ bản]] - Model TR8540 được Canon liệt kê trong phạm vi TR8500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR8550 - tra cứu lỗi cơ bản]] - Model TR8550 được Canon liệt kê trong phạm vi TR8500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR8560 - tra cứu lỗi cơ bản]] - Model TR8560 được Canon liệt kê trong phạm vi TR8500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Canon TR8570 - tra cứu lỗi cơ bản]] - Model TR8570 được Canon liệt kê trong phạm vi TR8500; hướng dẫn triệu chứng và support code theo đúng tài liệu hãng.
+- [[Nguồn Canon TR8500 - hướng dẫn và mã lỗi]] - URL tài liệu, phạm vi model và ngày truy cập.
+
+### Canon LBP văn phòng
+
+- [[Canon LBP6030 - tra cứu lỗi cơ bản]] - Model doanh nghiệp, kiểm tra giấy, chất lượng in, kết nối và thông báo service theo manual Canon. [[Nguồn Canon LBP6030 series - User Guide]]
+- [[Canon LBP6030B - tra cứu lỗi cơ bản]] - Model doanh nghiệp, kiểm tra giấy, chất lượng in, kết nối và thông báo service theo manual Canon. [[Nguồn Canon LBP6030 series - User Guide]]
+- [[Canon LBP6030w - tra cứu lỗi cơ bản]] - Model doanh nghiệp, kiểm tra giấy, chất lượng in, kết nối và thông báo service theo manual Canon. [[Nguồn Canon LBP6030 series - User Guide]]
+- [[Canon LBP6230dw - tra cứu lỗi cơ bản]] - Model doanh nghiệp, kiểm tra giấy, chất lượng in, kết nối và thông báo service theo manual Canon. [[Nguồn Canon LBP6230dw - User Guide]]
 
 ## Brother: 100 mã học bổ sung
 
@@ -284,3 +529,308 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Nguồn Brother HL-L2464DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
 - [[Brother HL-L2464DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
 - [[Brother DCP-L2605DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+
+
+### Máy in HP - nghiên cứu theo model
+- [[HP LaserJet Pro M12a - tra cứu lỗi cơ bản]] - triệu chứng phổ biến, kiểm tra an toàn và giới hạn theo biến thể. [[Nguồn HP LaserJet Pro M12 - hướng dẫn thiết lập]]
+- [[HP LaserJet Pro M12w - tra cứu lỗi cơ bản]] - triệu chứng phổ biến, kiểm tra an toàn và giới hạn theo biến thể. [[Nguồn HP LaserJet Pro M12 - hướng dẫn thiết lập]]
+- [[HP LaserJet Pro MFP M28a - tra cứu lỗi cơ bản]] - triệu chứng phổ biến, kiểm tra an toàn và giới hạn theo biến thể. [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]]
+- [[HP LaserJet Pro MFP M28w - tra cứu lỗi cơ bản]] - triệu chứng phổ biến, kiểm tra an toàn và giới hạn theo biến thể. [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]]
+- [[HP LaserJet Pro M402d - tra cứu lỗi cơ bản]] - triệu chứng phổ biến, kiểm tra an toàn và giới hạn theo biến thể. [[Nguồn HP LaserJet Pro M402-M403 - hướng dẫn hãng]]
+- [[HP LaserJet Pro M402dn - tra cứu lỗi cơ bản]] - triệu chứng phổ biến, kiểm tra an toàn và giới hạn theo biến thể. [[Nguồn HP LaserJet Pro M402-M403 - hướng dẫn hãng]]
+- [[HP LaserJet Pro M402dw - tra cứu lỗi cơ bản]] - triệu chứng phổ biến, kiểm tra an toàn và giới hạn theo biến thể. [[Nguồn HP LaserJet Pro M402-M403 - hướng dẫn hãng]]
+- [[HP LaserJet Pro M404dw - tra cứu lỗi cơ bản]] - triệu chứng phổ biến, kiểm tra an toàn và giới hạn theo biến thể. [[Nguồn HP LaserJet Pro M404-M405 - hướng dẫn hãng]]
+- [[HP LaserJet Pro M405dn - tra cứu lỗi cơ bản]] - triệu chứng phổ biến, kiểm tra an toàn và giới hạn theo biến thể. [[Nguồn HP LaserJet Pro M404-M405 - hướng dẫn hãng]]
+- [[Nguồn HP LaserJet Pro M12 - hướng dẫn thiết lập]] - nguồn hỗ trợ chính thức HP, phạm vi model và mục tài liệu đã đối chiếu.
+- [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]] - nguồn hỗ trợ chính thức HP, phạm vi model và mục tài liệu đã đối chiếu.
+- [[Nguồn HP LaserJet Pro M402-M403 - hướng dẫn hãng]] - nguồn hỗ trợ chính thức HP, phạm vi model và mục tài liệu đã đối chiếu.
+- [[Nguồn HP LaserJet Pro M404-M405 - hướng dẫn hãng]] - nguồn hỗ trợ chính thức HP, phạm vi model và mục tài liệu đã đối chiếu.
+- [[Nguồn HP - lỗi thường gặp trên DeskJet 2700]] - nguồn hỗ trợ chính thức HP, phạm vi model và mục tài liệu đã đối chiếu.
+
+- [[HP LaserJet P1005 - tra cứu lỗi cơ bản]] - kẹt giấy và triệu chứng chất lượng in, theo đúng model hãng liệt kê. [[Nguồn HP LaserJet P1000 - hướng dẫn kẹt giấy]]
+
+- [[HP LaserJet P1006 - tra cứu lỗi cơ bản]] - kẹt giấy và triệu chứng chất lượng in, theo đúng model hãng liệt kê. [[Nguồn HP LaserJet P1000 - hướng dẫn kẹt giấy]]
+
+- [[HP LaserJet P1007 - tra cứu lỗi cơ bản]] - kẹt giấy và triệu chứng chất lượng in, theo đúng model hãng liệt kê. [[Nguồn HP LaserJet P1000 - hướng dẫn kẹt giấy]]
+
+- [[HP LaserJet P1008 - tra cứu lỗi cơ bản]] - kẹt giấy và triệu chứng chất lượng in, theo đúng model hãng liệt kê. [[Nguồn HP LaserJet P1000 - hướng dẫn kẹt giấy]]
+
+- [[HP LaserJet P1009 - tra cứu lỗi cơ bản]] - kẹt giấy và triệu chứng chất lượng in, theo đúng model hãng liệt kê. [[Nguồn HP LaserJet P1000 - hướng dẫn kẹt giấy]]
+
+- [[HP LaserJet Pro M118dw - tra cứu lỗi cơ bản]] - kẹt giấy và triệu chứng chất lượng in, theo đúng model hãng liệt kê. [[Nguồn HP LaserJet M118 M203 M206 - hướng dẫn kẹt giấy]]
+
+- [[HP LaserJet Pro M203d - tra cứu lỗi cơ bản]] - kẹt giấy và triệu chứng chất lượng in, theo đúng model hãng liệt kê. [[Nguồn HP LaserJet M118 M203 M206 - hướng dẫn kẹt giấy]]
+
+- [[HP LaserJet Pro M203dn - tra cứu lỗi cơ bản]] - kẹt giấy và triệu chứng chất lượng in, theo đúng model hãng liệt kê. [[Nguồn HP LaserJet M118 M203 M206 - hướng dẫn kẹt giấy]]
+
+- [[HP LaserJet Pro M203dw - tra cứu lỗi cơ bản]] - kẹt giấy và triệu chứng chất lượng in, theo đúng model hãng liệt kê. [[Nguồn HP LaserJet M118 M203 M206 - hướng dẫn kẹt giấy]]
+- [[Nguồn HP LaserJet Pro - chất lượng in đơn sắc]] - bài hỗ trợ HP về model/phạm vi nêu trong trang nguồn.
+
+- [[HP LaserJet Pro P1102 - tra cứu lỗi cơ bản]] - P1102; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro M12 P1100 - kẹt giấy]]
+
+- [[HP LaserJet Pro P1102s - tra cứu lỗi cơ bản]] - P1102s; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro M12 P1100 - kẹt giấy]]
+
+- [[HP LaserJet Pro P1102w - tra cứu lỗi cơ bản]] - P1102w; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro M12 P1100 - kẹt giấy]]
+
+- [[HP LaserJet Pro P1106 - tra cứu lỗi cơ bản]] - P1106; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro M12 P1100 - kẹt giấy]]
+
+- [[HP LaserJet Pro P1108 - tra cứu lỗi cơ bản]] - P1108; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro M12 P1100 - kẹt giấy]]
+
+- [[HP LaserJet Pro P1109 - tra cứu lỗi cơ bản]] - P1109; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro M12 P1100 - kẹt giấy]]
+
+- [[HP LaserJet Pro P1109w - tra cứu lỗi cơ bản]] - P1109w; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro M12 P1100 - kẹt giấy]]
+
+- [[HP LaserJet Pro MFP M29a - tra cứu lỗi cơ bản]] - M29a; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro MFP M28-M31 - kẹt giấy]]
+
+- [[HP LaserJet Pro MFP M29w - tra cứu lỗi cơ bản]] - M29w; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro MFP M28-M31 - kẹt giấy]]
+
+- [[HP LaserJet Pro MFP M30a - tra cứu lỗi cơ bản]] - M30a; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro MFP M28-M31 - kẹt giấy]]
+
+- [[HP LaserJet Pro MFP M30w - tra cứu lỗi cơ bản]] - M30w; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro MFP M28-M31 - kẹt giấy]]
+
+- [[HP LaserJet Pro MFP M31w - tra cứu lỗi cơ bản]] - M31w; HP xác nhận model trong phạm vi bài kẹt giấy nhóm. [[Nguồn HP LaserJet Pro MFP M28-M31 - kẹt giấy]]
+
+- [[HP LaserJet Pro MFP M125a - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M125nw - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M125r - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M125ra - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M125rnw - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M126a - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M126nw - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M127fn - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M127fs - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M127fw - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M128fn - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M128fp - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M128fw - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M26a - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP LaserJet Pro MFP M26nw - tra cứu lỗi cơ bản]] - E0/kẹt giấy và chất lượng in theo hướng dẫn HP, đúng biến thể. [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - kẹt giấy]] [[Nguồn HP LaserJet Pro MFP M125-M128 M26 - chất lượng in]]
+
+- [[HP DeskJet 2710 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2710e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2720 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2720e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2721 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2721e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2722 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2722e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2723 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2723e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2724 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2732 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2742e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2752 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2752e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2755 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 2755e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4110e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4120e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4121e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4122e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4123e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4130e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4132e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4133e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4152e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4155e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4158e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4175e - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Ink Advantage 2775 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Ink Advantage 2776 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4175 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet 4176 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Plus 4110 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Plus 4120 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Plus 4121 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Plus 4122 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Plus 4130 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Plus 4140 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Plus 4152 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Plus 4155 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Plus 4158 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Ink Advantage Ultra 4825 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Ink Advantage Ultra 4826 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Ink Advantage Ultra 4828 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Ink Advantage Ultra 4829 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP DeskJet Ink Advantage Ultra 4877 - tra cứu lỗi cơ bản]] - model HP xác nhận trong phạm vi nhóm; E3/E4/E5/E6 và kiểm tra an toàn. [[Nguồn HP DeskJet 2700 4100 4800 - mã đèn lỗi]]
+
+- [[HP Laser MFP 135a - tra cứu lỗi cơ bản]] - kẹt giấy, không kéo giấy và dấu hiệu chất lượng in theo hướng dẫn HP nhóm 130/1000. [[Nguồn HP Laser MFP 130 1000 - phạm vi model và kẹt giấy]]
+
+- [[HP Laser MFP 136nw - tra cứu lỗi cơ bản]] - kẹt giấy, không kéo giấy và dấu hiệu chất lượng in theo hướng dẫn HP nhóm 130/1000. [[Nguồn HP Laser MFP 130 1000 - phạm vi model và kẹt giấy]]
+
+- [[HP Laser MFP 136w - tra cứu lỗi cơ bản]] - kẹt giấy, không kéo giấy và dấu hiệu chất lượng in theo hướng dẫn HP nhóm 130/1000. [[Nguồn HP Laser MFP 130 1000 - phạm vi model và kẹt giấy]]
+
+- [[HP Laser MFP 137fnw - tra cứu lỗi cơ bản]] - kẹt giấy, không kéo giấy và dấu hiệu chất lượng in theo hướng dẫn HP nhóm 130/1000. [[Nguồn HP Laser MFP 130 1000 - phạm vi model và kẹt giấy]]
+
+- [[HP Laser MFP 137fwg - tra cứu lỗi cơ bản]] - kẹt giấy, không kéo giấy và dấu hiệu chất lượng in theo hướng dẫn HP nhóm 130/1000. [[Nguồn HP Laser MFP 130 1000 - phạm vi model và kẹt giấy]]
+
+- [[HP Laser MFP 138fnw - tra cứu lỗi cơ bản]] - kẹt giấy, không kéo giấy và dấu hiệu chất lượng in theo hướng dẫn HP nhóm 130/1000. [[Nguồn HP Laser MFP 130 1000 - phạm vi model và kẹt giấy]]
+
+- [[HP Laser MFP 138pnw - tra cứu lỗi cơ bản]] - kẹt giấy, không kéo giấy và dấu hiệu chất lượng in theo hướng dẫn HP nhóm 130/1000. [[Nguồn HP Laser MFP 130 1000 - phạm vi model và kẹt giấy]]
+
+- [[HP Laser MFP 133pn - tra cứu lỗi cơ bản]] - kẹt giấy, không kéo giấy và dấu hiệu chất lượng in theo hướng dẫn HP nhóm 130/1000. [[Nguồn HP Laser MFP 130 1000 - phạm vi model và kẹt giấy]]
+
+
+## Pantum và Xprinter: tra cứu theo model
+
+- [[Pantum P2500 - nhận diện lỗi cơ bản]] - 7 model.
+- [[Nguồn hãng Pantum P2500 - tài liệu tra lỗi]] - Nguồn hãng.
+- [[Pantum P2500 - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum P2500W - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum P2502 - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum P2502W - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum P2506 - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum P2509 - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum P2509W - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6500 M6550 M6600 - nhận diện lỗi cơ bản]] - 13 model.
+- [[Nguồn hãng Pantum M6500 M6550 M6600 - tài liệu tra lỗi]] - Nguồn hãng.
+- [[Pantum M6500 - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6500W - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6500NW - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6509NW - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6550NW - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6559NW - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6600NW - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6609NW - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6558NW - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6550 - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6550N - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6550W - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Pantum M6559 - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter tem nhãn - nhận diện lỗi cơ bản]] - 20 model.
+- [[Nguồn hãng Xprinter tem nhãn - tài liệu tra lỗi]] - Nguồn hãng.
+- [[Xprinter XP-420B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-470B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-410B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-D465B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-D463E - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-D463B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-D462B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-D362B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-4601B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-460B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-235B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-Q302F - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-370B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-350B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-365B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-D367B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-300B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-220B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-200B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-245B - tra cứu lỗi theo model]] - Tra cứu theo model.
+
+
+## Router, modem DSL và router 4G/5G - TP-Link
+
+- [[Nguồn cấu hình router TP-Link - hướng dẫn chính hãng]] - Danh mục model, tài liệu cấu hình hãng, phạm vi vùng/phiên bản và điều kiện cần ISP xác nhận.
+- [[Archer AX10 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX12 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX1500 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX20 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX23 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX53 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX55 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX72 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX73 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C6 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C64 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C80 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer A8 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer A64 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C54 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C50 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C24 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C20 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C2300 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer A9 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C9 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C5 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C1200 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX50 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C86 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX56 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX6000 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX90 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX80 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer GX90 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AXE75 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer BE230 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer BE550 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer BE800 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX11000 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer C58HP - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[TL-WR846N - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer VR400 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer VR600 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer VR300 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[TD-W9960 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[TD-W9970 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer MR100 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer MR105 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer MR200 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer MR400 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer MR600 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer MR6400 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer NX200 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Deco X50-4G - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.

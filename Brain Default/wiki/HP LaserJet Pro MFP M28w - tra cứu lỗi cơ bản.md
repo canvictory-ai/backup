@@ -1,0 +1,38 @@
+---
+type: wiki
+status: active
+tags: [wiki, máy-in, hp, tra-cứu-lỗi]
+created: 2026-11-24
+updated: 2026-11-24
+source: "[[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]]"
+---
+
+# HP LaserJet Pro MFP M28w - tra cứu lỗi cơ bản
+
+## Nhận diện và phạm vi
+
+Tra model trên tem máy, bao gồm đầy đủ hậu tố `M28w`. Máy đa chức năng; chỉ kiểm tra kết nối không dây nếu tem model xác nhận đúng M28w. Không mặc định M28a có cùng chức năng mạng. [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]]
+
+## Triệu chứng và kiểm tra ban đầu
+
+- **Không nhận giấy hoặc kẹt giấy:** xem thông báo trên máy, kiểm tra giấy đúng khổ và đặt thẳng trong khay; lấy giấy kẹt theo đường mở được hướng dẫn, không dùng vật nhọn. [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]]
+- **Bản in mờ, sọc hoặc có vùng trắng:** in trang kiểm tra nếu máy cho phép; quan sát mức vật tư/thông báo trên bảng điều khiển. Không tự kết luận hộp mực, trống hay cụm sấy hỏng chỉ từ một bản in. [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]]
+- **Máy báo vật tư hoặc không sẵn sàng:** ghi nguyên văn mã/thông báo; nguồn hãng có mục cảnh báo vật tư cho dòng này. Không reset bộ đếm hoặc bỏ qua cảnh báo khi chưa xác định ý nghĩa. [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]]
+- **Máy ngoại tuyến hoặc không nhận lệnh:** kiểm tra nguồn, trạng thái cáp/mạng phù hợp với đúng biến thể, hàng đợi in và thử in trang nội bộ nếu có. [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]]
+
+## Trình tự an toàn
+
+1. Ghi lại thông báo/mã lỗi và thời điểm xảy ra.
+2. Tắt lệnh in, mở các cửa người dùng được hướng dẫn mở; rút giấy theo chiều đường giấy, không kéo mạnh.
+3. Không chạm vào cụm sấy khi máy vừa hoạt động, không tháo vỏ hoặc can thiệp dây điện/cảm biến.
+4. Khởi động lại một lần sau khi đã đóng cửa và đặt giấy đúng. Nếu lỗi lặp lại, dừng thử liên tục. [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]]
+
+## Hướng tiếp theo
+
+- Nếu hết kẹt và máy in được trang kiểm tra: thử một lệnh in nhỏ, theo dõi xem lỗi có tái diễn.
+- Nếu báo lỗi vật tư hoặc chất lượng vẫn bất thường: ghi mã, chụp mẫu in và kiểm tra vật tư đúng mã theo tem/mục lục hãng.
+- Nếu có tiếng cọ/khét, khói, nóng bất thường, kẹt lặp lại cùng vị trí, mã service, hoặc phải tháo vỏ để tiếp cận: ngắt nguồn an toàn và chuyển kỹ thuật trực tiếp. [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]]
+
+## Giới hạn
+
+Đây là mục khoanh vùng ban đầu, không phải bảng mã service riêng của model. Nguồn đã đối chiếu không xác nhận đủ 3-5 mã lỗi riêng cho từng hậu tố; cần lấy mã chính xác và tra User Guide/Service Manual đúng model trước khi kết luận linh kiện. Với M404dn xem thêm [[HP LaserJet Pro M404dn - mã lỗi kẹt giấy]].
