@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, vận-hành, hồ-sơ, Victory]
 created: 2026-11-21
-updated: 2026-11-23
+updated: 2026-11-24
 source: [[memory/facts/du-lieu-thieu-dung-dau-cham]]
 ---
 
@@ -25,6 +25,12 @@ Trong mọi giấy tờ phát hành, trường dữ liệu chưa được cung c
 ## Số văn bản
 
 Tra số kế tiếp trong [[Sổ Theo Dõi Số Văn Bản Victory]] trước khi lập. Chỉ tăng/cập nhật sổ sau khi tệp đã tạo thành công; nếu không có quy tắc đánh số đã chốt thì không tự tạo quy tắc mới, ghi `...` ở trường số.
+
+- Phiếu nhập kho: `PNK-VIC-YYYY-NNN`, tăng tuần tự từ `001` theo từng năm.
+- Biên bản đối chiếu công nợ: `BBĐCCN/YYYY-NN/VIC-ABC`.
+- Giấy đề nghị thanh toán: `DNTT/YYYY-NN/VIC-ABC`.
+- Biên bản làm việc Xuân Thiện: `BBLV/YYYY-NN/VIC-XT`.
+- Với ba loại biên bản/đề nghị trên, `NN` tăng từ `01` riêng theo loại và năm; `ABC` là mã viết tắt khách hàng; mã Xuân Thiện là `XT`. Năm mới bắt đầu lại từ `01` hoặc `001` tương ứng. [[memory/facts/quy-tac-danh-so-chung-tu-victory]]
 
 ## Kiểm tra trước khi gửi
 

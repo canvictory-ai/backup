@@ -1032,3 +1032,23 @@ Mẫu nhờ chủ báo giá trước đây chỉ nói “mention thật” nhưn
 - Nguồn chính thức: [[Nguồn Thông tư 149-2026-TT-BTC - Cổng Chính phủ]]; ban hành 08/10/2026, hiệu lực 23/11/2026.
 - Tạo [[Miễn phí tên miền biz.vn cho doanh nghiệp đủ điều kiện từ 2027]]: miễn lệ phí đăng ký và phí duy trì 3 năm cho một tên miền mới nếu doanh nghiệp thỏa điều kiện; chính sách áp dụng từ 01/01/2027.
 - Đã cập nhật wiki/index.md. Không phát hiện mâu thuẫn với nội dung Wiki hiện có.
+
+## [2026-11-23] ingest | Hợp đồng bảo trì CNTT Hải Trung
+
+- Source: [[Hop dong bao tri CNTT Hai Trung 2026]]; ảnh gốc trang đầu được lưu trong `attachments/`.
+- Tạo [[Hợp đồng bảo trì CNTT Quỹ Tín dụng Nhân dân Hải Trung]] với thông tin hai bên và phạm vi dịch vụ nhìn thấy trên trang đầu; không suy diễn các điều khoản khác.
+- Ghi nhận hai hợp đồng vừa cung cấp vào [[hop-dong/So theo doi hop dong Victory]]; số 2511/HĐKT xuất hiện ở hai dòng Hải Trung với ngày và tổng tiền khác nhau, cần đối chiếu.
+
+## [2026-11-23] update | Bổ sung hồ sơ hợp đồng Hải Trung
+
+- Thêm hợp đồng số 2906/HĐKT, ngày 29/06/2026, tổng giá trị 2.998.080 đồng vào [[hop-dong/So theo doi hop dong Victory]].
+- Đối chiếu ảnh các hợp đồng Hải Trung: hai văn bản cùng số 2511/HĐKT có ngày, danh mục hàng và giá trị khác nhau; giữ thành hai hồ sơ riêng và ghi chú việc trùng số để rà soát. [[hop-dong/So theo doi hop dong Victory]]
+
+## [2026-11-23] correction | Chỉ lưu hồ sơ hợp đồng trong sổ theo dõi
+
+- Theo đính chính của người dùng, thông tin hợp đồng cần lưu trong [[hop-dong/So theo doi hop dong Victory]]; không tạo hồ sơ Wiki/source tra cứu riêng cho hợp đồng bảo trì Hải Trung. Đã gỡ ghi chú Wiki, source và bản ảnh đính kèm do lượt trước tạo nhầm phạm vi.
+## [2026-11-24] update | Quy tắc đánh số hợp đồng mua bán và hợp đồng nguyên tắc
+
+- Theo yêu cầu trực tiếp của người dùng, thay quy tắc số hợp đồng mua bán cũ bằng `HĐKT/YYYY-NN/VIC-ABC`; hợp đồng nguyên tắc dùng `HĐNT/YYYY-NN/VIC-ABC`.
+- `NN` tăng dần theo từng loại hợp đồng trong từng năm; sang năm mới đổi năm và bắt đầu từ `01`. `ABC` là tên viết tắt đối tác. Các số đã phát hành trước đây giữ nguyên.
+- Cập nhật hai trang mẫu hợp đồng, sổ số văn bản, kỹ năng soạn hồ sơ và bộ nhớ dài hạn. [[Mẫu Hợp Đồng Mua Bán Victory Bán Ra]] [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]] [[Sổ Theo Dõi Số Văn Bản Victory]] [[memory/facts/quy-tac-danh-so-hop-dong-victory]]

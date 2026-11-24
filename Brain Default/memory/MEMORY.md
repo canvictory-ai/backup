@@ -48,6 +48,7 @@
 - [Ưu tiên tự động hóa mẫu hợp đồng](facts/tu-dong-hoa-mau-hop-dong.md) - Khi soạn mẫu hợp đồng dùng lại, ưu tiên điền sẵn thông tin và điều khoản mặc định đã được người dùng xác nhận để giảm trường phải nhập.
 - [Bố cục hợp đồng Victory](facts/bo-cuc-hop-dong-victory.md) - Trong hợp đồng mua bán Victory, bên mua là Bên A, Victory là Bên B; bảng kê hàng hóa/dịch vụ đặt trong điều khoản của hợp đồng, không dùng phụ lục.
 - [Mẫu hợp đồng mua bán Victory bán ra](facts/mau-hop-dong-victory-ban-ra.md) - Dùng mẫu Word đã duyệt làm mặc định khi Victory là Bên Bán; cho phép biến thể theo khách hàng/giao dịch; 8 cột hóa đơn GTGT, đại diện in đậm, chỉ số khoản 2.1 in đậm.
+- [Quy tắc đánh số hợp đồng Victory](facts/quy-tac-danh-so-hop-dong-victory.md) - Hợp đồng mua bán dùng `HĐKT/YYYY-NN/VIC-ABC`; hợp đồng nguyên tắc dùng `HĐNT/YYYY-NN/VIC-ABC`, với dãy tăng dần theo năm và loại, ABC là mã viết tắt đối tác.
 - [Thông tin đã xác nhận cho hợp đồng Hưng Thịnh](facts/hop-dong-hung-thinh-thong-tin-da-xac-nhan.md) - Hạn mức tín dụng và số điện thoại đã được người dùng xác nhận cho dự thảo hợp đồng với Công ty TNHH Hưng Thịnh.
 - [Dùng Javis trên iPhone bằng Chrome](facts/dung-javis-tren-iphone-bang-chrome.md) - Khi hướng dẫn thao tác trên Javis, ưu tiên chỉ dẫn phù hợp với iPhone và Chrome.
 - [Ưu tiên trả lời bằng gạch đầu dòng](facts/uu-tien-gach-dau-dong.md) - Khi trả lời, ưu tiên trình bày bằng gạch đầu dòng.

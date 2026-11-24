@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, biểu-mẫu, công-nợ, Victory]
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-24
 source: "[[thanh-toan/Mau bien ban doi chieu cong no Victory]]"
 ---
 
@@ -23,6 +23,7 @@ Mẫu này là mẫu mặc định trong phạm vi nêu trên; mẫu riêng cho 
 
 ## Quy tắc dùng mẫu
 
+- Đánh số theo dạng `BBĐCCN/YYYY-NN/VIC-ABC`; `YYYY` là năm lập, `NN` tăng tuần tự theo từng năm từ `01`, `ABC` là mã viết tắt của khách hàng. Tra và cập nhật [[Sổ Theo Dõi Số Văn Bản Victory]]. [[memory/facts/quy-tac-danh-so-chung-tu-victory]]
 - Thông tin Bên B lấy từ [[Danh sách khách hàng Victory]]; không tự suy đoán dữ liệu còn thiếu.
 - Địa điểm sau chữ “tại” dùng địa chỉ khách hàng do người dùng cung cấp hoặc tra trong cơ sở dữ liệu; nếu không có thì ghi `...`.
 - Bên A cố định đại diện Vũ Đức Cẩn, chức vụ Giám đốc, điện thoại 0228.86.22222.

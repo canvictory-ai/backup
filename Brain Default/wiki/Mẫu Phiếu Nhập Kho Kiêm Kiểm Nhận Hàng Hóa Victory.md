@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, biểu-mẫu, kho, kiểm-nhận, Victory]
 created: 2026-11-20
-updated: 2026-11-20
+updated: 2026-11-24
 source: "[[bien-ban/Mau phieu nhap kho kiem kiem nhan hang hoa Victory]]"
 ---
 
@@ -22,6 +22,6 @@ source: "[[bien-ban/Mau phieu nhap kho kiem kiem nhan hang hoa Victory]]"
 
 ## Quy tắc dùng mẫu
 
+- Đánh số theo dạng `PNK-VIC-YYYY-NNN`; `YYYY` là năm lập, `NNN` tăng tuần tự theo từng năm từ `001`. Tra và cập nhật [[Sổ Theo Dõi Số Văn Bản Victory]]. [[memory/facts/quy-tac-danh-so-chung-tu-victory]]
 - Kho nhận mặc định là `VICTORY`; thông tin nhà cung cấp và chứng từ lấy theo giao dịch hiện tại.
 - Ghi rõ số lượng theo chứng từ và số lượng thực nhận theo kiểm đếm thực tế. Ghi chênh lệch, tình trạng và hướng xử lý nếu có.
-- Trường số phiếu chưa có ghi `...` cho đến khi có quy tắc đánh số được người dùng chốt.

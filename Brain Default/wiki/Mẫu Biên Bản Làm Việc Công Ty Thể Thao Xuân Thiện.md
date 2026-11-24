@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, biểu-mẫu, biên-bản]
 created: 2026-10-27
-updated: 2026-11-20
+updated: 2026-11-24
 source: [[bien-ban/Mau bien ban lam viec Cong ty The thao Xuan Thien]]
 ---
 
@@ -24,6 +24,7 @@ Mẫu này là mẫu mặc định trong phạm vi nêu trên; mẫu riêng cho 
 
 ## Quy cách bổ sung đã chốt
 
+- Đánh số theo dạng `BBLV/YYYY-NN/VIC-XT`; `YYYY` là năm lập, `NN` tăng tuần tự theo từng năm từ `01`. Mã `XT` dùng riêng cho Công ty Cổ phần Thể thao Xuân Thiện. Tra và cập nhật [[Sổ Theo Dõi Số Văn Bản Victory]]. [[memory/facts/quy-tac-danh-so-chung-tu-victory]]
 - Dùng mẫu HTML phong cách xanh Victory và xuất các biên bản Xuân Thiện về sau ở dạng HTML. Đặt quốc hiệu và tiêu ngữ ở trên cùng; không đặt nhận diện hoặc thông tin pháp nhân Victory ở đầu trang. Bỏ gạch trang trí trên cùng, giữ hai ô tên công ty cùng kích thước; mỗi tên công ty trình bày hai dòng, trong đó tên Victory dùng cỡ chữ nhỏ hơn để vừa khung và “XUÂN THIỆN” nằm ở dòng hai. Phần ký đặt Xuân Thiện trước Victory. Đặt sẵn hai khung ảnh và để dòng “(Ký, ghi rõ họ tên)” sát tên công ty. Các khối thông tin và đầu mục dùng nền xanh nhạt/nhấn xanh Victory như mẫu phiếu xuất kho. Không dùng bản Word cũ làm mẫu.
 
 - Ngày và giờ trên biên bản lấy theo ngày, thời điểm lập biên bản; nếu người dùng cung cấp ngày giờ cụ thể thì dùng thông tin đó.

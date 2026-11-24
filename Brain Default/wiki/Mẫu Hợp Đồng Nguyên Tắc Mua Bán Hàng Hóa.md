@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, hợp đồng, mẫu]
 created: 2026-10-20
-updated: 2026-11-21
+updated: 2026-11-24
 source:
   - "[[hop-dong/Mau hop dong nguyen tac mua ban Victory]]"
   - "[[Xac Nhan Mau Hop Dong Khanh Toan 2026-10-20]]"
@@ -16,6 +16,10 @@ source:
 Mẫu Word `.docx` mặc định được người dùng chọn làm khung dùng lại là [[hop-dong/Mau hop dong nguyen tac mua ban Victory]]. Tệp HTML tham chiếu trước đây đã được thay thế; mặc định dùng mẫu Word và xuất hợp đồng nguyên tắc thành Word `.docx`; biến thể khác chỉ dùng khi được yêu cầu hoặc duyệt. Giữ bố cục của mẫu, nhưng điều khoản pháp lý cần linh hoạt theo khách hàng và giao dịch; không áp cứng toàn bộ điều khoản riêng của Khánh Toàn cho đối tác khác. Các mặc định chung người dùng đã chốt vẫn áp dụng; điều kiện riêng cần dựa trên thông tin hoặc xác nhận của giao dịch đó. [[Điều khoản hợp đồng linh hoạt theo khách hàng]] [[Xac Nhan Mau Hop Dong Khanh Toan 2026-10-20]]
 
 ## Các điều khoản mặc định đã được người dùng chốt
+
+## Quy tắc số hợp đồng
+
+Đánh số hợp đồng nguyên tắc theo dạng `HĐNT/YYYY-NN/VIC-ABC`; `YYYY` là năm lập, `NN` là số thứ tự tăng dần trong năm, `ABC` là tên viết tắt của đối tác. Tra dãy số trong [[Sổ Theo Dõi Số Văn Bản Victory]]. Quy tắc này thay thế cách ghi số cũ trong mẫu Word. [[memory/facts/quy-tac-danh-so-hop-dong-victory]]
 
 - Hạn mức tín dụng: 200.000.000 VNĐ. [[Xac Nhan Mau Hop Dong Khanh Toan 2026-10-20]]
 - Thời hạn nợ tối đa 90 ngày, tính từ ngày Bên BÁN giao hàng. [[Xac Nhan Mau Hop Dong Khanh Toan 2026-10-20]]

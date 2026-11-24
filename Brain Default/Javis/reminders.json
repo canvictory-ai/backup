@@ -156,7 +156,7 @@
       "id": "r_2490085073",
       "text": "Rà soát hằng ngày các văn bản pháp luật Việt Nam mới được ban hành/công bố và văn bản bắt đầu có hiệu lực trong ngày, hoặc sắp có hiệu lực. Ưu tiên nguồn chính thức: Cơ sở dữ liệu quốc gia về văn bản pháp luật, Công báo, Cổng thông tin Chính phủ, Quốc hội, Bộ Tư pháp và cơ quan ban hành. Phạm vi ưu tiên: quy định ảnh hưởng đến doanh nghiệp Victory và các vấn đề chủ đã hỏi, gồm doanh nghiệp/thương mại/hợp đồng, thuế-hóa đơn-kế toán, lao động-BHXH, đất đai/thủ tục hành chính; mở rộng khi có văn bản có tác động đáng kể. Dựa vào kết quả các lần chạy trước để chỉ báo nội dung mới hoặc trạng thái hiệu lực mới. Đặc biệt kiểm tra danh sách văn bản đã được phát hiện trước đây và báo lại đúng ngày chúng có hiệu lực; không đợi báo cáo tuần. Với từng văn bản, xác minh số hiệu, cơ quan ban hành, ngày ban hành, ngày hiệu lực, tình trạng sửa đổi/thay thế và phạm vi; đọc nội dung văn bản chính thức trước khi kết luận. Báo rõ văn bản mới ban hành hay đã có hiệu lực/sắp có hiệu lực, điểm thay đổi thực tế và nhóm đối tượng chịu ảnh hưởng. Nếu có nội dung đáng lưu, cập nhật wiki tiếng Việt: đọc wiki/index.md trước; tạo/cập nhật trang tri thức có frontmatter chuẩn, trích dẫn [[Nguồn]] gắn trực tiếp nhận định và URL chính thức/ngày truy cập; cập nhật wiki/index.md và append wiki/log.md. Không ghi văn bản web vào sources/. Giữ nguyên nội dung cũ nếu phát hiện mâu thuẫn; ghi cả hai quan điểm và append wiki/_open-questions.md. Không suy diễn hiệu lực hoặc áp dụng khi nguồn không xác minh được. Múi giờ lịch: Asia/Ho_Chi_Minh.",
       "mode": "task",
-      "due_at": 1795482000.0,
+      "due_at": 1795568400.0,
       "chat_id": "web:902725dd81654fae8e2410107648cc9f",
       "repeat_min": 0,
       "cron": "0 8 * * *",
@@ -169,11 +169,11 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795099731.0630157,
-      "fired_at": 1795395778.830767,
-      "result": "Nguồn Chính phủ xác nhận hôm nay có ba thông tư bắt đầu hiệu lực: hai văn bản về quy trình/kinh phí trong cơ quan nhà nước, và một thông tư Bộ Tài chính sửa quy định phí, lệ phí. Tôi đang kiểm tra toàn văn thông tư phí để xác định có tác động cụ thể đến hoạt động Victory hay chỉ là mốc theo dõi chung.\nRà soát ngày 23/11/2026: không thấy văn bản mới ban hành hôm nay trong phạm vi theo dõi. **Thông tư 149/2026/TT-BTC** bắt đầu có hiệu lực hôm nay; Bộ Tài chính ban hành ngày 08/10/2026. Thông tư sửa một số quy định về phí đo đạc bản đồ, khoáng sản, tên miền .vn và khai thác nước. Đáng chú ý với doanh nghiệp: từ **01/01/2027**, doanh nghiệp đủ điều kiện và chưa có tên miền .vn được miễn lệ phí đăng ký và phí duy trì trong 3 năm cho một tên miền .vn mới dưới đuôi `biz.vn`. Chưa xác minh Victory có tên miền .vn hay chưa. [Toàn văn trên Cổng Chính phủ](https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-149-2026-tt-btc-sua-doi-bo-sung-mot-so-dieu-cua-cac-thong-tu-quy-dinh-ve-phi-le-phi-119261012162155495.htm), [thuộc tính văn bản](https://vanban.chinhphu.vn/?classid=1&docid=219906&orggroupid=4&pageid=27160).\n\nHôm nay cũng có hiệu lực **Thông tư 07/2026/TT-TTCP**, hướng dẫn kinh phí xây dựng pháp luật trong Thanh tra Chính phủ; phạm vi áp dụng không cho thấy tác động trực tiếp đến Victory. [Toàn văn chính thức](https://vanban.chinhphu.vn/?docid=219923&pageid=27160&typegroupid=6). **Thông tư 66/2026/TT-BCT** về kế hoạch và kinh phí khuyến công quốc gia cũng được Cổng văn bản ghi nhận hiệu lực hôm nay; chưa xác minh chi tiết toàn văn nên không kết luận thêm về tác động. [Trang văn bản](https://vanban.chinhphu.vn/?classid=1&docid=219899&pageid=27160&typegroupid=6).\n\nCác mốc đã báo trước chưa có thay đổi trạng thái được xác minh trong lượt này. Tôi đã lưu trang nguồn và ghi chú ưu đãi `biz.vn`, cập nhật `wiki/index.md` và `wiki/log.md`.",
+      "fired_at": 1795482045.645048,
+      "result": "Rà soát ngày **24/11/2026**: Thông tư **151/2026/TT-BTC** của Bộ Tài chính bắt đầu có hiệu lực hôm nay. Ban hành ngày 09/10/2026, thông tư quy định việc quản lý, tính hao mòn, trích khấu hao và kê khai, báo cáo đối với tài sản kết cấu hạ tầng do Nhà nước đầu tư, quản lý. Nhóm liên quan gồm các cơ quan, đơn vị và tổ chức quản lý loại tài sản này; chưa thấy tác động trực tiếp đến hoạt động Victory. [Thông tin và toàn văn trên Cổng Chính phủ](https://vanban.chinhphu.vn/?classid=1&docid=219933&pageid=27160&typegroupid=6), tra cứu ngày 24/11/2026.\n\nKhông tìm thấy văn bản mới ban hành hôm nay trong phạm vi rà soát. Các mốc hiệu lực sắp tới đã theo dõi, gồm Luật 23/2026/QH16 ngày 01/12 và ưu đãi tên miền `biz.vn` từ 01/01/2027, chưa ghi nhận thay đổi trạng thái mới. Không cập nhật Wiki vì thông tư hôm nay chưa cho thấy giá trị áp dụng trực tiếp với Victory.",
       "error": "",
       "agent": "tro-ly-phap-ly-viet-nam",
-      "last_slot": 1795395600.0
+      "last_slot": 1795482000.0
     },
     {
       "id": "r_6849845632",
@@ -245,5 +245,5 @@
       "last_slot": 1795221960.0
     }
   ],
-  "updated": 1795431698.6112058
+  "updated": 1795482045.6460228
 }

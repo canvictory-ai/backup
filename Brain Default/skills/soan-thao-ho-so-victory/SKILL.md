@@ -22,6 +22,7 @@ Dùng khi cần soạn mới, điền, chỉnh sửa hoặc rà soát hợp đ�
 - Tra thông tin khách hàng trong danh sách chuẩn và đối chiếu chứng từ hiện tại; không mang dữ liệu từ giao dịch cũ sang.
 - Dùng `...` thống nhất cho mọi trường dữ liệu thiếu/chưa xác minh trong bản phát hành. Không dùng ô trống hoặc `[CẦN BỔ SUNG]` cho trường dữ liệu. Giữ khoảng ký/ghi tay, khung ảnh và cấu trúc mẫu.
 - Trước khi phát hành, kiểm số văn bản trong [[Sổ Theo Dõi Số Văn Bản Victory]]; sau khi tạo thành công, cập nhật sổ để số kế tiếp không trùng.
+- Hợp đồng mua bán đánh số `HĐKT/YYYY-NN/VIC-ABC`; hợp đồng nguyên tắc đánh số `HĐNT/YYYY-NN/VIC-ABC`. `YYYY` là năm lập, `NN` tăng từ `01` trong từng năm và từng loại hợp đồng, `ABC` là tên viết tắt của đối tác. Sang năm mới, cập nhật năm và bắt đầu dãy của năm đó từ `01`; tra sổ trước khi cấp số. [[memory/facts/quy-tac-danh-so-hop-dong-victory]]
 - Rà soát cuối: đúng mẫu/định dạng, bên mua-bán, MST/địa chỉ, ngày và số, mô tả hàng, số lượng/đơn giá/thuế/tổng, dấu `...` tại trường thiếu, định dạng trang/bảng, phần ký; mở lại tệp xuất để xác minh.
 1. Chọn đúng mẫu hiện hành và giữ bố cục, điều khoản, định dạng đã duyệt. Không thay mẫu hoặc sửa điều khoản cố định nếu chưa được yêu cầu.
 2. Đối chiếu từng trường với nguồn. Điền dữ kiện đã cung cấp hoặc xác minh; không suy ra thông tin còn thiếu.
