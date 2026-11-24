@@ -2,7 +2,7 @@
 - [Bộ mẫu chung và mẫu đặc thù](facts/bo-mau-chung-va-mau-dac-thu.md) - Có mẫu mặc định và biến thể theo khách hàng/quy trình; một bộ việc có thể gồm nhiều loại chứng từ. Đã bổ sung mẫu nghiệm thu dịch vụ, tiếp nhận bảo hành/sửa chữa/đổi trả, đơn đặt hàng/xác nhận đơn hàng và phiếu xác nhận thanh toán theo yêu cầu.
 - [Chuẩn hóa lập hồ sơ Victory](facts/chuan-hoa-lap-ho-so-victory.md) - Tiếp nhận dữ liệu có cấu trúc, đối chiếu nguồn, dùng `...` cho dữ liệu thiếu, theo dõi số và rà soát tệp trước khi gửi.
 - [Gợi ý chuyển việc cho đúng cộng sự](facts/goi-y-chuyen-viec-dung-cong-su.md) - Khi người dùng giao nhầm loại việc cho Javis Core, gợi ý chuyển sang cộng sự chuyên trách; không khẳng định đã chuyển nếu chưa có xác nhận.
-- [Phạm vi hiện tại của bot Luna trên Zalo](facts/pham-vi-hien-tai-cua-bot-luna-tren-zalo.md) - Luna chỉ trả lời kỹ thuật trong nhóm Zalo được thêm vào và được chủ cho phép; theo riêng từng yêu cầu và gắn trả lời với tin hỏi.
+- [Phạm vi hiện tại của bot Luna trên Zalo](facts/pham-vi-hien-tai-cua-bot-luna-tren-zalo.md) - Luna chỉ trả lời kỹ thuật trong nhóm Zalo được thêm vào và được chủ cho phép; theo riêng từng yêu cầu và gắn trả lời với tin hỏi. Trong ca kỹ thuật, cung cấp đúng thông tin gửi máy khi khách hỏi.
 - [Mẫu biên bản đối chiếu công nợ Victory](facts/mau-bien-ban-doi-chieu-cong-no-victory.md) - Mẫu Word A4 dọc, đầu trang theo mẫu phiếu xuất kho; địa điểm theo địa chỉ khách hàng cung cấp/tra cứu. Bên A là Vũ Đức Cẩn, Giám đốc, 0228.86.22222; Bên B tra danh sách khách hàng; bỏ hai dòng quốc hiệu/tiêu ngữ, ghi chú ký sát dưới đại diện.
 
 - [Mẫu phiếu xuất kho kiêm bàn giao Victory](facts/mau-phieu-xuat-kho-victory.md) - Mẫu A4 dọc theo phong cách báo giá Victory; tiêu đề 15 pt một dòng, bảng 8 cột, header xanh chữ trắng, ký tên đặt đúng vị trí; số gần nhất 012, tiếp theo 013.
@@ -236,3 +236,7 @@
 - [Tên miền đang sử dụng](facts/ten-mien-dang-su-dung.md) - Bạn đang dùng maytinhnamdinh.com và vic-tech.com.vn; hai website chỉ giới thiệu công ty/sản phẩm, không nhận đặt hàng trực tuyến (xác nhận 24/11/2026).
 - [Muốn theo dõi cơ hội bán hàng trong Javis](facts/theo-doi-co-hoi-ban-hang-trong-javis.md) - Người dùng muốn có module theo dõi cơ hội bán hàng ngay trong Javis.
 - [Bộ chứng từ tiếp theo dùng báo giá VIC-118-2026](facts/bo-chung-tu-tiep-theo-dung-bao-gia-vic-118-2026.md) - Bộ chứng từ bán ra tiếp theo dùng số báo giá VIC-118-2026.
+- [Máy chủ Javis chạy trên VPS Hostinger](facts/may-chu-javis-vps-hostinger.md) - Javis đang chạy trên VPS thuê từ Hostinger.
+- [Victory có giao dịch xuất khẩu tại chỗ vào khu chế xuất](facts/victory-xuat-khau-tai-cho-vao-khu-che-xuat.md) - Công ty có hoạt động xuất khẩu tại chỗ vào khu chế xuất.
+- [Victory đã nộp quyết toán thuế năm 2025](facts/victory-da-nop-quyet-toan-thue-2025.md) - Người dùng xác nhận quyết toán thuế năm 2025 đã nộp.
+- [Các tờ khai đối ứng cho giao dịch xuất khẩu tại chỗ đã hoàn tất](facts/victory-da-hoan-tat-to-khai-doi-ung.md) - Người dùng xác nhận tất cả tờ khai đối ứng đã hoàn tất.

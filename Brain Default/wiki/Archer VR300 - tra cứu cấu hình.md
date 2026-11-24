@@ -1,6 +1,6 @@
 ---
 type: wiki
-status: active
+status: draft
 tags: [wiki, mang]
 created: 2026-11-24
 updated: 2026-11-24
@@ -8,16 +8,26 @@ source: [[Nguồn cấu hình router TP-Link - hướng dẫn chính hãng]]
 ---
 # Archer VR300 - tra cứu cấu hình
 
-**Phân loại:** Modem-router DSL (đường điện thoại đồng, không phải ONT quang). Đây là mục tra cứu theo model, không phải xác nhận model bán chạy. Trang hãng có thể có nhiều Hardware Version, region và firmware; đọc nhãn mặt đáy và chọn đúng khu vực tại trang hỗ trợ trước khi áp dụng. Nguồn hiện diện/model và giới hạn tài liệu: Model được TP-Link nêu trong FAQ cấu hình DSL: https://www.tp-link.com/vn/support/faq/3839/ . Hãng phân biệt DSL modem-router mode với wireless-router mode và yêu cầu xác nhận VLAN, DSL type, PPPoE với ISP. Phạm vi phần cứng/firmware phải đối chiếu nhãn tại trang hỗ trợ tải xuống; không suy thông số nhà mạng. Nguồn: [[Nguồn cấu hình router TP-Link - hướng dẫn chính hãng]].
+**Loại thiết bị:** Modem-router DSL. **Mức xác minh: chưa xác minh theo revision.** Chưa có bằng chứng đủ điều kiện trong trang này để hướng dẫn thao tác cụ thể: chưa đối chiếu User Guide/Quick Installation Guide chính hãng cho đúng khu vực và Hardware Version của model. Không coi quy trình chung hoặc trang Download là bằng chứng cho menu hay thao tác của thiết bị này.
 
-## Kết nối và cấu hình
+## Phạm vi đã xác nhận
 
-1. DSL: ổ cắm đường dây điện thoại → cổng DSL; máy tính → LAN. Nếu Internet vào bằng Ethernet từ modem/ONT khác thì dùng chế độ Wireless Router/EWAN thay vì DSL.
-2. Mở `tplinkmodem.net` (hoặc IP theo nhãn/hướng dẫn), tạo mật khẩu quản trị mới. Chờ đèn DSL ổn định.
-3. Trong Quick Setup, chọn ISP/kiểu đường truyền đúng hợp đồng. PPPoE dùng tên đăng nhập/mật khẩu do ISP cấp; Dynamic IP chỉ khi ISP yêu cầu. VLAN ID, encapsulation/DSL type và bridge chỉ nhập theo thông số đúng ISP/model.
-4. Đặt SSID và mật khẩu Wi-Fi bảo mật, lưu; kiểm tra đèn Internet và truy cập website.
-5. Mất DSL sync: kiểm tra dây/ổ cắm và báo ISP; DSL sáng nhưng Internet lỗi: rà PPPoE/VLAN với ISP. Nếu dùng sau ONT, chọn chế độ router Ethernet, tránh cấu hình DSL WAN.
+- Trang hỗ trợ TP-Link Việt Nam theo model: https://www.tp-link.com/vn/support/download/archer-vr300/. Đây chỉ là đầu mối để chọn Hardware Version và tìm tài liệu; không chứng minh các bước cài đặt bên dưới.
+- Chưa xác nhận revision áp dụng, khu vực/revision của tài liệu, sơ đồ cổng thực tế, tên menu, lựa chọn WAN/DSL/APN, cách lưu, kiểm tra kết nối hay xử lý lỗi cho model này.
 
-**Thông tin nhà mạng:** Không có thông số riêng của VNPT/Viettel/FPT trong tài liệu model đã dẫn. Tên đăng nhập PPPoE, APN, VLAN, bridge, cấu hình quang/PON hoặc quyền quản trị do ISP quản lý phải xin đúng nhà mạng. Không lưu mật khẩu thật ở trang này và không cấu hình trên thiết bị đang sử dụng.
+## Cần tài liệu để hoàn tất
 
-**Nguồn hãng và ngày truy cập:** [[Nguồn cấu hình router TP-Link - hướng dẫn chính hãng]], truy cập 24/11/2026. Tài liệu liên quan cần chọn theo đúng Hardware Version/firmware và vùng; các bước giao diện có thể khác.
+Mở hướng dẫn User Guide hoặc Quick Installation Guide trực tiếp từ trang hỗ trợ sau khi chọn đúng Hardware Version trên nhãn thiết bị. Ghi URL PDF/guide sâu, tên mục hoặc số trang cho từng nội dung: cắm WAN/DSL hoặc lắp SIM; thiết lập lần đầu; đường dẫn menu; kiểu WAN/DSL/APN; Wi-Fi; lưu; xác nhận Internet; chẩn đoán và bước kế tiếp khi lỗi. Không suy rộng từ model khác hoặc revision khác.
+
+## Điều kiện nhà mạng
+
+PPPoE, VLAN ID, bridge, thông số đường DSL, APN và thông tin đăng nhập là dữ liệu cần ISP xác nhận cho thuê bao/địa bàn cụ thể. Trang này không cung cấp giá trị để nhập và không xác nhận khả năng tương thích nhà mạng. Chưa thao tác trên thiết bị thực tế hay thử thông tin đăng nhập.
+
+**Nguồn hãng:** [Trang hỗ trợ Archer VR300 - TP-Link Việt Nam](https://www.tp-link.com/vn/support/download/archer-vr300/), truy cập 24/11/2026. Cần chọn revision trên nhãn rồi mở tài liệu hướng dẫn; trang hỗ trợ không thay thế tài liệu hướng dẫn.
+
+
+## User Guide đã mở: EU REV1.0.0
+
+[User Guide chính hãng Archer VR300 EU REV1.0.0](https://static.tp-link.com/1910012157_Archer%20VR300%28EU%29_V1_UG.pdf). Đã đọc §2.2 sơ đồ đấu nối tr. 7: phone jack qua splitter vào DSL, hoặc nối thẳng cổng điện thoại nếu không cần dịch vụ thoại; cấp nguồn, đợi đèn và dùng LAN/Wi-Fi theo SSID trên nhãn. Quick Setup §4.1, cấu hình WAN §4.2, test §4.3 tr. 12-13; menu `Basic > Internet`, chọn ISP hoặc `Other`, DSL modulation và thông tin kết nối theo ISP; nhấn `Save`; kiểm tra bằng `Advanced > System Tools > Diagnostics` và `Start`. Ví dụ VLAN 101/PPPoE trong ảnh là minh họa, không phải cấu hình khuyến nghị.
+
+**Mức xác minh:** đọc guide EU REV1.0.0. TP-Link còn có EU REV1.2.0 guide riêng, chưa dùng thay cho REV1.0.0. Chưa khớp revision/vùng máy; thiếu đọc sâu Wi-Fi và FAQ. ISP cần xác nhận VPI/VCI, VLAN, loại DSL, PPP credentials.

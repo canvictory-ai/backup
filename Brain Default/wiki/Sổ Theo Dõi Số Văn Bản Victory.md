@@ -13,7 +13,7 @@ Sổ theo dõi số đã phát hành để tra số kế tiếp, tránh trùng. 
 
 | Loại văn bản | Quy tắc | Số gần nhất đã xác minh | Số tiếp theo | Ghi chú |
 |---|---|---:|---:|---|
-| Báo giá Victory năm 2026 | `VIC-NNN-2026` | 117 | 118 | Đối chiếu tệp VIC-117-2026 trong `bao-gia/` ngày 24/11/2026. |
+| Báo giá Victory năm 2026 | `VIC-NNN-2026` | 118 | 119 | Đối chiếu tệp VIC-118-2026 trong `bao-gia/` ngày 24/11/2026. |
 | Phiếu xuất kho Victory năm 2026 | `PXK-VIC-2026-NNN` | 013 | 014 | Cấp cho Artiverse Knit theo báo giá VIC-117-2026 ngày 24/11/2026. |
 | Biên bản bàn giao hàng hóa | `BBBGNT/YYYY-NN/VIC-ABC` | `BBBGNT/2026-01/VIC-ARK` | `BBBGNT/2026-02/VIC-ABC` | Cấp cho Công ty TNHH Artiverse Knit theo báo giá VIC-117-2026; ngày giao thực tế để `...`. |
 | Hợp đồng mua bán | `HĐKT/YYYY-NN/VIC-ABC` | `HĐKT/2026-01/VIC-ARK` | `HĐKT/2026-02/VIC-ABC` | Cấp cho Công ty TNHH Artiverse Knit theo báo giá VIC-117-2026. |

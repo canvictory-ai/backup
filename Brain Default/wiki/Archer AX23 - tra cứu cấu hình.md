@@ -1,6 +1,6 @@
 ---
 type: wiki
-status: active
+status: draft
 tags: [wiki, mang]
 created: 2026-11-24
 updated: 2026-11-24
@@ -8,16 +8,27 @@ source: [[Nguồn cấu hình router TP-Link - hướng dẫn chính hãng]]
 ---
 # Archer AX23 - tra cứu cấu hình
 
-**Phân loại:** Router Wi-Fi Ethernet (không phải modem/ONT quang). Đây là mục tra cứu theo model, không phải xác nhận model bán chạy. Trang hãng có thể có nhiều Hardware Version, region và firmware; đọc nhãn mặt đáy và chọn đúng khu vực tại trang hỗ trợ trước khi áp dụng. Nguồn hiện diện/model và giới hạn tài liệu: Model thuộc danh mục router Wi-Fi TP-Link; tên model được liệt kê ở trang tải xuống hãng. Xác minh khu vực, đúng tên đầy đủ và Hardware Version tại trang hỗ trợ trước khi theo giao diện: https://www.tp-link.com/vn/support/download/ . Hướng dẫn WAN/Wi-Fi chung và giới hạn ISP: [[Nguồn cấu hình router TP-Link - hướng dẫn chính hãng]].
+**Loại thiết bị:** Router Wi-Fi Ethernet. **Mức xác minh: chưa xác minh theo revision.** Chưa có bằng chứng đủ điều kiện trong trang này để hướng dẫn thao tác cụ thể: chưa đối chiếu User Guide/Quick Installation Guide chính hãng cho đúng khu vực và Hardware Version của model. Không coi quy trình chung hoặc trang Download là bằng chứng cho menu hay thao tác của thiết bị này.
 
-## Kết nối và cấu hình
+## Phạm vi đã xác nhận
 
-1. Sơ đồ: modem/ONT của ISP (LAN) → cổng WAN router; máy tính/điện thoại → LAN hoặc Wi-Fi.
-2. Kết nối LAN/Wi-Fi mặc định theo nhãn thiết bị; mở `tplinkwifi.net` hoặc địa chỉ LAN in trên nhãn, tạo/nhập mật khẩu quản trị riêng. Không dùng mật khẩu mặc định làm mật khẩu thật.
-3. Internet > WAN: sau modem/router đang cấp mạng chọn Dynamic IP; nếu nối thẳng và ISP cấp PPPoE, nhập thông tin do ISP cung cấp. Không tự bật VLAN hoặc bridge.
-4. Wireless: đặt SSID, WPA2-AES/WPA3 nếu firmware hỗ trợ, mật khẩu Wi-Fi mạnh; lưu lại. Kiểm tra trạng thái Internet và mở website.
-5. Nếu lỗi: kiểm tra cáp từ modem vào WAN, khởi động lại modem rồi router, kiểm tra WAN IP và loại WAN với ISP; quên Wi-Fi thì kết nối dây để sửa. Nếu không vào trang quản trị, kiểm tra gateway của máy và đúng địa chỉ theo nhãn/hướng dẫn.
+- Trang hỗ trợ TP-Link Việt Nam theo model: https://www.tp-link.com/vn/support/download/archer-ax23/. Đây chỉ là đầu mối để chọn Hardware Version và tìm tài liệu; không chứng minh các bước cài đặt bên dưới.
+- Chưa xác nhận revision áp dụng, khu vực/revision của tài liệu, sơ đồ cổng thực tế, tên menu, lựa chọn WAN/DSL/APN, cách lưu, kiểm tra kết nối hay xử lý lỗi cho model này.
 
-**Thông tin nhà mạng:** Không có thông số riêng của VNPT/Viettel/FPT trong tài liệu model đã dẫn. Tên đăng nhập PPPoE, APN, VLAN, bridge, cấu hình quang/PON hoặc quyền quản trị do ISP quản lý phải xin đúng nhà mạng. Không lưu mật khẩu thật ở trang này và không cấu hình trên thiết bị đang sử dụng.
+## Cần tài liệu để hoàn tất
 
-**Nguồn hãng và ngày truy cập:** [[Nguồn cấu hình router TP-Link - hướng dẫn chính hãng]], truy cập 24/11/2026. Tài liệu liên quan cần chọn theo đúng Hardware Version/firmware và vùng; các bước giao diện có thể khác.
+Mở hướng dẫn User Guide hoặc Quick Installation Guide trực tiếp từ trang hỗ trợ sau khi chọn đúng Hardware Version trên nhãn thiết bị. Ghi URL PDF/guide sâu, tên mục hoặc số trang cho từng nội dung: cắm WAN/DSL hoặc lắp SIM; thiết lập lần đầu; đường dẫn menu; kiểu WAN/DSL/APN; Wi-Fi; lưu; xác nhận Internet; chẩn đoán và bước kế tiếp khi lỗi. Không suy rộng từ model khác hoặc revision khác.
+
+## Điều kiện nhà mạng
+
+PPPoE, VLAN ID, bridge, thông số đường DSL, APN và thông tin đăng nhập là dữ liệu cần ISP xác nhận cho thuê bao/địa bàn cụ thể. Trang này không cung cấp giá trị để nhập và không xác nhận khả năng tương thích nhà mạng. Chưa thao tác trên thiết bị thực tế hay thử thông tin đăng nhập.
+
+**Nguồn hãng:** [Trang hỗ trợ Archer AX23 - TP-Link Việt Nam](https://www.tp-link.com/vn/support/download/archer-ax23/), truy cập 24/11/2026. Cần chọn revision trên nhãn rồi mở tài liệu hướng dẫn; trang hỗ trợ không thay thế tài liệu hướng dẫn.
+
+## Guide đã đọc, phạm vi kết quả (24/11/2026)
+
+[User Guide Archer AX23, REV1.0.0](https://static.tp-link.com/manual/2021/202107/20210708/1910013052_Archer%20AX23_UG_REV1.0.0.pdf). Chương 2 §2.2 (tr. 8): tắt modem trước khi đấu, nối WAN với modem hoặc ổ Ethernet, bật modem và router rồi nối máy tính LAN/Wi-Fi. Chương 4 §§4.1-4.3 (tr. 14-17): wizard web/Tether và WAN thủ công; các lựa chọn được tài liệu nêu gồm Dynamic IP, Static IP, PPPoE, L2TP, PPTP; nhấn SAVE. Chương 6 §6.1 (tr. 28): Wireless Settings. Chương 15 §15.8 (tr. 90): Advanced > System > Diagnostics. FAQ bắt đầu tr. 96. Guide không nêu vùng trong bản đã xem; revision/vùng máy cụ thể chưa biết. [[Nguồn cấu hình router TP-Link - hướng dẫn chính hãng]]
+
+Chọn WAN đúng theo hồ sơ ISP; PPPoE credentials/IP tĩnh/VLAN/bridge phải hỏi ISP, không tự điền. Router Ethernet này không dùng DSL/SIM/APN. Tài liệu có phần Wi-Fi nhưng chưa đọc đủ nội dung để ghi chính xác các trường/lưu; không xem đây là xác minh toàn bộ thao tác hoặc áp dụng cho biến thể vùng khác.
+
+**Còn thiếu:** vùng và Hardware Version trên nhãn, guide tương ứng vùng, chi tiết Wi-Fi/lưu, test kết nối và troubleshooting cho đúng firmware. Không thay đổi thiết bị hay thử thông tin đăng nhập.

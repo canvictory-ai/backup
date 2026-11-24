@@ -1,0 +1,384 @@
+# Danh sách tệp bị bỏ qua khi đồng bộ GitHub
+
+Quét thư mục `/brains` ngày 2026-11-24 bằng bộ lọc hiện hành trong `/app/server/git_brain.py`. Kết quả: **377 tệp**, **149,321,404 byte (142.4 MiB)**. Con số trùng với thông báo đồng bộ 377 tệp / 142.4 MB. Đây là đường dẫn tuyệt đối trên máy chủ Javis; danh sách phản ánh lúc quét và có thể khác nếu tệp đã thay đổi sau lần đồng bộ.
+
+Lưu ý: bộ đếm đồng bộ gọi chung các mục bị loại là media, nhưng danh sách cũng có PDF, Word, Excel, tệp `.patch` và hai tệp khóa rỗng; không phải cả 377 đều là ảnh/video.
+
+
+- `/brains/Brain Default/.javis-learn.lock` - 0 byte
+- `/brains/Brain Default/attachments/codex-01a1399f-exec-5724b81d-3cc3-40a7-8a72-503ee6c266f8.png` - 3,067,390 byte
+- `/brains/Brain Default/attachments/codex-01a1399f-exec-be42b36b-6e4d-40a5-84f8-2df6e562bbe6.png` - 2,875,357 byte
+- `/brains/Brain Default/attachments/codex-01a1399f-exec-f8e09621-1427-4666-92ec-ea52c753ebf9.png` - 2,681,117 byte
+- `/brains/Brain Default/attachments/codex-01a144a5-exec-88dea5da-e772-4c72-83da-a3f6590faea9.png` - 1,729,693 byte
+- `/brains/Brain Default/attachments/codex-01a144a5-exec-a14ffc84-ceea-493e-9883-00e67d1bca54.png` - 1,788,678 byte
+- `/brains/Brain Default/attachments/codex-01a144a5-exec-ae64bea3-b2b0-4cf3-887a-5e83d2ccbc6d.png` - 1,664,461 byte
+- `/brains/Brain Default/attachments/codex-01a144a5-exec-babe3875-3d74-47ed-8937-99e56ebe86d5.png` - 1,719,847 byte
+- `/brains/Brain Default/attachments/codex-01a144a5-exec-bded346c-5454-45e8-aa06-adba459c4b18.png` - 1,036,029 byte
+- `/brains/Brain Default/attachments/codex-01a144a5-exec-fa76904d-8008-4f46-b6c2-72fbddee48fa.png` - 996,818 byte
+- `/brains/Brain Default/attachments/codex-01a1456c-exec-24ea08da-3517-4d81-a943-93bbbfbc1ab8.png` - 1,108,068 byte
+- `/brains/Brain Default/attachments/codex-01a1456c-exec-2622db37-a545-4337-be57-1110cdf4d78a.png` - 2,920,201 byte
+- `/brains/Brain Default/attachments/codex-01a1456c-exec-d1c53b8f-eca1-48a9-a48f-97a59da672e0.png` - 1,239,316 byte
+- `/brains/Brain Default/attachments/codex-01a14593-exec-35a52940-736c-4cae-9d59-0865bcc2d656.png` - 1,258,665 byte
+- `/brains/Brain Default/attachments/codex-01a14593-exec-5d383e42-8271-4cf9-a0ea-cbd46d05d34c.png` - 631,326 byte
+- `/brains/Brain Default/attachments/codex-01a14593-exec-74441425-ceab-4246-923b-1726b7e2c7fb.png` - 943,686 byte
+- `/brains/Brain Default/attachments/codex-01a14593-exec-80305053-70e4-47bf-b7d2-4daa3e9a1fd5.png` - 535,462 byte
+- `/brains/Brain Default/attachments/codex-01a14593-exec-85e01be7-038c-4f7b-b006-bde9847b3728.png` - 421,578 byte
+- `/brains/Brain Default/attachments/codex-01a14593-exec-ca4965cf-34f8-460f-a89c-1b60a2a3309c.png` - 534,245 byte
+- `/brains/Brain Default/attachments/codex-01a14593-exec-eea91448-f3d2-454b-a952-19f829a1b127.png` - 532,577 byte
+- `/brains/Brain Default/attachments/codex-01a14a06-exec-b365ddf6-a268-4f73-8036-ef3c63604e2b.png` - 1,944,357 byte
+- `/brains/Brain Default/attachments/codex-01a14a06-exec-eb3d9668-a55f-4481-8978-bce8a2ad2064.png` - 1,962,100 byte
+- `/brains/Brain Default/attachments/codex-01a14cd7-exec-27bc0dff-728d-4ee7-b26d-6f414a29d05e.png` - 1,436,280 byte
+- `/brains/Brain Default/attachments/codex-01a14cd7-exec-91d13a64-d500-460f-977c-5c57ce0fdbf6.png` - 1,458,106 byte
+- `/brains/Brain Default/attachments/codex-01a14cd7-exec-d8f96e86-d2e2-4cb1-8d50-2cd7ee525654.png` - 1,453,690 byte
+- `/brains/Brain Default/attachments/codex-01a15423-exec-c6a2c884-238b-4bdb-ba4e-32dd68c22c0f.png` - 1,441,027 byte
+- `/brains/Brain Default/attachments/codex-01a197c7-exec-698d25eb-788e-400d-9ada-6cdec6187a19.png` - 1,453,068 byte
+- `/brains/Brain Default/attachments/codex-01a1a98b-exec-060a6f2d-c446-47a0-9842-35050783e4d4.png` - 1,101,003 byte
+- `/brains/Brain Default/attachments/codex-01a1a98b-exec-a0424c86-d94d-45de-aa3c-18fa82a2b00a.png` - 469,104 byte
+- `/brains/Brain Default/attachments/codex-01a1a98b-exec-c2c67381-7100-4b49-8247-30e354f83604.png` - 1,233,650 byte
+- `/brains/Brain Default/attachments/codex-01a1a98b-exec-f347e0dc-1b9f-434d-bcc8-bd6b903c5ca9.png` - 2,094,285 byte
+- `/brains/Brain Default/attachments/frame-01.jpg` - 49,720 byte
+- `/brains/Brain Default/attachments/frame-02.jpg` - 73,228 byte
+- `/brains/Brain Default/attachments/frame-03.jpg` - 124,743 byte
+- `/brains/Brain Default/attachments/frame-04.jpg` - 124,359 byte
+- `/brains/Brain Default/attachments/frame-05.jpg` - 124,220 byte
+- `/brains/Brain Default/attachments/frame-06.jpg` - 72,223 byte
+- `/brains/Brain Default/attachments/LED VIC - ngay bao gia de trong.pdf` - 318,928 byte
+- `/brains/Brain Default/attachments/logo-victory-wall-mockup.png` - 1,944,240 byte
+- `/brains/Brain Default/attachments/QR_Tai_Khoan_Victory.jpeg` - 181,675 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8412108913492.jpg` - 447,526 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8412111684605.jpg` - 163,535 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8412113058716.jpg` - 159,602 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8412116938981.jpg` - 146,397 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8412185907616.jpg` - 84,908 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8433405061846.jpg` - 142,707 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8438804995414.jpg` - 162,303 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8442361197563.jpg` - 307,338 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8445137388557.jpg` - 349,302 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8451299375598.jpg` - 18,149 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8451303182546.jpg` - 100,429 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8469382674903.jpg` - 287,492 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8471500321098.jpg` - 100,429 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8480666103370.jpg` - 102,238 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8483069903629.jpg` - 80,008 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8483094536316.jpg` - 192,792 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8493737040871.jpg` - 35,685 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8504724735932.jpg` - 243,360 byte
+- `/brains/Brain Default/attachments/zalo/2433597573334150721/8516368599758.jpg` - 54,201 byte
+- `/brains/Brain Default/attachments/zalo/3345965267368578027/20261107-022646_8461055199015.jpg` - 10,368 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/20261101-143348_8440680901959.jpg` - 229,362 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/20261120-030846_8509330137367.jpg` - 178,707 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/20261120-030846_8509330151578.jpg` - 309,341 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/20261120-094826_8511013541924.jpg` - 108,700 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8421843495416.jpg` - 1,811,622 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8421844905771.jpg` - 177,630 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8422162266617.jpg` - 146,397 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8422165417194.jpg` - 103,549 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8434619181942.jpg` - 56,838 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8438527508064.jpg` - 120,324 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8440624891422.jpg` - 411,310 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8440638310699.jpg` - 319,664 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8440680901959.jpg` - 229,362 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8440708336755.jpg` - 162,221 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8440720674135.jpg` - 162,182 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8440751589403.jpg` - 162,170 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8440763930251.jpg` - 162,170 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8440888155913.jpg` - 177,343 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8441469786374.jpg` - 200,781 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8441487044620.jpg` - 200,781 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8443156260744.jpg` - 125,724 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8445887379837.jpg` - 393,471 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8447358914514.jpg` - 131,942 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8447834607987.jpg` - 131,942 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8448100147166.jpg` - 131,942 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8449001896657.jpg` - 52,536 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8449230320399.jpg` - 68,760 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8452906397962.jpg` - 673,767 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8453323383090.jpg` - 269,967 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8453408858556.jpg` - 478,405 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8454086701142.jpg` - 337,477 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8454108977245.jpg` - 367,051 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8454838223603.jpg` - 261,580 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8454862495934.jpg` - 167,262 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8461347717962.jpg` - 262,803 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8464471810109.jpg` - 205,499 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8464621157116.jpg` - 205,499 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8464793514418.jpg` - 205,499 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8469097984062.jpg` - 239,619 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8479837495113.jpg` - 443,788 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8480816892336.jpg` - 108,310 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8486571862363.jpg` - 120,750 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8496868908437.jpg` - 308,705 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8509687805120.jpg` - 166,371 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8509738091540.jpg` - 108,700 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8510706402210.jpg` - 159,404 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8510721715004.jpg` - 427,218 byte
+- `/brains/Brain Default/attachments/zalo/5049425754926522263/8512630961076.jpg` - 148,541 byte
+- `/brains/Brain Default/attachments/zalo/6037079067171344716/20261108-080527_8465337139990.jpg` - 134,119 byte
+- `/brains/Brain Default/attachments/zalo/6037079067171344716/20261112-023625_8479112966805.jpg` - 54,500 byte
+- `/brains/Brain Default/attachments/zalo/6037079067171344716/20261112-093107_8480768280275.jpg` - 24,408 byte
+- `/brains/Brain Default/attachments/zalo/6037079067171344716/20261112-104211_8481052004338.jpg` - 136,749 byte
+- `/brains/Brain Default/attachments/zalo/777235763706745624/20261031-033513_8435338203251.jpg` - 197,104 byte
+- `/brains/Brain Default/attachments/zalo/777235763706745624/20261031-035407_8435410925607.jpg` - 17,142 byte
+- `/brains/Brain Default/attachments/zalo/777235763706745624/8422162266617.jpg` - 146,397 byte
+- `/brains/Brain Default/attachments/zalo/777235763706745624/8422165417194.jpg` - 103,549 byte
+- `/brains/Brain Default/attachments/zalo/777235763706745624/8434619181942.jpg` - 56,838 byte
+- `/brains/Brain Default/attachments/zalo/777235763706745624/8435495369697.jpg` - 148,589 byte
+- `/brains/Brain Default/attachments/zalo/777235763706745624/8438527508064.jpg` - 120,324 byte
+- `/brains/Brain Default/attachments/zalo/777235763706745624/8447358914514.jpg` - 131,942 byte
+- `/brains/Brain Default/attachments/zalo/777235763706745624/8447834607987.jpg` - 131,942 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/20261020-135216_8397179298223.jpg` - 50,544 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/20261020-140055_8397213439029.jpg` - 18,467 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/20261020-140654_8397236937145.jpg` - 146,397 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8397191657079.jpg` - 50,544 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8397250249685.jpg` - 146,397 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8397266186186.jpg` - 161,997 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8397274154365.jpg` - 413,993 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8397282523489.jpg` - 559,571 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8404777928958.jpg` - 50,544 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8404782710618.jpg` - 161,997 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8404792169105.jpg` - 559,571 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8404800011328.jpg` - 91,815 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8404813908739.jpg` - 91,815 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8404824933987.jpg` - 419,654 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8404827216880.jpg` - 559,571 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8404881974830.jpg` - 60,501 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8412108913492.jpg` - 447,526 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8412111684605.jpg` - 163,535 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8412113058716.jpg` - 159,602 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8412116938981.jpg` - 146,397 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8412185907616.jpg` - 84,908 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8433405061846.jpg` - 142,707 byte
+- `/brains/Brain Default/attachments/zalo/7863146612195287758/8438804995414.jpg` - 162,303 byte
+- `/brains/Brain Default/attachments/zalo/8283704417201016177/20261118-080242_8502530737564.jpg` - 188,154 byte
+- `/brains/Brain Default/Bang_gia_Luna.xlsx` - 8,207 byte
+- `/brains/Brain Default/bao-gia/anh-cay-may-tinh-van-phong.png` - 1,452,951 byte
+- `/brains/Brain Default/bao-gia/bao-gia-CONG-TY-TNHH-ARTIVERSE-APPAREL-VIC-31-2026-dieu-chinh-gia-17-phan-tram.pdf` - 355,231 byte
+- `/brains/Brain Default/bao-gia/bao-gia-CONG-TY-TNHH-MAY-ARTIVERSE.xlsx` - 4,078 byte
+- `/brains/Brain Default/bao-gia/bao-gia-CONG-TY-TNHH-MAY-YSS-VIC-15-2026.pdf` - 1,487,673 byte
+- `/brains/Brain Default/bao-gia/bao-gia-QUY-KHACH-HANG-VIC-91-2026-cap-nhat.pdf` - 682,211 byte
+- `/brains/Brain Default/bao-gia/bao-gia-VIC-71-2026-Hai-Vinh.pdf` - 660,300 byte
+- `/brains/Brain Default/bao-gia/images/antec-meta-v450-ec.jpg` - 32,844 byte
+- `/brains/Brain Default/bao-gia/images/cadisun-2x0-75.jpg` - 4,856 byte
+- `/brains/Brain Default/bao-gia/images/camera-kx-caif4003sn-ab.jpg` - 189,594 byte
+- `/brains/Brain Default/bao-gia/images/camera-kx-caif4003sn-ab.webp` - 5,376 byte
+- `/brains/Brain Default/bao-gia/images/Canon-LBP-243DW.jpg` - 15,766 byte
+- `/brains/Brain Default/bao-gia/images/canon-lbp6030.png` - 39,367 byte
+- `/brains/Brain Default/bao-gia/images/canon-pixma-ix6770.jpg` - 18,120 byte
+- `/brains/Brain Default/bao-gia/images/cap-taesung-4-loi.jpg` - 15,019 byte
+- `/brains/Brain Default/bao-gia/images/cap-taesung-ngoai-troi.png` - 117,871 byte
+- `/brains/Brain Default/bao-gia/images/dahua-lm24-a221y-official.png` - 124,930 byte
+- `/brains/Brain Default/bao-gia/images/Dell-E2026H-transparent.png` - 1,239,199 byte
+- `/brains/Brain Default/bao-gia/images/dell-pro-tower-essential-qvt1260.jpg` - 3,052 byte
+- `/brains/Brain Default/bao-gia/images/DrayTek-Vigor2136.png` - 888,981 byte
+- `/brains/Brain Default/bao-gia/images/electrical-panel-30x40.jpg` - 218,016 byte
+- `/brains/Brain Default/bao-gia/images/epson-lq310-transparent.png` - 1,100,886 byte
+- `/brains/Brain Default/bao-gia/images/fuhlen-l411-product.jpg` - 273,555 byte
+- `/brains/Brain Default/bao-gia/images/fuhlen-l411-review.jpg` - 277,985 byte
+- `/brains/Brain Default/bao-gia/images/fuhlen-l411.jpg` - 65,849 byte
+- `/brains/Brain Default/bao-gia/images/gia-treo-camera-1m-2m.jpg` - 315,220 byte
+- `/brains/Brain Default/bao-gia/images/giay-decal-70x100.jpg` - 58,611 byte
+- `/brains/Brain Default/bao-gia/images/gree-bd-series.png` - 413,101 byte
+- `/brains/Brain Default/bao-gia/images/gree-bd24cn.png` - 42,031 byte
+- `/brains/Brain Default/bao-gia/images/hikvision-ds-2cd1023g2-liu.jpg` - 78,839 byte
+- `/brains/Brain Default/bao-gia/images/hikvision-ds-2cd1323g2-liu.jpg` - 137,771 byte
+- `/brains/Brain Default/bao-gia/images/hikvision-ds-3e1106p-ei-m.jpg` - 95,611 byte
+- `/brains/Brain Default/bao-gia/images/hikvision-ds-7632nxi-k2.jpg` - 173,470 byte
+- `/brains/Brain Default/bao-gia/images/hopkythuatliennguon.jpg` - 34,737 byte
+- `/brains/Brain Default/bao-gia/images/HP-4103fdn-transparent.png` - 274,209 byte
+- `/brains/Brain Default/bao-gia/images/HP-LaserJet-MFP-M236dw.png` - 286,345 byte
+- `/brains/Brain Default/bao-gia/images/HP-LaserJet-MFP-M236dw.webp` - 225,022 byte
+- `/brains/Brain Default/bao-gia/images/Hunonic-Lahu-01-CSL.jpg` - 48,218 byte
+- `/brains/Brain Default/bao-gia/images/imou-cruiser-z-transparent.png` - 11,506 byte
+- `/brains/Brain Default/bao-gia/images/Intel-i3-12100-transparent.png` - 2,920,084 byte
+- `/brains/Brain Default/bao-gia/images/kaspersky-next-edr-foundations-100-149-1y-source.jpg` - 25,258 byte
+- `/brains/Brain Default/bao-gia/images/kingston-fury-kf432c16bb-8g-source.jpg` - 22,687 byte
+- `/brains/Brain Default/bao-gia/images/kingston-fury-kf432c16bb-8g.png` - 1,258,548 byte
+- `/brains/Brain Default/bao-gia/images/kioxia-exceria-128gb.png` - 6,255 byte
+- `/brains/Brain Default/bao-gia/images/N102006-source.jpg` - 51,112 byte
+- `/brains/Brain Default/bao-gia/images/N102006-transparent.png` - 996,701 byte
+- `/brains/Brain Default/bao-gia/images/Netlink-HTB-GS03AB.jpg` - 4,065,221 byte
+- `/brains/Brain Default/bao-gia/images/network-cable-accessory.jpg` - 88,247 byte
+- `/brains/Brain Default/bao-gia/images/nguon-12v-2a-hop-bao-ve.jpg` - 53,249 byte
+- `/brains/Brain Default/bao-gia/images/Ruijie-RG-EW1200-Pro.jpg` - 118,499 byte
+- `/brains/Brain Default/bao-gia/images/seagate-ironwolf-st10000vn000.jpg` - 78,192 byte
+- `/brains/Brain Default/bao-gia/images/seagate-ironwolf-st8000vn004.jpg` - 41,356 byte
+- `/brains/Brain Default/bao-gia/images/Seagate-SkyHawk-6TB-source.png` - 72,808 byte
+- `/brains/Brain Default/bao-gia/images/Seagate-SkyHawk-6TB-transparent.png` - 1,107,951 byte
+- `/brains/Brain Default/bao-gia/images/symantec-endpoint-protection-transparent.png` - 532,963 byte
+- `/brains/Brain Default/bao-gia/images/symantec-endpoint-protection.png` - 68,234 byte
+- `/brains/Brain Default/bao-gia/images/teamgroup-elite-64gb-transparent.png` - 21,472 byte
+- `/brains/Brain Default/bao-gia/images/thinkpad-e16-gen2.png` - 212,455 byte
+- `/brains/Brain Default/bao-gia/images/thumb-camera-kx-caif4003sn-ab.jpg` - 12,212 byte
+- `/brains/Brain Default/bao-gia/images/thumb-cap-taesung.png` - 38,480 byte
+- `/brains/Brain Default/bao-gia/images/thumb-gia-treo-camera.jpg` - 15,616 byte
+- `/brains/Brain Default/bao-gia/images/thumb-nguon-12v-2a.jpg` - 7,521 byte
+- `/brains/Brain Default/bao-gia/images/thumb-tplink-5port.jpg` - 5,646 byte
+- `/brains/Brain Default/bao-gia/images/TP-Link-TL-SG1005D.jpg` - 28,806 byte
+- `/brains/Brain Default/bao-gia/images/zebra-P1058930-080-source.png` - 103,994 byte
+- `/brains/Brain Default/bao-gia/images/zebra-P1058930-080-transparent.png` - 532,460 byte
+- `/brains/Brain Default/bao-gia/images/zebra-P1083320-016-source.jpg` - 94,535 byte
+- `/brains/Brain Default/bao-gia/images/zebra-tc22.png` - 79,331 byte
+- `/brains/Brain Default/bao-gia/logo-victory-wordmark.png` - 18,312 byte
+- `/brains/Brain Default/bao-gia/logo-victory.png` - 18,312 byte
+- `/brains/Brain Default/bao-gia/vendor-logos/commscope.png` - 65,036 byte
+- `/brains/Brain Default/bao-gia/VIC-80-2026.pdf` - 895,294 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao 3 hoa don Smart Shirts 20261023.docx` - 40,340 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Apparel - chi nhanh Yen Lu.docx` - 38,264 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Apparel - cong tac SHP-Basic.docx` - 38,053 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Apparel - danh sach hang hoa.docx` - 38,216 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Apparel - PO 66218174.docx` - 38,062 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Apparel Bac Giang - 07112026.docx` - 38,314 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Apparel Bac Giang PO 66220118.docx` - 38,081 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Apparel PO 66220213 - 13-11-2026.docx` - 38,088 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Knit - 13-11-2026.docx` - 38,399 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Knit - 14-11-2026.docx` - 38,395 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Knit - Avery ADTP1 va linh kien.docx` - 38,210 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Knit - Dell MS116 va Fuhlen L411.docx` - 38,086 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Knit - GWN7660.docx` - 38,051 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Knit - loa TOA BS-1030W.docx` - 38,052 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Artiverse Knit PO 66220055.docx` - 38,044 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao BBBGNT 2026-01 Artiverse Knit VIC-117-2026.docx` - 38,180 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao CHD hoa don 00000938.docx` - 38,296 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao CHD hoa don 00000939.docx` - 38,267 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Genesis Epson.docx` - 38,099 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao HAI PHUONG VN Zebra TC22 19112026.docx` - 38,041 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Hai Vinh - Chi phi Code phan mem cham cong 18112026.docx` - 38,116 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao HD 0000336 Huyen Minh.docx` - 38,190 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao HD 0000340 Huyen Minh.docx` - 38,064 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao HD 0000459 Huyen Minh.docx` - 38,100 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao HD041130 Xingyu.docx` - 38,036 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao HD041154 Xingyu.docx` - 38,128 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao hoa don 00000001 Minh Chau.docx` - 38,158 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao hoa don 00000958 Hai Vinh VN.docx` - 38,130 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao hoa don 00000993 Capital Holding Development.docx` - 38,394 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao hoa don 00000994 Capital Holding Development.docx` - 38,121 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao hoa don 00001028 Bao Minh.docx` - 38,112 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao hoa don 00001048 Xuan Thien.docx` - 38,302 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao hoa don 00001049 Xuan Thien.docx` - 38,530 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao hoa don 00001071 Cong nghe Moi truong 86.docx` - 38,101 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao hoa don chua so 00000000 Hai Vinh VN.docx` - 38,108 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Hop dong Luong Dinh Du.docx` - 38,132 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao In Artiverse - Dell ECT1250.docx` - 38,123 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao May Artiverse - 3 mat hang.docx` - 38,179 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao May Artiverse - HP motherboard.docx` - 38,088 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao May Artiverse - Novexx XLP 604.docx` - 38,092 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao MAY ARTIVERSE HD041329 - 14-11-2026.docx` - 38,392 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao May Artiverse YSS Nam Dinh - 12-11-2026.docx` - 38,055 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao MAY YSS - 12-11-2026.docx` - 38,093 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao MAY YSS HD041303 - 12-11-2026.docx` - 38,090 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu HD hoa don 00000936.docx` - 38,447 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu HD hoa don 00000937.docx` - 38,156 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu HD hoa don 00000938.docx` - 38,269 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu HD hoa don 00000940.docx` - 38,191 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu HD hoa don 00000945.docx` - 38,117 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu HD hoa don 00001070.docx` - 38,115 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu HD hoa don 00001077.docx` - 38,783 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu HD hoa don 00001078.docx` - 38,288 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu HD hoa don chua so MYOZO2NFAKD.docx` - 39,079 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu HDKT VIC-YUE 21102026.docx` - 3,456 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao nghiem thu VIC-53-2026 HAI PHUONG VN.docx` - 38,202 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao PO 63014460 Hai Phuong.docx` - 38,255 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Thanh Lam - Hop dong kinh te 21112026.docx` - 38,974 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Thinh Vuong Minh Chau 23112026.docx` - 38,641 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao VIC-80-2026 Thinh Vuong.docx` - 38,377 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao VIC-86-2026 Genesis Sports Technology.docx` - 38,099 byte
+- `/brains/Brain Default/bien-ban/Bien ban ban giao Xingyu - 21112026.doc` - 7,805 byte
+- `/brains/Brain Default/bien-ban/Bien ban lam viec Xuan Thien - 05-09-2026.docx` - 7,525,390 byte
+- `/brains/Brain Default/bien-ban/Bien ban lam viec Xuan Thien - 08-02-2026.docx` - 4,234,660 byte
+- `/brains/Brain Default/bien-ban/Bien ban lam viec Xuan Thien - 09-02-2026.docx` - 2,722,779 byte
+- `/brains/Brain Default/bien-ban/Bien ban lam viec Xuan Thien - 10-10-2026.docx` - 7,036,478 byte
+- `/brains/Brain Default/bien-ban/Bien ban lam viec Xuan Thien - 16-04-2026.docx` - 4,491,834 byte
+- `/brains/Brain Default/bien-ban/Bien ban lam viec Xuan Thien - 17-05-2026.docx` - 3,110,760 byte
+- `/brains/Brain Default/bien-ban/Bien ban lam viec Xuan Thien - 19-11-2026.docx` - 3,204,925 byte
+- `/brains/Brain Default/bien-ban/Bien ban lam viec Xuan Thien - 29-04-2026.docx` - 3,099,219 byte
+- `/brains/Brain Default/bien-ban/Bien ban lam viec Xuân Thiện - sự cố LED 20261027.docx` - 2,722,924 byte
+- `/brains/Brain Default/bien-ban/Mau bien ban ban giao nghiem thu hang hoa Victory.docx` - 38,143 byte
+- `/brains/Brain Default/bien-ban/Mau bien ban nghiem thu dich vu hoan thanh cong viec Victory.docx` - 38,616 byte
+- `/brains/Brain Default/bien-ban/Mau bien ban tiep nhan bao hanh sua chua doi tra Victory.docx` - 38,725 byte
+- `/brains/Brain Default/bien-ban/Mau don dat hang xac nhan don hang Victory.docx` - 38,513 byte
+- `/brains/Brain Default/bien-ban/Mau phieu nhap kho kiem kiem nhan hang hoa Victory.docx` - 39,431 byte
+- `/brains/Brain Default/bien-ban/Mau phieu xac nhan thanh toan Victory.docx` - 38,129 byte
+- `/brains/Brain Default/bien-ban/Mau phieu xuat kho kiem ban giao hang hoa Victory.docx` - 39,997 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-001 Maple.docx` - 39,738 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-002.docx` - 40,006 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-003 Genesis cac dong con lai.docx` - 40,054 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-004 Hai Thanh Epson LQ310.docx` - 39,964 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-005 Genesis hoa don 00000000.docx` - 40,186 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-005 Minh Chau.docx` - 40,065 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-006 Genesis Sports Technology.docx` - 39,742 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-007 Artiverse Apparel PO 66218976.docx` - 39,756 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-008 Hai Vinh - danh sach 1.docx` - 40,186 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-009 Hai Vinh - danh sach 2.docx` - 40,157 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-010 Hai Vinh CC625AA.docx` - 40,108 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-011 Artiverse Apparel Yen Lu HD041449.docx` - 39,909 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-012 Artiverse Apparel Yen Lu.docx` - 39,902 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho PXK-VIC-2026-013 Artiverse Knit VIC-117-2026.docx` - 39,738 byte
+- `/brains/Brain Default/bien-ban/Phieu xuat kho theo bao gia VIC-80-2026.docx` - 38,023 byte
+- `/brains/Brain Default/go-nhanh-chuyen-don-luna.patch` - 18,164 byte
+- `/brains/Brain Default/hop-dong/Cong van giai trinh - ban chup.doc` - 400,062 byte
+- `/brains/Brain Default/hop-dong/Hop dong kinh te Victory - Nguyen Thi Nguyet - HD 00001088.docx` - 52,587 byte
+- `/brains/Brain Default/hop-dong/Hop dong kinh te Victory - Thanh Lam - 21112026.docx` - 51,951 byte
+- `/brains/Brain Default/hop-dong/Hop dong kinh te Victory - Thanh Lam - Hoa don 00001087.docx` - 52,581 byte
+- `/brains/Brain Default/hop-dong/Hop dong mua ban hang hoa VIC-MT86 17112026.docx` - 51,201 byte
+- `/brains/Brain Default/hop-dong/Hop dong mua ban Victory - ARTIVERSE KNIT VIC-117-2026.docx` - 51,057 byte
+- `/brains/Brain Default/hop-dong/Hop dong mua ban Victory - CO GIOI HA THANH VIC-104-2026.docx` - 51,204 byte
+- `/brains/Brain Default/hop-dong/Hop dong mua ban Victory - HAI PHUONG VN VIC-53-2026.docx` - 52,857 byte
+- `/brains/Brain Default/hop-dong/Hop dong mua ban Victory - MAY ARTIVERSE.docx` - 53,615 byte
+- `/brains/Brain Default/hop-dong/Hop dong mua ban Victory - THCS Han Thuyen.docx` - 54,639 byte
+- `/brains/Brain Default/hop-dong/Hop dong mua ban Victory - THINH VUONG VIC-80-2026.docx` - 54,623 byte
+- `/brains/Brain Default/hop-dong/Hop dong mua ban Victory - YUECHANG VIC-39-2026.docx` - 54,374 byte
+- `/brains/Brain Default/hop-dong/Hop dong mua ban VICTORY ban - SIEU VIET mua.docx` - 54,336 byte
+- `/brains/Brain Default/hop-dong/Hop dong van chuyen hang hoa Victory - Dac Hung.docx` - 40,555 byte
+- `/brains/Brain Default/hop-dong/Mau hop dong mua ban Victory ban ra.docx` - 50,854 byte
+- `/brains/Brain Default/hop-dong/Mau hop dong nguyen tac mua ban Victory.docx` - 41,396 byte
+- `/brains/Brain Default/hop-dong/So theo doi hop dong Victory.xlsx` - 11,141 byte
+- `/brains/Brain Default/inbox/khach/zalo_19f515f01803_Bao gia CCTV.pdf` - 1,766,155 byte
+- `/brains/Brain Default/inbox/khach/zalo_6928927e7682_Network Quotation.pdf` - 483,520 byte
+- `/brains/Brain Default/inbox/khach/zalo_bbc35d573452_Bao gia thiet bi mang.pdf` - 278,345 byte
+- `/brains/Brain Default/inbox/telegram/bao gia sua chua nguon.pdf` - 262,858 byte
+- `/brains/Brain Default/inbox/telegram/Bao_gia_Cong_ty_TNHH_May_Artiverse_Novexx.pdf` - 205,791 byte
+- `/brains/Brain Default/inbox/telegram/Báo giá Victory T10.xlsx` - 303,051 byte
+- `/brains/Brain Default/inbox/telegram/Báo giá Victory T10_1.xlsx` - 303,051 byte
+- `/brains/Brain Default/inbox/telegram/BG Camera_A Tuan.pdf` - 695,767 byte
+- `/brains/Brain Default/inbox/telegram/C26TAA-00000900-XXXWU0Q6PJ2-DPH.pdf` - 389,464 byte
+- `/brains/Brain Default/inbox/telegram/Copy of 2610_BBG_PPMC_R760XS.pdf` - 200,519 byte
+- `/brains/Brain Default/inbox/telegram/Copy of Victory báo giá T10.26.xlsx` - 665,863 byte
+- `/brains/Brain Default/inbox/telegram/Danh sach khach hang chuan co ma so thue.xlsx` - 60,126 byte
+- `/brains/Brain Default/inbox/telegram/Danh_sach_hang_hoa_dich_vu.xlsx` - 217,112 byte
+- `/brains/Brain Default/inbox/telegram/HOP-DONG-NGUYEN-TAC MUA BAN HANG HOA.doc` - 83,456 byte
+- `/brains/Brain Default/inbox/telegram/HĐHT VICTORYND 739tr2 CN.docx` - 58,743 byte
+- `/brains/Brain Default/inbox/telegram/photo_1006.jpg` - 112,232 byte
+- `/brains/Brain Default/inbox/telegram/photo_1226.jpg` - 69,534 byte
+- `/brains/Brain Default/inbox/telegram/photo_1358.jpg` - 83,694 byte
+- `/brains/Brain Default/inbox/telegram/photo_1358_1.jpg` - 83,694 byte
+- `/brains/Brain Default/inbox/telegram/photo_1361.jpg` - 84,045 byte
+- `/brains/Brain Default/inbox/telegram/photo_1531.jpg` - 81,032 byte
+- `/brains/Brain Default/inbox/telegram/photo_1549.jpg` - 153,788 byte
+- `/brains/Brain Default/inbox/telegram/photo_1586.jpg` - 171,493 byte
+- `/brains/Brain Default/inbox/telegram/photo_1610.jpg` - 135,491 byte
+- `/brains/Brain Default/inbox/telegram/photo_1645.jpg` - 167,754 byte
+- `/brains/Brain Default/inbox/telegram/photo_1689.jpg` - 112,166 byte
+- `/brains/Brain Default/inbox/telegram/photo_298.jpg` - 62,924 byte
+- `/brains/Brain Default/inbox/telegram/photo_327.jpg` - 77,392 byte
+- `/brains/Brain Default/inbox/telegram/photo_354.jpg` - 34,102 byte
+- `/brains/Brain Default/inbox/telegram/photo_557.jpg` - 374,328 byte
+- `/brains/Brain Default/inbox/telegram/photo_749.jpg` - 7,303 byte
+- `/brains/Brain Default/inbox/telegram/photo_757.jpg` - 49,716 byte
+- `/brains/Brain Default/inbox/telegram/photo_766.jpg` - 98,752 byte
+- `/brains/Brain Default/inbox/telegram/Q_Anh Harry_2611001.pdf` - 321,440 byte
+- `/brains/Brain Default/inbox/telegram/TKB K6 Tuần 7 (Từ 19-10-2026).xlsx` - 15,864 byte
+- `/brains/Brain Default/thanh-toan/Giay de nghi thanh toan hoa don 00001028 Bao Minh.docx` - 15,868 byte
+- `/brains/Brain Default/thanh-toan/Giay de nghi thanh toan hoa don 00001048 Xuan Thien.docx` - 15,870 byte
+- `/brains/Brain Default/thanh-toan/Giay de nghi thanh toan hoa don 00001049 Xuan Thien.docx` - 15,881 byte
+- `/brains/Brain Default/thanh-toan/Mau bien ban doi chieu cong no Victory.docx` - 39,396 byte
+- `/brains/Brain Default/thanh-toan/Mau giay de nghi thanh toan Victory.docx` - 15,878 byte
+- `/brains/Brain Default/tmp-product-sources/Fuhlen-L102-source.jpg` - 1,806,986 byte
+- `/brains/Brain Default/tmp-product-sources/Fuhlen-L500S-source.jpg` - 44,615 byte
+- `/brains/Brain Default/tmp-product-sources/Gigabyte-H610-source.png` - 920,732 byte
+- `/brains/Brain Default/tmp-product-sources/Kingmax-240GB-SSD-source.jpg` - 57,709 byte
+- `/brains/Brain Default/tmp-product-sources/Kingston-Fury-8GB-3200-source.png` - 70,177 byte
+- `/brains/Brain Default/tmp-product-sources/Xigmatek-MYX-3F-source.png` - 1,649,896 byte
+- `/brains/Brain Default/tmp-workbook-images/image1.png` - 445 byte
+- `/brains/Brain Default/tmp-workbook-images/image2.png` - 94,513 byte
+- `/brains/Brain Default/tmp-workbook-images/image3.png` - 177,150 byte
+- `/brains/Sức khoẻ - Y Tế/.javis-learn.lock` - 0 byte

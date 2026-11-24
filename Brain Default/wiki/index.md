@@ -90,14 +90,14 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Lưu câu trả lời có nguồn vào đúng brain]] - Phân biệt link trích dẫn với tri thức đã lưu; lưu nguồn và Wiki vào brain đang chọn, cùng nguyên nhân loop Zalo bị kẹt.
 - [[Phạm vi công việc của bot Luna trên Zalo]] - Luna chỉ trực các nhóm được phép và trả lời vấn đề kỹ thuật; các nhiệm vụ khác đã bị gỡ.
 
-- [[Công ty Cổ phần Giải pháp công nghệ và Truyền thông Victory Việt Nam]] - Hồ sơ công ty, thanh toán, mã QR nhận tiền, liên hệ, nhận hàng và nhà xe.
-- [[QR Tai Khoan Ngan Hang Victory]] - Ảnh QR Techcombank để gửi khách khi họ yêu cầu thông tin chuyển khoản.
-- [[Bảng giá sản phẩm YSS]] - Chỉ tra cứu để lập file báo giá cho YSS khi cần; không dùng trong nhóm Zalo hay giá bán chung.
-- [[Bang_gia_Luna.xlsx]] - Bảng gốc lưu dữ liệu giá; hiện không thuộc nhiệm vụ của bot Luna.
+- [Thông tin Công ty Victory Việt Nam](../memory/facts/thong-tin-cong-ty-victory-viet-nam.md) - Hồ sơ công ty, thanh toán, mã QR nhận tiền, liên hệ, nhận hàng và nhà xe.
+- [QR Tài Khoản Ngân Hàng Victory](../sources/QR%20Tai%20Khoan%20Ngan%20Hang%20Victory.md) - Ảnh QR Techcombank để gửi khách khi họ yêu cầu thông tin chuyển khoản.
+- [[Bang Gia San Pham YSS]] - Chỉ tra cứu để lập file báo giá cho YSS khi cần; không dùng trong nhóm Zalo hay giá bán chung.
+- [Bang_gia_Luna.xlsx](../Bang_gia_Luna.xlsx) - Bảng gốc lưu dữ liệu giá; hiện không thuộc nhiệm vụ của bot Luna.
 - [[Bang gia Luna - tra cuu chatbot]] - Bản tra cứu đồng bộ từ Excel; hiện không thuộc nhiệm vụ của bot Luna.
 - [[Tương thích hộp mực HP và Canon đã tra cứu]] - Các họ máy tương thích đã đối chiếu; có mâu thuẫn chưa xác minh về mã mực Canon 8720.
 - [[Nguồn hãng về tương thích hộp mực]] - Trang HP và Canon chính hãng dùng để đối chiếu các họ máy tương thích với mã hộp mực.
-- [[Danh sách khách hàng Victory]] - Danh mục 579 dòng khách hàng, tra theo mã số thuế và thông tin liên hệ; dữ liệu đầy đủ ở CSV.
+- [[Danh sach khach hang Victory]] - Danh mục 579 dòng khách hàng, tra theo mã số thuế và thông tin liên hệ; dữ liệu đầy đủ ở CSV.
 - [[Ưu Tiên Tên Khách Hàng Và Hàng Hóa Theo Danh Mục]] - Quy tắc thống nhất dùng tên khách hàng và hàng hóa/dịch vụ từ hai danh mục Victory; xác minh khi mơ hồ hoặc mâu thuẫn.
 - [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]] - Mẫu Word chuẩn duy nhất, A4 dọc; đầu trang Victory, địa điểm theo địa chỉ khách hàng, Bên A đã điền thông tin cố định.
 - [[Mẫu Giấy Đề Nghị Thanh Toán Victory]] - Mẫu Victory đã duyệt, tên pháp nhân viết theo kiểu thường và in đậm; trường giao dịch để điền theo từng hóa đơn.
@@ -183,7 +183,7 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[HP LaserJet Pro M404dn - mã lỗi kẹt giấy]] - Mã kẹt giấy hiển thị và vị trí theo tài liệu hỗ trợ HP cho nhóm M304/M305/M404/M405.
 - [[Danh mục model máy in đã tra cứu]] - Sổ model/nhóm model đã có trang lỗi, dùng để chọn model mới cho lượt nghiên cứu tiếp theo.
 - [[Canon LBP3500 - bản in đen toàn trang sau khi nạp mực]] - Khi Canon LBP3500 in đen toàn trang sau khi nạp mực, dù đã thay trống, trục từ v
-- [[Hộp mực tương thích HP LaserJet Pro M404dn]] - HP LaserJet Pro M404dn dùng hộp mực 58A (CF258A) hoặc 58X (CF258X). [[Thông số H
+- [[Hộp mực tương thích HP LaserJet Pro M404dn]] - HP LaserJet Pro M404dn dùng hộp mực 58A (CF258A) hoặc 58X (CF258X). Thông số hộp mực theo hướng dẫn hãng
 - [[Trình bày phần tổng hợp thuế trên báo giá]] - Phần tổng hợp báo giá nên tách tiền hàng theo từng nhóm thuế suất thành các dòng
 - [[Hậu quả chậm đóng bảo hiểm xã hội]] - Doanh nghiệp chậm đóng BHXH phải nộp khoản còn thiếu và khoản tính thêm 0,03% mỗ
 - [[Diễn đạt mức độ chắc chắn khi chẩn đoán từ xa]] - Khi nhận định lỗi kỹ thuật chỉ dựa trên trao đổi trong chat và chưa được xác min
@@ -784,53 +784,53 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 ## Router, modem DSL và router 4G/5G - TP-Link
 
 - [[Nguồn cấu hình router TP-Link - hướng dẫn chính hãng]] - Danh mục model, tài liệu cấu hình hãng, phạm vi vùng/phiên bản và điều kiện cần ISP xác nhận.
-- [[Archer AX10 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX12 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX1500 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX20 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX23 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX53 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX55 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX72 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX73 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C6 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C64 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C80 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer A8 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer A64 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C54 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C50 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C24 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C20 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C2300 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer A9 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C9 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C5 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C1200 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX50 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C86 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX56 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX6000 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX90 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX80 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer GX90 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AXE75 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer BE230 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer BE550 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer BE800 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer AX11000 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer C58HP - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[TL-WR846N - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer VR400 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer VR600 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer VR300 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[TD-W9960 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[TD-W9970 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer MR100 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer MR105 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer MR200 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer MR400 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer MR600 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer MR6400 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Archer NX200 - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
-- [[Deco X50-4G - tra cứu cấu hình]] - Cấu hình theo model, loại kết nối và giới hạn nhà mạng.
+- [[Archer AX10 - tra cứu cấu hình]] - Có guide hãng theo biến thể được ghi, chưa xác minh vùng/revision của thiết bị thực tế.
+- [[Archer AX12 - tra cứu cấu hình]] - User Guide EU V1 REV1.0.0: đấu WAN, wizard, Wi-Fi và diagnostics đã đọc.
+- [[Archer AX1500 - tra cứu cấu hình]] - Có guide hãng theo biến thể được ghi, chưa xác minh vùng/revision của thiết bị thực tế.
+- [[Archer AX20 - tra cứu cấu hình]] - Có guide hãng theo biến thể được ghi, chưa xác minh vùng/revision của thiết bị thực tế.
+- [[Archer AX23 - tra cứu cấu hình]] - Có guide hãng theo biến thể được ghi, chưa xác minh vùng/revision của thiết bị thực tế.
+- [[Archer AX53 - tra cứu cấu hình]] - Có guide hãng theo biến thể được ghi, chưa xác minh vùng/revision của thiết bị thực tế.
+- [[Archer AX55 - tra cứu cấu hình]] - Có guide hãng theo biến thể được ghi, chưa xác minh vùng/revision của thiết bị thực tế.
+- [[Archer AX72 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng đã mở cho revision ghi tại trang, chưa xác minh thiết bị thực tế.
+- [[Archer AX73 - tra cứu cấu hình]] - Ethernet Wi-Fi; hướng dẫn cấu hình và giới hạn nhà mạng theo model.
+- [[Archer C6 - tra cứu cấu hình]] - Có guide hãng cho biến thể được nêu; chưa xác minh vùng/revision máy thực tế.
+- [[Archer C64 - tra cứu cấu hình]] - Có guide hãng cho biến thể được nêu; chưa xác minh vùng/revision máy thực tế.
+- [[Archer C80 - tra cứu cấu hình]] - Có guide hãng cho biến thể được nêu; chưa xác minh vùng/revision máy thực tế.
+- [[Archer A8 - tra cứu cấu hình]] - Có guide hãng cho biến thể được nêu; chưa xác minh vùng/revision máy thực tế.
+- [[Archer A64 - tra cứu cấu hình]] - Có guide hãng cho biến thể được nêu; chưa xác minh vùng/revision máy thực tế.
+- [[Archer C54 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng đã mở cho revision ghi tại trang, chưa xác minh thiết bị thực tế.
+- [[Archer C50 - tra cứu cấu hình]] - Có guide hãng cho biến thể được nêu; chưa xác minh vùng/revision máy thực tế.
+- [[Archer C24 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng đã mở cho revision ghi tại trang, chưa xác minh thiết bị thực tế.
+- [[Archer C20 - tra cứu cấu hình]] - Có guide hãng cho biến thể được nêu; chưa xác minh vùng/revision máy thực tế.
+- [[Archer C2300 - tra cứu cấu hình]] - Có guide hãng cho biến thể được nêu; chưa xác minh vùng/revision máy thực tế.
+- [[Archer A9 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng đã mở cho revision ghi tại trang, chưa xác minh thiết bị thực tế.
+- [[Archer C9 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[Archer C5 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[Archer C1200 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[Archer AX50 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng đã mở cho revision ghi tại trang, chưa xác minh thiết bị thực tế.
+- [[Archer C86 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[Archer AX56 - tra cứu cấu hình]] - Mới mở Product and Installation Guide India 1.0; còn thiếu đúng loại User Guide/QIG.
+- [[Archer AX6000 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[Archer AX90 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho revision ghi tại trang, chưa xác minh thiết bị thực tế.
+- [[Archer AX80 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[Archer GX90 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho revision ghi tại trang, chưa xác minh thiết bị thực tế.
+- [[Archer AXE75 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho revision ghi tại trang, chưa xác minh thiết bị thực tế.
+- [[Archer BE230 - tra cứu cấu hình]] - QIG REV1.0.0 đã đọc sơ đồ WAN, thiết lập và FAQ; User Guide/menu Wi-Fi còn thiếu.
+- [[Archer BE550 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho revision ghi tại trang, chưa xác minh thiết bị thực tế.
+- [[Archer BE800 - tra cứu cấu hình]] - Ethernet Wi-Fi; guide hãng được mở cho revision ghi tại trang, chưa xác minh thiết bị thực tế.
+- [[Archer AX11000 - tra cứu cấu hình]] - Có User Guide EU/US REV1.0.0; tệp quá lớn nên chưa trích được thao tác.
+- [[Archer C58HP - tra cứu cấu hình]] - User Guide UN V1 REV1.0.0: WAN, Wi-Fi, lưu và diagnostics đã đọc.
+- [[TL-WR846N - tra cứu cấu hình]] - User Guide EU REV1.0.0 mở; mới đọc mục lục, thao tác còn thiếu.
+- [[Archer VR400 - tra cứu cấu hình]] - DSL; hướng dẫn cấu hình và giới hạn nhà mạng theo model.
+- [[Archer VR600 - tra cứu cấu hình]] - modem-router DSL; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[Archer VR300 - tra cứu cấu hình]] - modem-router DSL; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[TD-W9960 - tra cứu cấu hình]] - DSL; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[TD-W9970 - tra cứu cấu hình]] - DSL; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[Archer MR100 - tra cứu cấu hình]] - User Guide TL-MR100 EU REV1.0.0 đọc một phần; cần đối chiếu tên và revision trên tem.
+- [[Archer MR105 - tra cứu cấu hình]] - User Guide TL-MR105 EU REV1.0.0 đọc SIM, wizard, Wi-Fi và test.
+- [[Archer MR200 - tra cứu cấu hình]] - SIM/5G; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[Archer MR400 - tra cứu cấu hình]] - SIM/5G; guide hãng được mở cho biến thể ghi tại trang, chưa xác minh áp dụng cho thiết bị thực tế.
+- [[Archer MR600 - tra cứu cấu hình]] - User Guide MR600 V4 REV1.1.1 mở; SIM/profile/test đọc một phần, Wi-Fi còn thiếu.
+- [[Archer MR6400 - tra cứu cấu hình]] - PDF EU mở nhưng revision bìa REV4.0.0 lệch tên tệp REV4.0.1.
+- [[Archer NX200 - tra cứu cấu hình]] - router SIM 5G; guide hãng REV1.0.0 đã đọc, chưa xác minh vùng/revision thiết bị thực tế.
+- [[Deco X50-4G - tra cứu cấu hình]] - SIM 4G; hướng dẫn cấu hình và giới hạn nhà mạng theo model.
