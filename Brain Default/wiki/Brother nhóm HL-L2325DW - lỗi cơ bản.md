@@ -9,7 +9,7 @@ source: "[[Nguồn Brother HL-L2325DW - bảng lỗi cho đợt 100 mã]]"
 
 # Brother nhóm HL-L2325DW - lỗi cơ bản
 
-Phạm vi: HL-L2325DW, HL-L2370DW, HL-L2370DWXL. [[Nguồn Brother HL-L2325DW - bảng lỗi cho đợt 100 mã]]
+Phạm vi: HL-L2325DW, HL-L2350DW, HL-L2370DW, HL-L2370DWXL. [[Nguồn Brother HL-L2325DW - bảng lỗi cho đợt 100 mã]]
 
 | Thông báo | Dấu hiệu hoặc khả năng | Kiểm tra và xử lý |
 |---|---|---|
@@ -24,5 +24,6 @@ Nếu đã làm đúng hướng dẫn mà lỗi vẫn còn, giữ nguyên mã l�
 ## Tra cứu theo model
 
 - [[Brother HL-L2325DW - tra cứu lỗi theo model]]
+- [[Brother HL-L2350DW - tra cứu lỗi theo model]]
 - [[Brother HL-L2370DW - tra cứu lỗi theo model]]
 - [[Brother HL-L2370DWXL - tra cứu lỗi theo model]]

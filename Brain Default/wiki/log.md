@@ -224,3 +224,8 @@ Time-ordered log (append-only). Each entry: ## [YYYY-MM-DD] kind | title.
 - Mở User Guide EU V1 REV1.0.0 cho Archer AX12; ghi các bước WAN, Quick Setup, Wi-Fi, lưu, diagnostics và giới hạn vùng vào trang model.
 - Mở tài liệu chính hãng “Product and Installation Guide” cho Archer AX56 1.0 trên website India; ghi quy trình cài đặt đã đọc nhưng không xếp là User Guide/QIG.
 - Rà đủ 50 trang model. Có 49/50 User Guide/QIG trực tiếp đã mở; 1 trang còn thiếu đúng loại tài liệu là AX56. Không có Hardware Version/vùng máy nên 0/50 xác minh áp dụng cho thiết bị thực tế.
+
+## [2026-11-24] ingest | Đào sâu 30 model máy in Brother
+
+- Đối chiếu riêng 30 model với 4 bảng lỗi Brother: dòng DCP/MFC-L2531, HL-L2390/MFC-L2690, HL-L2325 và DCP/MFC-T520. Bổ sung 4-5 thông báo mỗi model, nguyên nhân/dấu hiệu, kiểm tra an toàn, nhánh tiếp theo và điều kiện chuyển kỹ thuật; link tới trang chung để tránh lặp hướng dẫn.
+- Ghi rõ nhóm hậu tố theo phạm vi hãng; bổ sung HL-L2350DW vào mục tra cứu riêng và nhóm HL-L2325DW do bảng hãng liệt kê model này. Truy cập nguồn 2026-11-24. Phần chưa làm: chưa rà toàn bộ User Guide/tài liệu bảo trì riêng theo từng model; bảng HTML không có số trang.

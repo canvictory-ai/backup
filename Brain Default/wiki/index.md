@@ -520,9 +520,10 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Brother DCP-7190DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
 - [[Brother DCP-7195DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
 - [[Brother MFC-7895DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
-- [[Brother nhóm HL-L2325DW - lỗi cơ bản]] - 3 model. No Paper, No Paper T1, Jam Tray 1, Manual Feed, Replace Drum.
+- [[Brother nhóm HL-L2325DW - lỗi cơ bản]] - 4 model. No Paper, No Paper T1, Jam Tray 1, Manual Feed, Replace Drum.
 - [[Nguồn Brother HL-L2325DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
 - [[Brother HL-L2325DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother HL-L2350DW - tra cứu lỗi theo model]] - Model nằm trong bảng lỗi hãng; xem thêm trang thông báo hiển thị cũ để nhận diện LCD.
 - [[Brother HL-L2370DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
 - [[Brother HL-L2370DWXL - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
 - [[Brother nhóm HL-L2464DW - lỗi cơ bản]] - 2 model. No Paper T1, Jam Tray 1, Manual Feed, Replace Drum, Cooling Down.
@@ -834,3 +835,7 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Archer MR6400 - tra cứu cấu hình]] - PDF EU mở nhưng revision bìa REV4.0.0 lệch tên tệp REV4.0.1.
 - [[Archer NX200 - tra cứu cấu hình]] - router SIM 5G; guide hãng REV1.0.0 đã đọc, chưa xác minh vùng/revision thiết bị thực tế.
 - [[Deco X50-4G - tra cứu cấu hình]] - SIM 4G; hướng dẫn cấu hình và giới hạn nhà mạng theo model.
+
+### Brother | đào sâu theo model - 2026-11-24
+
+Đào sâu 30 trang model riêng với 4-5 thông báo lỗi, nhánh kiểm tra an toàn và điểm chuyển kỹ thuật theo bảng lỗi HTML hãng; chưa rà toàn bộ User Guide/tài liệu bảo trì theo từng model. Xem các bảng chung theo phạm vi hãng: [[Brother nhóm DCP-L2531DW - lỗi cơ bản]], [[Brother nhóm HL-L2390DW - lỗi cơ bản]], [[Brother nhóm HL-L2325DW - lỗi cơ bản]], [[Brother nhóm DCP-T520W - lỗi cơ bản]].
