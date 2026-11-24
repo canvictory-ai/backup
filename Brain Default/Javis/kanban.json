@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "source": "kanban.sqlite3",
-  "orchestration": "off",
+  "orchestration": "auto",
   "tasks": [
     {
       "id": "t_ddb9b8668c49",
@@ -451,7 +451,262 @@
           "msg": "-> archived: xoá tất cả"
         }
       ]
+    },
+    {
+      "id": "t_e39d7ceaa6d5",
+      "brain_root": "/brains/Brain Default",
+      "title": "Học 100 model máy in Canon và lưu Wiki",
+      "intent": "Thực hiện đợt học thủ công ngay cho 100 model máy in Canon chưa có mục tương đương trong Wiki Brain Default. Đọc AGENTS.md và wiki/index.md. Ưu tiên model Victory hay gặp; chọn thêm model có tài liệu hãng đủ căn cứ. Tra nguồn chính hãng, xác nhận model và hậu tố xuất hiện trong phạm vi nguồn. Lưu từng model ngay sau khi hoàn tất, có mục tra cứu riêng, 3–5 lỗi/cảnh báo khi đủ căn cứ, dấu hiệu, bước kiểm tra an toàn, hướng bước tiếp theo theo kết quả và dấu hiệu cần kỹ thuật trực tiếp. Dẫn về bảng dùng chung chỉ khi hãng xác nhận, ghi khác biệt biến thể khi có nguồn. Ghi trang nguồn gồm URL, mục/số trang và ngày truy cập; cập nhật index và append log, đọc lại và xác minh wikilinks. Xử lý theo nhóm nhỏ để tiến tới đủ 100; thay mã thiếu tài liệu bằng mã được hãng xác nhận, báo số thực tế. Không đổi lịch định kỳ.",
+      "route": "auto",
+      "capability": "research",
+      "execution_mode": "auto",
+      "priority": 2,
+      "status": "running",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "worker:7:d3293dae",
+      "claim_expires_at": 1795509039.1958685,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795508949.1958685,
+      "current_run_id": "run_9627f0607e564b",
+      "result": "Đã lưu **4 model Canon mới** vào Wiki: LBP611Cn, LBP613Cdw, LBP653Cdw và LBP654Cx, kèm mục tra cứu theo model, hướng kiểm tra an toàn và dấu hiệu cần gọi kỹ thuật. Nguồn là User Guide chính hãng Canon, có ghi phạm vi model, khác biệt biến thể, mục tra cứu và số trang.\n\nĐã cập nhật [wiki/index.md](/brains/Brain%20Default/wiki/index.md) và append [wiki/log.md](/brains/Brain%20Default/wiki/log.md). Đã đọc lại các trang và kiểm tra wikilink; các liên kết giữa trang model và trang nguồn đều trỏ tới file có thật.\n\n**Chưa đạt mục tiêu 100 model:** lượt này hoàn tất 4 model. Lịch định kỳ không thay đổi.",
+      "created_at": 1795508474.2627099,
+      "updated_at": 1795508949.1958685,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Đủ 100 model Canon khác nhau và mới với Wiki, thống kê chính xác.",
+          "Mỗi model có mục tra cứu và liên kết nguồn hãng áp dụng, có điều kiện xử lý tiếp.",
+          "Đã lưu Wiki, cập nhật index và log, đọc lại các mục và liên kết."
+        ],
+        "acceptance": [
+          "Đủ 100 model Canon khác nhau và mới với Wiki, thống kê chính xác.",
+          "Mỗi model có mục tra cứu và liên kết nguồn hãng áp dụng, có điều kiện xử lý tiếp.",
+          "Đã lưu Wiki, cập nhật index và log, đọc lại các mục và liên kết."
+        ],
+        "specifier": "ai",
+        "route": "auto",
+        "capability": "research",
+        "execution_mode": "auto",
+        "tool_calls": [
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution"
+        ],
+        "provider": "openai-oauth",
+        "run_seconds": 390,
+        "acceptance_from": "done",
+        "qa": [
+          {
+            "kind": "acceptance_fix",
+            "q": "Mới hoàn tất 4 model, chưa đạt 100; báo cáo không nêu trở ngại ngoài khả năng của worker.",
+            "a": "Mới hoàn tất 4 model, chưa đạt 100; báo cáo không nêu trở ngại ngoài khả năng của worker.",
+            "by": "checker",
+            "asked_at": 1795508949.1556332,
+            "answered_at": 1795508949.155634,
+            "progress": "Đã lưu **4 model Canon mới** vào Wiki: LBP611Cn, LBP613Cdw, LBP653Cdw và LBP654Cx, kèm mục tra cứu theo model, hướng kiểm tra an toàn và dấu hiệu cần gọi kỹ thuật. Nguồn là User Guide chính hãng Canon, có ghi phạm vi model, khác biệt biến thể, mục tra cứu và số trang.\n\nĐã cập nhật [wiki/index.md](/brains/Brain%20Default/wiki/index.md) và append [wiki/log.md](/brains/Brain%20Default/wiki/log.md). Đã đọc lại các trang và kiểm tra wikilink; các liên kết giữa trang model và trang nguồn đều trỏ tới file có thật.\n\n**Chưa đạt mục tiêu 100 model:** lượt này hoàn tất 4 model. Lịch định kỳ không thay đổi."
+          }
+        ],
+        "acceptance_fixes": 1
+      },
+      "artifacts": [],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-24 08:21",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "claimed by worker:7:7d17327a"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "capability=research"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "claimed by worker:7:df7accf4"
+        },
+        {
+          "ts": "2026-11-24 08:29",
+          "msg": "Mới hoàn tất 4 model, chưa đạt 100; báo cáo không nêu trở ngại ngoài khả năng của worker."
+        },
+        {
+          "ts": "2026-11-24 08:29",
+          "msg": "claimed by worker:7:d3293dae"
+        }
+      ]
+    },
+    {
+      "id": "t_d60a33e82244",
+      "brain_root": "/brains/Brain Default",
+      "title": "Học 100 model máy in HP và lưu Wiki",
+      "intent": "Thực hiện đợt học thủ công ngay cho 100 model máy in HP chưa có mục tương đương trong Wiki Brain Default. Đọc AGENTS.md và wiki/index.md. Ưu tiên model Victory hay gặp; chọn thêm model có tài liệu hãng đủ căn cứ. Tra nguồn chính hãng, xác nhận model và hậu tố xuất hiện trong phạm vi nguồn. Lưu từng model ngay sau khi hoàn tất, có mục tra cứu riêng, 3–5 lỗi/cảnh báo khi đủ căn cứ, dấu hiệu, bước kiểm tra an toàn, hướng bước tiếp theo theo kết quả và dấu hiệu cần kỹ thuật trực tiếp. Dẫn về bảng dùng chung chỉ khi hãng xác nhận, ghi khác biệt biến thể khi có nguồn. Ghi trang nguồn gồm URL, mục/số trang và ngày truy cập; cập nhật index và append log, đọc lại và xác minh wikilinks. Xử lý theo nhóm nhỏ để tiến tới đủ 100; thay mã thiếu tài liệu bằng mã được hãng xác nhận, báo số thực tế. Không đổi lịch định kỳ.",
+      "route": "auto",
+      "capability": "auto",
+      "execution_mode": "auto",
+      "priority": 2,
+      "status": "todo",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
+      "idempotency_key": "",
+      "attempts": 0,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 0.0,
+      "current_run_id": "",
+      "result": "",
+      "created_at": 1795508474.3478036,
+      "updated_at": 1795508565.1356525,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Đủ 100 model HP khác nhau và mới với Wiki, thống kê chính xác.",
+          "Mỗi model có mục tra cứu và liên kết nguồn hãng áp dụng, có điều kiện xử lý tiếp.",
+          "Đã lưu Wiki, cập nhật index và log, đọc lại các mục và liên kết."
+        ]
+      },
+      "artifacts": [],
+      "deps": [
+        "t_e39d7ceaa6d5"
+      ],
+      "log": [
+        {
+          "ts": "2026-11-24 08:21",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "todo -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "unfinished dependency"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "todo -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "unfinished dependency"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "todo -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "unfinished dependency"
+        }
+      ]
+    },
+    {
+      "id": "t_d94c67840ebc",
+      "brain_root": "/brains/Brain Default",
+      "title": "Học 100 model máy in Epson và lưu Wiki",
+      "intent": "Thực hiện đợt học thủ công ngay cho 100 model máy in Epson chưa có mục tương đương trong Wiki Brain Default. Đọc AGENTS.md và wiki/index.md. Ưu tiên model Victory hay gặp; chọn thêm model có tài liệu hãng đủ căn cứ. Tra nguồn chính hãng, xác nhận model và hậu tố xuất hiện trong phạm vi nguồn. Lưu từng model ngay sau khi hoàn tất, có mục tra cứu riêng, 3–5 lỗi/cảnh báo khi đủ căn cứ, dấu hiệu, bước kiểm tra an toàn, hướng bước tiếp theo theo kết quả và dấu hiệu cần kỹ thuật trực tiếp. Dẫn về bảng dùng chung chỉ khi hãng xác nhận, ghi khác biệt biến thể khi có nguồn. Ghi trang nguồn gồm URL, mục/số trang và ngày truy cập; cập nhật index và append log, đọc lại và xác minh wikilinks. Xử lý theo nhóm nhỏ để tiến tới đủ 100; thay mã thiếu tài liệu bằng mã được hãng xác nhận, báo số thực tế. Không đổi lịch định kỳ.",
+      "route": "auto",
+      "capability": "auto",
+      "execution_mode": "auto",
+      "priority": 2,
+      "status": "todo",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
+      "idempotency_key": "",
+      "attempts": 0,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 0.0,
+      "current_run_id": "",
+      "result": "",
+      "created_at": 1795508474.3847933,
+      "updated_at": 1795508571.3178308,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Đủ 100 model Epson khác nhau và mới với Wiki, thống kê chính xác.",
+          "Mỗi model có mục tra cứu và liên kết nguồn hãng áp dụng, có điều kiện xử lý tiếp.",
+          "Đã lưu Wiki, cập nhật index và log, đọc lại các mục và liên kết."
+        ]
+      },
+      "artifacts": [],
+      "deps": [
+        "t_d60a33e82244"
+      ],
+      "log": [
+        {
+          "ts": "2026-11-24 08:21",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "todo -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "unfinished dependency"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "todo -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-24 08:22",
+          "msg": "unfinished dependency"
+        }
+      ]
     }
   ],
-  "updated": 1793339852.0621045
+  "updated": 1795508949.3024712
 }

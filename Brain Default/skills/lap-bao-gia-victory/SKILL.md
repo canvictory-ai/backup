@@ -15,6 +15,7 @@ Dùng khi người dùng yêu cầu lập mới, chỉnh sửa, kiểm tra hoặ
 - Xem các báo giá hiện có và xác minh số in bên trong file.
 - Tra từng mặt hàng trong bảng giá YSS theo mã, tên và biến thể tương đương; xác minh quy cách. Chỉ dùng giá người dùng cung cấp khi YSS không có giá khớp hoặc không thể xác định mặt hàng.
 - Mặc định số lượng là 1 nếu người dùng không nêu số khác. Áp dụng VAT và yêu cầu ảnh theo chỉ dẫn của người dùng và các mặc định đã lưu.
+- Khi người dùng gửi ảnh cùng tổng giá, lấy dữ liệu hàng hóa đọc được từ ảnh và dùng tổng giá đã gửi. Nếu ảnh có đơn giá từng dòng, đối chiếu các dòng và tổng; nếu ảnh có nhiều mặt hàng nhưng thiếu giá riêng, không tự phân bổ tổng giá mà thể hiện thành một dòng bộ/trọn gói; nếu chỉ có một mặt hàng thì tổng giá là đơn giá của mặt hàng. Chỉ hỏi lại khi ảnh không đọc được hoặc không xác định được tổng giá áp dụng cho hạng mục nào. Áp dụng [[memory/facts/bao-gia-tu-anh-va-tong-gia]].
 - Kiểm tra công cụ và cộng sự có sẵn trước khi giao bước nào cho họ. Không giả định workflow đã xóa vẫn chạy.
 
 ## Cách chạy

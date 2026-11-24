@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, biểu-mẫu, bàn-giao, nghiệm-thu]
 created: 2026-10-22
-updated: 2026-11-21
+updated: 2026-11-24
 source:
   - "[[bien-ban/Bien ban ban giao nghiem thu HDKT VIC-YUE 21102026]]"
   - "[[bien-ban/Mau bien ban ban giao nghiem thu hang hoa Victory.docx]]"
@@ -25,8 +25,8 @@ Mẫu này là mẫu mặc định trong phạm vi nêu trên; mẫu riêng cho 
 - Sau hai dòng quốc hiệu, tiêu ngữ chừa một dòng trống trước tiêu đề biên bản. Cột STT chiếm 10% bề rộng bảng để nhãn không xuống dòng.
 - Phần ký chia đều hai bên, không viền; dòng “(Ký, ghi rõ họ tên)” in nghiêng ngay dưới dòng đại diện.
 - Ở phần thông tin của cả Bên Giao và Bên Nhận, để dòng “Đại diện” và “Chức vụ” riêng biệt, mỗi dòng có khoảng chấm dài để viết tay họ tên người đại diện và chức vụ.
-- Số biên bản chỉ theo dạng `DDMMYYYY/BBBGNT/VIC-XXX`; không nối thêm số hóa đơn, số PO, số đơn đặt hàng hoặc hậu tố nào khác.
-- Dòng ngày lập trong nội dung biên bản ghi `...` cho ngày, tháng, năm chưa được cung cấp; không tự điền ngày hóa đơn/đơn đặt hàng vào dòng này. Ngày trong số biên bản vẫn theo quy tắc đánh số riêng nêu trên.
+- Số biên bản theo dạng `BBBGNT/YYYY-NN/VIC-ABC`; `YYYY` là năm lập, `NN` tăng tuần tự theo năm từ `01`, `ABC` là mã viết tắt của đối tác. Dãy số dùng chung cho loại biên bản này, không đặt lại theo từng khách hàng hoặc từng ngày. Tra và cập nhật [[Sổ Theo Dõi Số Văn Bản Victory]]. [[memory/facts/quy-tac-danh-so-chung-tu-victory]]
+- Dòng ngày lập trong nội dung biên bản ghi `...` cho ngày, tháng, năm chưa được cung cấp; không tự điền ngày hóa đơn/đơn đặt hàng vào dòng này. Số hóa đơn, PO và đơn đặt hàng không ghép vào số biên bản.
 - Địa điểm lập là địa chỉ Bên Mua; lập 2 bản, mỗi bên giữ 1 bản.
 
 ## Điền dữ kiện và xác nhận

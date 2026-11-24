@@ -1,5 +1,8 @@
 # Wiki Index
 
+- [[Ưu tiên kiểm soát rủi ro pháp lý Victory]] - Checklist ưu tiên về hợp đồng, chứng từ/thuế, lao động, an toàn lắp đặt, dữ liệu và website; còn cần xác nhận luồng bán online và nhân sự.
+- [[Nguồn chính thức về kiểm soát rủi ro pháp lý của Victory]] - URL và thuộc tính văn bản tra cứu trên Cổng văn bản Chính phủ ngày 24/11/2026.
+
 Catalogue of the wiki's content (updated on every INGEST). Read this file before answering a question.
 
 - [[Lưu câu trả lời có nguồn vào đúng brain]] - Phân biệt link trích dẫn với tri thức đã lưu; lưu nguồn và Wiki vào brain đang chọn, cùng nguyên nhân loop Zalo bị kẹt.
@@ -45,6 +48,10 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Vật Tư Thay Thế Hệ Thống LED Thể Thao Xuân Thiện]] - Ba tên vật tư người dùng xác nhận sẽ thay thế; chưa có số lượng, đơn vị tính hoặc giá.
 - [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]] - Mẫu HTML xanh Victory duy nhất; giữ nguyên nội dung cố định, ảnh đặt dưới mục 1.
 - [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]] - Mẫu Word `.docx` duy nhất; không dùng hoặc xuất HTML hay `.doc`.
+- [[Mẫu Biên Bản Nghiệm Thu Dịch Vụ Victory]] - Mẫu Word ghi nhận phạm vi và kết quả nghiệm thu dịch vụ/hoàn thành công việc.
+- [[Mẫu Biên Bản Tiếp Nhận Bảo Hành Sửa Chữa Đổi Trả Victory]] - Mẫu Word ghi nhận hàng, phụ kiện và tình trạng tại lúc tiếp nhận; kết quả xử lý điền sau.
+- [[Mẫu Đơn Đặt Hàng Xác Nhận Đơn Hàng Victory]] - Mẫu Word chốt hàng/dịch vụ, số lượng, giá và điều kiện giao dịch giữa hai bên.
+- [[Mẫu Phiếu Xác Nhận Thanh Toán Victory]] - Mẫu Word ghi nhận khoản thanh toán đã thực hiện/đã nhận, không thay chứng từ kế toán bắt buộc.
 - [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]] - Mẫu Word chuẩn duy nhất, A4 dọc tông xanh; tiêu đề 15 pt, bảng 8 cột, quy tắc đánh số và giao nhận đã chốt.
 - [[Mẫu Phiếu Nhập Kho Kiêm Kiểm Nhận Hàng Hóa Victory]] - Mẫu Word chuẩn duy nhất, A4 dọc; đầu trang Victory căn hai phía, bảng ghi số lượng chứng từ/thực nhận, tình trạng và xử lý chênh lệch.
 
@@ -60,12 +67,17 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 
 ## Tự học
 - [[Chia sẻ kho tri thức qua bot Zalo nhóm]] - Một nhóm Zalo có thể dùng bot Javis để hỏi đáp trên cùng một brain nếu bot được
-- [[Bộ Mẫu Chứng Từ Theo Khách Hàng Và Quy Trình]] - Duy trì mẫu mặc định, mẫu biến thể theo nhu cầu và nhiều chứng từ khác loại trong cùng một bộ việc; hiện chưa tạo thêm mẫu mới.
+- [[Bộ Mẫu Chứng Từ Theo Khách Hàng Và Quy Trình]] - Danh mục mẫu mặc định/biến thể theo khách hàng; vừa bổ sung nghiệm thu dịch vụ, tiếp nhận bảo hành, xác nhận đơn hàng và xác nhận thanh toán.
 - [[Nguyên tắc giữ nguyên mẫu đã duyệt]] - Duy trì mẫu mặc định cùng các biến thể theo khách hàng/quy trình; chỉ dọn bản sao y hệt hoặc mẫu đã thay thế.
 - [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]] - Mẫu Word `.docx` duy nhất; thanh toán ngay sau khi nhận hàng và các điều khoản mặc định đã chốt.
 - [[Canon PIXMA TS series - mã hỗ trợ lỗi]] - Mã hiển thị đã xác minh cho TS3100 và danh sách model/phạm vi TS8100, TS6100, TS700.
 - [[Canon G1010 - mã nháy đèn]] - Phân biệt 5 nháy Alarm với 5 nháy luân phiên ON/Alarm theo tài liệu Canon; cần support code để kết luận trường hợp cụ thể.
 - [[Canon G1010 series - An Error Occurs]] - Nguồn chính hãng Canon về số lần nháy và support code của G1010 series.
+- [[Canon LBP611Cn - lỗi cơ bản và kiểm tra an toàn]] - Kẹt giấy, nạp giấy, chất lượng in và kết nối theo đúng User Guide.
+- [[Canon LBP613Cdw - lỗi cơ bản và kiểm tra an toàn]] - Tra cứu lỗi theo model, gồm khác biệt cấu tạo khay và kết nối.
+- [[Canon LBP653Cdw - lỗi cơ bản và kiểm tra an toàn]] - Lỗi giấy, chất lượng in và kết nối; lưu ý cấu tạo khay riêng.
+- [[Canon LBP654Cx - lỗi cơ bản và kiểm tra an toàn]] - Tra cứu lỗi theo User Guide dùng chung và khác biệt cổng USB/khay.
+- [[Nguồn Canon i-SENSYS LBP611Cn LBP613Cdw LBP653Cdw LBP654Cx]] - User Guide chính hãng, phạm vi model và mục tra cứu theo trang.
 - [[Epson ET-2800 series - mã hiển thị lỗi]] - Mã LCD và ý nghĩa theo User's Guide ET-2800/ET-2803.
 - [[Brother MFC-J4335DW family - thông báo lỗi]] - Thông báo lỗi người dùng cho MFC-J4335DW/J4345DW/J4535DW; hãng không công bố mã số trong phần đã kiểm tra.
 - [[Brother HL-L2350DW - thông báo lỗi hiển thị]] - Thông báo LCD và nhóm nguyên nhân theo hướng dẫn Brother; phân biệt thông báo người dùng với mã service.
@@ -84,3 +96,191 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Đổi khách hàng trên báo giá]] - Khi đổi khách hàng trên báo giá, cần tra hồ sơ của khách hàng mới và cập nhật th
 - [[Thời điểm lập hóa đơn giá trị gia tăng]] - Hóa đơn lập sai thời điểm là hóa đơn được lập sớm hơn hoặc muộn hơn thời điểm ph
 - [[Tra cứu mã tương thích trước khi báo giá]] - Khi mã máy hoặc mã hộp mực khách hỏi không có trong bảng giá đại lý, tra cứu mã
+
+- [[Brother HL-L2405W và cùng dòng - lỗi cơ bản và xử lý]] - Tra cứu lỗi cho HL-L2405W, HL-L2420DW, HL-L2460DW, HL-L2460DWXL, HL-L2865DW.
+- [[Nguồn Brother HL-L2405W và cùng dòng - thông báo lỗi]] - Tài liệu hãng cho nhóm model trên.
+- [[Brother HL-L5210DN và cùng dòng - lỗi cơ bản và xử lý]] - Tra cứu lỗi cho HL-L5210DN, HL-L5210DW, HL-L6210DW, HL-L6410DN, HL-L6415DW.
+- [[Nguồn Brother HL-L5210DN và cùng dòng - thông báo lỗi]] - Tài liệu hãng cho nhóm model trên.
+- [[Brother DCP-L5510DN và cùng dòng - lỗi cơ bản và xử lý]] - Tra cứu lỗi cho DCP-L5510DN, DCP-L5660DN, MFC-L5710DN, MFC-L5710DW, MFC-L5715DW, MFC-L5717DW, MFC-L5915DW, MFC-L6810DW, MFC-L6915DW.
+- [[Nguồn Brother DCP-L5510DN và cùng dòng - thông báo lỗi]] - Tài liệu hãng cho nhóm model trên.
+- [[Brother DCP-L2640DW và cùng dòng - lỗi cơ bản và xử lý]] - Tra cứu lỗi cho HL-L2465DW, DCP-L2640DW, DCP-L2647DW, HL-L2480DW, MFC-L2760DW, MFC-L2807DW, MFC-L2820DW, MFC-L2820DWXL, MFC-L2900DW, MFC-L2900DWXL, MFC-L2980DW.
+- [[Nguồn Brother DCP-L2640DW và cùng dòng - thông báo lỗi]] - Tài liệu hãng cho nhóm model trên.
+
+## Brother: tra cứu theo từng model
+
+- [[Nguồn Brother nhóm HL-L2405W - Đặt lại bộ đếm trống]] - Tài liệu hãng bổ sung theo model.
+- [[Brother HL-L2405W - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother HL-L2420DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother HL-L2460DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother HL-L2460DWXL - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother HL-L2865DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Nguồn Brother nhóm HL-L5210DN - Xem tuổi thọ linh kiện]] - Tài liệu hãng bổ sung theo model.
+- [[Brother HL-L5210DN - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother HL-L5210DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother HL-L6210DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother HL-L6410DN - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother HL-L6415DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Nguồn Brother nhóm DCP-L5510DN - Đọc cảnh báo trên bảng điều khiển]] - Tài liệu hãng bổ sung theo model.
+- [[Brother DCP-L5510DN - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother DCP-L5660DN - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L5710DN - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L5710DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L5715DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L5717DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L5915DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L6810DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L6915DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Nguồn Brother nhóm DCP-L2640DW - Đặt lại bộ đếm trống]] - Tài liệu hãng bổ sung theo model.
+- [[Brother HL-L2465DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother DCP-L2640DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother DCP-L2647DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L2760DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother HL-L2480DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L2807DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L2820DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L2820DWXL - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L2900DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L2900DWXL - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+- [[Brother MFC-L2980DW - tra cứu lỗi theo model]] - Lỗi và hướng kiểm tra theo đúng model.
+
+
+## Brother: 100 mã học bổ sung
+
+- [[Brother nhóm MFC-J3540DW - lỗi cơ bản]] - 8 model. No Paper Fed, Paper Size Mismatch, Ink Low.
+- [[Nguồn Brother MFC-J3540DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother MFC-J3540DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J3940DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J6540DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J6555DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J6740DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J6940DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J6955DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J6957DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm DCP-T520W - lỗi cơ bản]] - 8 model. Cannot Print Refill [X], Close ink cover., Ink Low, Size Mismatch.
+- [[Nguồn Brother DCP-T520W - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother DCP-T520W - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T525W - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T720DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T725DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T820DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T825DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-T920DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-T925DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm DCP-T530DW - lỗi cơ bản]] - 13 model. Cannot Print Refill [X], Close ink cover., Ink Low, Size Mismatch.
+- [[Nguồn Brother DCP-T530DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother DCP-T530DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T535DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T536DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T580DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T583DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T730DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T735DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T780DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T830DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T835DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-T930DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-T935DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-T980DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm DCP-T310 - lỗi cơ bản]] - 5 model. Cannot Print Refill [X], Close ink cover., Ink Low, Size Mismatch, No Paper Fed.
+- [[Nguồn Brother DCP-T310 - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother DCP-T310 - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T510W - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-T710W - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-T810W - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-T910DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm MFC-T580DW - lỗi cơ bản]] - 2 model. Cannot Print Refill [X], Close ink cover., Ink Low, Size Mismatch.
+- [[Nguồn Brother MFC-T580DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother MFC-T580DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-T780DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm MFC-J1010DW - lỗi cơ bản]] - 3 model. No Paper Fed, Paper Size Mismatch, Ink Low.
+- [[Nguồn Brother MFC-J1010DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother MFC-J1010DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J1012DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J1170DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm MFC-J805DW - lỗi cơ bản]] - 3 model. No Paper Fed, Paper Size Mismatch, Ink Low.
+- [[Nguồn Brother MFC-J805DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother MFC-J805DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J815DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-J995DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm DCP-J1050DW - lỗi cơ bản]] - 2 model. No Paper Fed, Paper Size Mismatch, Ink Low.
+- [[Nguồn Brother DCP-J1050DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother DCP-J1050DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-J1140DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm DCP-L3520CDW - lỗi cơ bản]] - 8 model. Belt End Soon, Cooling Down, Manual Feed, No Paper T1, Jam Tray 1.
+- [[Nguồn Brother DCP-L3520CDW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother DCP-L3520CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-L3560CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3720CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3755CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3760CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3780CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L8340CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L8390CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm DCP-L3515CDW - lỗi cơ bản]] - 6 model. Belt End Soon, Cooling Down, Manual Feed, No Paper T1, Jam Tray 1.
+- [[Nguồn Brother DCP-L3515CDW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother DCP-L3515CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-L3520CDWE - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-L3527CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-L3555CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3740CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3740CDWE - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm HL-L3290CDW - lỗi cơ bản]] - 5 model. Belt End Soon, Cooling Down, Manual Feed, No Paper T1, Jam Tray 1.
+- [[Nguồn Brother HL-L3290CDW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother HL-L3290CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-L3551CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3710CW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3750CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3770CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm DCP-L3510CDW - lỗi cơ bản]] - 4 model. Belt End Soon, Cooling Down, Manual Feed, No Paper T1, Jam Tray 1.
+- [[Nguồn Brother DCP-L3510CDW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother DCP-L3510CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-L3517CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-L3550CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3730CDN - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm HL-L3210CW - lỗi cơ bản]] - 4 model. Belt End Soon, Cooling Down, Manual Feed, No Paper T1, Jam Tray 1.
+- [[Nguồn Brother HL-L3210CW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother HL-L3210CW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother HL-L3230CDN - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother HL-L3230CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother HL-L3270CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm HL-L3300CDW - lỗi cơ bản]] - 2 model. Belt End Soon, Cooling Down, Manual Feed, No Paper T1, Jam Tray 1.
+- [[Nguồn Brother HL-L3300CDW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother HL-L3300CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L3765CDW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm DCP-L2531DW - lỗi cơ bản]] - 13 model. No Paper, Manual Feed, Replace Drum, Cooling Down.
+- [[Nguồn Brother DCP-L2531DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother DCP-L2531DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-L2535DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-L2550DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother HL-L2395DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2710DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2713DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2715DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2716DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2730DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2750DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2751DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2770DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2771DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm HL-L2390DW - lỗi cơ bản]] - 5 model. No Paper, Manual Feed, Replace Drum, Cooling Down.
+- [[Nguồn Brother HL-L2390DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother HL-L2390DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2690DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2690DWXL - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2717DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-L2750DWXL - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm DCP-7090DW - lỗi cơ bản]] - 4 model. No Paper, Manual Feed, Replace Drum, Cooling Down.
+- [[Nguồn Brother DCP-7090DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother DCP-7090DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-7190DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-7195DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother MFC-7895DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm HL-L2325DW - lỗi cơ bản]] - 3 model. No Paper, No Paper T1, Jam Tray 1, Manual Feed, Replace Drum.
+- [[Nguồn Brother HL-L2325DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother HL-L2325DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother HL-L2370DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother HL-L2370DWXL - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother nhóm HL-L2464DW - lỗi cơ bản]] - 2 model. No Paper T1, Jam Tray 1, Manual Feed, Replace Drum, Cooling Down.
+- [[Nguồn Brother HL-L2464DW - bảng lỗi cho đợt 100 mã]] - Bảng lỗi chính hãng.
+- [[Brother HL-L2464DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.
+- [[Brother DCP-L2605DW - tra cứu lỗi theo model]] - Tra đúng mã máy và nối tiếp bước xử lý.

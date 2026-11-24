@@ -243,7 +243,29 @@
       "error": "",
       "agent": "phuong-sai-vat",
       "last_slot": 1795221960.0
+    },
+    {
+      "id": "r_b556ab05b4",
+      "text": "Mỗi lượt đặt mục tiêu học kỹ thuật cho 30 model máy in, ưu tiên model Victory hay gặp. Đọc AGENTS.md và wiki/index.md, kiểm tra nội dung đã có. Nghiên cứu riêng từng model và hậu tố, ưu tiên tài liệu hãng đúng phiên bản, gồm hướng dẫn sử dụng, bảng mã lỗi và tài liệu bảo trì nếu có. Với từng model, ghi 3–5 lỗi có nguồn khi đủ tài liệu: mã hoặc triệu chứng, nguyên nhân khả dĩ, bước kiểm tra an toàn, bước tiếp theo theo từng kết quả, khi nào cần kỹ thuật kiểm tra trực tiếp. Làm rõ khác biệt theo biến thể và chỉ dẫn dùng chung có xác nhận từ hãng. Mỗi model cần mục tra cứu riêng, dùng liên kết tới phần dùng chung để tránh lặp. Với model đã có Wiki, đào sâu điểm còn thiếu. Lưu từng model đã đối chiếu vào Wiki Brain Default, kèm trang nguồn có URL, mục hoặc số trang nếu có và ngày truy cập. Cập nhật wiki/index.md, append wiki/log.md, đọc lại và xác minh liên kết. Nếu chưa đủ nguồn hoặc chưa đủ thời gian thì ghi rõ phần thiếu, báo số model hoàn thành thực tế và tiếp tục những model còn dang dở ở lượt sau. Báo kết quả tại khung chat của chủ.",
+      "mode": "task",
+      "due_at": 1795539600.0,
+      "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
+      "repeat_min": 0,
+      "cron": "0 0 * * *",
+      "script": "",
+      "label": "Luna học kỹ thuật 30 mã máy in mỗi đợt",
+      "status": "pending",
+      "muc_quyen": "auto",
+      "remember_last": false,
+      "speak": false,
+      "call": false,
+      "created_by": "javis_schedule",
+      "created_at": 1795507033.4365563,
+      "fired_at": 0.0,
+      "result": "",
+      "error": "",
+      "agent": "luna-vu"
     }
   ],
-  "updated": 1795482045.6460228
+  "updated": 1795507979.1352732
 }

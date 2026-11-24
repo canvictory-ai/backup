@@ -30,7 +30,18 @@ Tra số kế tiếp trong [[Sổ Theo Dõi Số Văn Bản Victory]] trước k
 - Biên bản đối chiếu công nợ: `BBĐCCN/YYYY-NN/VIC-ABC`.
 - Giấy đề nghị thanh toán: `DNTT/YYYY-NN/VIC-ABC`.
 - Biên bản làm việc Xuân Thiện: `BBLV/YYYY-NN/VIC-XT`.
-- Với ba loại biên bản/đề nghị trên, `NN` tăng từ `01` riêng theo loại và năm; `ABC` là mã viết tắt khách hàng; mã Xuân Thiện là `XT`. Năm mới bắt đầu lại từ `01` hoặc `001` tương ứng. [[memory/facts/quy-tac-danh-so-chung-tu-victory]]
+- Biên bản bàn giao: `BBBGNT/YYYY-NN/VIC-ABC`, tăng từ `01` theo từng năm cho toàn bộ biên bản bàn giao, không đặt lại theo ngày hoặc từng khách hàng.
+- Biên bản nghiệm thu dịch vụ: `BBNTDV/YYYY-NN/VIC-ABC`.
+- Biên bản tiếp nhận bảo hành/sửa chữa/đổi trả: `BBTN/YYYY-NN/VIC-ABC`.
+- Đơn đặt hàng/xác nhận đơn hàng: `XNDH/YYYY-NN/VIC-ABC`.
+- Phiếu xác nhận thanh toán: `XNTT/YYYY-NN/VIC-ABC`.
+- Với các dạng `NN`, tăng từ `01` riêng theo loại và năm; `ABC` là mã viết tắt khách hàng; mã Xuân Thiện là `XT`. Phiếu nhập kho dùng `NNN`, tăng từ `001` theo năm. Năm mới bắt đầu lại từ `01` hoặc `001` tương ứng. Số biên bản bàn giao cũ giữ nguyên; số mới trong năm 2026 bắt đầu tại `BBBGNT/2026-01/VIC-ABC`. [[memory/facts/quy-tac-danh-so-chung-tu-victory]]
+
+## Ghi sổ hợp đồng từ ảnh
+
+- Khi người dùng gửi ảnh hợp đồng kèm tổng giá trị, đọc ảnh để trích các thông tin nhận diện và ghi vào sổ theo dõi hợp đồng `hop-dong/So theo doi hop dong Victory.xlsx`; dùng tổng giá người dùng cung cấp làm giá trị ghi sổ. Không yêu cầu người dùng gõ lại thông tin đọc được trong ảnh.
+- Nếu trường nào không có trong ảnh hoặc không đọc rõ, ghi `...` hoặc đánh dấu cần xác minh theo cấu trúc sổ; không đoán. Nếu chưa có ảnh hợp đồng thì chưa thêm bản ghi chỉ dựa trên tổng tiền.
+- Trước khi thêm, kiểm tra đối tác, số hợp đồng và ngày để tránh ghi trùng; nếu phát hiện số trùng hoặc dữ liệu bất thường, giữ riêng các hồ sơ và báo người dùng. [[memory/facts/ghi-so-hop-dong-tu-anh-va-tong-gia]]
 
 ## Kiểm tra trước khi gửi
 
@@ -49,5 +60,7 @@ Các mẫu đang lưu là bộ mẫu hiện tại và đủ dùng cho nhu cầu 
 - [[Mẫu Báo Giá Dùng Chung Victory]]
 - [[Mẫu Hợp Đồng Mua Bán Victory Bán Ra]] và [[Mẫu Hợp Đồng Nguyên Tắc Mua Bán Hàng Hóa]]
 - [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]] và [[Mẫu Biên Bản Làm Việc Công Ty Thể Thao Xuân Thiện]]
+- [[Mẫu Biên Bản Nghiệm Thu Dịch Vụ Victory]] và [[Mẫu Biên Bản Tiếp Nhận Bảo Hành Sửa Chữa Đổi Trả Victory]]
+- [[Mẫu Đơn Đặt Hàng Xác Nhận Đơn Hàng Victory]] và [[Mẫu Phiếu Xác Nhận Thanh Toán Victory]]
 - [[Mẫu Phiếu Xuất Kho Kiêm Bàn Giao Hàng Hóa Victory]] và [[Mẫu Phiếu Nhập Kho Kiêm Kiểm Nhận Hàng Hóa Victory]]
 - [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]] và [[Mẫu Giấy Đề Nghị Thanh Toán Victory]]

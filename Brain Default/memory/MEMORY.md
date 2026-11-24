@@ -1,5 +1,5 @@
 # Javis Memory - Index
-- [Bộ mẫu chung và mẫu đặc thù](facts/bo-mau-chung-va-mau-dac-thu.md) - Có mẫu mặc định và biến thể theo khách hàng/quy trình; một bộ việc có thể gồm nhiều loại chứng từ. Bộ hiện tại đã đủ, chưa tạo thêm.
+- [Bộ mẫu chung và mẫu đặc thù](facts/bo-mau-chung-va-mau-dac-thu.md) - Có mẫu mặc định và biến thể theo khách hàng/quy trình; một bộ việc có thể gồm nhiều loại chứng từ. Đã bổ sung mẫu nghiệm thu dịch vụ, tiếp nhận bảo hành/sửa chữa/đổi trả, đơn đặt hàng/xác nhận đơn hàng và phiếu xác nhận thanh toán theo yêu cầu.
 - [Chuẩn hóa lập hồ sơ Victory](facts/chuan-hoa-lap-ho-so-victory.md) - Tiếp nhận dữ liệu có cấu trúc, đối chiếu nguồn, dùng `...` cho dữ liệu thiếu, theo dõi số và rà soát tệp trước khi gửi.
 - [Gợi ý chuyển việc cho đúng cộng sự](facts/goi-y-chuyen-viec-dung-cong-su.md) - Khi người dùng giao nhầm loại việc cho Javis Core, gợi ý chuyển sang cộng sự chuyên trách; không khẳng định đã chuyển nếu chưa có xác nhận.
 - [Phạm vi hiện tại của bot Luna trên Zalo](facts/pham-vi-hien-tai-cua-bot-luna-tren-zalo.md) - Luna chỉ trả lời kỹ thuật trong nhóm Zalo được thêm vào và được chủ cho phép; theo riêng từng yêu cầu và gắn trả lời với tin hỏi.
@@ -48,6 +48,8 @@
 - [Ưu tiên tự động hóa mẫu hợp đồng](facts/tu-dong-hoa-mau-hop-dong.md) - Khi soạn mẫu hợp đồng dùng lại, ưu tiên điền sẵn thông tin và điều khoản mặc định đã được người dùng xác nhận để giảm trường phải nhập.
 - [Bố cục hợp đồng Victory](facts/bo-cuc-hop-dong-victory.md) - Trong hợp đồng mua bán Victory, bên mua là Bên A, Victory là Bên B; bảng kê hàng hóa/dịch vụ đặt trong điều khoản của hợp đồng, không dùng phụ lục.
 - [Mẫu hợp đồng mua bán Victory bán ra](facts/mau-hop-dong-victory-ban-ra.md) - Dùng mẫu Word đã duyệt làm mặc định khi Victory là Bên Bán; cho phép biến thể theo khách hàng/giao dịch; 8 cột hóa đơn GTGT, đại diện in đậm, chỉ số khoản 2.1 in đậm.
+- [Quy tắc đánh số chứng từ còn lại](facts/quy-tac-danh-so-chung-tu-victory.md) - Phiếu nhập kho, đối chiếu công nợ, đề nghị thanh toán, biên bản làm việc Xuân Thiện, nghiệm thu dịch vụ, tiếp nhận bảo hành, đơn hàng và xác nhận thanh toán có dãy số riêng theo năm; tra/cập nhật sổ văn bản.
+- [Ghi sổ hợp đồng từ ảnh và tổng giá](facts/ghi-so-hop-dong-tu-anh-va-tong-gia.md) - Khi người dùng gửi ảnh hợp đồng kèm tổng giá, trích thông tin đọc được, dùng tổng giá đã cung cấp và cập nhật sổ hợp đồng; không đoán trường thiếu.
 - [Quy tắc đánh số hợp đồng Victory](facts/quy-tac-danh-so-hop-dong-victory.md) - Hợp đồng mua bán dùng `HĐKT/YYYY-NN/VIC-ABC`; hợp đồng nguyên tắc dùng `HĐNT/YYYY-NN/VIC-ABC`, với dãy tăng dần theo năm và loại, ABC là mã viết tắt đối tác.
 - [Thông tin đã xác nhận cho hợp đồng Hưng Thịnh](facts/hop-dong-hung-thinh-thong-tin-da-xac-nhan.md) - Hạn mức tín dụng và số điện thoại đã được người dùng xác nhận cho dự thảo hợp đồng với Công ty TNHH Hưng Thịnh.
 - [Dùng Javis trên iPhone bằng Chrome](facts/dung-javis-tren-iphone-bang-chrome.md) - Khi hướng dẫn thao tác trên Javis, ưu tiên chỉ dẫn phù hợp với iPhone và Chrome.
@@ -98,7 +100,7 @@
 - [Hộp mực Brother DCP-B7535DW](facts/muc-brother-dcp-b7535dw.md) - Tra mã và giá hộp mực đã được xác nhận cho Brother DCP-B7535DW.
 - [Ưu tiên trả lời pháp lý chi tiết, có trích dẫn](facts/uu-tien-tra-loi-phap-ly-chi-tiet-co-trich-dan.md) - Khi hỏi về pháp luật, người dùng đánh giá cao câu trả lời chi tiết có căn cứ luật và nguồn trích dẫn.
 - [Giá sửa máy in Canon 2900, 3018 và 330](facts/gia-sua-may-in-2900-3018-330.md) - Tra giá sửa máy in Canon 2900, 3018 hoặc 330 đã ghi nhận trong nhóm.
-- [Báo giá trọn bộ khi người dùng cho giá gói](facts/bao-gia-tron-bo-khi-nguoi-dung-cho-gia-goi.md) - Khi bạn đưa một mức giá chung cho nhiều món, thể hiện thành một dòng bộ trọn gói thay vì tự chia giá cho từng món.
+- [Lập báo giá từ ảnh và tổng giá](facts/bao-gia-tu-anh-va-tong-gia.md) - Đọc thông tin từ ảnh; dùng tổng giá được gửi, không tự chia giá giữa nhiều hạng mục nếu ảnh không có giá từng dòng.
 - [Giá máy in Canon LBP2900 cũ](facts/gia-may-in-cu-canon-lbp-2900.md) - Giá được báo trong nhóm Zalo là 2.000K cho máy in Canon LBP2900 cũ.
 - [Giá Canon LBP 2900 nhập khẩu không vỏ](facts/gia-canon-lbp-2900-nhap-khau-khong-vo.md) - Giá người dùng cung cấp cho Canon LBP 2900 nhập khẩu không vỏ.
 - [Giá Canon LBP 2900 nhập khẩu không vỏ](facts/gia-canon-lbp2900-nhap-khau-khong-vo.md) - Khi báo giá đúng biến thể Canon LBP 2900 nhập khẩu không vỏ, dùng giá 3.150.000đ do người dùng cung cấp.
@@ -231,5 +233,6 @@
 - [Không cần giữ bản gốc mẫu để tra cứu](facts/khong-can-luu-ban-goc-mau-de-tra-cuu.md) - Bạn không cần giữ bản gốc hoặc tài liệu tham chiếu cũ của mẫu giấy tờ chỉ để tra cứu về sau.
 - [Luna chỉ hỗ trợ kỹ thuật, không chuyển đơn](facts/luna-chi-ho-tro-ky-thuat-khong-chuyen-don.md) - Đã chốt gỡ hoàn toàn nhánh chuyển đơn của Luna khỏi mã nguồn.
 - [Phần mềm quản trị doanh nghiệp đang sử dụng](facts/phan-mem-quan-tri-doanh-nghiep-dang-su-dung.md) - Công ty đang dùng KiotViet, MISA AMIS, MISA meInvoice và MISA ASP; người dùng vẫn nhập liệu tốt trên các phần mềm hiện tại.
-- [Tên miền đang sử dụng](facts/ten-mien-dang-su-dung.md) - Bạn đang sử dụng maytinhnamdinh.com và vic-tech.com.vn.
+- [Tên miền đang sử dụng](facts/ten-mien-dang-su-dung.md) - Bạn đang dùng maytinhnamdinh.com và vic-tech.com.vn; hai website chỉ giới thiệu công ty/sản phẩm, không nhận đặt hàng trực tuyến (xác nhận 24/11/2026).
 - [Muốn theo dõi cơ hội bán hàng trong Javis](facts/theo-doi-co-hoi-ban-hang-trong-javis.md) - Người dùng muốn có module theo dõi cơ hội bán hàng ngay trong Javis.
+- [Bộ chứng từ tiếp theo dùng báo giá VIC-118-2026](facts/bo-chung-tu-tiep-theo-dung-bao-gia-vic-118-2026.md) - Bộ chứng từ bán ra tiếp theo dùng số báo giá VIC-118-2026.

@@ -1,8 +1,9 @@
 ---
-type: preference
+type: decision
 provenance: user
 origin: javis-learned
-created: 2026-10-21
-updated: 2026-10-21
+created: 2026-11-24
+updated: 2026-11-24
+source: chat 2026-11-24 (cab401ed)
 ---
-Bạn muốn Javis mỗi ngày nghiên cứu một model máy in, tổng hợp các lỗi cơ bản có nguồn và lưu vào wiki để tra cứu về sau. Khi tra cứu lỗi, chỉ cần nêu lỗi là gì hoặc bộ phận liên quan, không cần cách khắc phục. Quyết định này thay thế quy ước cũ chỉ cập nhật lỗi máy in khi bạn yêu cầu.
+Mục tiêu học 30 mã máy in mỗi đợt, chạy lúc 00:00 hằng ngày theo giờ Việt Nam vì người dùng cho rằng khi đó đường truyền mạng tốt. Nghiên cứu sâu theo từng model và hậu tố, lưu mã lỗi, dấu hiệu, nguyên nhân khả dĩ, bước kiểm tra và cách xử lý dựa trên tài liệu; model nào thiếu tài liệu thì nêu rõ. Quy tắc này thay lịch học một mã mỗi ngày lúc 18:00.
