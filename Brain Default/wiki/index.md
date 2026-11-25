@@ -1,5 +1,9 @@
 # Wiki Index
 
+- [[Lô Canon ngày 25-11-2026 - tiến độ đào sâu]] - Lô 30 model Canon được lập phạm vi; lượt này xác minh bổ sung một phần nguồn nhưng 0/30 đạt tiêu chí hoàn thành mới.
+- [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]] - Trang lỗi và thông báo Canon TS3100; cần đọc tiếp phạm vi model và mã chi tiết.
+- [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]] - Mục lục FAQ Canon TS5300; thiếu đối chiếu mã cụ thể.
+
 - [[Lô HP ngày 24-11-2026 - danh sách model]] - Danh sách cố định 100 model thuộc ranh giới lô HP 24/11; ghi rõ 9 model có cập nhật đào sâu mới và 91 model chưa tính mới.
 
 - [[Nguồn Canon TS3300 - hướng dẫn và mã lỗi]] - Phạm vi 15 model và 8 support code đã đối chiếu trực tiếp, gồm thao tác người dùng và điểm chuyển dịch vụ; truy cập 2026-11-25.

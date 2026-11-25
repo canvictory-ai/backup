@@ -2,15 +2,15 @@
 type: wiki
 status: active
 tags: [wiki, nguồn, canon, máy-in]
-created: 2026-11-24
-updated: 2026-11-24
-source: "https://ij.manual.canon/ij/webmanual/Manual/All/TS3100%20series/EN/NTR/faq_001.html"
+created: 2026-11-25
+updated: 2026-11-25
+source: "https://ij.manual.canon/ij/webmanual/Manual/All/TS3100%20series/EN/NTR/ntr_t_07_01_c.html"
 ---
 
 # Nguồn Canon TS3100 - hướng dẫn và mã lỗi
 
-- Canon User Guide/FAQ: [TS3100 series](https://ij.manual.canon/ij/webmanual/Manual/All/TS3100%20series/EN/NTR/faq_001.html)
-- Canon List of Support Code for Error: [TS3100 series](https://ij.manual.canon/ij/webmanual/ErrorCode/TS3100%20series/EN/ERR/err_contents0100.html)
-- Ngày truy cập: 2026-11-24. Mục tra cứu: Frequently Asked Questions / Errors and Messages / List of Support Code for Error. Đây là trang HTML, không có số trang.
-- Canon ghi rõ phạm vi model: TS3110, TS3120, TS3122, TS3129, TS3140, TS3150, TS3151, TS3160, TS3165, TS3166, TS3170, TS3170S, TS3177S, TS3180, TS3190, TS3195. Các model có trang tra cứu riêng trong đợt này: TS3150, TS3151, TS3160, TS3165, TS3170, TS3170S, TS3177S, TS3190, TS3195.
-- Áp dụng hướng dẫn và support code trong phạm vi Canon chỉ định; mã lỗi không được suy rộng sang model khác.
+- Canon PIXMA TS3100 series, mục **An Error Occurs**: [URL](https://ij.manual.canon/ij/webmanual/Manual/All/TS3100%20series/EN/NTR/ntr_t_07_01_c.html). Truy cập 2026-11-25; trang HTML, không số trang.
+- Mục tổng quát ghi ví dụ E02/1000, E03/1203/1300, E04/168A, E05/1401/1403/1430/1485, E08/1700/1712/1714, E61/3412; các printer error gồm P02/5100, P07/5B00/5B12/5B14, nhóm mã khác và P10/B202-B205. Cần mở từng trang support code để ghi bước xử lý cụ thể; không suy nguyên nhân từ nhóm mã.
+- Hướng dẫn mức chung trong TS3100: [Message (Support Code) Appears](https://ij.manual.canon/ij/webmanual/Manual/All/TS3100%20series/EN/NTR/ntr_t_07_02.html). Truy cập 2026-11-25; mục lỗi kết nối USB nêu kiểm tra nguồn, dây, bỏ USB hub để thử kết nối trực tiếp và kiểm tra driver.
+- Chưa xác minh danh sách model/revision được bao phủ, bảng paper jam riêng và nội dung bảo trì trong lượt này. Chỉ áp dụng khi trang hãng xác nhận đúng hậu tố.
+

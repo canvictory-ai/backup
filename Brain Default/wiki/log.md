@@ -380,3 +380,8 @@ Time-ordered log (append-only). Each entry: ## [YYYY-MM-DD] kind | title.
 - Hóa đơn 00001097: số biên bản `BBBGNT/2026-02/VIC-MAP`, gồm phần mềm Creative Cloud Pro for teams (2 bộ) và Windows 11 Pro (9 bộ).
 - Hóa đơn 00001098: số biên bản `BBBGNT/2026-03/VIC-MAP`, gồm 5 dòng hàng, từ điện thoại Samsung, máy tính bảng Lenovo, bộ giao tiếp công nghiệp đến laptop Lenovo ThinkBook.
 - Ngày bàn giao thực tế và đại diện bên mua chưa được cung cấp nên để `...`. Sổ số văn bản đã cập nhật số bàn giao tiếp theo là `BBBGNT/2026-04/VIC-ABC`. [[Sổ Theo Dõi Số Văn Bản Victory]] [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]]
+## [2026-11-25] update | Lập phạm vi đào sâu 30 model Canon
+
+- Rà index trước khi chọn model; lập lô 9 TS3100, 15 TS3300 và 6 TS5300 để tránh tính lại model đã có. Đọc trực tiếp Canon TS3100 “An Error Occurs”, TS3100 “Message (Support Code) Appears” và FAQ TS5300; ghi URL/mục/ngày truy cập vào trang nguồn.
+- Kết quả hoàn thành mới: 0/30 model. TS3300 đã được đào sâu trước đó, không tính trùng; TS3100/TS5300 còn thiếu đối chiếu phạm vi model, mã riêng, kẹt giấy và bảo trì nên chưa ghi thành hướng dẫn model. Tạo trang tiến độ để tiếp tục ở lượt sau. [[Lô Canon ngày 25-11-2026 - tiến độ đào sâu]] [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]] [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
+
