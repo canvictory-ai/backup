@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L4260 User Guide]]"
 ---
 
@@ -25,6 +25,12 @@ Ghi model trên nhãn, trạng thái đèn, loại giấy, mức mực và mẫu
 
 ## Khác biệt model/biến thể
 
-Nguồn áp dụng cho L4260 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Với L1300/L1800, guide nêu rõ cả hai model; thao tác bảng đèn cần đối chiếu kiểu bảng điều khiển thực tế. [[Epson L4260 User Guide]]
+Nguồn áp dụng cho L4260 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Không áp dụng bảng đèn/mã của model khác nếu guide không liên kết rõ và bảng điều khiển không khớp. [[Epson L4260 User Guide]]
+
+## LCD code đã xác minh trong guide L4260
+
+Online guide L4260 liên kết tới trang Product Status Messages của Epson ET-2850. E-01 printer error: tắt/bật, kiểm tra kẹt giấy, còn lỗi thì Epson; E-02 scanner error: tắt/bật; E-11 ink pad cần thay: liên hệ Epson; W-01 kẹt giấy: lấy giấy và nhấn nút được chỉ trên LCD, nếu còn thì tắt/bật; W-11 pad gần hết, liên hệ Epson, nhấn OK để tiếp tục nếu lựa chọn xuất hiện. I-22/I-23/I-31 là cài Wi-Fi; I-41 là Paper Setup Auto Display tắt khiến AirPrint không dùng; I-60 là hỗ trợ WSD của máy tính. Recovery Mode là firmware update thất bại, thử lại qua USB. Guide liên kết tới trang ET-2850, nên trước khi dùng phải xác nhận đúng loại LCD/menu; đây là mã người dùng, không phải mã service. [[Epson L4260 User Guide]]
+
+Không tự thay ink pad; chuyển Epson/kỹ thuật nếu printer/scanner error, kẹt giấy hoặc recovery còn sau bước hãng. [[Epson L4260 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

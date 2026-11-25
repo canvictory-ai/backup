@@ -3,13 +3,26 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L6570 User Guide]]"
 ---
 
 # Epson L6570 - tra cứu lỗi cơ bản
 
-**Nhận diện:** chỉ áp dụng khi nhãn máy ghi đúng Epson L6570. Tài liệu hãng được gắn với model này; không tự áp dụng mã đèn hoặc trình tự của model gần tên. [[Epson L6570 User Guide]]
+**Nhận diện:** guide HTML của Epson ghi phạm vi chung ET-5855 Series/ET-5850 Series/L6570 Series; phần dưới chỉ dùng các thông báo LCD và thao tác được nêu cho series này. Đây là thông báo/trạng thái người dùng, không phải mã service. [[Epson L6570 User Guide]]
+
+## Thông báo đã xác minh
+
+- **Printer error:** tắt/bật lại sau khi kiểm tra đã gỡ hết giấy và vật liệu bảo vệ. Nếu vẫn hiện, liên hệ Epson; manual ghi một số tính năng không in như scan vẫn có thể dùng với một dạng lỗi. [[Epson L6570 User Guide]]
+- **Paper out in XX:** LCD chỉ rõ nguồn giấy; nạp đúng khổ/loại vào khay được nêu và đẩy cassette vào hết. [[Epson L6570 User Guide]]
+- **Borderless ink pad nearing/end of service life:** gần hết thì OK cho tiếp tục; hết thì không in tràn lề nhưng vẫn có thể in có lề. Pad không phải linh kiện người dùng tự thay; liên hệ Epson để thay. [[Epson L6570 User Guide]]
+- **Recovery Mode:** cập nhật firmware thất bại. Dùng cáp USB và làm theo hướng dẫn trên website Epson khu vực; không cập nhật qua mạng trong recovery mode. [[Epson L6570 User Guide]]
+- **No dial tone / Fax job incomplete:** kiểm tra dây và đường điện thoại; nếu qua tổng đài PBX/Terminal Adapter, cấu hình Dial Tone Detection theo hướng dẫn. Tắt dò âm có thể khiến máy bỏ chữ số đầu và gọi sai, nên không tắt thử khi chưa xác nhận cấu hình tổng đài. [[Epson L6570 User Guide]]
+- **Kẹt giấy:** theo animation LCD, lấy cả mảnh giấy rách rồi nhấn OK. Không đưa tay vào khi bấm nút, kéo nhẹ theo hướng thoát; không nghiêng/lật máy vì có thể rò mực. [[Epson L6570 User Guide]]
+
+## Phân biệt và chuyển kỹ thuật
+
+Thông báo giấy chỉ nguồn nạp; lỗi Printer error còn lại sau khi loại giấy/vật liệu bảo vệ, lỗi scanner hoặc lỗi cơ lặp lại cần Epson/kỹ thuật viên. Ink pad đến hạn là thông báo bảo trì, không phải mã lỗi cho phép reset thay cho thay pad. Ghi nguyên văn LCD, nguồn giấy và thời điểm phát sinh trước khi chuyển. [[Epson L6570 User Guide]]
 
 ## Lỗi thường gặp và hướng kiểm tra
 

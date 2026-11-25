@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L485 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L485. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L485 User Guide]]
+
+## LCD code đã xác minh theo L485 Series
+
+Guide hãng ghi L485 Series. Trang 113-114: E-01 printer error, mở scanner lấy giấy/vật bảo vệ rồi tắt bật; E-02 scanner error, tắt bật; E-11 ink pad cần thay, không phải người dùng tự sửa, liên hệ Epson; W-01 kẹt giấy, lấy giấy rồi nhấn nút mà LCD chỉ ra, đôi khi cần tắt bật; W-11 pad gần hết, liên hệ Epson, có thể nhấn X để tiếp tục nếu máy cho phép. I-22/I-23/I-31 là hướng dẫn cài Wi-Fi; I-41 cảnh báo Paper Configuration tắt nên một số tính năng/AirPrint không dùng được; I-60 là tương thích WSD trên máy tính. Recovery Mode nghĩa là cập nhật firmware thất bại, chỉ kết nối USB để phục hồi, không cập nhật qua mạng lúc này. Đây là LCD message/code hướng người dùng; không đồng nhất với mã service. [[Epson L485 User Guide]]
+
+Lưu nguyên mã trên LCD và tránh reset network trước khi ghi cấu hình. Nếu scanner/printer error còn sau khởi động, pad cần thay, hoặc recovery mode thất bại, dừng và chuyển Epson/kỹ thuật. [[Epson L485 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

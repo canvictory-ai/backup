@@ -1,29 +1,27 @@
 ---
 type: wiki
 status: active
-tags: [wiki, may-in, epson, tra-cuu-loi]
+tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson M3170 User Guide]]"
 ---
 
 # Epson M3170 - tra cứu lỗi cơ bản
 
-**Nhận diện:** chỉ áp dụng khi nhãn máy ghi đúng Epson M3170. Tài liệu hãng được gắn với model này; không tự áp dụng mã đèn hoặc trình tự của model gần tên. [[Epson M3170 User Guide]]
+**Nhận diện:** Epson M3170. Đọc nguyên văn thông báo trên LCD; thông báo không tự đồng nghĩa với service code. [[Epson M3170 User Guide]]
 
-## Lỗi thường gặp và hướng kiểm tra
+## Thông báo, nguyên nhân và xử lý ban đầu
 
-- **Không nạp giấy, kẹt giấy hoặc giấy không ra:** kiểm tra giấy có đúng loại/khổ, nạp đúng chiều và không quá vạch; xem đường giấy có vật cản nhìn thấy được. Lấy giấy theo hướng dẫn của máy, không giật mạnh. [[Epson M3170 User Guide]]
-- **Máy không in:** kiểm tra nguồn, đèn/trạng thái và kết nối; chạy product check nếu User's Guide của model hỗ trợ. Nếu bản kiểm tra của máy in được, tiếp tục kiểm tra hàng đợi, cáp/kết nối và driver trên thiết bị gửi lệnh. [[Epson M3170 User Guide]]
-- **Bản in trắng, nhạt, sọc hoặc thiếu màu:** kiểm tra mực theo cách hãng chỉ dẫn và in nozzle check. Chỉ chạy print-head cleaning khi mẫu kiểm tra cho thấy thiếu nét; chu trình làm sạch tiêu thụ mực. [[Epson M3170 User Guide]]
-- **Bản in nhòe, sai màu, lệch hoặc sai lề:** kiểm tra loại/khổ giấy và thiết lập trong driver; dùng hướng dẫn căn chỉnh đầu in khi dấu hiệu phù hợp. [[Epson M3170 User Guide]]
+- **Printer Error:** lấy giấy/vật liệu bảo vệ mắc bên trong; nếu thông báo còn, liên hệ Epson.
+- **Paper out in XX:** nạp giấy đúng khay/cassette được LCD nêu và đẩy cassette vào hết.
+- **No dial tone:** kiểm tra đường fax và cấu hình tổng đài với quản trị viên; thay Line Type sang PBX chỉ khi hệ thống thực sự dùng PBX.
+- **Maintenance Box nearing end / không nhận:** kiểm tra trạng thái maintenance box trên LCD; nếu gần hết thì chuẩn bị thay, nếu không nhận thì kiểm tra lắp đúng. Không chạy head cleaning khi hộp bảo trì không đủ dung lượng.
+- **Recovery Mode:** firmware lỗi; kết nối USB để cập nhật lại theo Epson.
+- **Kẹt giấy:** kiểm tra từng vùng nạp, mặt trước, bên trong, nắp sau và ADF theo chỉ dẫn LCD; không chạm cơ cấu khi máy đang hoạt động.
 
-## An toàn và bước tiếp theo
+Ghi lại thông báo, mã nếu có, model/biến thể trên tem và kết quả từng bước trước khi chuyển kỹ thuật. Không mở cụm điện/cơ khi chưa có hướng dẫn cho người dùng. [[Epson M3170 User Guide]]
 
-Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu nozzle check. Tắt máy trước khi gỡ giấy nhìn thấy được; không dùng vật kim loại, không tháo cụm bên trong và không chạm đầu in khi máy đang hoạt động. Nếu giấy mắc sâu, có rò mực/tiếng cơ bất thường, lỗi trạng thái lặp lại, hoặc các bước trong guide không khắc phục được, dừng thao tác và chuyển kỹ thuật viên. [[Epson M3170 User Guide]]
+## Phạm vi
 
-## Phạm vi biến thể
-
-Nguồn được lập cho model M3170. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson M3170 User Guide]]
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+Guide L3170 series có User Guide M3170 chính hãng. Không tìm thấy bảng LCD code dạng E/W riêng trong mục status đã mở; nội dung này chỉ nêu thông báo và thao tác được guide ghi trực tiếp, không tính là đã xác minh bộ mã service. Các thao tác chỉ áp dụng trong phạm vi guide nêu. [[Epson M3170 User Guide]]

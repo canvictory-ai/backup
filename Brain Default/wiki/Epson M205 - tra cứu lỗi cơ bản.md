@@ -1,29 +1,27 @@
 ---
 type: wiki
 status: active
-tags: [wiki, may-in, epson, tra-cuu-loi]
+tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson M205 User Guide]]"
 ---
 
 # Epson M205 - tra cứu lỗi cơ bản
 
-**Nhận diện:** chỉ áp dụng khi nhãn máy ghi đúng Epson M205. Tài liệu hãng được gắn với model này; không tự áp dụng mã đèn hoặc trình tự của model gần tên. [[Epson M205 User Guide]]
+**Nhận diện:** Epson M205. Đọc nguyên văn thông báo trên LCD; thông báo không tự đồng nghĩa với service code. [[Epson M205 User Guide]]
 
-## Lỗi thường gặp và hướng kiểm tra
+## Thông báo, nguyên nhân và xử lý ban đầu
 
-- **Không nạp giấy, kẹt giấy hoặc giấy không ra:** kiểm tra giấy có đúng loại/khổ, nạp đúng chiều và không quá vạch; xem đường giấy có vật cản nhìn thấy được. Lấy giấy theo hướng dẫn của máy, không giật mạnh. [[Epson M205 User Guide]]
-- **Máy không in:** kiểm tra nguồn, đèn/trạng thái và kết nối; chạy product check nếu User's Guide của model hỗ trợ. Nếu bản kiểm tra của máy in được, tiếp tục kiểm tra hàng đợi, cáp/kết nối và driver trên thiết bị gửi lệnh. [[Epson M205 User Guide]]
-- **Bản in trắng, nhạt, sọc hoặc thiếu màu:** kiểm tra mực theo cách hãng chỉ dẫn và in nozzle check. Chỉ chạy print-head cleaning khi mẫu kiểm tra cho thấy thiếu nét; chu trình làm sạch tiêu thụ mực. [[Epson M205 User Guide]]
-- **Bản in nhòe, sai màu, lệch hoặc sai lề:** kiểm tra loại/khổ giấy và thiết lập trong driver; dùng hướng dẫn căn chỉnh đầu in khi dấu hiệu phù hợp. [[Epson M205 User Guide]]
+- **Paper jam:** lấy giấy rồi nhấn OK. Với giấy kẹt ADF, kiểm tra cả vật cản ở lỗ trước bên trái cạnh kính quét; theo chỉ dẫn LCD để xóa trạng thái.
+- **Printer error:** tắt máy, kiểm tra kẹt giấy rồi bật lại; nếu còn lỗi liên hệ Epson.
+- **ADF error / Scanner error:** tắt bật lại; nếu thông báo lặp lại liên hệ Epson.
+- **Ink pad gần hết/hết tuổi thọ:** gần hết thì liên hệ Epson, có thể tiếp tục bằng OK theo màn hình; khi hết, tắt máy và liên hệ Epson.
+- **Recovery mode:** firmware lỗi; nối USB để cập nhật lại theo Epson; nếu không khắc phục, chuyển hỗ trợ.
+- **Communication error:** kiểm tra cáp/kết nối máy tính và phần mềm scan.
 
-## An toàn và bước tiếp theo
+Ghi lại thông báo, mã nếu có, model/biến thể trên tem và kết quả từng bước trước khi chuyển kỹ thuật. Không mở cụm điện/cơ khi chưa có hướng dẫn cho người dùng. [[Epson M205 User Guide]]
 
-Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu nozzle check. Tắt máy trước khi gỡ giấy nhìn thấy được; không dùng vật kim loại, không tháo cụm bên trong và không chạm đầu in khi máy đang hoạt động. Nếu giấy mắc sâu, có rò mực/tiếng cơ bất thường, lỗi trạng thái lặp lại, hoặc các bước trong guide không khắc phục được, dừng thao tác và chuyển kỹ thuật viên. [[Epson M205 User Guide]]
+## Phạm vi
 
-## Phạm vi biến thể
-
-Nguồn được lập cho model M205. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson M205 User Guide]]
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+Guide User’s Guide áp dụng M200/M205. M205 có Wi-Fi indicator/button; không áp dụng Ethernet chỉ có ở M200. LCD message list nêu hai model trong guide. Các thao tác chỉ áp dụng trong phạm vi guide nêu. [[Epson M205 User Guide]]

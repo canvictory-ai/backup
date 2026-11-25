@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L605 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L605. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L605 User Guide]]
+
+## LCD thông báo lỗi đã xác minh cho ET-3600/L605
+
+Manual ghi rõ ET-3600/L605. Trang 103-104: “Printer Error XXXXXX” là dạng hiển thị giữ chỗ cho lỗi máy, không phải một mã cụ thể; tắt/bật, lấy giấy/vật bảo vệ, còn message thì gọi Epson. Ink pad nearing/end: không phải phần người dùng tự thay; cần Epson/đơn vị ủy quyền. Khi báo nearing, có thể nhấn X để tiếp tục nếu được hiển thị; thông báo còn cho tới khi thay. “Communication error” đòi hỏi kiểm tra kết nối máy tính/máy in; nếu xuất hiện khi scan, cài Epson Scan 2 và Event Manager. “Recovery Mode” nghĩa firmware update thất bại; dùng USB, không thể cập nhật qua mạng khi ở mode này. Bảng E-1/E-2... ở trang Network Settings là lỗi kết nối mạng, không phải mã hỏng cơ khí. [[Epson L605 User Guide]]
+
+Ghi đúng message và phân biệt lỗi mạng với printer error. Không tháo pad; chuyển Epson/kỹ thuật nếu lỗi máy còn sau khởi động, pad chạm hạn hoặc recovery qua USB không thành công. [[Epson L605 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

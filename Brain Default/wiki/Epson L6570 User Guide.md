@@ -3,15 +3,18 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, nguon]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson Manual Web-Site]]"
 ---
 
 # Epson L6570 User Guide
 
-- **URL:** https://support2.epson.net/manuals/english/spc/l6570/pdf/npd6357-03.pdf
+- **URL:** https://download4.epson.biz/sec_pubs/l6570_series/useg/en/index.htm
 - **Trang chỉ mục của hãng:** https://support2.epson.net/manuals/english/spc/l6570/index.html
-- **Phạm vi model:** tài liệu hãng ghi đúng model L6570. Không suy rộng sang hậu tố/biến thể khác nếu tài liệu không nêu.
-- **Mục đối chiếu:** User's Guide; Solving Problems (paper feeding/jam/ejection, printing, print quality, product status/lights); nozzle check/print-head cleaning và product check nếu model có.
-- **Ngày truy cập:** 2026-11-24.
-- **Ghi chú:** các mục xử lý chỉ dùng với đúng bảng điều khiển và chức năng có trên máy.
+- **Phạm vi model:** trang guide ghi ET-5855 Series/ET-5850 Series/L6570 Series.
+- **Mục đối chiếu:** LCD messages (Printer error, Paper out in XX, borderless ink pad, No dial tone, Recovery Mode); Paper Jam animation; Cannot Solve.
+- **URL LCD messages:** https://download4.epson.biz/sec_pubs/l6570_series/useg/en/GUID-DE8880BC-8711-42AA-874D-0E57D8773C3F.htm
+- **URL Paper Jam:** https://download4.epson.biz/sec_pubs/l6570_series/useg/en/GUID-075DE4E8-86A2-466D-AC60-4CE62B6D587E.htm
+- **Trang:** HTML không phân trang.
+- **Ngày truy cập:** 2026-11-25.
+- **Ghi chú:** dùng hướng dẫn chung của series được ghi rõ; các LCD message là trạng thái người dùng, không phải mã service.

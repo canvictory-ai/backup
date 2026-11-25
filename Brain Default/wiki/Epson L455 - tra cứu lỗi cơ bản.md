@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L455 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L455. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L455 User Guide]]
+
+## LCD code đã xác minh theo L455
+
+Trang 86-87 của guide riêng L455 liệt kê: E-01 printer error, mở scanner lấy giấy/vật bảo vệ rồi tắt bật; E-02 scanner error, tắt bật; E-11 ink pad cần thay, không phải người dùng tự sửa, liên hệ Epson; W-01 kẹt giấy, lấy giấy và nhấn nút hiện ở cuối LCD, có thể cần tắt bật; W-11 pad gần hết tuổi thọ, liên hệ Epson, có thể nhấn X để tiếp tục nếu máy cho lựa chọn; I-22/I-23/I-31 là hướng dẫn cài Wi-Fi WPS, không phải hỏng cơ khí; I-41 thông báo Paper Configuration tắt khiến một số tính năng, gồm AirPrint, không khả dụng; I-60 liên quan hỗ trợ WSD trên máy tính. Recovery Mode là cập nhật firmware thất bại, phải dùng USB, không cập nhật qua mạng trong chế độ này. Các E/W/I trên đây là LCD code người dùng trong guide, không tự diễn giải thành service code. [[Epson L455 User Guide]]
+
+Ghi nguyên mã, tránh reset mạng khi chưa lưu cấu hình. Gỡ giấy theo chỉ dẫn, không kéo mạnh; liên hệ kỹ thuật nếu E-01/E-02 còn sau khởi động, pad cần thay hoặc firmware recovery không thành công. [[Epson L455 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

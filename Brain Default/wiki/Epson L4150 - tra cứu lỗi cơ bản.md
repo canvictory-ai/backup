@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L4150 User Guide]]"
 ---
 
@@ -25,6 +25,12 @@ Ghi model trên nhãn, trạng thái đèn, loại giấy, mức mực và mẫu
 
 ## Khác biệt model/biến thể
 
-Nguồn áp dụng cho L4150 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Với L1300/L1800, guide nêu rõ cả hai model; thao tác bảng đèn cần đối chiếu kiểu bảng điều khiển thực tế. [[Epson L4150 User Guide]]
+Nguồn áp dụng cho L4150 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Không áp dụng bảng đèn/mã của model khác nếu guide không liên kết rõ và bảng điều khiển không khớp. [[Epson L4150 User Guide]]
+
+## Bảng đèn hãng được liên kết trong guide L4150
+
+Mục Product Light Status trong online guide L4150 liên kết tới trang Epson có nhãn ET-2700. Chỉ dùng bảng đó cho L4150 nếu bảng điều khiển trên máy khớp sơ đồ 5 đèn power/Wi-Fi/Wi-Fi Direct/ink/paper; ghi rõ đây là trang dùng chung được guide L4150 liên kết, không phải mã service. Bảng: Power nhấp nháy là busy, chờ dừng; Power và Ink sáng báo nạp mực ban đầu chưa xong; Paper sáng là thiếu giấy/kéo nhiều tờ, nhấp nháy là kẹt giấy; Power+Paper nhấp nháy báo ink pad gần/đến hạn, liên hệ Epson; tất cả đèn nhấp nháy báo giấy/vật bảo vệ mắc trong máy, mở scanner lấy ra, tắt/bật, còn lỗi thì Epson; Wi-Fi+Wi-Fi Direct nhấp nháy là lỗi kết nối, nhấn Wi-Fi để xóa và thử lại; Ink+Paper+Wi-Fi+Wi-Fi Direct sáng là lỗi firmware update, dùng USB; Ink+Paper sáng là máy bị tắt sai, xóa lỗi, nozzle check và tắt lần sau bằng nút nguồn. [[Epson L4150 User Guide]]
+
+Chỉ lấy vật cản nhìn thấy an toàn, không thò tay khi máy chạy. Nếu sơ đồ/đèn thực tế không khớp, không áp dụng bảng này; chuyển Epson/kỹ thuật khi tất cả đèn vẫn nháy hoặc lỗi firmware tái diễn. [[Epson L4150 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

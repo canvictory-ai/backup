@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L6550 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L6550. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L6550 User Guide]]
+
+## LCD message đã xác minh theo ET-5800/L6550 Series
+
+Guide ghi ET-5800/L6550 Series. Trang 224-225: Printer error yêu cầu tắt/bật, lấy giấy/vật bảo vệ; nếu còn, liên hệ Epson. Printer error dạng “Contact Epson Support. Non-printing features are available” nghĩa máy có thể vẫn scan nhưng cần sửa; message khác “For details, see your documentation” yêu cầu hỗ trợ Epson/ủy quyền. “Paper out in XX” kèm Paper Size/Type: nạp đúng khay được hiển thị và đẩy cassette vào hết. Pad in không viền gần hết: không tự thay, có thể chọn OK để tiếp tục; pad đã hết thì in không viền bị vô hiệu, in có viền còn dùng được. “Recovery Mode” do firmware update thất bại, nối USB, không cập nhật qua mạng. Đây là LCD message, không phải mã service. [[Epson L6550 User Guide]]
+
+Ghi nguyên văn message và khay/khổ/loại giấy; chuyển Epson/kỹ thuật nếu printer error tồn tại, pad hết hoặc recovery không thành công. [[Epson L6550 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

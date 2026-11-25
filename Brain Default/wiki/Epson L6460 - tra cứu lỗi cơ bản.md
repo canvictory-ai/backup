@@ -1,29 +1,25 @@
 ---
 type: wiki
 status: active
-tags: [wiki, may-in, epson, tra-cuu-loi]
+tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L6460 User Guide]]"
 ---
 
 # Epson L6460 - tra cứu lỗi cơ bản
 
-**Nhận diện:** chỉ áp dụng khi nhãn máy ghi đúng Epson L6460. Tài liệu hãng được gắn với model này; không tự áp dụng mã đèn hoặc trình tự của model gần tên. [[Epson L6460 User Guide]]
+**Nhận diện:** Epson L6460. Các câu LCD dưới đây là thông báo vận hành được ghi trong đúng guide; không gọi chúng là mã dịch vụ. [[Epson L6460 User Guide]]
 
-## Lỗi thường gặp và hướng kiểm tra
+## Thông báo và bước xử lý
 
-- **Không nạp giấy, kẹt giấy hoặc giấy không ra:** kiểm tra giấy có đúng loại/khổ, nạp đúng chiều và không quá vạch; xem đường giấy có vật cản nhìn thấy được. Lấy giấy theo hướng dẫn của máy, không giật mạnh. [[Epson L6460 User Guide]]
-- **Máy không in:** kiểm tra nguồn, đèn/trạng thái và kết nối; chạy product check nếu User's Guide của model hỗ trợ. Nếu bản kiểm tra của máy in được, tiếp tục kiểm tra hàng đợi, cáp/kết nối và driver trên thiết bị gửi lệnh. [[Epson L6460 User Guide]]
-- **Bản in trắng, nhạt, sọc hoặc thiếu màu:** kiểm tra mực theo cách hãng chỉ dẫn và in nozzle check. Chỉ chạy print-head cleaning khi mẫu kiểm tra cho thấy thiếu nét; chu trình làm sạch tiêu thụ mực. [[Epson L6460 User Guide]]
-- **Bản in nhòe, sai màu, lệch hoặc sai lề:** kiểm tra loại/khổ giấy và thiết lập trong driver; dùng hướng dẫn căn chỉnh đầu in khi dấu hiệu phù hợp. [[Epson L6460 User Guide]]
+- **Printer Error trên LCD:** lấy giấy/vật liệu bảo vệ mắc bên trong; nếu thông báo vẫn hiện, liên hệ Epson.
+- **Paper out in XX:** nạp đúng cassette/nguồn được LCD nêu rồi đẩy cassette hết cữ.
+- **Recovery Mode:** firmware update thất bại; nối máy in với máy tính qua USB rồi làm theo hướng dẫn cập nhật chính hãng, không cập nhật qua mạng ở chế độ này.
+- **Kẹt giấy:** theo thông báo LCD và lấy cả mảnh rách. Không kéo giật, nghiêng, dựng đứng hoặc lật máy vì Epson cảnh báo có thể rò mực. Không chạm nút khi tay còn bên trong; tránh các phần lồi. Với kẹt sâu sau nắp sau/nắp trước, hoặc lỗi còn sau khi clear, chuyển kỹ thuật.
 
-## An toàn và bước tiếp theo
+Mọi khẳng định trên đối chiếu User Guide Epson được lưu trong trang nguồn liên kết. [[Epson L6460 User Guide]]
 
-Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu nozzle check. Tắt máy trước khi gỡ giấy nhìn thấy được; không dùng vật kim loại, không tháo cụm bên trong và không chạm đầu in khi máy đang hoạt động. Nếu giấy mắc sâu, có rò mực/tiếng cơ bất thường, lỗi trạng thái lặp lại, hoặc các bước trong guide không khắc phục được, dừng thao tác và chuyển kỹ thuật viên. [[Epson L6460 User Guide]]
+## Giới hạn phạm vi
 
-## Phạm vi biến thể
-
-Nguồn được lập cho model L6460. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L6460 User Guide]]
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+Tên User Guide ghi cả ET-5170, L6490, ET-5150 và L6460. Hướng dẫn trên chỉ mô tả các thông báo LCD và tháo giấy của guide; áp dụng cho L6460 đúng trang hỗ trợ trong wiki, không suy rộng sang mẫu khác ngoài phạm vi tên tài liệu. Ghi nguyên văn thông báo và thông tin kết nối/mã hiện trên màn hình khi chuyển hỗ trợ. [[Epson L6460 User Guide]]

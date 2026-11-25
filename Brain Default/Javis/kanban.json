@@ -1365,7 +1365,661 @@
           "msg": "Chưa đạt đủ 50 model có User Guide/QIG đúng model và revision: AX56 chỉ có Product and Installation Guide, còn MR6400 có revision lệch giữa tên PDF và bìa nên không xác minh được; nhiều trang cũng chỉ đọc guide một phần."
         }
       ]
+    },
+    {
+      "id": "t_95fd0c7224ec",
+      "brain_root": "/brains/Brain Default",
+      "title": "Đào sâu các model máy in Canon đã học ngày 24/11",
+      "intent": "Đào sâu ngay lô Canon ngày 24/11/2026 (~100 model), theo yêu cầu của chủ. Đọc AGENTS.md, wiki/index.md, wiki/log.md và danh mục model để lập danh sách đích theo đúng trang đã lưu, loại trùng và xét các đợt đã đào sâu để tránh lặp. Cập nhật các bài hiện có. Làm theo nhóm nhỏ và lưu tiến độ mỗi nhóm. Ưu tiên máy Victory thường gặp. Tra cứu tài liệu chính hãng theo đúng model, hậu tố và khu vực. Bổ sung thông tin mới có căn cứ: mã/đèn báo chính xác, dấu hiệu nhận biết, nguyên nhân phân biệt theo kết quả kiểm tra, bước đầu an toàn, bước tiếp nếu vẫn lỗi và lúc cần kỹ thuật trực tiếp. Phân biệt thông báo người dùng với mã dịch vụ; với Xprinter không suy bảng nhịp đèn từ model khác. Khi dùng chung hướng dẫn, xác nhận model nằm trong phạm vi tài liệu và chỉ ra khác biệt đã xác minh. Ghi URL, mục/trang, ngày truy cập vào trang nguồn Wiki và gắn link nguồn trong từng nội dung, cập nhật chỉ mục khi cần và append log. Mã thiếu nguồn chi tiết thì liệt kê rõ, không tính là đã đào sâu. Đọc lại các trang đã cập nhật, báo số thực tế và phần còn thiếu. Đây là đợt bổ sung một lần, không sửa lịch học định kỳ.",
+      "route": "auto",
+      "capability": "research",
+      "execution_mode": "auto",
+      "priority": 2,
+      "status": "done",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795570593.8753448,
+      "current_run_id": "",
+      "result": "Danh mục xác nhận 96 model mới của lô và 4 LBP có từ trước. Nguồn Canon TS3300 nêu đích danh 15 biến thể; tôi đã mở trang mã 1000, 1300, 1688, 5100, 5200, 5B00, 6000 và B202 để lấy đúng nguyên nhân và bước xử lý, nên sẽ hoàn tất nhóm 15 này trước và không cộng các trang chỉ có mô tả chung.\nĐã đào sâu **15/96 model của lô Canon ngày 24/11**: 15 biến thể TS3300 được Canon nêu đích danh trong danh sách lỗi. Đã đối chiếu trực tiếp 8 mã support code với trang hướng dẫn riêng của Canon và thêm dấu hiệu, bước xử lý an toàn, bước tiếp theo nếu lỗi còn, cùng điểm chuyển kỹ thuật. Nội dung cũng phân biệt support code trên màn hình máy tính với nhịp đèn.\n\nĐã cập nhật 15 trang model, trang nguồn Canon TS3300, danh mục model, `wiki/index.md` và nhật ký `wiki/log.md`. Đã đọc lại các mục và kiểm tra số lượng: lô có 92 PIXMA cùng 4 LBP được thêm trong đợt, tổng **96 model bổ sung**; cộng 4 LBP đã có trước đó là 100 model khác nhau.\n\n**Còn thiếu:** 81/96 model bổ sung chưa được đào sâu trong lượt này. Các trang hiện có và liên kết tới nguồn đã giữ nguyên; 81 model đó chưa được tính là hoàn tất. [[Danh mục model máy in đã tra cứu]] [[Nguồn Canon TS3300 - hướng dẫn và mã lỗi]]",
+      "created_at": 1795570329.5737855,
+      "updated_at": 1795572565.9682631,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Có danh sách model thuộc đúng lô 24/11 và số đã đào sâu thực tế, tránh đếm các mục cũ nếu chưa có nội dung mới.",
+          "Các trang được bổ sung có bằng chứng chính hãng và hướng xử lý tiếp theo, ghi các phần chưa xác minh.",
+          "Đã lưu Wiki và cập nhật nhật ký, đọc lại các mục và liên kết nguồn."
+        ],
+        "acceptance": [
+          "Có danh sách model thuộc đúng lô 24/11 và số đã đào sâu thực tế, tránh đếm các mục cũ nếu chưa có nội dung mới.",
+          "Các trang được bổ sung có bằng chứng chính hãng và hướng xử lý tiếp theo, ghi các phần chưa xác minh.",
+          "Đã lưu Wiki và cập nhật nhật ký, đọc lại các mục và liên kết nguồn."
+        ],
+        "specifier": "ai",
+        "route": "auto",
+        "capability": "research",
+        "execution_mode": "auto",
+        "tool_calls": [
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution"
+        ],
+        "provider": "openai-oauth",
+        "model": "gpt-6-luna",
+        "run_seconds": 160,
+        "qa": [
+          {
+            "kind": "acceptance_fix",
+            "q": "Worker báo đã đào sâu 0 model và chưa hoàn tất các nhóm Canon còn lại, nên thiếu nội dung xử lý có căn cứ cho lô 24/11/2026.",
+            "a": "Worker báo đã đào sâu 0 model và chưa hoàn tất các nhóm Canon còn lại, nên thiếu nội dung xử lý có căn cứ cho lô 24/11/2026.",
+            "by": "checker",
+            "asked_at": 1795570433.6314316,
+            "answered_at": 1795570433.6314325,
+            "progress": "Danh mục xác nhận có 96 model Canon trong lô bổ sung và 4 model LBP đã có trước đó, tổng cộng 100. Tôi đang kiểm tra lại cập nhật nguồn và wikilink; phần tra cứu thực tế hiện mới đủ căn cứ để cập nhật nhóm TS3300, nên sẽ ghi rõ số model được đào sâu thay vì tính cả danh sách như đã hoàn tất.\nĐã rà danh mục: lô 24/11 gồm **96 model Canon bổ sung**; cộng 4 model LBP đã có trước đó thành 100. Trong lượt này, em đã đối chiếu nguồn chính hãng cho nhóm TS3300 và cập nhật trang nguồn, chỉ mục Wiki và nhật ký.\n\n**Số model được đào sâu đầy đủ trong lượt này: 0.** Danh sách Canon TS3300 xác nhận phạm vi 15 model và các support code hiện trên màn hình máy tính, nhưng các trang tra cứu riêng vẫn chưa có mã cụ thể kèm bước xử lý đã xác minh cho từng lỗi. Không tính 15 model đó là đã đào sâu. Những nhóm Canon còn lại trong lô cũng chưa được tra cứu sâu.\n\nĐã lưu tại [Nguồn Canon TS3300 - hướng dẫn và mã lỗi](wiki/Nguồn%20Canon%20TS3300%20-%20hướng%20dẫn%20và%20mã%20lỗi.md), cập nhật [wiki/index.md](wiki/index.md) và append [wiki/log.md](wiki/log.md). Đã đọc lại các thay đổi và xác nhận liên kết tới trang nguồn hiện có trong danh mục model và trang TS3340."
+          }
+        ],
+        "acceptance_fixes": 1,
+        "acceptance_check": "accepted"
+      },
+      "artifacts": [
+        {
+          "type": "file",
+          "path": "wiki/index.md"
+        },
+        {
+          "type": "file",
+          "path": "wiki/log.md"
+        }
+      ],
+      "deps": [],
+      "log": [
+        {
+          "ts": "2026-11-25 01:32",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-25 01:32",
+          "msg": "claimed by worker:8:fe323a8b"
+        },
+        {
+          "ts": "2026-11-25 01:32",
+          "msg": "capability=research"
+        },
+        {
+          "ts": "2026-11-25 01:32",
+          "msg": "claimed by worker:8:46441ca3"
+        },
+        {
+          "ts": "2026-11-25 01:33",
+          "msg": "Worker báo đã đào sâu 0 model và chưa hoàn tất các nhóm Canon còn lại, nên thiếu nội dung xử lý có căn cứ cho lô 24/11/2026."
+        },
+        {
+          "ts": "2026-11-25 01:33",
+          "msg": "claimed by worker:8:1faea618"
+        },
+        {
+          "ts": "2026-11-25 01:36",
+          "msg": "Chỉ có 15/96 model được đào sâu; 81 model còn lại được người yêu cầu giao rõ nhiệm vụ nhưng chưa được làm, nên điều kiện hoàn tất chưa đạt."
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "Chỉ có 15/96 model được đào sâu; 81 model còn lại được người yêu cầu giao rõ nhiệm vụ nhưng chưa được làm, nên điều kiện hoàn tất chưa đạt."
+        }
+      ]
+    },
+    {
+      "id": "t_1b82f1774598",
+      "brain_root": "/brains/Brain Default",
+      "title": "Đào sâu các model máy in HP đã học ngày 24/11",
+      "intent": "Đào sâu ngay lô HP ngày 24/11/2026 (~100 model), theo yêu cầu của chủ. Đọc AGENTS.md, wiki/index.md, wiki/log.md và danh mục model để lập danh sách đích theo đúng trang đã lưu, loại trùng và xét các đợt đã đào sâu để tránh lặp. Cập nhật các bài hiện có. Làm theo nhóm nhỏ và lưu tiến độ mỗi nhóm. Ưu tiên máy Victory thường gặp. Tra cứu tài liệu chính hãng theo đúng model, hậu tố và khu vực. Bổ sung thông tin mới có căn cứ: mã/đèn báo chính xác, dấu hiệu nhận biết, nguyên nhân phân biệt theo kết quả kiểm tra, bước đầu an toàn, bước tiếp nếu vẫn lỗi và lúc cần kỹ thuật trực tiếp. Phân biệt thông báo người dùng với mã dịch vụ; với Xprinter không suy bảng nhịp đèn từ model khác. Khi dùng chung hướng dẫn, xác nhận model nằm trong phạm vi tài liệu và chỉ ra khác biệt đã xác minh. Ghi URL, mục/trang, ngày truy cập vào trang nguồn Wiki và gắn link nguồn trong từng nội dung, cập nhật chỉ mục khi cần và append log. Mã thiếu nguồn chi tiết thì liệt kê rõ, không tính là đã đào sâu. Đọc lại các trang đã cập nhật, báo số thực tế và phần còn thiếu. Đây là đợt bổ sung một lần, không sửa lịch học định kỳ.",
+      "route": "auto",
+      "capability": "research",
+      "execution_mode": "auto",
+      "priority": 2,
+      "status": "done",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795572782.6391573,
+      "current_run_id": "",
+      "result": "Danh mục hiện có đúng 100 model HP duy nhất trong đoạn từ tiêu đề “Đợt học HP ngày 24/11/2026” đến ngay trước đợt Epson. Tôi sẽ giữ nguyên nội dung nghiên cứu đã làm, đồng thời tạo một trang lô riêng có danh sách đánh số và trạng thái đào sâu để ranh giới không còn phụ thuộc vào cách đọc đoạn danh mục.\nĐã khắc phục phần thiếu về ranh giới lô: tạo [danh sách riêng 100 model HP ngày 24/11](wiki/Lô HP ngày 24-11-2026 - danh sách model.md), đánh số từ 1 đến 100 và xác định rõ đoạn danh mục dùng để lập danh sách. M404dn không nằm trong lô.\n\nGiữ nguyên **9 model có nội dung đào sâu mới** về trạng thái đèn HP; 91 model còn lại được ghi rõ là chưa tính đào sâu mới trong lượt cập nhật. Cập nhật [[index]], [[Danh mục model máy in đã tra cứu]] và [[log]].\n\nĐọc lại trang mới và kiểm tra thấy 100 mục đều duy nhất, các wikilink trong trang hợp lệ, cả 9 trang model và trang nguồn trạng thái đèn đều tồn tại.",
+      "created_at": 1795570329.7326684,
+      "updated_at": 1795573090.6822886,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Có danh sách model thuộc đúng lô 24/11 và số đã đào sâu thực tế, tránh đếm các mục cũ nếu chưa có nội dung mới.",
+          "Các trang được bổ sung có bằng chứng chính hãng và hướng xử lý tiếp theo, ghi các phần chưa xác minh.",
+          "Đã lưu Wiki và cập nhật nhật ký, đọc lại các mục và liên kết nguồn."
+        ],
+        "acceptance": [
+          "Có danh sách model thuộc đúng lô 24/11 và số đã đào sâu thực tế, tránh đếm các mục cũ nếu chưa có nội dung mới.",
+          "Các trang được bổ sung có bằng chứng chính hãng và hướng xử lý tiếp theo, ghi các phần chưa xác minh.",
+          "Đã lưu Wiki và cập nhật nhật ký, đọc lại các mục và liên kết nguồn."
+        ],
+        "specifier": "ai",
+        "route": "auto",
+        "capability": "research",
+        "execution_mode": "auto",
+        "tool_calls": [
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution"
+        ],
+        "provider": "openai-oauth",
+        "model": "gpt-6-luna",
+        "run_seconds": 85,
+        "qa": [
+          {
+            "kind": "acceptance_fix",
+            "q": "Mục tiêu yêu cầu danh sách 100 model thuộc lô HP ngày 24/11, nhưng danh mục chỉ ghi tổng số và không chỉ rõ ranh giới lô; 9 trang được cập nhật và nguồn đã đọc lại, song điều kiện xác định đầy đủ danh sách lô chưa đạt.",
+            "a": "Mục tiêu yêu cầu danh sách 100 model thuộc lô HP ngày 24/11, nhưng danh mục chỉ ghi tổng số và không chỉ rõ ranh giới lô; 9 trang được cập nhật và nguồn đã đọc lại, song điều kiện xác định đầy đủ danh sách lô chưa đạt.",
+            "by": "checker",
+            "asked_at": 1795572697.7579374,
+            "answered_at": 1795572697.7579377,
+            "progress": "Danh mục và nhật ký cho thấy lô HP được ghi là 100 model khác nhau, nhưng chưa có một bảng riêng ghi “lô 24/11” ngoài danh mục này; nhiều trang con hiện chỉ có hướng dẫn theo nhóm và chưa đạt tiêu chí đào sâu riêng. Mình đang ưu tiên dòng LaserJet thường dùng tại Victory, loại M404dn đã có nội dung lỗi cũ khỏi số model mới và chỉ tính model khi có thêm chi tiết hãng xác minh.\nTìm được bài hỗ trợ HP chính hãng về trạng thái đèn cho nhóm M12/P1100, trong đó hãng tách rõ bảng điều khiển bản có Wi‑Fi và không Wi‑Fi, cùng dấu hiệu fatal error. Mình sẽ bổ sung phần này cho 9 model đúng phạm vi bài, ghi rõ đây là trạng thái đèn và thông báo người dùng, không phải mã service; các model khác chưa có bằng chứng tương đương sẽ chưa tính là đào sâu.\nĐã đối chiếu lô HP ngày 24/11: danh mục có **100 model riêng biệt**. Trong lượt này, mình bổ sung nội dung có căn cứ HP cho **9 model** thuộc nhóm M12/P1100; **91 model** còn lại chưa được đào sâu mới. M404dn và các mục đã có nội dung trước đó không bị tính lại.\n\nCập nhật 9 trang model, thêm [[Nguồn HP LaserJet Pro M12 P1100 - trạng thái đèn]], cập nhật [[index]] và ghi nhật ký tại [[log]]. Nội dung phân biệt trạng thái đèn với mã service, tách biến thể có và không có Wi‑Fi, và nêu bước kiểm tra cùng điểm chuyển kỹ thuật. Phần chưa xác minh: bài HP này không cung cấp mã service hay chẩn đoán linh kiện. [Bài hỗ trợ chính thức của HP](https://support.hp.com/us-en/document/ish_12627519-12627610-16)\n\nĐã đọc lại các trang cập nhật, kiểm tra danh m"
+          }
+        ],
+        "acceptance_fixes": 1,
+        "acceptance_check": "accepted"
+      },
+      "artifacts": [],
+      "deps": [
+        "t_95fd0c7224ec"
+      ],
+      "log": [
+        {
+          "ts": "2026-11-25 01:32",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "todo -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "unfinished dependency"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "all dependencies completed"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "claimed by worker:8:41c72850"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "capability=research"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "claimed by worker:8:3869bc03"
+        },
+        {
+          "ts": "2026-11-25 02:11",
+          "msg": "Mục tiêu yêu cầu danh sách 100 model thuộc lô HP ngày 24/11, nhưng danh mục chỉ ghi tổng số và không chỉ rõ ranh giới lô; 9 trang được cập nhật và nguồn đã đọc lại, song điều kiện xác định đầy đủ danh sách lô chưa đạt."
+        },
+        {
+          "ts": "2026-11-25 02:11",
+          "msg": "claimed by worker:8:f1c2413a"
+        },
+        {
+          "ts": "2026-11-25 02:13",
+          "msg": "Chỉ 9/100 model được đào sâu mới; 91 model còn lại chưa được làm, nên chưa đáp ứng mục tiêu đào sâu cả lô, dù danh sách, các trang đã cập nhật, nguồn và nhật ký đã được ghi."
+        },
+        {
+          "ts": "2026-11-25 02:18",
+          "msg": "Chỉ 9/100 model được đào sâu mới; 91 model còn lại chưa được làm, nên chưa đáp ứng mục tiêu đào sâu cả lô, dù danh sách, các trang đã cập nhật, nguồn và nhật ký đã được ghi."
+        }
+      ]
+    },
+    {
+      "id": "t_a77e88b8c8fc",
+      "brain_root": "/brains/Brain Default",
+      "title": "Đào sâu các model máy in Epson đã học ngày 24/11",
+      "intent": "Đào sâu ngay lô Epson ngày 24/11/2026 (~50 model), theo yêu cầu của chủ. Đọc AGENTS.md, wiki/index.md, wiki/log.md và danh mục model để lập danh sách đích theo đúng trang đã lưu, loại trùng và xét các đợt đã đào sâu để tránh lặp. Cập nhật các bài hiện có. Làm theo nhóm nhỏ và lưu tiến độ mỗi nhóm. Ưu tiên máy Victory thường gặp. Tra cứu tài liệu chính hãng theo đúng model, hậu tố và khu vực. Bổ sung thông tin mới có căn cứ: mã/đèn báo chính xác, dấu hiệu nhận biết, nguyên nhân phân biệt theo kết quả kiểm tra, bước đầu an toàn, bước tiếp nếu vẫn lỗi và lúc cần kỹ thuật trực tiếp. Phân biệt thông báo người dùng với mã dịch vụ; với Xprinter không suy bảng nhịp đèn từ model khác. Khi dùng chung hướng dẫn, xác nhận model nằm trong phạm vi tài liệu và chỉ ra khác biệt đã xác minh. Ghi URL, mục/trang, ngày truy cập vào trang nguồn Wiki và gắn link nguồn trong từng nội dung, cập nhật chỉ mục khi cần và append log. Mã thiếu nguồn chi tiết thì liệt kê rõ, không tính là đã đào sâu. Đọc lại các trang đã cập nhật, báo số thực tế và phần còn thiếu. Đây là đợt bổ sung một lần, không sửa lịch học định kỳ.",
+      "route": "auto",
+      "capability": "research",
+      "execution_mode": "auto",
+      "priority": 2,
+      "status": "done",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795574703.9695537,
+      "current_run_id": "",
+      "result": "Danh mục và nhật ký cho thấy lô 24/11 gồm đúng **50 model khác nhau** (11 + 9 + 3 + 27), không phải một danh sách Epson riêng có tên khác. Tôi đang ưu tiên các model Victory có căn cứ trong danh mục như LQ-310, L3110, L3210 và L805; các lượt trước mới dựng khung theo User Guide, chưa tính là đào sâu ở lượt này.\nĐã đào sâu thêm **3 model: L550, L555 và L6570**. Tổng cộng lô Epson có **48/50 model** được tính là đào sâu mới; **L200 và L405** chưa tính vì chưa xác minh được chính xác tổ hợp đèn từ phần tài liệu hãng hiện truy xuất được. Không suy trạng thái đèn từ model khác.\n\nĐã cập nhật các bài model, trang nguồn, chỉ mục và nhật ký. L555 dùng chung guide L550 vì trang hỗ trợ Epson của L555 liên kết trực tiếp tới PDF đó. Đã đọc lại các trang cập nhật và kiểm tra 48 dòng tiến độ cùng liên kết Wiki.\n\nTiến độ và phần còn thiếu: [wiki/Lô Epson ngày 24-11-2026 - tiến độ đào sâu](wiki/Lô Epson ngày 24-11-2026 - tiến độ đào sâu.md). Nhật ký: [wiki/log.md](wiki/log.md). Không thay đổi lịch học định kỳ.",
+      "created_at": 1795570329.799069,
+      "updated_at": 1795574703.9695537,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Có danh sách model thuộc đúng lô 24/11 và số đã đào sâu thực tế, tránh đếm các mục cũ nếu chưa có nội dung mới.",
+          "Các trang được bổ sung có bằng chứng chính hãng và hướng xử lý tiếp theo, ghi các phần chưa xác minh.",
+          "Đã lưu Wiki và cập nhật nhật ký, đọc lại các mục và liên kết nguồn."
+        ],
+        "acceptance": [
+          "Có danh sách model thuộc đúng lô 24/11 và số đã đào sâu thực tế, tránh đếm các mục cũ nếu chưa có nội dung mới.",
+          "Các trang được bổ sung có bằng chứng chính hãng và hướng xử lý tiếp theo, ghi các phần chưa xác minh.",
+          "Đã lưu Wiki và cập nhật nhật ký, đọc lại các mục và liên kết nguồn."
+        ],
+        "specifier": "ai",
+        "route": "auto",
+        "capability": "research",
+        "execution_mode": "auto",
+        "tool_calls": [
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution"
+        ],
+        "provider": "openai-oauth",
+        "model": "gpt-6-luna",
+        "acceptance_check": "ai",
+        "run_seconds": 1603
+      },
+      "artifacts": [],
+      "deps": [
+        "t_1b82f1774598"
+      ],
+      "log": [
+        {
+          "ts": "2026-11-25 01:32",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "todo -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "unfinished dependency"
+        },
+        {
+          "ts": "2026-11-25 02:18",
+          "msg": "all dependencies completed"
+        },
+        {
+          "ts": "2026-11-25 02:18",
+          "msg": "claimed by worker:8:20032fb5"
+        },
+        {
+          "ts": "2026-11-25 02:18",
+          "msg": "capability=research"
+        },
+        {
+          "ts": "2026-11-25 02:18",
+          "msg": "claimed by worker:8:94a2f571"
+        },
+        {
+          "ts": "2026-11-25 02:45",
+          "msg": "done"
+        }
+      ]
+    },
+    {
+      "id": "t_873cdf78c56c",
+      "brain_root": "/brains/Brain Default",
+      "title": "Đào sâu các model máy in Brother đã học ngày 24/11",
+      "intent": "Đào sâu ngay lô Brother ngày 24/11/2026 (~130 model), theo yêu cầu của chủ. Đọc AGENTS.md, wiki/index.md, wiki/log.md và danh mục model để lập danh sách đích theo đúng trang đã lưu, loại trùng và xét các đợt đã đào sâu để tránh lặp. Cập nhật các bài hiện có. Làm theo nhóm nhỏ và lưu tiến độ mỗi nhóm. Ưu tiên máy Victory thường gặp. Tra cứu tài liệu chính hãng theo đúng model, hậu tố và khu vực. Bổ sung thông tin mới có căn cứ: mã/đèn báo chính xác, dấu hiệu nhận biết, nguyên nhân phân biệt theo kết quả kiểm tra, bước đầu an toàn, bước tiếp nếu vẫn lỗi và lúc cần kỹ thuật trực tiếp. Phân biệt thông báo người dùng với mã dịch vụ; với Xprinter không suy bảng nhịp đèn từ model khác. Khi dùng chung hướng dẫn, xác nhận model nằm trong phạm vi tài liệu và chỉ ra khác biệt đã xác minh. Ghi URL, mục/trang, ngày truy cập vào trang nguồn Wiki và gắn link nguồn trong từng nội dung, cập nhật chỉ mục khi cần và append log. Mã thiếu nguồn chi tiết thì liệt kê rõ, không tính là đã đào sâu. Đọc lại các trang đã cập nhật, báo số thực tế và phần còn thiếu. Đây là đợt bổ sung một lần, không sửa lịch học định kỳ.",
+      "route": "auto",
+      "capability": "research",
+      "execution_mode": "auto",
+      "priority": 2,
+      "status": "blocked",
+      "needs_approval": false,
+      "block_kind": "needs_input",
+      "block_reason": "Anh xác nhận roster 30 model cần theo là nhóm HL-L2405/HL-L5210/DCP-L5510/DCP-L2640 trong log chat, hay nhóm DCP-L2531/HL-L2390/HL-L2325/DCP-T520 trong Danh mục model?",
+      "created_by": "chat",
+      "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
+      "idempotency_key": "",
+      "attempts": 1,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 1795575163.471837,
+      "current_run_id": "",
+      "result": "Đã xác minh được hai bộ User Guide Brother có danh sách model áp dụng rõ ràng, gồm dòng DCP/MFC-L2531 và dòng bình mực DCP-T520. Tài liệu là hướng dẫn HTML nên không có số trang; tôi sẽ ghi tên mục và vị trí phần bảng lỗi, đồng thời giới hạn thao tác theo đúng biến thể được hãng liệt kê.\n[[NEEDS_INPUT]] Anh xác nhận roster 30 model cần theo là nhóm **HL-L2405/HL-L5210/DCP-L5510/DCP-L2640** trong log chat, hay nhóm **DCP-L2531/HL-L2390/HL-L2325/DCP-T520** trong Danh mục model?\n\nĐã bổ sung User Guide Brother cho **21 model**: 13 model dòng L2531 và 8 model dòng T520. Đã tạo hai trang nguồn, cập nhật các trang model, chỉ mục và nhật ký. Đọc lại cả 21 trang, xác nhận có phần cập nhật ngày 25/11 và liên kết đến trang nguồn.\n\nTiến độ và roster tạm nằm tại [[Lô Brother ngày 24-11-2026 - tiến độ đào sâu]]. Hiện còn 109 model chưa có nội dung đào sâu mới theo roster tạm; chỉ mục cũng có thêm một trang DCP-L2605DW vượt số 100 model trong log. Đã ghi các điểm này vào Wiki. Chưa sửa lịch học định kỳ.",
+      "created_at": 1795570329.8643644,
+      "updated_at": 1795575163.471837,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Có danh sách model thuộc đúng lô 24/11 và số đã đào sâu thực tế, tránh đếm các mục cũ nếu chưa có nội dung mới.",
+          "Các trang được bổ sung có bằng chứng chính hãng và hướng xử lý tiếp theo, ghi các phần chưa xác minh.",
+          "Đã lưu Wiki và cập nhật nhật ký, đọc lại các mục và liên kết nguồn."
+        ],
+        "acceptance": [
+          "Có danh sách model thuộc đúng lô 24/11 và số đã đào sâu thực tế, tránh đếm các mục cũ nếu chưa có nội dung mới.",
+          "Các trang được bổ sung có bằng chứng chính hãng và hướng xử lý tiếp theo, ghi các phần chưa xác minh.",
+          "Đã lưu Wiki và cập nhật nhật ký, đọc lại các mục và liên kết nguồn."
+        ],
+        "specifier": "ai",
+        "qa": [
+          {
+            "q": "Anh xác nhận roster 30 model cần theo là nhóm HL-L2405/HL-L5210/DCP-L5510/DCP-L2640 trong log chat, hay nhóm DCP-L2531/HL-L2390/HL-L2325/DCP-T520 trong Danh mục model?",
+            "asked_at": 1795575163.4718003,
+            "progress": "Đã xác minh được hai bộ User Guide Brother có danh sách model áp dụng rõ ràng, gồm dòng DCP/MFC-L2531 và dòng bình mực DCP-T520. Tài liệu là hướng dẫn HTML nên không có số trang; tôi sẽ ghi tên mục và vị trí phần bảng lỗi, đồng thời giới hạn thao tác theo đúng biến thể được hãng liệt kê.\n[[NEEDS_INPUT]] Anh xác nhận roster 30 model cần theo là nhóm **HL-L2405/HL-L5210/DCP-L5510/DCP-L2640** trong log chat, hay nhóm **DCP-L2531/HL-L2390/HL-L2325/DCP-T520** trong Danh mục model?\n\nĐã bổ sung User Guide Brother cho **21 model**: 13 model dòng L2531 và 8 model dòng T520. Đã tạo hai trang nguồn, cập nhật các trang model, chỉ mục và nhật ký. Đọc lại cả 21 trang, xác nhận có phần cập nhật ngày 25/11 và liên kết đến trang nguồn.\n\nTiến độ và roster tạm nằm tại [[Lô Brother ngày 24-11-2026 - tiến độ đào sâu]]. Hiện còn 109 model chưa có nội dung đào sâu mới theo roster tạm; chỉ mục cũng có thêm một trang DCP-L2605DW vượt số 100 model trong log. Đã ghi các điểm này vào Wiki. Chưa sửa lịch học định kỳ."
+          }
+        ],
+        "execution_mode": "auto",
+        "tool_calls": [
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution",
+          "command_execution"
+        ],
+        "provider": "openai-oauth",
+        "model": "gpt-6-luna"
+      },
+      "artifacts": [],
+      "deps": [
+        "t_a77e88b8c8fc"
+      ],
+      "log": [
+        {
+          "ts": "2026-11-25 01:32",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "todo -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "unfinished dependency"
+        },
+        {
+          "ts": "2026-11-25 02:45",
+          "msg": "all dependencies completed"
+        },
+        {
+          "ts": "2026-11-25 02:45",
+          "msg": "claimed by worker:8:ca9467a7"
+        },
+        {
+          "ts": "2026-11-25 02:45",
+          "msg": "capability=research"
+        },
+        {
+          "ts": "2026-11-25 02:45",
+          "msg": "claimed by worker:8:df2486d8"
+        },
+        {
+          "ts": "2026-11-25 02:52",
+          "msg": "Anh xác nhận roster 30 model cần theo là nhóm HL-L2405/HL-L5210/DCP-L5510/DCP-L2640 trong log chat, hay nhóm DCP-L2531/HL-L2390/HL-L2325/DCP-T520 trong Danh mục model?"
+        }
+      ]
+    },
+    {
+      "id": "t_a315a02fe237",
+      "brain_root": "/brains/Brain Default",
+      "title": "Đào sâu các model máy in Pantum đã học ngày 24/11",
+      "intent": "Đào sâu ngay lô Pantum ngày 24/11/2026 (~20 model), theo yêu cầu của chủ. Đọc AGENTS.md, wiki/index.md, wiki/log.md và danh mục model để lập danh sách đích theo đúng trang đã lưu, loại trùng và xét các đợt đã đào sâu để tránh lặp. Cập nhật các bài hiện có. Làm theo nhóm nhỏ và lưu tiến độ mỗi nhóm. Ưu tiên máy Victory thường gặp. Tra cứu tài liệu chính hãng theo đúng model, hậu tố và khu vực. Bổ sung thông tin mới có căn cứ: mã/đèn báo chính xác, dấu hiệu nhận biết, nguyên nhân phân biệt theo kết quả kiểm tra, bước đầu an toàn, bước tiếp nếu vẫn lỗi và lúc cần kỹ thuật trực tiếp. Phân biệt thông báo người dùng với mã dịch vụ; với Xprinter không suy bảng nhịp đèn từ model khác. Khi dùng chung hướng dẫn, xác nhận model nằm trong phạm vi tài liệu và chỉ ra khác biệt đã xác minh. Ghi URL, mục/trang, ngày truy cập vào trang nguồn Wiki và gắn link nguồn trong từng nội dung, cập nhật chỉ mục khi cần và append log. Mã thiếu nguồn chi tiết thì liệt kê rõ, không tính là đã đào sâu. Đọc lại các trang đã cập nhật, báo số thực tế và phần còn thiếu. Đây là đợt bổ sung một lần, không sửa lịch học định kỳ.",
+      "route": "auto",
+      "capability": "auto",
+      "execution_mode": "auto",
+      "priority": 2,
+      "status": "todo",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
+      "idempotency_key": "",
+      "attempts": 0,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 0.0,
+      "current_run_id": "",
+      "result": "",
+      "created_at": 1795570329.9300797,
+      "updated_at": 1795572551.4335184,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Có danh sách model thuộc đúng lô 24/11 và số đã đào sâu thực tế, tránh đếm các mục cũ nếu chưa có nội dung mới.",
+          "Các trang được bổ sung có bằng chứng chính hãng và hướng xử lý tiếp theo, ghi các phần chưa xác minh.",
+          "Đã lưu Wiki và cập nhật nhật ký, đọc lại các mục và liên kết nguồn."
+        ]
+      },
+      "artifacts": [],
+      "deps": [
+        "t_873cdf78c56c"
+      ],
+      "log": [
+        {
+          "ts": "2026-11-25 01:32",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "todo -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "unfinished dependency"
+        }
+      ]
+    },
+    {
+      "id": "t_1aada7e9ba35",
+      "brain_root": "/brains/Brain Default",
+      "title": "Đào sâu các model máy in Xprinter đã học ngày 24/11",
+      "intent": "Đào sâu ngay lô Xprinter ngày 24/11/2026 (~20 model), theo yêu cầu của chủ. Đọc AGENTS.md, wiki/index.md, wiki/log.md và danh mục model để lập danh sách đích theo đúng trang đã lưu, loại trùng và xét các đợt đã đào sâu để tránh lặp. Cập nhật các bài hiện có. Làm theo nhóm nhỏ và lưu tiến độ mỗi nhóm. Ưu tiên máy Victory thường gặp. Tra cứu tài liệu chính hãng theo đúng model, hậu tố và khu vực. Bổ sung thông tin mới có căn cứ: mã/đèn báo chính xác, dấu hiệu nhận biết, nguyên nhân phân biệt theo kết quả kiểm tra, bước đầu an toàn, bước tiếp nếu vẫn lỗi và lúc cần kỹ thuật trực tiếp. Phân biệt thông báo người dùng với mã dịch vụ; với Xprinter không suy bảng nhịp đèn từ model khác. Khi dùng chung hướng dẫn, xác nhận model nằm trong phạm vi tài liệu và chỉ ra khác biệt đã xác minh. Ghi URL, mục/trang, ngày truy cập vào trang nguồn Wiki và gắn link nguồn trong từng nội dung, cập nhật chỉ mục khi cần và append log. Mã thiếu nguồn chi tiết thì liệt kê rõ, không tính là đã đào sâu. Đọc lại các trang đã cập nhật, báo số thực tế và phần còn thiếu. Đây là đợt bổ sung một lần, không sửa lịch học định kỳ.",
+      "route": "auto",
+      "capability": "auto",
+      "execution_mode": "auto",
+      "priority": 2,
+      "status": "todo",
+      "needs_approval": false,
+      "block_kind": "",
+      "block_reason": "",
+      "created_by": "chat",
+      "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
+      "idempotency_key": "",
+      "attempts": 0,
+      "max_attempts": 3,
+      "claimed_by": "",
+      "claim_expires_at": 0.0,
+      "not_before": 0.0,
+      "last_heartbeat_at": 0.0,
+      "current_run_id": "",
+      "result": "",
+      "created_at": 1795570329.9969046,
+      "updated_at": 1795572551.977907,
+      "lane": "",
+      "team_id": "",
+      "team_seq": 0,
+      "team_prio": null,
+      "team_rev": 0,
+      "assignee_key": "",
+      "coordinator_key": "",
+      "source_ref": "",
+      "acceptance_ready": 0,
+      "acceptance_revision": 0,
+      "acceptance_contract_version": 0,
+      "metadata": {
+        "acceptance_fixed": [
+          "Có danh sách model thuộc đúng lô 24/11 và số đã đào sâu thực tế, tránh đếm các mục cũ nếu chưa có nội dung mới.",
+          "Các trang được bổ sung có bằng chứng chính hãng và hướng xử lý tiếp theo, ghi các phần chưa xác minh.",
+          "Đã lưu Wiki và cập nhật nhật ký, đọc lại các mục và liên kết nguồn."
+        ]
+      },
+      "artifacts": [],
+      "deps": [
+        "t_a315a02fe237"
+      ],
+      "log": [
+        {
+          "ts": "2026-11-25 01:32",
+          "msg": "created by chat"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "todo -> ready: operator run"
+        },
+        {
+          "ts": "2026-11-25 02:09",
+          "msg": "unfinished dependency"
+        }
+      ]
     }
   ],
-  "updated": 1795515713.1690352
+  "updated": 1795575163.523936
 }

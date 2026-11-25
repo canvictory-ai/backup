@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, nguon]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson Manual Web-Site]]"
 ---
 

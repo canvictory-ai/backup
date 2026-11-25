@@ -3,22 +3,28 @@ type: wiki
 status: active
 tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson LQ-310 User Guide troubleshooting]]"
 ---
 
 # Epson LQ-310 - tra cứu lỗi cơ bản
 
-**Nhận diện:** Máy in kim; model được Epson Vietnam xác nhận trên trang hỗ trợ và User Guide LQ-310 riêng. [[Epson LQ-310 User Guide troubleshooting]]
+**Nhận diện:** Máy in kim; guide Epson riêng cho LQ-310. Các đèn Pause, Paper Out và nguồn/beep ở đây là chỉ báo người dùng, không phải mã dịch vụ dạng số. [[Epson LQ-310 User Guide troubleshooting]]
 
-## Triệu chứng và kiểm tra
+## Chỉ báo và cách phân biệt theo guide
 
-- **Không lên nguồn, không đèn và đầu in không chạy:** kiểm tra công tắc, dây nguồn ở máy, phích cắm và ổ điện. Nếu nguồn vẫn không vào, Epson hướng dẫn chuyển trung tâm dịch vụ. [[Epson LQ-310 User Guide troubleshooting]]
-- **Lề trên quá cao/thấp:** kiểm tra vị trí top-of-form, chiều dài giấy đã cài trên máy và khổ giấy trong phần mềm; xác nhận driver chọn đúng LQ-310. [[Epson LQ-310 User Guide troubleshooting]]
-- **Giấy liên tục không dừng đúng đường xé:** kiểm tra cài đặt tự động đưa giấy tới vị trí xé, rồi chỉnh vị trí tear-off theo nút trên máy. [[Epson LQ-310 User Guide troubleshooting]]
+- **Pause sáng:** máy đang tạm dừng; nhấn Pause để tiếp tục.
+- **Paper Out sáng cùng Pause, ba tiếng bíp:** không có giấy ở nguồn đã chọn hoặc giấy nạp sai. Nạp lại theo đúng kiểu giấy, kiểm tra paper release lever, nhấn Pause nếu cần.
+- **Giấy sai nguồn còn trong đường giấy:** chuyển cần nhả giấy về nguồn đúng, nhấn Load/Eject để đưa giấy ra rồi mới chọn nguồn cần dùng.
+- **Năm tiếng bíp, tiếng lạ và dừng đột ngột:** guide nêu giấy/ribbon kẹt hoặc đầu in quá nóng. Tắt máy, kiểm tra kẹt giấy/ribbon; nếu không thấy kẹt thì để nguội rồi thử lại. Nếu lặp lại, chuyển kỹ thuật.
+- **Tất cả đèn nháy và năm tiếng bíp:** guide gọi đây là lỗi máy in chưa xác định; tắt vài phút rồi bật lại, nếu tái diễn liên hệ đại lý/kỹ thuật. Không diễn giải thành mã linh kiện cụ thể.
 
-## Kiểm tra an toàn và hướng xử lý
+[[Epson LQ-310 User Guide troubleshooting]]
 
-Tắt máy trước khi kiểm tra dây nguồn hoặc tháo giấy; không chạm cáp trắng bên trong, không kéo giấy cưỡng bức và không mở cụm cơ khi máy đang chạy. Nếu vẫn mất nguồn, có tiếng cơ bất thường, đầu kim/ribbon hỏng, hoặc lỗi lặp lại sau khi đúng giấy và cài đặt, chuyển kỹ thuật viên. [[Epson LQ-310 User Guide troubleshooting]]
+## Tháo giấy an toàn và điểm chuyển kỹ thuật
 
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+Tắt máy trước khi mở nắp hoặc xoay núm bên phải để đẩy giấy; chỉ dùng núm khi máy đã tắt. Không chạm cáp trắng bên trong. Với giấy liên tục, xé phần nguồn ở lỗ răng cưa rồi xoay núm để lấy giấy; tránh kéo cưỡng bức. Nếu giấy/ribbon mắc sâu, máy phát tiếng bất thường, tình trạng quá nhiệt hoặc lỗi lặp lại sau khởi động, dừng và chuyển kỹ thuật trực tiếp. [[Epson LQ-310 User Guide troubleshooting]]
+
+## Phạm vi
+
+Nguồn hãng đã đối chiếu là User Guide đúng LQ-310. Không áp dụng bảng đèn/beep này cho LX-310, LQ-350 hoặc model kim khác. [[Epson LQ-310 User Guide troubleshooting]]

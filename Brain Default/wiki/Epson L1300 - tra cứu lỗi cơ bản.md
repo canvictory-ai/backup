@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L1300 User Guide]]"
 ---
 
@@ -26,5 +26,11 @@ Ghi model trên nhãn, trạng thái đèn, loại giấy, mức mực và mẫu
 ## Khác biệt model/biến thể
 
 Nguồn áp dụng cho L1300/L1800 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Với L1300/L1800, guide nêu rõ cả hai model; thao tác bảng đèn cần đối chiếu kiểu bảng điều khiển thực tế. [[Epson L1300 User Guide]]
+
+## Bảng đèn theo guide L1300/L1800
+
+Trang 84 của guide ghi Power nhấp nháy là đang xử lý; sau khi châm mực có thể mất khoảng 20 phút và không hủy. Paper nhấp nháy: kẹt giấy; trên L1300 nắp có thể đang mở. Paper sáng: hết giấy/kéo nhiều tờ; nhấn nút giấy sau khi nạp lại. Ink và Paper luân phiên nhấp nháy: ink pad gần/đã hết tuổi thọ; Epson cho phép tiếp tục in bằng nút giấy nhưng cần liên hệ hỗ trợ. Power sáng, Paper và Ink nhấp nháy chậm: lỗi sản phẩm; tắt bật, kiểm tra kẹt giấy/vật lạ, còn lỗi thì bảo hành/sửa chữa. Power sáng, Ink sáng: nạp mực ban đầu chưa hoàn tất; châm đầy rồi giữ nút mực 3 giây, quá trình khoảng 20 phút. Đây là bảng đèn của tài liệu chung ghi rõ L1300/L1800, không phải mã service. [[Epson L1300 User Guide]]
+
+Xác định đúng model và vị trí nút trước khi thao tác. Nếu bảng đèn không khớp, giấy/vật lạ mắc sâu, lỗi sản phẩm tái diễn sau tắt bật, hoặc pad báo hết, dừng và chuyển kỹ thuật. [[Epson L1300 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

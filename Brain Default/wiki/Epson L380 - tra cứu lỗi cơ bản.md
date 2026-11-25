@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L380 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L380. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L380 User Guide]]
+
+## Chỉ báo lỗi theo L380 Series guide
+
+Manual hãng gọi đây là L380 Series; phần dưới dùng đúng model L380. Trang 71 ghi chi tiết trạng thái đèn và máy tính có thể hiển thị thêm chi tiết lỗi: hết giấy/kéo nhiều tờ thì nạp và nhấn nút copy; kẹt giấy thì gỡ nhẹ, nhấn copy; nếu vẫn báo, nạp A4 theo chiều dọc vào khay sau để đẩy mẩu giấy còn lại, không hết thì liên hệ Epson. Nạp mực ban đầu chưa hoàn tất thì làm theo Start Here. Đèn b và B nháy luân phiên báo ink pad gần/đến hạn; linh kiện không tự thay, liên hệ Epson. Printer error: mở scanner, lấy giấy/vật bảo vệ, tắt bật; còn lỗi thì hỗ trợ Epson. Recovery mode do firmware update thất bại: nối USB và theo hướng dẫn Epson tại khu vực. Không coi nhịp đèn/thông báo này là mã service. [[Epson L380 User Guide]]
+
+Không nghiêng/lật máy khi lấy giấy; không thò tay vào trong khi máy có thể hoạt động. Nếu lỗi không khớp, pad báo hết, giấy mắc sâu hoặc printer error tái diễn, chuyển kỹ thuật. [[Epson L380 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

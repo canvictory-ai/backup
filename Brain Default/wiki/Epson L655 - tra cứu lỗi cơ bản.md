@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L655 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L655. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L655 User Guide]]
+
+## LCD message đã xác minh cho ET-4550/L655
+
+Trang 102-103 của guide có tên ET-4550/L655. Printer Error 0xXX: tắt/bật, lấy giấy/vật bảo vệ trong máy; nếu còn thì liên hệ Epson. Cảnh báo ink pad nearing yêu cầu Epson hỗ trợ. Recovery Mode nghĩa firmware update thất bại; kết nối USB, không thể cập nhật qua mạng trong mode này và theo hướng dẫn Epson khu vực. “0xXX” là dạng placeholder trong hướng dẫn, không xác định một service code hay nguyên nhân linh kiện cụ thể. [[Epson L655 User Guide]]
+
+Ghi nguyên văn LCD; dừng khi lỗi lặp lại sau nguồn, pad báo hạn hoặc recovery không xong để chuyển kỹ thuật/Epson. [[Epson L655 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

@@ -3,28 +3,28 @@ type: wiki
 status: active
 tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L310 L313 User Guide]]"
 ---
 
 # Epson L310 - tra cứu lỗi cơ bản
 
-**Nhận diện:** Máy in phun bình mực; Epson User Guide chung L310/L313. [[Epson L310 L313 User Guide]]
+**Nhận diện:** Máy in phun Epson L310. Đèn và trạng thái được ghi dưới đây là chỉ báo người dùng trong đúng guide, không phải mã dịch vụ dạng số. [[Epson L310 L313 User Guide]]
 
-## Lỗi/cảnh báo có căn cứ trong User Guide
+## Chỉ báo và kiểm tra theo đúng model
 
-- **Không kéo giấy, kéo nhiều tờ hoặc kẹt/không nhả giấy:** đối chiếu giấy nạp, đường giấy và hướng dẫn Paper Feeding/Paper Jam/Paper Ejection của model. [[Epson L310 L313 User Guide]]
-- **Không in từ máy tính:** in trang kiểm tra trực tiếp theo hướng dẫn model; nếu bản test tốt, kiểm tra cáp, máy tính, phần mềm và cài đặt/driver. [[Epson L310 L313 User Guide]]
-- **Bản in trắng, nhạt, có sọc hoặc thiếu màu:** chạy nozzle check; chỉ vệ sinh đầu phun khi mẫu có khoảng đứt/gap. Vệ sinh tiêu hao mực. [[Epson L310 L313 User Guide]]
-- **Bản in nhòe, sai màu, lệch hoặc sai lề:** đối chiếu giấy và thiết lập khổ/loại giấy; kiểm tra alignment theo hướng dẫn nếu mẫu in cho thấy lệch. [[Epson L310 L313 User Guide]]
-- **Không kết nối mạng:** chỉ áp dụng cho phiên bản có Wi-Fi; xem trạng thái mạng và kiểm tra router/cài đặt. Không đặt lại mạng trước khi ghi nhận cấu hình hiện tại. [[Epson L310 L313 User Guide]]
+- **Power nháy:** máy đang bận; chờ đèn ổn định trước khi tắt. Nếu vừa nạp mực, đèn có thể nháy khoảng 20 phút, không hủy chu trình.
+- **Paper sáng:** hết giấy hoặc nhiều tờ nạp cùng lúc; nạp lại và nhấn Stop.
+- **Paper nháy:** kẹt giấy; lấy giấy rồi nhấn Stop.
+- **Power sáng cùng Ink sáng:** có thể chưa hoàn tất nạp mực ban đầu; hoàn tất hướng dẫn Start Here.
+- **Paper và Ink cùng nháy:** ink pad cần thay; liên hệ Epson, không tự thay.
+- **Power, Paper và Ink cùng nháy:** mở nắp, kiểm tra giấy/vật liệu bảo vệ mắc bên trong rồi tắt bật lại.
+- **Ink và Paper cùng sáng:** lỗi cập nhật firmware; kết nối USB để thử cập nhật lại, nếu còn thì liên hệ Epson.
 
-## Kiểm tra an toàn và bước tiếp theo
+## Bước tiếp theo và giới hạn
 
-Trước tiên ghi nhận đèn/mã hiển thị, loại giấy, kết nối và mẫu in; tắt máy trước khi gỡ giấy nhìn thấy được, kéo theo chiều đường giấy và không dùng vật kim loại. Với chất lượng in, kiểm tra mực và nozzle check trước; chỉ chạy cleaning theo guide, không lặp vô hạn vì chu trình dùng mực. Nếu nozzle check không in được, có rò mực, tiếng cơ lạ, giấy mắc sâu, đèn báo lỗi kéo dài, hoặc vệ sinh/alignment theo hướng dẫn không cải thiện, ngừng thao tác và chuyển kỹ thuật trực tiếp. [[Epson L310 L313 User Guide]]
+Ghi lại trạng thái đèn, mã/thông báo nguyên văn và kết quả product check trước khi thay đổi cài đặt. Tắt máy trước khi lấy giấy nhìn thấy được; không dùng vật kim loại hoặc kéo giấy mắc sâu. Với sọc/thiếu màu, nozzle check trước cleaning; dừng nếu lỗi kéo dài, có rò mực/tiếng cơ lạ hoặc cần thay ink pad. Chuyển kỹ thuật khi bảng Epson yêu cầu hỗ trợ, đặc biệt với pad hoặc lỗi lặp lại sau bước hãng. [[Epson L310 L313 User Guide]]
 
-## Khác biệt model/biến thể
+## Phạm vi
 
-Tài liệu dùng chung L310 và L313; không mở rộng sang L3110 hoặc model khác. [[Epson L310 L313 User Guide]]
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+Tài liệu Epson gọi là L310/L313 User Guide và nêu cả hai model. Không dùng mã/nhịp đèn từ model gần tên. [[Epson L310 L313 User Guide]]

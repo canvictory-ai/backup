@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson M2120 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model M2120. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson M2120 User Guide]]
+
+## LCD code đã xác minh cho ET-M2120/M2120 Series
+
+Guide ghi ET-M2120/M2120 Series; áp dụng mục này cho M2120 trong phạm vi đã nêu. Trang 148-149: E-01 printer error, mở scanner lấy giấy/vật bảo vệ rồi tắt bật; E-02 scanner error, tắt bật; E-11 ink pad cần thay, không phải người dùng tự sửa, tuy chức năng scan vẫn dùng được. W-01 paper jam, lấy giấy và nhấn nút LCD chỉ ra, đôi khi cần tắt bật; W-11 báo pad gần hết, liên hệ Epson, có thể nhấn X để tiếp tục nếu được. I-22/I-23/I-31 là hướng dẫn cài Wi-Fi; I-41 là Paper Setup Auto Display tắt khiến vài tính năng/AirPrint không dùng; I-60 liên quan WSD trên máy tính. Recovery Mode là firmware update thất bại; nối USB và làm theo hướng dẫn Epson. Đây là mã/thông báo của người dùng trong guide, không phải bảng service code. [[Epson M2120 User Guide]]
+
+Ghi nguyên mã và không tự thay pad; nếu lỗi printer/scanner còn sau khởi động, pad chạm hạn hoặc recovery không thành công, chuyển Epson/kỹ thuật. [[Epson M2120 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

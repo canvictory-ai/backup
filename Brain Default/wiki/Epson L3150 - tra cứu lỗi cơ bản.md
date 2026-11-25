@@ -3,28 +3,28 @@ type: wiki
 status: active
 tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L3150 User Guide]]"
 ---
 
 # Epson L3150 - tra cứu lỗi cơ bản
 
-**Nhận diện:** Máy in phun bình mực đa chức năng, có Wi-Fi; User Guide Epson riêng cho L3150. [[Epson L3150 User Guide]]
+**Nhận diện:** Máy in phun Epson L3150. Đèn và trạng thái được ghi dưới đây là chỉ báo người dùng trong đúng guide, không phải mã dịch vụ dạng số. [[Epson L3150 User Guide]]
 
-## Lỗi/cảnh báo có căn cứ trong User Guide
+## Chỉ báo và kiểm tra theo đúng model
 
-- **Không kéo giấy, kéo nhiều tờ hoặc kẹt/không nhả giấy:** đối chiếu giấy nạp, đường giấy và hướng dẫn Paper Feeding/Paper Jam/Paper Ejection của model. [[Epson L3150 User Guide]]
-- **Không in từ máy tính:** in trang kiểm tra trực tiếp theo hướng dẫn model; nếu bản test tốt, kiểm tra cáp, máy tính, phần mềm và cài đặt/driver. [[Epson L3150 User Guide]]
-- **Bản in trắng, nhạt, có sọc hoặc thiếu màu:** chạy nozzle check; chỉ vệ sinh đầu phun khi mẫu có khoảng đứt/gap. Vệ sinh tiêu hao mực. [[Epson L3150 User Guide]]
-- **Bản in nhòe, sai màu, lệch hoặc sai lề:** đối chiếu giấy và thiết lập khổ/loại giấy; kiểm tra alignment theo hướng dẫn nếu mẫu in cho thấy lệch. [[Epson L3150 User Guide]]
-- **Không kết nối mạng:** chỉ áp dụng cho phiên bản có Wi-Fi; xem trạng thái mạng và kiểm tra router/cài đặt. Không đặt lại mạng trước khi ghi nhận cấu hình hiện tại. [[Epson L3150 User Guide]]
+- **Ink sáng:** có thể chưa xong nạp mực ban đầu; xem Start Here.
+- **Paper sáng / nháy:** hết giấy hoặc nạp nhiều tờ / kẹt giấy; nạp lại hoặc gỡ giấy, nhấn nút copy đen trắng/màu.
+- **Power và Paper nháy đồng thời / luân phiên:** lần lượt là pad mực thải / pad in không viền gần hết tuổi thọ; liên hệ Epson. In không viền không khả dụng khi pad liên quan đã hết.
+- **Tất cả đèn nháy:** giấy hoặc vật liệu bảo vệ kẹt trong máy; mở nắp trước kiểm tra phần thấy được, tắt bật lại; nếu còn lỗi liên hệ Epson.
+- **Wi-Fi và Wi-Fi Direct nháy:** lỗi kết nối Wi-Fi; nhấn Wi-Fi để xóa rồi thử lại.
+- **Ink, Paper sáng cùng Wi-Fi và Wi-Fi Direct sáng:** cập nhật firmware lỗi; kết nối USB thử cập nhật lại, nếu tiếp diễn liên hệ Epson.
+- **Ink và Paper sáng:** máy bị tắt không đúng cách; xóa lỗi bằng nút copy, chạy nozzle check, hủy lệnh in chờ và dùng nút nguồn để tắt.
 
-## Kiểm tra an toàn và bước tiếp theo
+## Bước tiếp theo và giới hạn
 
-Trước tiên ghi nhận đèn/mã hiển thị, loại giấy, kết nối và mẫu in; tắt máy trước khi gỡ giấy nhìn thấy được, kéo theo chiều đường giấy và không dùng vật kim loại. Với chất lượng in, kiểm tra mực và nozzle check trước; chỉ chạy cleaning theo guide, không lặp vô hạn vì chu trình dùng mực. Nếu nozzle check không in được, có rò mực, tiếng cơ lạ, giấy mắc sâu, đèn báo lỗi kéo dài, hoặc vệ sinh/alignment theo hướng dẫn không cải thiện, ngừng thao tác và chuyển kỹ thuật trực tiếp. [[Epson L3150 User Guide]]
+Ghi lại trạng thái đèn, mã/thông báo nguyên văn và kết quả product check trước khi thay đổi cài đặt. Tắt máy trước khi lấy giấy nhìn thấy được; không dùng vật kim loại hoặc kéo giấy mắc sâu. Với sọc/thiếu màu, nozzle check trước cleaning; dừng nếu lỗi kéo dài, có rò mực/tiếng cơ lạ hoặc cần thay ink pad. Chuyển kỹ thuật khi bảng Epson yêu cầu hỗ trợ, đặc biệt với pad hoặc lỗi lặp lại sau bước hãng. [[Epson L3150 User Guide]]
 
-## Khác biệt model/biến thể
+## Phạm vi
 
-Wi-Fi và cài đặt mạng là nhánh riêng của L3150; không áp dụng cho L3210. [[Epson L3150 User Guide]]
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+Bảng Product Light Status và User Guide áp dụng riêng cho L3150. Không dùng mã/nhịp đèn từ model gần tên. [[Epson L3150 User Guide]]

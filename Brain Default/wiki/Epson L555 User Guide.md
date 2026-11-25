@@ -3,15 +3,15 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, nguon]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson Manual Web-Site]]"
 ---
 
 # Epson L555 User Guide
 
 - **URL:** https://support2.epson.net/manuals/english/spc/l550/pdf/npd4738-00_en.pdf
-- **Trang chỉ mục của hãng:** https://support2.epson.net/manuals/english/spc/l555/index.html
-- **Phạm vi model:** tài liệu hãng ghi đúng model L555. Không suy rộng sang hậu tố/biến thể khác nếu tài liệu không nêu.
-- **Mục đối chiếu:** User's Guide; Solving Problems (paper feeding/jam/ejection, printing, print quality, product status/lights); nozzle check/print-head cleaning và product check nếu model có.
-- **Ngày truy cập:** 2026-11-24.
-- **Ghi chú:** các mục xử lý chỉ dùng với đúng bảng điều khiển và chức năng có trên máy.
+- **Trang chỉ mục model:** https://support2.epson.net/manuals/english/spc/l555/index.html
+- **Phạm vi model:** Trang chỉ mục Epson L555 liên kết User's Guide tới cùng PDF L550; chỉ dùng hướng dẫn chung trong PDF có thể áp dụng cho L555, không tự suy khác biệt riêng.
+- **Mục/trang đối chiếu:** Error Messages on the Control Panel, trang in 99-100; Paper Jams, trang 103.
+- **Ngày truy cập:** 2026-11-25.
+- **Ghi chú:** guide dùng chung đã được xác nhận bằng liên kết từ trang model hãng; LCD messages không phải mã service.

@@ -1,29 +1,28 @@
 ---
 type: wiki
 status: active
-tags: [wiki, may-in, epson, tra-cuu-loi]
+tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson M2140 User Guide]]"
 ---
 
 # Epson M2140 - tra cứu lỗi cơ bản
 
-**Nhận diện:** chỉ áp dụng khi nhãn máy ghi đúng Epson M2140. Tài liệu hãng được gắn với model này; không tự áp dụng mã đèn hoặc trình tự của model gần tên. [[Epson M2140 User Guide]]
+**Nhận diện:** Epson M2140. Đọc nguyên văn thông báo trên LCD; thông báo không tự đồng nghĩa với service code. [[Epson M2140 User Guide]]
 
-## Lỗi thường gặp và hướng kiểm tra
+## Thông báo, nguyên nhân và xử lý ban đầu
 
-- **Không nạp giấy, kẹt giấy hoặc giấy không ra:** kiểm tra giấy có đúng loại/khổ, nạp đúng chiều và không quá vạch; xem đường giấy có vật cản nhìn thấy được. Lấy giấy theo hướng dẫn của máy, không giật mạnh. [[Epson M2140 User Guide]]
-- **Máy không in:** kiểm tra nguồn, đèn/trạng thái và kết nối; chạy product check nếu User's Guide của model hỗ trợ. Nếu bản kiểm tra của máy in được, tiếp tục kiểm tra hàng đợi, cáp/kết nối và driver trên thiết bị gửi lệnh. [[Epson M2140 User Guide]]
-- **Bản in trắng, nhạt, sọc hoặc thiếu màu:** kiểm tra mực theo cách hãng chỉ dẫn và in nozzle check. Chỉ chạy print-head cleaning khi mẫu kiểm tra cho thấy thiếu nét; chu trình làm sạch tiêu thụ mực. [[Epson M2140 User Guide]]
-- **Bản in nhòe, sai màu, lệch hoặc sai lề:** kiểm tra loại/khổ giấy và thiết lập trong driver; dùng hướng dẫn căn chỉnh đầu in khi dấu hiệu phù hợp. [[Epson M2140 User Guide]]
+- **E-01:** lỗi máy in; tắt/bật lại, kiểm tra kẹt giấy; nếu không thấy kẹt mà lỗi vẫn còn, liên hệ Epson.
+- **E-02:** lỗi scanner; tắt/bật lại.
+- **W-01:** kẹt giấy; lấy giấy theo chỉ dẫn và nhấn nút LCD yêu cầu để xóa lỗi; nếu tiếp diễn, tắt/bật lại.
+- **I-41:** Paper Setup Auto Display đang tắt; bật lại nếu cần các tính năng bị ảnh hưởng.
+- **Recovery Mode:** firmware update thất bại; thử cập nhật lại và liên hệ Epson nếu vẫn báo.
 
-## An toàn và bước tiếp theo
+Đây là LCD code công khai trong User Guide, không phải mã dịch vụ nội bộ.
 
-Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu nozzle check. Tắt máy trước khi gỡ giấy nhìn thấy được; không dùng vật kim loại, không tháo cụm bên trong và không chạm đầu in khi máy đang hoạt động. Nếu giấy mắc sâu, có rò mực/tiếng cơ bất thường, lỗi trạng thái lặp lại, hoặc các bước trong guide không khắc phục được, dừng thao tác và chuyển kỹ thuật viên. [[Epson M2140 User Guide]]
+Ghi lại thông báo, mã nếu có, model/biến thể trên tem và kết quả từng bước trước khi chuyển kỹ thuật. Không mở cụm điện/cơ khi chưa có hướng dẫn cho người dùng. [[Epson M2140 User Guide]]
 
-## Phạm vi biến thể
+## Phạm vi
 
-Nguồn được lập cho model M2140. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson M2140 User Guide]]
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+Guide User’s Guide riêng cho M2140; không suy sang M3170 dù hai model đều máy in đơn sắc. Các thao tác chỉ áp dụng trong phạm vi guide nêu. [[Epson M2140 User Guide]]

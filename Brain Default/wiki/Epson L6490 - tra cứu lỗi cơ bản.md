@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L6490 User Guide]]"
 ---
 
@@ -26,5 +26,11 @@ Ghi model, thông báo/đèn, nguồn giấy, kết nối và mẫu in. Tắt m�
 ## Khác biệt model/biến thể
 
 Nguồn hãng gọi model L6490. Không áp dụng tự động cho suffix, vùng bán hàng hoặc model tương tự nếu Epson không liệt kê trong cùng guide. Các bước ADF/fax chỉ dùng khi chức năng đó có trên máy cụ thể. [[Epson L6490 User Guide]]
+
+## LCD message đã xác minh trong guide L6490
+
+Online guide L6490 liên kết tới trang trạng thái Epson chung ET-5150/ET-5170/L6490, ghi rõ L6490 trong phạm vi. “Printer error. Turn on the printer again” thì khởi động lại, kiểm tra giấy kẹt; không kẹt hoặc còn lỗi thì Epson. “Paper out in XX” nạp cassette hoặc rear feed. “Paper Setup Auto Display is set to Off” liên quan AirPrint. “No dial tone” thì kiểm tra dây và đường thoại, PBX cần Line Type = PBX; tắt Dial Tone Detection có thể làm rớt chữ số đầu của số fax. Lỗi IP/subnet là network issue; cập nhật root certificate qua Web Config nếu cloud yêu cầu. Recovery Mode là firmware update thất bại, kết nối USB. Đây là LCD message người dùng, không phải mã service. [[Epson L6490 User Guide]]
+
+Ghi nguyên văn message và hoàn cảnh; cẩn thận khi chỉnh fax để tránh quay nhầm số. Nếu printer error hoặc recovery lặp lại, chuyển Epson/kỹ thuật. [[Epson L6490 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

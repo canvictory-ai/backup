@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L6270 User Guide]]"
 ---
 
@@ -25,6 +25,12 @@ Ghi model trên nhãn, trạng thái đèn, loại giấy, mức mực và mẫu
 
 ## Khác biệt model/biến thể
 
-Nguồn áp dụng cho L6270 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Với L1300/L1800, guide nêu rõ cả hai model; thao tác bảng đèn cần đối chiếu kiểu bảng điều khiển thực tế. [[Epson L6270 User Guide]]
+Nguồn áp dụng cho L6270 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Không áp dụng bảng đèn/mã của model khác nếu guide không liên kết rõ và bảng điều khiển không khớp. [[Epson L6270 User Guide]]
+
+## LCD Product Status Messages theo guide L6270
+
+Guide L6270 liên kết tới trang Epson chung ET-3830/ET-3850/L6270, nên phạm vi model L6270 được nêu rõ trên trang. “Printer error. Turn on the printer again” thì tắt/bật; nếu còn, kiểm tra kẹt giấy, không kẹt thì Epson. “Paper out in XX” yêu cầu nạp giấy đúng cassette. Borderless ink pad nearing: không tự thay; chạm Dismiss để tiếp tục nếu được; đến hạn thì tắt máy và liên hệ Epson, có thể vẫn scan. “Paper Setup Auto Display is set to Off” ảnh hưởng AirPrint; bật setting theo guide. Network message về IP/subnet hoặc root certificate là lỗi cấu hình mạng/chứng chỉ, không phải hỏng cơ. “Recovery mode Update Firmware” là firmware update lỗi, kết nối USB. Đây là LCD message người dùng, không phải mã service. [[Epson L6270 User Guide]]
+
+Ghi nguyên văn message, khay giấy và trạng thái network. Không reset mạng nếu chưa lưu cấu hình; lỗi pad, paper jam sâu hoặc printer error lặp lại thì chuyển kỹ thuật/Epson. [[Epson L6270 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

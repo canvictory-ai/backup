@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, nguon]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson Manual Web-Site]]"
 ---
 
@@ -11,7 +11,7 @@ source: "[[Epson Manual Web-Site]]"
 
 - **URL:** https://support2.epson.net/manuals/english/spc/l405/pdf/npd5745-00_ug.pdf
 - **Trang chỉ mục của hãng:** https://support2.epson.net/manuals/english/spc/l405/index.html
-- **Phạm vi model:** tài liệu hãng ghi đúng model L405. Không suy rộng sang hậu tố/biến thể khác nếu tài liệu không nêu.
-- **Mục đối chiếu:** User's Guide; Solving Problems (paper feeding/jam/ejection, printing, print quality, product status/lights); nozzle check/print-head cleaning và product check nếu model có.
-- **Ngày truy cập:** 2026-11-24.
-- **Ghi chú:** các mục xử lý chỉ dùng với đúng bảng điều khiển và chức năng có trên máy.
+- **Phạm vi model:** Epson L405.
+- **Mục/trang đã kiểm tra:** Checking the Error Indicators on the Printer, trang in 94; bảng phân loại no paper/multiple sheets, jam, initial ink charging, pad service life, printer error, Wi-Fi connection error và firmware recovery.
+- **Ngày truy cập:** 2026-11-25.
+- **Giới hạn xác minh:** bản trích xuất văn bản không biểu diễn rõ tổ hợp biểu tượng đèn trong bảng; chưa xác minh từng tổ hợp đèn, nên chưa tính L405 là model đã đào sâu. Không suy tổ hợp từ model khác.

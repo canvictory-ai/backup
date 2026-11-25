@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L385 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L385. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L385 User Guide]]
+
+## Bảng đèn chính xác theo L385 Series guide
+
+Manual ghi phạm vi L385 Series. Trang 90-91: bảng phân biệt đèn sáng, nháy chậm/nhanh, còn thông tin chi tiết hiển thị trên máy tính. Hết giấy/kéo nhiều tờ thì nạp giấy và nhấn nút; kẹt giấy thì lấy giấy và nhấn nút; nạp mực ban đầu chưa xong thì theo Start Here. Đèn b và B nháy luân phiên báo ink pad gần/đến hạn, không phải phần người dùng tự thay; liên hệ Epson/đơn vị ủy quyền. Printer error: mở scanner lấy giấy/vật bảo vệ, tắt bật; lỗi Wi-Fi thì nhấn nút xóa và thử lại. Recovery Mode là cập nhật firmware thất bại; nối USB, không cập nhật qua mạng. Đây là bảng trạng thái đèn, không phải bộ mã service. [[Epson L385 User Guide]]
+
+Gỡ giấy cẩn thận, tránh đụng bộ phận bên trong. Nếu paper jam vẫn còn, error tái diễn hoặc pad báo hạn, dừng và chuyển kỹ thuật. [[Epson L385 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

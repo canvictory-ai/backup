@@ -1,30 +1,27 @@
 ---
 type: wiki
 status: active
-tags: [wiki, may-in, epson, tra-cuu-loi]
+tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L365 User Guide]]"
 ---
 
 # Epson L365 - tra cứu lỗi cơ bản
 
-**Nhận diện:** Model L365; phạm vi nguồn hãng: L365 User Guide. Chỉ dùng hướng dẫn này nếu nhãn máy ghi đúng model. [[Epson L365 User Guide]]
+**Nhận diện:** Epson L365; các tổ hợp là chỉ báo người dùng theo guide, không phải mã dịch vụ dạng số. Ghi rõ đèn nào sáng/nháy và màu/tốc độ nếu có. [[Epson L365 User Guide]]
 
-## Lỗi/cảnh báo có căn cứ trong User Guide
+## Tổ hợp và bước kiểm tra
 
-- **Kẹt giấy, không kéo hoặc không nhả giấy:** kiểm tra giấy nạp, khổ/loại giấy và đường giấy theo guide; không kéo mạnh nếu giấy mắc sâu. [[Epson L365 User Guide]]
-- **Không in:** kiểm tra nguồn và cáp/kết nối; chạy product check nếu guide có chức năng này. Nếu trang kiểm tra in được, tiếp tục khoanh vùng máy tính, hàng đợi và driver. [[Epson L365 User Guide]]
-- **Bản in trắng, nhạt, có sọc hoặc thiếu màu:** đối chiếu mực và nozzle check; chỉ chạy làm sạch đầu in theo hướng dẫn, vì chu trình dùng mực. [[Epson L365 User Guide]]
-- **Sai màu, nhòe hoặc lệch:** xác nhận giấy/thiết lập in, sau đó làm alignment theo hướng dẫn nếu dấu hiệu phù hợp. [[Epson L365 User Guide]]
-- **Đèn/trạng thái báo lỗi:** ghi lại tổ hợp đèn hoặc thông báo trước khi xử lý; dùng bảng trạng thái riêng của guide này, không suy mã từ model khác. [[Epson L365 User Guide]]
+- **Power + Paper nháy:** ink pad cần thay; liên hệ Epson.
+- **Power sáng + Ink sáng:** nạp mực ban đầu có thể chưa hoàn tất; làm theo Start Here.
+- **Paper nháy / sáng:** kẹt giấy / hết giấy hoặc nạp nhiều tờ; gỡ giấy hoặc nạp đúng rồi nhấn copy đen trắng/màu.
+- **Wi-Fi nháy cam:** lỗi Wi-Fi; nhấn nút Wi-Fi để xóa trạng thái rồi thử lại.
+- **Ink và Paper nháy, Wi-Fi nháy xanh/cam:** firmware update lỗi; nối USB cập nhật lại, nếu còn liên hệ Epson.
+- **Power, Ink, Paper và Wi-Fi cùng nháy:** mở cụm scanner, lấy giấy/vật liệu bảo vệ nhìn thấy được, tắt bật lại; lỗi còn thì liên hệ Epson.
 
-## Kiểm tra an toàn và bước tiếp theo
+Trước tiên kiểm tra giấy/vật liệu nhìn thấy, nguồn và mức mực; tắt máy trước khi lấy giấy. Với bản in xấu, chạy nozzle check trước cleaning. Ink pad là phần cần hỗ trợ Epson, không tự thay. Nếu lỗi lặp lại sau thao tác trong guide, có tiếng cơ lạ/rò mực hoặc giấy mắc sâu, chuyển kỹ thuật trực tiếp. [[Epson L365 User Guide]]
 
-Ghi model trên nhãn, trạng thái đèn, loại giấy, mức mực và mẫu in. Tắt máy trước khi lấy giấy nhìn thấy được; thao tác nhẹ theo chiều đường giấy, không dùng vật kim loại. Với lỗi chất lượng, in nozzle check trước khi cleaning; dừng sau số lần/điều kiện mà guide cho phép. Nếu lỗi tồn tại sau bước chính hãng, có tiếng cơ lạ, rò mực, vật cản sâu, báo lỗi kéo dài hoặc không thể tiếp cận an toàn, ngừng thao tác và chuyển kỹ thuật trực tiếp. [[Epson L365 User Guide]]
+## Phạm vi model
 
-## Khác biệt model/biến thể
-
-Nguồn áp dụng cho L365 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Với L1300/L1800, guide nêu rõ cả hai model; thao tác bảng đèn cần đối chiếu kiểu bảng điều khiển thực tế. [[Epson L365 User Guide]]
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+User’s Guide L365, Product Light Status trang 148-149; có Wi-Fi status màu và bảng riêng L365. Không suy tổ hợp từ L355. [[Epson L365 User Guide]]

@@ -10,6 +10,6 @@ source: "[[Epson L310 L313 User Guide]]"
 # Epson L310 L313 User Guide
 
 - URL: https://download4.epson.biz/sec_pubs/l310_series/useg/en/manual.pdf
-- Truy cập: 2026-11-24.
-- Vị trí đã đối chiếu: User’s Guide L310/L313, Epson, mục Product Light Status và Running a Product Check, trang 86-88; các mục Solving Paper Problems và Print Quality Problems ở phần Solving Problems. Phạm vi tài liệu ghi rõ L310/L313.
+- Truy cập: 2026-11-25.
+- Vị trí đã đối chiếu: Product Light Status / Checking the Error Indicators on the Printer: paper on/flashing, initial ink charge, alternating paper/ink (pad), fast/slow distinctions, all lights, firmware. The English User Guide explicitly labels L310/L313; scope is these two models.
 - Chỉ áp dụng các model/biến thể được nêu rõ ở phạm vi tài liệu; model gần tên không mặc nhiên dùng chung.

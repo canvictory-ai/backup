@@ -229,3 +229,113 @@ Time-ordered log (append-only). Each entry: ## [YYYY-MM-DD] kind | title.
 
 - Đối chiếu riêng 30 model với 4 bảng lỗi Brother: dòng DCP/MFC-L2531, HL-L2390/MFC-L2690, HL-L2325 và DCP/MFC-T520. Bổ sung 4-5 thông báo mỗi model, nguyên nhân/dấu hiệu, kiểm tra an toàn, nhánh tiếp theo và điều kiện chuyển kỹ thuật; link tới trang chung để tránh lặp hướng dẫn.
 - Ghi rõ nhóm hậu tố theo phạm vi hãng; bổ sung HL-L2350DW vào mục tra cứu riêng và nhóm HL-L2325DW do bảng hãng liệt kê model này. Truy cập nguồn 2026-11-24. Phần chưa làm: chưa rà toàn bộ User Guide/tài liệu bảo trì riêng theo từng model; bảng HTML không có số trang.
+## [2026-11-25] cập nhật | Rà soát bằng chứng Canon TS3300 trong lô 24/11
+
+- Đối chiếu danh mục: lô Canon ghi 96 model bổ sung, cộng 4 LBP đã có từ trước thành 100; các model TS3300 được Canon liệt kê chính xác trong trang mã lỗi.
+- Cập nhật [[Nguồn Canon TS3300 - hướng dẫn và mã lỗi]]: thêm tập mã hỗ trợ Canon liệt kê, vị trí hiển thị trên máy tính, phân biệt support code với nhịp đèn và đường xử lý tiếp theo. Truy cập Canon 2026-11-25.
+- Chưa tính model nào là “đào sâu theo model” mới: các trang con vẫn là hướng dẫn chung, chưa bổ sung bảng mã chi tiết riêng và đối chiếu xong từng bước xử lý. Các mã trong các series Canon khác cũng chưa được rà sâu trong lượt này.
+
+
+## [2026-11-25] update | Đào sâu mã lỗi Canon TS3300 trong lô 24/11
+
+- Mở trực tiếp các trang Canon cho 8 mã 1000, 1300, 1688, 5100, 5200, 6000, 5B00 và B202; ghi nguyên nhân/mô tả, bước an toàn và điểm chuyển dịch vụ vào trang nguồn.
+- Cập nhật 15 trang model TS3300 mà tiêu đề danh sách mã Canon nêu đích danh; các hướng dẫn mới phân biệt support code trên màn hình máy tính với nhịp đèn.
+- Chốt số thực tế: 15/96 model bổ sung được đào sâu; 81/96 model chưa đào sâu. Bốn LBP trước đó không được tính là model mới của lượt này. Không thay đổi lịch học định kỳ. [[Nguồn Canon TS3300 - hướng dẫn và mã lỗi]]
+
+## [2026-11-25] update | Đào sâu trạng thái đèn HP M12/P1100 trong lô 24/11
+
+- Bổ sung nguồn HP chính hãng về Attention, Ready và Wireless, phân biệt trạng thái người dùng với mã service và xác nhận phạm vi biến thể có/không Wi-Fi. Cập nhật 9 trang model: M12a, M12w, P1102, P1102s, P1102w, P1106, P1108, P1109, P1109w.
+- Đây là 9 model có nội dung mới dựa trên nguồn chi tiết trong lượt này; không tính lại các model đã có nội dung trước đó. Còn lại trong lô ghi nhận 100 model: 91 model chưa có đào sâu mới trong lượt này. [[Nguồn HP LaserJet Pro M12 P1100 - trạng thái đèn]] [[Danh mục model máy in đã tra cứu]]
+
+## [2026-11-25] update | Chốt ranh giới lô HP ngày 24/11
+
+- Tạo [[Lô HP ngày 24-11-2026 - danh sách model]] với đúng 100 model duy nhất, đánh số 1-100 và trích theo ranh giới tiêu đề trong [[Danh mục model máy in đã tra cứu]]. Giữ nguyên 9 model có nội dung trạng thái đèn HP mới; không tính M404dn hoặc mục cũ. Cập nhật [[index]] và liên kết ngược từ danh mục. Kiểm tra số lượng, tính duy nhất, trang con và nguồn sau khi ghi.
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm Victory phổ biến
+
+- Đối chiếu danh mục và log: lô có 50 model riêng biệt (11 + 9 + 3 + 27); các lần trước mới dựng trang cơ bản theo User Guide, không tính là đào sâu trong lượt này. Nhóm hoàn tất mới: 5 model, gồm LQ-310, L3110, L3210, L3250 (guide chung L3250/L3251) và L805.
+- Bổ sung chỉ báo/tổ hợp đèn hoặc beep theo đúng nguồn, cách phân biệt nguyên nhân theo trạng thái, bước đầu an toàn, bước tiếp và điểm chuyển kỹ thuật. Ghi rõ chỉ báo người dùng không phải mã dịch vụ; không suy mã từ model khác. L3210 được phân biệt với L1210 dù tài liệu cài đặt dùng chung.
+- Cập nhật 5 trang model, 5 trang nguồn, [[index]]; đọc lại các trang đã sửa. Còn 45 model trong lô chưa đào sâu ở lượt này, tiếp tục theo nhóm nhỏ. Không thay lịch học định kỳ.
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm tiếp theo
+
+- Bổ sung 5 model riêng: L310, L313, L3150, L3251 và L5290. L310/L313 dùng cùng guide có nêu cả hai; L3251 dùng đúng guide L3250/L3251. Không cộng trùng trang nguồn hoặc guide dùng chung như một lần tài liệu thứ hai.
+- Ghi bảng đèn theo model và LCD code L5290 (E-01/E-02/E-11/E-12/W-01/W-11/W-14/I-22), phân biệt thông báo cho người dùng với maintenance request code; thêm bước kiểm tra và điểm chuyển Epson/kỹ thuật.
+- Cập nhật 5 trang model, 3 trang nguồn, [[index]] và đọc lại các trang. Lũy kế 10/50 model được đào sâu mới trong đợt này; còn 40 model. Không thay lịch định kỳ.
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm LCD theo User Guide
+
+- Bổ sung 3 model riêng: L6160, L6190, L6460. User Guide hãng lần lượt xác nhận phạm vi ET-3700/L6160, ET-4750/L6190 và series nêu cả L6460/L6490. Chỉ lấy hướng dẫn gắn với thông báo LCD và tháo giấy được đối chiếu; không biến thông báo chữ thành mã dịch vụ.
+- Ghi paper out, printer error, ink pad/recovery mode; bổ sung lưu ý riêng L6190 về dial tone/fax và ADF, L6460 về thao tác giấy an toàn. Cập nhật 3 trang model, 3 trang nguồn, [[index]] và đọc lại. Lũy kế 13/50 model được đào sâu mới; còn 37 model. [[Epson L6160 User Guide]] [[Epson L6190 User Guide]] [[Epson L6460 User Guide]]
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm máy đơn sắc
+
+- Bổ sung 4 model riêng: M200, M205, M2140 và M3170. Guide M200/M205 nêu rõ hai biến thể; ghi khác biệt LAN/Wi-Fi. M2140 có bộ LCD code được xác minh trực tiếp. M3170 chỉ ghi thông báo chữ và bảo trì box theo guide; không bịa bộ E/W code.
+- Cập nhật 4 trang model, 4 trang nguồn và [[index]], đọc lại trang đích. Lũy kế 17/50 model được đào sâu mới; còn 33 model. Không thay lịch định kỳ. [[Epson M200 User Guide]] [[Epson M205 User Guide]] [[Epson M2140 User Guide]] [[Epson M3170 User Guide]]
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm EcoTank đời L1/L3
+
+- Bổ sung 3 model riêng: L1250, L355, L365; đọc bảng đèn đúng guide. L355 có trạng thái mức mực và Wi-Fi riêng, L365 có bảng khác, L1250 dùng Stop khi lỗi giấy. Không hợp nhất nhịp đèn giữa các đời.
+- Cập nhật 3 trang model, 3 trang nguồn, [[index]]; đọc lại nội dung. Lũy kế 20/50 model được đào sâu mới; còn 30 model. Không thay lịch định kỳ. [[Epson L1250 User Guide]] [[Epson L355 User Guide]] [[Epson L365 User Guide]]
+
+
+## [2026-11-25] research | Hoàn tất nhóm Epson bổ sung và chốt tiến độ lô 24/11
+
+- Bổ sung 4 model: L121, L1300, L1800 và L220. Đọc bảng đèn trực tiếp trong manual Epson: L121 trang 90-91, L220 trang 138-139, L1300/L1800 trang 84. Với L1300/L1800 guide nêu rõ hai model; không suy rộng ngoài phạm vi.
+- Cập nhật trang model và trang nguồn, ghi URL, mục/trang và ngày truy cập 2026-11-25; bổ sung chỉ báo chính xác, bước an toàn, bước tiếp và điểm chuyển kỹ thuật. Cập nhật [[index]] và tạo [[Lô Epson ngày 24-11-2026 - tiến độ đào sâu]] liệt kê đủ 50 model.
+- Lũy kế 24/50 model có nội dung đào sâu mới; 26 model được liệt kê rõ là chưa đào sâu và không tính. Không sửa lịch học định kỳ. Đọc lại các trang cập nhật và kiểm tra danh sách/lien kết.
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm L3/L6
+
+- Bổ sung 3 model riêng: L3100, L6170 và L360. L3100 dùng manual ghi L3100 Series/L3110 Series; L6170 dùng manual ET-3750/L6170; guide L360/L363 ghi rõ hai biến thể và chỉ áp dụng mục đã xác minh cho L360.
+- Bổ sung chi tiết đèn/service-life pad, LCD message và recovery mode đúng từng manual; ghi trang, URL, ngày truy cập, bước an toàn và điểm chuyển kỹ thuật. Không coi thông báo người dùng là mã service. Cập nhật nguồn, trang model, [[index]] và [[Lô Epson ngày 24-11-2026 - tiến độ đào sâu]]. Lũy kế 27/50; còn 23 model chưa đào sâu.
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm đời L3/L4/L4-series
+
+- Bổ sung 3 model riêng: L380, L455 và L485. Manual lần lượt ghi L380 Series, L455, L485 Series; đã xác nhận đúng các tên phạm vi, không áp nhầm bảng từ model khác.
+- Bổ sung bảng đèn hoặc LCD code và quy trình giấy/pad/firmware theo trang guide, nêu rõ đâu là hướng dẫn người dùng chứ không phải service code; ghi URL, trang, ngày truy cập và bước chuyển kỹ thuật. Cập nhật [[index]] và [[Lô Epson ngày 24-11-2026 - tiến độ đào sâu]]. Lũy kế 30/50; còn 20 model chưa đào sâu.
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm LCD maintenance
+
+- Bổ sung 4 model riêng: L565, L605, L655 và L850; L605/L655 dùng đúng guide có tên ET-3600/L605 và ET-4550/L655.
+- Ghi chính xác LCD message, ink pad và firmware recovery theo manual; phân biệt placeholder “0xXX/XXXXXX” với mã service xác định và lỗi mạng với lỗi thiết bị. Cập nhật source, trang model, [[index]] và [[Lô Epson ngày 24-11-2026 - tiến độ đào sâu]]. Lũy kế 34/50, còn 16 chưa đào sâu.
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm L385/L65xx/M2120
+
+- Bổ sung 4 model riêng: L385, L6550, L6580 và M2120; guide nguồn nêu đúng L385 Series, ET-5800/L6550 Series, ET-5880/L6580 Series và ET-M2120/M2120 Series.
+- Ghi bảng đèn/LCD, chi tiết nguyên nhân và bước xử lý đúng manual, phân biệt service-life message, hướng dẫn Wi-Fi, fax và recovery; ghi URL/trang/ngày truy cập. Cập nhật source, trang model, [[index]] và [[Lô Epson ngày 24-11-2026 - tiến độ đào sâu]]. Lũy kế 38/50; còn 12 model chưa đào sâu.
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm Product Status Messages
+
+- Bổ sung 7 model riêng: L4150, L4160, L4260, L6270, L5190, L14150 và L6490. Ghi rõ phạm vi shared page khi helpcontents của model liên kết sang ET-2700/ET-2750/ET-2850/ET-3830/ET-4700/ET-15000/ET-5150/5170 và xác nhận tên model trong guide hoặc liên kết Epson.
+- Ghi exact LCD code/message, pad, paper, network/fax và firmware recovery; phân biệt status người dùng với service code; ghi URL và heading (HTML không phân trang), ngày truy cập 2026-11-25. Cập nhật nguồn, trang model, [[index]] và [[Lô Epson ngày 24-11-2026 - tiến độ đào sâu]]. Lũy kế 45/50, còn 5 model chưa đào sâu.
+
+
+## [2026-11-25] research | Đào sâu Epson lô 24/11, nhóm model còn nguồn đọc được
+
+- Cập nhật L6570 từ HTML guide Epson ET-5855/ET-5850/L6570: LCD messages, kẹt giấy, borderless pad, Recovery Mode và fax dial tone; phân biệt hướng dẫn người dùng với mã service.
+- Cập nhật L550 và L555 theo cùng PDF L550, xác nhận trang chỉ mục L555 của Epson liên kết chính PDF đó. Bổ sung bảng LCD page 99-100, bước xử lý và điểm chuyển Epson.
+- Đọc lại trang nguồn, bài model, chỉ mục và bảng tiến độ. Lũy kế 48/50 model có nội dung mới đủ căn cứ; L200 và L405 không tính do không xác minh được chính xác tổ hợp biểu tượng đèn từ bản hiển thị/trích xuất. Không suy bảng nhịp từ model khác; không thay đổi lịch định kỳ. [[Lô Epson ngày 24-11-2026 - tiến độ đào sâu]] [[Epson L6570 User Guide]] [[Epson L550 User Guide]] [[Epson L555 User Guide]]
+
+
+## [2026-11-25] research | Đào sâu Brother lô 24/11, nhóm DCP/MFC-L2531 và T520
+
+- Đối chiếu User Guide chính hãng Brother và bổ sung 21 trang model: 13 model dòng DCP/MFC-L2531 và 8 model DCP/MFC-T520, T920. Tách rõ phạm vi model/tiểu mục; bổ sung mã thông báo chính xác, dấu hiệu, nguyên nhân do hãng nêu, bước người dùng an toàn, xử lý tiếp và điểm chuyển kỹ thuật. `XX` được giữ là thông báo, không suy thành mã service; hộp thấm mực đầy chuyển dịch vụ.
+- Tạo [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]] và [[Nguồn Brother Dòng T520 - User Guide thông báo lỗi]], ghi URL, heading, ngày truy cập 2026-11-25; HTML không có số trang. Cập nhật 21 trang model, [[index]] và [[Lô Brother ngày 24-11-2026 - tiến độ đào sâu]]. Đọc lại để kiểm tra nội dung, liên kết nguồn và số lượng.
+- Lô có 130 model theo log: 30 + 100. Còn 109 model chưa có nội dung đào sâu mới trong lượt này. Có 1 trang DCP-L2605DW dư trong đoạn Brother 100 model của index, đã loại khỏi danh sách 100 theo ranh giới số lượng trong log; cần chỉnh nếu danh mục gốc chứng minh model này thuộc lô. Không sửa lịch học định kỳ. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]] [[Nguồn Brother Dòng T520 - User Guide thông báo lỗi]]
+
+
+## [2026-11-25] update | Đính chính ranh giới lô Brother 24/11
+
+- Khi đối chiếu [[Danh mục model máy in đã tra cứu]], thấy mục 30 model Brother liệt kê DCP-L2531/HL-L2390/HL-L2325/DCP-T520, trùng với 30 model nằm trong đoạn “Brother: 100 mã” của [[index]]. Log chat cùng ngày lại ghi lô 30 khác: HL-L2405/HL-L5210/DCP-L5510/DCP-L2640. Có hai roster 30 khác nhau trong hồ sơ; chưa khẳng định 130 model đích duy nhất nếu chưa chốt roster 30.
+- [[Lô Brother ngày 24-11-2026 - tiến độ đào sâu]] giữ roster tác vụ 130 tạm theo log chat + 100 mục trong index, đánh dấu phần bất nhất. Kết quả mới của lượt này vẫn là 21 model có nội dung User Guide mới, đọc lại và xác minh link nguồn. Cần chủ xác nhận roster 30 để khóa tổng số lô, không thay đổi lịch học định kỳ.

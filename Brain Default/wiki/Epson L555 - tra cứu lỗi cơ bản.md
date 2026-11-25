@@ -3,13 +3,27 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L555 User Guide]]"
 ---
 
 # Epson L555 - tra cứu lỗi cơ bản
 
 **Nhận diện:** chỉ áp dụng khi nhãn máy ghi đúng Epson L555. Tài liệu hãng được gắn với model này; không tự áp dụng mã đèn hoặc trình tự của model gần tên. [[Epson L555 User Guide]]
+
+## Thông báo trên LCD đã xác minh
+
+Epson L555 có trang chỉ mục riêng, nhưng liên kết User's Guide từ trang này trỏ tới đúng guide L550; vì vậy hướng dẫn dưới đây dùng chung chỉ trong phạm vi xác nhận đó. [[Epson L555 User Guide]]
+
+- **Paper jam / Paper jam in the ADF:** nhấn OK; nếu chưa hết, gỡ giấy kẹt theo manual. Với ADF, lấy vật/tài liệu khỏi bộ nạp. Không đưa tay vào khi bấm nút. [[Epson L555 User Guide]]
+- **Printer error / Scanner error:** tắt rồi bật lại, kiểm tra không còn giấy bên trong; nếu thông báo còn, liên hệ Epson. **ADF Error** yêu cầu bỏ vật/tài liệu trong ADF rồi tắt nguồn. [[Epson L555 User Guide]]
+- **Ink pad nearing end:** nhấn OK để tiếp tục in; thông báo còn đến khi pad được thay. **Ink pad at end:** Epson phải thay pad; máy có thể dừng khi pad bão hòa. Đây là thông báo tuổi thọ linh kiện, không phải mã service/reset. [[Epson L555 User Guide]]
+- **No dial tone / Fax job incomplete:** kiểm tra dây và đường điện thoại; với PBX/Terminal Adapter, kiểm tra cấu hình dò âm. [[Epson L555 User Guide]]
+- **Recovery Mode:** firmware update thất bại; dùng USB và hướng dẫn trên website Epson khu vực để thử cập nhật lại. [[Epson L555 User Guide]]
+
+## Phân biệt nguyên nhân và bước tiếp
+
+Jam chỉ nhánh giấy/ADF; Communication error là kết nối máy tính hoặc phần mềm scan. Lỗi printer/scanner tiếp tục sau khởi động lại, giấy mắc sâu, vật lạ hoặc lỗi lặp lại cần kỹ thuật viên. Ghi nguyên văn thông báo và bước đã thử. [[Epson L555 User Guide]]
 
 ## Lỗi thường gặp và hướng kiểm tra
 

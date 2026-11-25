@@ -1,30 +1,29 @@
 ---
 type: wiki
 status: active
-tags: [wiki, may-in, epson, tra-cuu-loi]
+tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L355 User Guide]]"
 ---
 
 # Epson L355 - tra cứu lỗi cơ bản
 
-**Nhận diện:** Model L355; phạm vi nguồn hãng: L355 User Guide. Chỉ dùng hướng dẫn này nếu nhãn máy ghi đúng model. [[Epson L355 User Guide]]
+**Nhận diện:** Epson L355; các tổ hợp là chỉ báo người dùng theo guide, không phải mã dịch vụ dạng số. Ghi rõ đèn nào sáng/nháy và màu/tốc độ nếu có. [[Epson L355 User Guide]]
 
-## Lỗi/cảnh báo có căn cứ trong User Guide
+## Tổ hợp và bước kiểm tra
 
-- **Kẹt giấy, không kéo hoặc không nhả giấy:** kiểm tra giấy nạp, khổ/loại giấy và đường giấy theo guide; không kéo mạnh nếu giấy mắc sâu. [[Epson L355 User Guide]]
-- **Không in:** kiểm tra nguồn và cáp/kết nối; chạy product check nếu guide có chức năng này. Nếu trang kiểm tra in được, tiếp tục khoanh vùng máy tính, hàng đợi và driver. [[Epson L355 User Guide]]
-- **Bản in trắng, nhạt, có sọc hoặc thiếu màu:** đối chiếu mực và nozzle check; chỉ chạy làm sạch đầu in theo hướng dẫn, vì chu trình dùng mực. [[Epson L355 User Guide]]
-- **Sai màu, nhòe hoặc lệch:** xác nhận giấy/thiết lập in, sau đó làm alignment theo hướng dẫn nếu dấu hiệu phù hợp. [[Epson L355 User Guide]]
-- **Đèn/trạng thái báo lỗi:** ghi lại tổ hợp đèn hoặc thông báo trước khi xử lý; dùng bảng trạng thái riêng của guide này, không suy mã từ model khác. [[Epson L355 User Guide]]
+- **Power nháy khoảng 20 phút sau khi nạp mực:** đang nạp mực, không hủy; nếu không vừa nạp, có thể máy đang bận/in/cleaning.
+- **Power nháy + Paper nháy:** giấy kẹt; lấy giấy rồi nhấn copy đen trắng/màu.
+- **Power nháy + Paper sáng:** hết giấy/nạp nhiều tờ; nạp đúng và nhấn nút copy.
+- **Ink nháy:** mực có thể gần mức thấp; quan sát mức thực tế trong bình, chuẩn bị mực.
+- **Ink sáng:** mực có thể chạm vạch dưới; nạp lại. Tiếp tục chạy dưới vạch có thể làm hỏng máy.
+- **Ink nháy + Paper nháy + Power sáng/nháy:** pad mực gần hết; liên hệ Epson; có thể tiếp tục bằng nút copy khi máy tính cho phép.
+- **Ink và Paper sáng, Wi-Fi sáng:** firmware update lỗi; nối USB để thử lại, nếu còn liên hệ Epson.
+- **Power/Ink/Paper/Wi-Fi cùng nháy:** lỗi nghiêm trọng; tắt bật, kiểm tra kẹt giấy, nếu còn liên hệ Epson.
 
-## Kiểm tra an toàn và bước tiếp theo
+Trước tiên kiểm tra giấy/vật liệu nhìn thấy, nguồn và mức mực; tắt máy trước khi lấy giấy. Với bản in xấu, chạy nozzle check trước cleaning. Ink pad là phần cần hỗ trợ Epson, không tự thay. Nếu lỗi lặp lại sau thao tác trong guide, có tiếng cơ lạ/rò mực hoặc giấy mắc sâu, chuyển kỹ thuật trực tiếp. [[Epson L355 User Guide]]
 
-Ghi model trên nhãn, trạng thái đèn, loại giấy, mức mực và mẫu in. Tắt máy trước khi lấy giấy nhìn thấy được; thao tác nhẹ theo chiều đường giấy, không dùng vật kim loại. Với lỗi chất lượng, in nozzle check trước khi cleaning; dừng sau số lần/điều kiện mà guide cho phép. Nếu lỗi tồn tại sau bước chính hãng, có tiếng cơ lạ, rò mực, vật cản sâu, báo lỗi kéo dài hoặc không thể tiếp cận an toàn, ngừng thao tác và chuyển kỹ thuật trực tiếp. [[Epson L355 User Guide]]
+## Phạm vi model
 
-## Khác biệt model/biến thể
-
-Nguồn áp dụng cho L355 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Với L1300/L1800, guide nêu rõ cả hai model; thao tác bảng đèn cần đối chiếu kiểu bảng điều khiển thực tế. [[Epson L355 User Guide]]
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+Guide Epson L355 có bảng Product Light Status; nhịp Wi-Fi màu cam/xanh và các tổ hợp trên là riêng model, không suy từ L365. [[Epson L355 User Guide]]

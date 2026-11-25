@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Nguồn Brother DCP-L2531DW - bảng lỗi cho đợt 100 mã]]"
 ---
 
@@ -36,3 +36,13 @@ Nếu thông báo khác bảng hoặc vẫn lỗi sau bước an toàn, ghi mode
 | **Replace Drum** | Đến hạn tuổi thọ trống hoặc bộ đếm chưa đặt lại sau khi thay trống mới. | Xác nhận đã thay đúng cụm trống; chỉ đặt lại bộ đếm theo hướng dẫn của đúng model sau khi đã thay. Nếu trống chưa thay thì không reset để xóa cảnh báo; nếu đã thay đúng mà vẫn báo, chuyển kỹ thuật. [[Nguồn Brother DCP-L2531DW - bảng lỗi cho đợt 100 mã]] |
 
 Các bước mở nắp/tháo giấy/cụm mực chỉ làm theo hướng dẫn người dùng đúng model. Dừng nếu cần tháo sâu, có giấy mắc ở vùng sấy, mùi khét, tiếng bất thường, hoặc mã cơ khí lặp lại; gửi kỹ thuật nguyên mã, ảnh màn hình và kết quả từng bước. Phần bảng lỗi nguồn là tài liệu hãng; trang hướng dẫn cụm dòng trong Wiki giúp tra cứu chi tiết, không thay thế kiểm tra model/revision trên tem.
+## Đào sâu User Guide chính hãng | 2026-11-25
+
+Brother có liệt kê **DCP-L2535DW** trong phạm vi User Guide của nhóm; bảng lỗi HTML không có số trang. Các nhãn là thông báo người dùng, không phải mã service. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]
+
+- **Jam 2-sided / Jam Inside / Jam Rear / Jam Tray:** thông báo nêu vị trí kẹt. Hủy lệnh, mở đúng nắp được hướng dẫn, kéo giấy từ từ theo đường giấy và đóng lại. Không chạm vùng sấy; nếu giấy mắc sâu/rách hoặc kẹt lặp lại cùng vị trí, chuyển kỹ thuật. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]
+- **No Paper:** nạp lại giấy, chỉnh thanh dẫn đúng khổ, không nạp quá mức; nếu thông báo còn, ghi khay/khổ báo lỗi để kiểm tra đường kéo giấy. **Manual Feed** chỉ ra driver đang chọn khe nạp tay nhưng khe chưa có giấy, nên nạp giấy vào khe hoặc đổi nguồn giấy trong lệnh in. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]
+- **No Toner / Replace Drum:** No Toner do cụm mực/trống lắp chưa đúng; lắp lại theo hướng dẫn. Replace Drum nghĩa là đến hạn trống hoặc chưa reset bộ đếm sau khi thay; không reset nếu chưa thay cụm trống. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]
+- **Print Unable XX / Scan Unable XX:** bảng chỉ phân loại là vấn đề cơ khí, không đưa mapping XX. Với model MFC có fax, chuyển dữ liệu fax trước khi tắt máy; tắt bằng nút nguồn một lần, nếu tái diễn thì liên hệ kỹ thuật. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]
+
+**Phạm vi:** trang nguồn regional Brother liệt kê đúng 13 model trong lô: DCP-L2531DW, DCP-L2535DW, DCP-L2550DW, HL-L2395DW, MFC-L2710DW, MFC-L2713DW, MFC-L2715DW, MFC-L2716DW, MFC-L2730DW, MFC-L2750DW, MFC-L2751DW, MFC-L2770DW, MFC-L2771DW. Dùng đúng mục thông báo của guide; không suy khác biệt phần cứng/hậu tố ngoài thông tin hãng. Các nhãn `Print Unable XX` và `Scan Unable XX` chỉ được mô tả là sự cố cơ khí, không giải nghĩa XX thành mã service. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]

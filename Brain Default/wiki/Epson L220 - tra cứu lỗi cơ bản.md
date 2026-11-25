@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L220 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L220. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L220 User Guide]]
+
+## Bảng đèn chính xác của L220
+
+Trang 138 của User’s Guide: Power sáng là bật; Power nhấp nháy là đang bận, chờ dừng trước khi tắt. Paper nhấp nháy báo kẹt giấy, lấy giấy và nhấn nút copy đen trắng hoặc màu; Paper sáng báo không có giấy/kéo nhiều tờ, nạp lại và nhấn một trong hai nút copy. Power và Ink cùng sáng báo nạp mực ban đầu có thể chưa xong. Ink và Paper cùng nhấp nháy báo ink pad cần thay, liên hệ Epson. Ink và Paper cùng sáng báo lỗi cập nhật firmware, thử lại qua USB; nếu còn lỗi thì liên hệ Epson. Power, Ink và Paper cùng nhấp nháy: mở cụm scanner, lấy giấy/vật bảo vệ bên trong, tắt rồi bật lại. Đây là thông báo trạng thái đèn của guide L220, không phải mã dịch vụ. [[Epson L220 User Guide]]
+
+Nếu bảng đèn không khớp hoặc còn lỗi sau bước Epson nêu, ghi lại trạng thái, tránh lặp cập nhật firmware hay tự thay pad, chuyển kỹ thuật/Epson. [[Epson L220 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

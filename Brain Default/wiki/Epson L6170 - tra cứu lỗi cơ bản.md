@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L6170 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L6170. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L6170 User Guide]]
+
+## LCD message đã xác minh cho L6170
+
+Guide trên bìa ghi ET-3750/L6170. Trang 141-142, mục Checking Messages on the LCD Screen: “Printer Error” thì bật/tắt lại, kiểm tra và lấy giấy/vật bảo vệ còn trong máy; còn thông báo thì liên hệ Epson. “Paper out in XX” nghĩa là khay được chỉ định hết giấy; nạp giấy và đẩy cassette vào hết hành trình. Cảnh báo borderless ink pad nearing/end: đây là pad in không viền, không phải người dùng tự thay; liên hệ Epson/đơn vị ủy quyền. Guide cho phép chọn OK để tiếp tục khi ở cảnh báo nearing; khi pad đã hết tuổi thọ, liên hệ hỗ trợ. “Recovery Mode” là cập nhật firmware thất bại; nối USB (không thể cập nhật qua mạng khi recovery) và làm theo trang Epson khu vực. Đây là thông điệp LCD người dùng và trạng thái firmware, không đánh đồng với mã service. [[Epson L6170 User Guide]]
+
+Ghi nguyên văn message và khay “XX” trước khi xử lý. Chỉ gỡ giấy/vật bảo vệ nhìn thấy được theo hướng dẫn; nếu printer error còn sau khởi động, báo pad hết, hoặc recovery mode không khôi phục được qua USB, dừng và chuyển Epson/kỹ thuật. [[Epson L6170 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

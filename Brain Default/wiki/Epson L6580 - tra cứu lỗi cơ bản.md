@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L6580 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L6580. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L6580 User Guide]]
+
+## LCD message đã xác minh theo ET-5880/L6580 Series
+
+Manual ghi ET-5880/L6580 Series. Trang 237-238: Printer error, tắt/bật và lấy giấy/vật bảo vệ; nếu vẫn hiện gọi Epson. Trường hợp “Contact Epson Support. Non-printing features are available” hoặc message yêu cầu sửa chữa có thể vẫn scan nhưng cần kỹ thuật. “Paper out in XX” kèm Paper Size/Type: nạp khay được nêu và đẩy cassette sát vào. Cảnh báo borderless ink pad nearing cho phép chạm OK để tiếp tục, pad không phải loại người dùng thay; khi đã hết, không in không viền được nhưng in có viền vẫn có thể. “No dial tone” là vấn đề đường fax, guide khuyên kiểm tra Line Type/PBX, nhưng tắt Dial Tone Detection có thể làm mất chữ số đầu và gửi sai số nên cần thận trọng. Recovery Mode sau cập nhật firmware lỗi cần USB, không cập nhật qua mạng. Đây là message người dùng, không phải mã service. [[Epson L6580 User Guide]]
+
+Ghi nguyên văn LCD, nguồn giấy và tính năng đang dùng. Dừng, chuyển Epson/kỹ thuật khi printer error còn, pad hết hoặc recovery không thành công. [[Epson L6580 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

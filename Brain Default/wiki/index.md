@@ -1,80 +1,85 @@
 # Wiki Index
 
+- [[Lô HP ngày 24-11-2026 - danh sách model]] - Danh sách cố định 100 model thuộc ranh giới lô HP 24/11; ghi rõ 9 model có cập nhật đào sâu mới và 91 model chưa tính mới.
+
+- [[Nguồn Canon TS3300 - hướng dẫn và mã lỗi]] - Phạm vi 15 model và 8 support code đã đối chiếu trực tiếp, gồm thao tác người dùng và điểm chuyển dịch vụ; truy cập 2026-11-25.
+
 - [[Ưu tiên kiểm soát rủi ro pháp lý Victory]] - Checklist ưu tiên về hợp đồng, chứng từ/thuế, lao động, an toàn lắp đặt, dữ liệu và website; còn cần xác nhận luồng bán online và nhân sự.
 - [[Nguồn chính thức về kiểm soát rủi ro pháp lý của Victory]] - URL và thuộc tính văn bản tra cứu trên Cổng văn bản Chính phủ ngày 24/11/2026.
 
 
 ## Epson
+- [[Lô Epson ngày 24-11-2026 - tiến độ đào sâu]] - Bảng 50 model; 48 đã đào sâu mới, 2 chưa tính do chưa xác minh được tổ hợp đèn từ phần hiển thị của tài liệu.
 - [[Epson Manual Web-Site]] - Danh mục tài liệu User Guide chính hãng Epson.
 - [[Epson User Guides]] - Nguồn danh mục hướng dẫn theo model của Epson.
 
 - [[Epson L200 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L200 User Guide]]
 - [[Epson L200 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L220 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L220 User Guide]]
+- [[Epson L220 - tra cứu lỗi cơ bản]] - Bảng đèn L220 trang 138-139: kẹt/thiếu giấy, ink pad, firmware và nạp mực ban đầu. [[Epson L220 User Guide]] [[Epson L220 User Guide]]
 - [[Epson L220 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L360 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L360 User Guide]]
+- [[Epson L360 - tra cứu lỗi cơ bản]] - L360/L363 guide: phân biệt giấy, ink pad, printer error và firmware recovery theo đèn. [[Epson L360 User Guide]]
 - [[Epson L360 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L380 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L380 User Guide]]
+- [[Epson L380 - tra cứu lỗi cơ bản]] - L380 Series guide: phân biệt giấy, ink pad, printer error và firmware recovery theo bảng đèn. [[Epson L380 User Guide]]
 - [[Epson L380 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L385 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L385 User Guide]]
+- [[Epson L385 - tra cứu lỗi cơ bản]] - L385 Series bảng đèn, Wi-Fi error, pad mực và Recovery Mode theo manual đúng series. [[Epson L385 User Guide]]
 - [[Epson L385 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
 - [[Epson L405 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L405 User Guide]]
 - [[Epson L405 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L455 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L455 User Guide]]
+- [[Epson L455 - tra cứu lỗi cơ bản]] - LCD E-01/E-02/E-11, W-01/W-11 và I-22/I-23/I-31/I-41/I-60, phân biệt code người dùng với lỗi mạng. [[Epson L455 User Guide]]
 - [[Epson L455 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L485 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L485 User Guide]]
+- [[Epson L485 - tra cứu lỗi cơ bản]] - L485 Series LCD E/W/I code, ink pad và Recovery Mode theo guide đúng phạm vi. [[Epson L485 User Guide]]
 - [[Epson L485 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L550 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L550 User Guide]]
+- [[Epson L550 - tra cứu lỗi cơ bản]] - LCD message/page 99-100: paper jam, ADF, ink pad, fax dial tone và Recovery Mode. [[Epson L550 User Guide]]
 - [[Epson L550 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L555 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L555 User Guide]]
+- [[Epson L555 - tra cứu lỗi cơ bản]] - Epson xác nhận trang L555 liên kết tới guide L550; đã đối chiếu LCD, ADF, ink pad và Recovery Mode. [[Epson L555 User Guide]]
 - [[Epson L555 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L565 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L565 User Guide]]
+- [[Epson L565 - tra cứu lỗi cơ bản]] - LCD Printer Error 0xXX là placeholder, pad cần Epson thay; không suy thành service code. [[Epson L565 User Guide]]
 - [[Epson L565 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L605 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L605 User Guide]]
+- [[Epson L605 - tra cứu lỗi cơ bản]] - ET-3600/L605 LCD printer error, pad, communication và Recovery Mode; phân biệt lỗi mạng. [[Epson L605 User Guide]]
 - [[Epson L605 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L655 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L655 User Guide]]
+- [[Epson L655 - tra cứu lỗi cơ bản]] - ET-4550/L655 LCD Printer Error 0xXX, ink pad và Recovery Mode theo guide. [[Epson L655 User Guide]]
 - [[Epson L655 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L850 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L850 User Guide]]
+- [[Epson L850 - tra cứu lỗi cơ bản]] - LCD printer error, ink pad, communication và Recovery Mode theo L850 guide. [[Epson L850 User Guide]]
 - [[Epson L850 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L6160 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6160 User Guide]]
+- [[Epson L6160 - tra cứu lỗi cơ bản]] - LCD Printer Error, paper out, pad in không viền và firmware recovery theo guide đúng model. [[Epson L6160 User Guide]]
 - [[Epson L6160 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L6170 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6170 User Guide]]
+- [[Epson L6170 - tra cứu lỗi cơ bản]] - LCD Printer Error, Paper out in XX, borderless pad và Recovery Mode theo đúng ET-3750/L6170 guide. [[Epson L6170 User Guide]]
 - [[Epson L6170 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L6190 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6190 User Guide]]
+- [[Epson L6190 - tra cứu lỗi cơ bản]] - LCD Printer Error, giấy, pad, fax và recovery; phân biệt thông báo người dùng với service code. [[Epson L6190 User Guide]]
 - [[Epson L6190 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L6460 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6460 User Guide]]
+- [[Epson L6460 - tra cứu lỗi cơ bản]] - LCD Printer Error, paper out, firmware recovery và hướng tháo giấy an toàn theo đúng guide. [[Epson L6460 User Guide]]
 - [[Epson L6460 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L6550 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6550 User Guide]]
+- [[Epson L6550 - tra cứu lỗi cơ bản]] - ET-5800/L6550 Series LCD: printer error, Paper out in XX, borderless pad và recovery. [[Epson L6550 User Guide]]
 - [[Epson L6550 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L6570 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6570 User Guide]]
+- [[Epson L6570 - tra cứu lỗi cơ bản]] - LCD Printer error, Paper out in XX, borderless pad, fax dial tone, Recovery Mode và tháo giấy an toàn theo HTML guide đúng series. [[Epson L6570 User Guide]]
 - [[Epson L6570 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L6580 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L6580 User Guide]]
+- [[Epson L6580 - tra cứu lỗi cơ bản]] - ET-5880/L6580 Series LCD: printer error, paper out, pad, fax dial tone và recovery. [[Epson L6580 User Guide]]
 - [[Epson L6580 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson L3100 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson L3100 User Guide]]
+- [[Epson L3100 - tra cứu lỗi cơ bản]] - L3100 Series guide: hai dạng nháy ink pad, giấy kẹt, firmware recovery và printer error. [[Epson L3100 User Guide]]
 - [[Epson L3100 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson M200 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson M200 User Guide]]
+- [[Epson M200 - tra cứu lỗi cơ bản]] - LCD status theo guide chung M200/M205: ADF/giấy, ink pad và recovery; phân biệt LAN M200. [[Epson M200 User Guide]]
 - [[Epson M200 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson M205 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson M205 User Guide]]
+- [[Epson M205 - tra cứu lỗi cơ bản]] - LCD status theo guide chung M200/M205; phân biệt biến thể Wi-Fi và không lẫn mã dịch vụ. [[Epson M205 User Guide]]
 - [[Epson M205 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson M2140 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson M2140 User Guide]]
+- [[Epson M2140 - tra cứu lỗi cơ bản]] - LCD code E-01/E-02/W-01/I-41 và recovery firmware theo guide đúng M2140. [[Epson M2140 User Guide]]
 - [[Epson M2140 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson M3170 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson M3170 User Guide]]
+- [[Epson M3170 - tra cứu lỗi cơ bản]] - Thông báo LCD, paper jam, fax và maintenance box; không suy mã E/W khi chưa có nguồn. [[Epson M3170 User Guide]]
 - [[Epson M3170 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
-- [[Epson M2120 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide chính hãng đúng model, gồm giấy, in và chất lượng bản in. [[Epson M2120 User Guide]]
+- [[Epson M2120 - tra cứu lỗi cơ bản]] - ET-M2120/M2120 Series LCD E/W/I code và Recovery Mode theo manual. [[Epson M2120 User Guide]]
 - [[Epson M2120 User Guide]] - Trang nguồn Epson: URL User Guide, mục đối chiếu và ngày truy cập.
 
 
-- [[Epson LQ-310 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model LQ-310, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson LQ-310 User Guide troubleshooting]]
-- [[Epson L310 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L310, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L310 L313 User Guide]]
-- [[Epson L313 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L313, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L310 L313 User Guide]]
-- [[Epson L3110 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L3110, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L3110 User Guide]]
-- [[Epson L3150 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L3150, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L3150 User Guide]]
-- [[Epson L3210 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L3210, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L3210 User Guide]]
-- [[Epson L3250 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L3250, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L3250 L3251 User Guide]]
-- [[Epson L3251 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L3251, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L3250 L3251 User Guide]]
-- [[Epson L5290 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L5290, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L5290 User Guide]]
-- [[Epson L1250 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L1250, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L1250 User Guide]]
-- [[Epson L121 - tra cứu lỗi cơ bản]] - Hướng kiểm tra theo User Guide hãng cho model L121, ghi rõ phạm vi biến thể và điểm chuyển kỹ thuật. [[Epson L121 User Guide]]
+- [[Epson LQ-310 - tra cứu lỗi cơ bản]] - LQ-310: đã bổ sung bảng đèn/beep theo đúng User Guide, gồm Paper Out, pause, kẹt giấy và lỗi chưa xác định. [[Epson LQ-310 User Guide troubleshooting]]
+- [[Epson L310 - tra cứu lỗi cơ bản]] - L310: bảng đèn chính hãng phân biệt hết/kẹt giấy, nạp mực, ink pad và firmware. [[Epson L310 L313 User Guide]]
+- [[Epson L313 - tra cứu lỗi cơ bản]] - L313: bảng đèn chính hãng áp dụng cùng guide L310/L313, không suy sang model khác. [[Epson L310 L313 User Guide]]
+- [[Epson L3110 - tra cứu lỗi cơ bản]] - L3110: đã bổ sung tổ hợp đèn đúng model, phân biệt ink pad, giấy kẹt, firmware và trạng thái tắt sai. [[Epson L3110 User Guide]]
+- [[Epson L3150 - tra cứu lỗi cơ bản]] - L3150: bảng đèn đúng model gồm pad mực, Wi-Fi, firmware và tắt máy sai. [[Epson L3150 User Guide]]
+- [[Epson L3210 - tra cứu lỗi cơ bản]] - L3210: đã bổ sung Error indicators, nhánh recovery firmware và phân biệt nút xử lý riêng với L1210. [[Epson L3210 User Guide]]
+- [[Epson L3250 - tra cứu lỗi cơ bản]] - L3250/L3251: đã bổ sung bảng đèn riêng, pad mực, Wi-Fi/firmware và điểm chuyển kỹ thuật. [[Epson L3250 L3251 User Guide]]
+- [[Epson L3251 - tra cứu lỗi cơ bản]] - L3251: bảng đèn theo User Guide chung được Epson xác nhận cho L3250/L3251. [[Epson L3250 L3251 User Guide]]
+- [[Epson L5290 - tra cứu lỗi cơ bản]] - L5290: LCD code E/W/I được ghi riêng và phân biệt với maintenance request code. [[Epson L5290 User Guide]]
+- [[Epson L1250 - tra cứu lỗi cơ bản]] - Tổ hợp đèn đúng model gồm giấy, ink pad và Wi-Fi; L1250 xóa lỗi giấy bằng Stop. [[Epson L1250 User Guide]]
+- [[Epson L121 - tra cứu lỗi cơ bản]] - Bảng Power/Error đúng L121: giấy, ink pad, firmware và nạp mực ban đầu. [[Epson L121 User Guide]] [[Epson L121 User Guide]]
 - [[Epson LQ-310 User Guide troubleshooting]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
 - [[Epson L310 L313 User Guide]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
 - [[Epson L3110 User Guide]] - Trang nguồn hãng: URL, phạm vi model, mục đối chiếu và ngày truy cập.
@@ -150,19 +155,19 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 
 - [[Sổ Theo Dõi Số Văn Bản Victory]] - Số báo giá và phiếu xuất kho gần nhất đã xác minh cùng số kế tiếp.
 
-- [[Epson L355 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L355, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L355 User Guide]]
-- [[Epson L365 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L365, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L365 User Guide]]
-- [[Epson L4150 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L4150, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L4150 User Guide]]
-- [[Epson L4160 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L4160, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L4160 User Guide]]
-- [[Epson L4260 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L4260, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L4260 User Guide]]
-- [[Epson L6270 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L6270, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L6270 User Guide]]
-- [[Epson L805 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L805, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L805 User Guide]]
-- [[Epson L1300 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L1300, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L1300 User Guide]]
-- [[Epson L1800 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng phạm vi model L1800, có bước an toàn và điểm chuyển kỹ thuật. [[Epson L1800 User Guide]]
+- [[Epson L355 - tra cứu lỗi cơ bản]] - Bảng đèn riêng L355: mức mực, paper, Wi-Fi firmware và pad. [[Epson L355 User Guide]]
+- [[Epson L365 - tra cứu lỗi cơ bản]] - Bảng đèn riêng L365 gồm Wi-Fi cam/xanh, ink pad và firmware. [[Epson L365 User Guide]]
+- [[Epson L4150 - tra cứu lỗi cơ bản]] - Guide L4150 liên kết bảng đèn Epson ET-2700; chỉ dùng khi panel 5 đèn tương ứng. [[Epson L4150 User Guide]]
+- [[Epson L4160 - tra cứu lỗi cơ bản]] - Guide L4160 liên kết LCD E/W/I codes của ET-2750; ghi rõ phạm vi, recovery và phân biệt mã người dùng. [[Epson L4160 User Guide]]
+- [[Epson L4260 - tra cứu lỗi cơ bản]] - Guide L4260 liên kết LCD E/W/I codes của ET-2850; pad, recovery và phân biệt mã người dùng. [[Epson L4260 User Guide]]
+- [[Epson L6270 - tra cứu lỗi cơ bản]] - ET-3830/3850/L6270 shared status messages: paper out, borderless pad, network và recovery. [[Epson L6270 User Guide]]
+- [[Epson L805 - tra cứu lỗi cơ bản]] - L805: đã bổ sung nhịp đèn nhanh/chậm riêng, network, pad, khay ra và firmware. [[Epson L805 User Guide]]
+- [[Epson L1300 - tra cứu lỗi cơ bản]] - Bảng đèn guide chung L1300/L1800: giấy, ink pad, lỗi sản phẩm và nạp mực ban đầu. [[Epson L1300 User Guide]] [[Epson L1300 User Guide]]
+- [[Epson L1800 - tra cứu lỗi cơ bản]] - Bảng đèn guide chung L1300/L1800: giấy, ink pad, lỗi sản phẩm và nạp mực ban đầu. [[Epson L1800 User Guide]] [[Epson L1800 User Guide]]
 
-- [[Epson L5190 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng model L5190, có an toàn và điểm chuyển kỹ thuật. [[Epson L5190 User Guide]]
-- [[Epson L14150 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng model L14150, có an toàn và điểm chuyển kỹ thuật. [[Epson L14150 User Guide]]
-- [[Epson L6490 - tra cứu lỗi cơ bản]] - Hướng xử lý theo User Guide Epson đúng model L6490, có an toàn và điểm chuyển kỹ thuật. [[Epson L6490 User Guide]]
+- [[Epson L5190 - tra cứu lỗi cơ bản]] - ET-4700/L5190 LCD E-01/E-02/E-11/E-12, W-01/W-11/W-14 và hướng Wi-Fi/recovery. [[Epson L5190 User Guide]]
+- [[Epson L14150 - tra cứu lỗi cơ bản]] - ET-15000/L14150 LCD message: paper, pad không viền, fax/PBX, System Error và recovery. [[Epson L14150 User Guide]]
+- [[Epson L6490 - tra cứu lỗi cơ bản]] - Guide chung ET-5150/5170/L6490: LCD printer error, paper, fax/no dial tone, network và recovery. [[Epson L6490 User Guide]]
 
 ## Tự học
 - [[Chia sẻ kho tri thức qua bot Zalo nhóm]] - Một nhóm Zalo có thể dùng bot Javis để hỏi đáp trên cùng một brain nếu bot được
@@ -388,6 +393,12 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Canon LBP6030B - tra cứu lỗi cơ bản]] - Model doanh nghiệp, kiểm tra giấy, chất lượng in, kết nối và thông báo service theo manual Canon. [[Nguồn Canon LBP6030 series - User Guide]]
 - [[Canon LBP6030w - tra cứu lỗi cơ bản]] - Model doanh nghiệp, kiểm tra giấy, chất lượng in, kết nối và thông báo service theo manual Canon. [[Nguồn Canon LBP6030 series - User Guide]]
 - [[Canon LBP6230dw - tra cứu lỗi cơ bản]] - Model doanh nghiệp, kiểm tra giấy, chất lượng in, kết nối và thông báo service theo manual Canon. [[Nguồn Canon LBP6230dw - User Guide]]
+
+- [[Lô Brother ngày 24-11-2026 - tiến độ đào sâu]] - Roster tác vụ khoảng 130 model ngày 24/11; mới 21 model có bổ sung User Guide trong lượt này. Có hai danh sách 30 model bất nhất cần xác nhận để khóa ranh giới.
+## Brother: đào sâu User Guide theo model (25/11)
+
+- [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]] - User Guide Brother, thông báo LCD, mã cơ khí và phạm vi model cụ thể; HTML không có số trang.
+- [[Nguồn Brother Dòng T520 - User Guide thông báo lỗi]] - User Guide Brother, phân biệt DCP-T và MFC-T, giấy, mực và giới hạn lỗi `XX`; HTML không có số trang.
 
 ## Brother: 100 mã học bổ sung
 
@@ -839,3 +850,5 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 ### Brother | đào sâu theo model - 2026-11-24
 
 Đào sâu 30 trang model riêng với 4-5 thông báo lỗi, nhánh kiểm tra an toàn và điểm chuyển kỹ thuật theo bảng lỗi HTML hãng; chưa rà toàn bộ User Guide/tài liệu bảo trì theo từng model. Xem các bảng chung theo phạm vi hãng: [[Brother nhóm DCP-L2531DW - lỗi cơ bản]], [[Brother nhóm HL-L2390DW - lỗi cơ bản]], [[Brother nhóm HL-L2325DW - lỗi cơ bản]], [[Brother nhóm DCP-T520W - lỗi cơ bản]].
+
+- [[Nguồn HP LaserJet Pro M12 P1100 - trạng thái đèn]] - Bảng trạng thái đèn Attention/Ready và Wi-Fi theo đúng nhóm model HP; truy cập 2026-11-25.

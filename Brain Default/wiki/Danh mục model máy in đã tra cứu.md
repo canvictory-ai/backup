@@ -122,7 +122,7 @@ Thực tế tính đến 24/11/2026: đợt học hiện có 100 model Canon kh�
 - [[Canon TR8570 - tra cứu lỗi cơ bản]] - Canon liệt kê model TR8570 trong phạm vi TR8500; tra cứu lỗi và hướng kiểm tra an toàn theo đúng tài liệu hãng. [[Nguồn Canon TR8500 - hướng dẫn và mã lỗi]]
 
 
-#### Model LBP bổ sung ưu tiên Victory
+#### Model LBP bổ sung trong lô 24/11, ưu tiên Victory
 
 - [[Canon LBP6030 - tra cứu lỗi cơ bản]] - Manual Canon xác nhận model và khác biệt biến thể. [[Nguồn Canon LBP6030 series - User Guide]]
 - [[Canon LBP6030B - tra cứu lỗi cơ bản]] - Manual Canon xác nhận model và khác biệt biến thể. [[Nguồn Canon LBP6030 series - User Guide]]
@@ -132,7 +132,7 @@ Thực tế tính đến 24/11/2026: đợt học hiện có 100 model Canon kh�
 
 ### Đợt học HP ngày 24/11/2026
 
-Đã tạo 9 trang model mới trong lượt đầu; M404dn đã có trang tra cứu trước đó nên không tính là model mới. Đây là phần hoàn thành thực tế, chưa đủ mục tiêu 100; chỉ tính model có trang tra cứu riêng. [[Nguồn HP LaserJet Pro M12 - hướng dẫn thiết lập]] [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]] [[Nguồn HP LaserJet Pro M402-M403 - hướng dẫn hãng]] [[Nguồn HP LaserJet Pro M404-M405 - hướng dẫn hãng]]
+Đã tạo 9 trang model mới trong lượt đầu; M404dn đã có trang tra cứu trước đó nên không tính là model mới. Đây là phần hoàn thành thực tế, chưa đủ mục tiêu 100; chỉ tính model có trang tra cứu riêng. Danh sách cố định, đánh số và trạng thái cập nhật: [[Lô HP ngày 24-11-2026 - danh sách model]]. [[Nguồn HP LaserJet Pro M12 - hướng dẫn thiết lập]] [[Nguồn HP LaserJet Pro MFP M28-M31 - User Guide]] [[Nguồn HP LaserJet Pro M402-M403 - hướng dẫn hãng]] [[Nguồn HP LaserJet Pro M404-M405 - hướng dẫn hãng]]
 
 - [[HP LaserJet Pro M12a - tra cứu lỗi cơ bản]] - M12a; mục tra cứu riêng, ghi giới hạn áp dụng hậu tố và hướng xử lý an toàn. [[Nguồn HP LaserJet Pro M12 - hướng dẫn thiết lập]]
 - [[HP LaserJet Pro M12w - tra cứu lỗi cơ bản]] - M12w; mục tra cứu riêng, ghi giới hạn áp dụng hậu tố và hướng xử lý an toàn. [[Nguồn HP LaserJet Pro M12 - hướng dẫn thiết lập]]

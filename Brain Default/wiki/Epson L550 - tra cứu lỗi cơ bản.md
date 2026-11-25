@@ -3,13 +3,25 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L550 User Guide]]"
 ---
 
 # Epson L550 - tra cứu lỗi cơ bản
 
 **Nhận diện:** chỉ áp dụng khi nhãn máy ghi đúng Epson L550. Tài liệu hãng được gắn với model này; không tự áp dụng mã đèn hoặc trình tự của model gần tên. [[Epson L550 User Guide]]
+
+## Thông báo trên LCD đã xác minh
+
+- **Paper jam / Paper jam in the ADF:** nhấn OK; nếu chưa hết, gỡ giấy kẹt theo đường dẫn của manual. Với ADF, lấy vật/tài liệu khỏi bộ nạp. Không đưa tay vào khi bấm nút. [[Epson L550 User Guide]]
+- **Printer error / Scanner error:** khi manual hướng dẫn, tắt rồi bật lại và kiểm tra không còn giấy bên trong; nếu thông báo còn, liên hệ Epson. **ADF Error** yêu cầu bỏ vật/tài liệu trong ADF rồi tắt nguồn. [[Epson L550 User Guide]]
+- **Ink pad nearing end:** nhấn OK để tiếp tục in; nhắc bảo trì vẫn xuất hiện đến khi thay. **Ink pad at end:** liên hệ Epson thay pad; máy có thể dừng khi pad bão hòa. Đây là thông báo tuổi thọ linh kiện, không phải mã service/reset. [[Epson L550 User Guide]]
+- **No dial tone / Fax job incomplete:** kiểm tra dây và đường điện thoại; nếu dùng PBX/Terminal Adapter, xem cấu hình Dial Tone Detection. [[Epson L550 User Guide]]
+- **Recovery Mode:** cập nhật firmware thất bại; thử cập nhật lại bằng USB theo website Epson khu vực, không dùng mạng trong chế độ này. [[Epson L550 User Guide]]
+
+## Phân biệt nguyên nhân và bước tiếp
+
+Thông báo jam chỉ đường giấy/ADF; lỗi printer/scanner còn lại sau khởi động lại cần kỹ thuật. Communication error liên quan kết nối máy tính hoặc phần mềm scan, không đồng nghĩa hỏng cơ khí. Ghi nguyên văn LCD và nhánh vừa thử; dừng nếu giấy mắc sâu, có vật lạ bên trong hoặc lỗi lặp lại sau bước hãng chỉ dẫn. [[Epson L550 User Guide]]
 
 ## Lỗi thường gặp và hướng kiểm tra
 

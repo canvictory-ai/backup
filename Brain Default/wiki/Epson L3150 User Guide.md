@@ -10,6 +10,6 @@ source: "[[Epson L3150 User Guide]]"
 # Epson L3150 User Guide
 
 - URL: https://files.support.epson.com/docid/cpd5/cpd55466.pdf
-- Truy cập: 2026-11-24.
-- Vị trí đã đối chiếu: User’s Guide L3150, Epson, Solving Problems từ trang 127; đèn trạng thái 128, kiểm tra máy 130, lỗi giấy và in ở các mục tiếp theo. Phạm vi L3150.
+- Truy cập: 2026-11-25.
+- Vị trí đã đối chiếu: User’s Guide L3150, Product Light Status trang 128-129; bảng power/Wi-Fi/Wi-Fi Direct/ink/paper, ink-pad and firmware patterns; Running a Product Check and paper/quality sections in the same guide. Scope L3150.
 - Chỉ áp dụng các model/biến thể được nêu rõ ở phạm vi tài liệu; model gần tên không mặc nhiên dùng chung.

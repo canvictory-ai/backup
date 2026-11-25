@@ -3,28 +3,32 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L805 User Guide]]"
 ---
 
 # Epson L805 - tra cứu lỗi cơ bản
 
-**Nhận diện:** Model L805; phạm vi nguồn hãng: L805 User Guide. Chỉ dùng hướng dẫn này nếu nhãn máy ghi đúng model. [[Epson L805 User Guide]]
+**Nhận diện:** Model L805; User Guide hãng đúng model có đèn nguồn, Wi-Fi, trạng thái mạng, mực và giấy/cancel. Các trạng thái này là chỉ báo người dùng, không phải mã dịch vụ. [[Epson L805 User Guide]]
 
-## Lỗi/cảnh báo có căn cứ trong User Guide
+## Tổ hợp đèn theo Epson
 
-- **Kẹt giấy, không kéo hoặc không nhả giấy:** kiểm tra giấy nạp, khổ/loại giấy và đường giấy theo guide; không kéo mạnh nếu giấy mắc sâu. [[Epson L805 User Guide]]
-- **Không in:** kiểm tra nguồn và cáp/kết nối; chạy product check nếu guide có chức năng này. Nếu trang kiểm tra in được, tiếp tục khoanh vùng máy tính, hàng đợi và driver. [[Epson L805 User Guide]]
-- **Bản in trắng, nhạt, có sọc hoặc thiếu màu:** đối chiếu mực và nozzle check; chỉ chạy làm sạch đầu in theo hướng dẫn, vì chu trình dùng mực. [[Epson L805 User Guide]]
-- **Sai màu, nhòe hoặc lệch:** xác nhận giấy/thiết lập in, sau đó làm alignment theo hướng dẫn nếu dấu hiệu phù hợp. [[Epson L805 User Guide]]
-- **Đèn/trạng thái báo lỗi:** ghi lại tổ hợp đèn hoặc thông báo trước khi xử lý; dùng bảng trạng thái riêng của guide này, không suy mã từ model khác. [[Epson L805 User Guide]]
+- **Giấy/cancel sáng:** hết giấy, nạp nhiều tờ hoặc chưa nạp đĩa; nạp đúng vật liệu và nhấn nút paper/cancel.
+- **Giấy/cancel nháy chậm:** kẹt giấy; gỡ giấy và nhấn paper/cancel.
+- **Đèn mực và giấy/cancel nháy luân phiên:** ink pad cần thay; liên hệ Epson, không tự thay pad.
+- **Đèn mạng nháy chậm:** lỗi kết nối mạng; giữ nút network status để xóa, sau đó thử kết nối lại.
+- **Giấy/cancel nháy nhanh:** giấy quá nhỏ nên không nhả được; lấy bằng tay hoặc nạp khổ lớn hơn rồi nhấn paper/cancel để nhả.
+- **Mực nháy nhanh, giấy nháy chậm:** khay ra sai vị trí; đặt đúng vị trí theo vật liệu đang in.
+- **Mực và giấy cùng nháy chậm:** nắp máy đang mở; đóng nắp.
+- **Tất cả đèn nháy nhanh:** còn vật liệu đóng gói bên trong; kiểm tra phần nhìn thấy được, lấy ra, tắt bật lại.
+- **Toàn bộ đèn sáng:** lỗi khi cập nhật firmware; nối USB và thử cập nhật lại, nếu tiếp diễn liên hệ Epson.
 
-## Kiểm tra an toàn và bước tiếp theo
+Nhịp nhanh/chậm và trạng thái sáng là phân biệt trong bảng Product Light Status dành riêng cho L805. Không suy nhịp đèn từ Epson khác. [[Epson L805 User Guide]]
 
-Ghi model trên nhãn, trạng thái đèn, loại giấy, mức mực và mẫu in. Tắt máy trước khi lấy giấy nhìn thấy được; thao tác nhẹ theo chiều đường giấy, không dùng vật kim loại. Với lỗi chất lượng, in nozzle check trước khi cleaning; dừng sau số lần/điều kiện mà guide cho phép. Nếu lỗi tồn tại sau bước chính hãng, có tiếng cơ lạ, rò mực, vật cản sâu, báo lỗi kéo dài hoặc không thể tiếp cận an toàn, ngừng thao tác và chuyển kỹ thuật trực tiếp. [[Epson L805 User Guide]]
+## Kiểm tra an toàn và giới hạn
 
-## Khác biệt model/biến thể
+Ghi lại đèn nào sáng/nháy và tốc độ nháy trước khi thao tác. Tắt máy trước khi lấy giấy nhìn thấy được; không dùng vật kim loại hoặc kéo mạnh. Nếu pad báo cần thay, kẹt sâu, có tiếng cơ lạ/rò mực, hoặc lỗi mạng/firmware vẫn còn sau thao tác nêu trên, ngừng xử lý từ xa và chuyển kỹ thuật. [[Epson L805 User Guide]]
 
-Nguồn áp dụng cho L805 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Với L1300/L1800, guide nêu rõ cả hai model; thao tác bảng đèn cần đối chiếu kiểu bảng điều khiển thực tế. [[Epson L805 User Guide]]
+## Phạm vi
 
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+Nguồn hãng là L805 User Guide và bảng đèn L805. Không gộp L8050 hoặc các model khác vào bảng này nếu tài liệu Epson không nêu chúng. [[Epson L805 User Guide]]

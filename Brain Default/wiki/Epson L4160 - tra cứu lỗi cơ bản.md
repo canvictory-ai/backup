@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L4160 User Guide]]"
 ---
 
@@ -25,6 +25,12 @@ Ghi model trên nhãn, trạng thái đèn, loại giấy, mức mực và mẫu
 
 ## Khác biệt model/biến thể
 
-Nguồn áp dụng cho L4160 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Với L1300/L1800, guide nêu rõ cả hai model; thao tác bảng đèn cần đối chiếu kiểu bảng điều khiển thực tế. [[Epson L4160 User Guide]]
+Nguồn áp dụng cho L4160 User Guide. Không khẳng định hậu tố hoặc model khác tương đương nếu không được Epson liệt kê trong cùng tài liệu. Không áp dụng bảng đèn/mã của model khác nếu guide không liên kết rõ và bảng điều khiển không khớp. [[Epson L4160 User Guide]]
+
+## LCD code đã xác minh trong guide L4160
+
+Online guide L4160 liên kết tới trang Product Status Messages của Epson ET-2750. Dùng mã này trong phạm vi hướng dẫn L4160 liên kết và chỉ khi loại LCD/menu trùng khớp. E-01 printer error: tắt/bật, kiểm tra giấy kẹt, không có kẹt mà lỗi còn thì liên hệ Epson. E-02 scanner error: tắt/bật. E-11 ink pad cần thay, liên hệ Epson. W-01 kẹt giấy: lấy giấy, nhấn nút LCD chỉ ra; còn lỗi thì tắt/bật. W-11 pad gần hết, liên hệ Epson, nút Start cho phép tiếp tục in nếu được hiện. I-22/I-23/I-31 là thiết lập Wi-Fi; I-41 là Paper Setup Auto Display tắt làm AirPrint không dùng được; I-60 là khả năng WSD trên máy tính. Recovery Mode nghĩa firmware update thất bại; USB phục hồi, còn lỗi thì Epson. Đây là mã thông báo người dùng, không phải mã service. [[Epson L4160 User Guide]]
+
+Ghi nguyên code; không tự thay pad. Nếu scanner/printer error còn sau khởi động, paper jam không hết hoặc recovery thất bại, chuyển kỹ thuật/Epson. [[Epson L4160 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

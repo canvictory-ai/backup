@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, nguon]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson Manual Web-Site]]"
 ---
 
@@ -11,7 +11,7 @@ source: "[[Epson Manual Web-Site]]"
 
 - **URL:** https://support2.epson.net/manuals/english/spc/l550/pdf/npd4738-00_en.pdf
 - **Trang chỉ mục của hãng:** https://support2.epson.net/manuals/english/spc/l550/index.html
-- **Phạm vi model:** tài liệu hãng ghi đúng model L550. Không suy rộng sang hậu tố/biến thể khác nếu tài liệu không nêu.
-- **Mục đối chiếu:** User's Guide; Solving Problems (paper feeding/jam/ejection, printing, print quality, product status/lights); nozzle check/print-head cleaning và product check nếu model có.
-- **Ngày truy cập:** 2026-11-24.
-- **Ghi chú:** các mục xử lý chỉ dùng với đúng bảng điều khiển và chức năng có trên máy.
+- **Phạm vi model:** Epson L550, theo trang chỉ mục và tên guide.
+- **Mục/trang đối chiếu:** Error Messages on the Control Panel, trang in 99-100; Paper Jams, trang 103; gồm paper jam/ADF, communication, printer/scanner/fax error, ink pad, no dial tone và Recovery Mode.
+- **Ngày truy cập:** 2026-11-25.
+- **Ghi chú:** chữ trên LCD là thông báo người dùng, không phải mã service. Hướng xử lý ink pad yêu cầu Epson thay khi đến hạn.

@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, máy-in, hp, tra-cứu-lỗi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Nguồn HP LaserJet Pro M12 - hướng dẫn thiết lập]]"
 ---
 
@@ -32,6 +32,13 @@ Tra model trên tem máy, bao gồm đầy đủ hậu tố `M12w`. Mẫu máy �
 - Nếu hết kẹt và máy in được trang kiểm tra: thử một lệnh in nhỏ, theo dõi xem lỗi có tái diễn.
 - Nếu báo lỗi vật tư hoặc chất lượng vẫn bất thường: ghi mã, chụp mẫu in và kiểm tra vật tư đúng mã theo tem/mục lục hãng.
 - Nếu có tiếng cọ/khét, khói, nóng bất thường, kẹt lặp lại cùng vị trí, mã service, hoặc phải tháo vỏ để tiếp cận: ngắt nguồn an toàn và chuyển kỹ thuật trực tiếp. [[Nguồn HP LaserJet Pro M12 - hướng dẫn thiết lập]]
+
+
+## Trạng thái đèn theo HP
+
+- **Attention nhấp nháy:** trạng thái lỗi. Kiểm tra nắp trên đã đóng kín, giấy nạp thẳng, hộp mực có mặt và lắp đúng, rồi kiểm tra kẹt giấy ở vùng người dùng tiếp cận được. Thử in sau từng bước. Đây không phải mã service và chưa đủ để kết luận linh kiện hỏng. [[Nguồn HP LaserJet Pro M12 P1100 - trạng thái đèn]]
+- **Attention và Ready cùng sáng:** HP mô tả fatal error. Tắt máy, rút nguồn 60 giây, cắm trực tiếp vào ổ tường rồi bật lại một lần; nếu còn báo, ngừng thử lặp và chuyển kỹ thuật/hỗ trợ. [[Nguồn HP LaserJet Pro M12 P1100 - trạng thái đèn]]
+- **Wireless nhấp nháy:** chỉ áp dụng model có Wi-Fi này; máy đang kết nối, không tìm thấy tín hiệu hoặc chưa kết nối được router. Chờ hoàn tất; nếu vẫn nhấp nháy, ghi trạng thái mạng và chuyển sang hướng dẫn kết nối HP. Không coi là lỗi giấy hay mã service. [[Nguồn HP LaserJet Pro M12 P1100 - trạng thái đèn]]
 
 ## Giới hạn
 

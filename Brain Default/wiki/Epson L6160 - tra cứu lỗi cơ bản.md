@@ -1,29 +1,26 @@
 ---
 type: wiki
 status: active
-tags: [wiki, may-in, epson, tra-cuu-loi]
+tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L6160 User Guide]]"
 ---
 
 # Epson L6160 - tra cứu lỗi cơ bản
 
-**Nhận diện:** chỉ áp dụng khi nhãn máy ghi đúng Epson L6160. Tài liệu hãng được gắn với model này; không tự áp dụng mã đèn hoặc trình tự của model gần tên. [[Epson L6160 User Guide]]
+**Nhận diện:** Epson L6160. Các câu LCD dưới đây là thông báo vận hành được ghi trong đúng guide; không gọi chúng là mã dịch vụ. [[Epson L6160 User Guide]]
 
-## Lỗi thường gặp và hướng kiểm tra
+## Thông báo và bước xử lý
 
-- **Không nạp giấy, kẹt giấy hoặc giấy không ra:** kiểm tra giấy có đúng loại/khổ, nạp đúng chiều và không quá vạch; xem đường giấy có vật cản nhìn thấy được. Lấy giấy theo hướng dẫn của máy, không giật mạnh. [[Epson L6160 User Guide]]
-- **Máy không in:** kiểm tra nguồn, đèn/trạng thái và kết nối; chạy product check nếu User's Guide của model hỗ trợ. Nếu bản kiểm tra của máy in được, tiếp tục kiểm tra hàng đợi, cáp/kết nối và driver trên thiết bị gửi lệnh. [[Epson L6160 User Guide]]
-- **Bản in trắng, nhạt, sọc hoặc thiếu màu:** kiểm tra mực theo cách hãng chỉ dẫn và in nozzle check. Chỉ chạy print-head cleaning khi mẫu kiểm tra cho thấy thiếu nét; chu trình làm sạch tiêu thụ mực. [[Epson L6160 User Guide]]
-- **Bản in nhòe, sai màu, lệch hoặc sai lề:** kiểm tra loại/khổ giấy và thiết lập trong driver; dùng hướng dẫn căn chỉnh đầu in khi dấu hiệu phù hợp. [[Epson L6160 User Guide]]
+- **Printer Error:** làm theo hướng dẫn trên màn hình, bỏ giấy/vật liệu bảo vệ nhìn thấy được; nếu thông báo còn, liên hệ Epson.
+- **Paper out in XX:** nạp giấy và đẩy cassette vào hết cữ.
+- **Cảnh báo borderless ink pad gần hết/đã hết:** không phải bộ phận người dùng tự thay; liên hệ Epson/đơn vị được ủy quyền. Nút OK có thể tiếp tục in khi báo gần hết.
+- **Recovery Mode:** firmware update thất bại; nối USB với máy tính để chạy cập nhật theo hướng dẫn Epson, không cập nhật qua mạng trong recovery mode.
+- **Không ra giấy/giấy kẹt:** làm theo LCD để tìm cả mảnh giấy rách. Không kéo mạnh; nếu lỗi còn sau khi lấy giấy nhìn thấy được thì liên hệ hỗ trợ.
 
-## An toàn và bước tiếp theo
+Mọi khẳng định trên đối chiếu User Guide Epson được lưu trong trang nguồn liên kết. [[Epson L6160 User Guide]]
 
-Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu nozzle check. Tắt máy trước khi gỡ giấy nhìn thấy được; không dùng vật kim loại, không tháo cụm bên trong và không chạm đầu in khi máy đang hoạt động. Nếu giấy mắc sâu, có rò mực/tiếng cơ bất thường, lỗi trạng thái lặp lại, hoặc các bước trong guide không khắc phục được, dừng thao tác và chuyển kỹ thuật viên. [[Epson L6160 User Guide]]
+## Giới hạn phạm vi
 
-## Phạm vi biến thể
-
-Nguồn được lập cho model L6160. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L6160 User Guide]]
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+Guide ET-3700/L6160 ghi rõ L6160. Đây là thông báo chữ trên LCD, không có căn cứ để đổi thành mã số dịch vụ. Ghi nguyên văn thông báo và thông tin kết nối/mã hiện trên màn hình khi chuyển hỗ trợ. [[Epson L6160 User Guide]]

@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Nguồn Brother DCP-L2531DW - bảng lỗi cho đợt 100 mã]]"
 ---
 
@@ -36,3 +36,13 @@ Nếu thông báo khác bảng hoặc vẫn lỗi sau bước an toàn, ghi mode
 | **Replace Drum** | Đến hạn tuổi thọ trống hoặc bộ đếm chưa đặt lại sau khi thay trống mới. | Xác nhận đã thay đúng cụm trống; chỉ đặt lại bộ đếm theo hướng dẫn của đúng model sau khi đã thay. Nếu trống chưa thay thì không reset để xóa cảnh báo; nếu đã thay đúng mà vẫn báo, chuyển kỹ thuật. [[Nguồn Brother DCP-L2531DW - bảng lỗi cho đợt 100 mã]] |
 
 Các bước mở nắp/tháo giấy/cụm mực chỉ làm theo hướng dẫn người dùng đúng model. Dừng nếu cần tháo sâu, có giấy mắc ở vùng sấy, mùi khét, tiếng bất thường, hoặc mã cơ khí lặp lại; gửi kỹ thuật nguyên mã, ảnh màn hình và kết quả từng bước. Phần bảng lỗi nguồn là tài liệu hãng; trang hướng dẫn cụm dòng trong Wiki giúp tra cứu chi tiết, không thay thế kiểm tra model/revision trên tem.
+## Đào sâu User Guide chính hãng | 2026-11-25
+
+Brother có liệt kê **MFC-L2730DW** trong trang Online User's Guide; dùng phần lỗi đúng model/nhóm được ghi ở đầu trang. Trang HTML không đánh số trang. Các nhãn dưới đây là thông báo hiển thị, không phải mã service. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]
+
+- **Jam 2-sided / Jam Inside / Jam Rear / Jam Tray:** vị trí thông báo phân biệt đường đảo mặt, bên trong, phía sau hoặc khay. Hủy lệnh, mở đúng nắp theo hướng dẫn, lấy giấy nhẹ nhàng theo đường giấy và đóng lại. Dừng nếu giấy mắc sâu/rách hoặc phải can thiệp vùng sấy; nếu kẹt tái diễn tại cùng vị trí thì chuyển kỹ thuật. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]
+- **No Toner / Replace Drum:** No Toner là cụm hộp mực-trống lắp chưa đúng; tháo lắp lại theo hướng dẫn. Replace Drum là đến hạn trống hoặc bộ đếm chưa đặt lại sau thay trống; chỉ reset sau khi đã thay đúng cụm. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]
+- **Print Unable XX / Scan Unable XX:** hãng chỉ nói máy gặp vấn đề cơ khí, không giải nghĩa XX thành mã dịch vụ. Với MFC có fax, chuyển fax/dữ liệu nhận được trước khi tắt máy; thử tắt bằng nút nguồn một lần, nếu lỗi quay lại thì dừng và chuyển kỹ thuật/hỗ trợ Brother. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]
+- **Self-Diagnostic:** hãng nêu nhiệt độ cụm sấy không đạt trong thời gian quy định hoặc cụm sấy quá nóng. Giữ máy bật không tải 15 phút theo hướng dẫn; nếu thông báo còn hoặc trở lại, chuyển kỹ thuật. Không mở cụm sấy. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]
+
+**Phạm vi và khác biệt:** bảng nguồn trước đó đã gom 13 model, nhưng User Guide này xác nhận theo danh sách riêng của chính trang. Trang nguồn liệt kê nhóm 13 model của lô; dùng đúng tiểu mục/nhóm model trong User Guide và không suy khác biệt phần cứng ngoài nội dung được ghi. Các biến thể không thấy tên trong danh sách hướng dẫn này chưa được xác minh bằng nguồn này. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]]

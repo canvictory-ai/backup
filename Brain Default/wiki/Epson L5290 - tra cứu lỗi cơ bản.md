@@ -3,28 +3,29 @@ type: wiki
 status: active
 tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L5290 User Guide]]"
 ---
 
 # Epson L5290 - tra cứu lỗi cơ bản
 
-**Nhận diện:** EcoTank đa chức năng có LCD, ADF, fax và mạng; User Guide Epson riêng L5290. [[Epson L5290 User Guide]]
+**Nhận diện:** Máy in phun Epson L5290. Đèn và trạng thái được ghi dưới đây là chỉ báo người dùng trong đúng guide, không phải mã dịch vụ dạng số. [[Epson L5290 User Guide]]
 
-## Lỗi/cảnh báo có căn cứ trong User Guide
+## Chỉ báo và kiểm tra theo đúng model
 
-- **Không kéo giấy, kéo nhiều tờ hoặc kẹt/không nhả giấy:** đối chiếu giấy nạp, đường giấy và hướng dẫn Paper Feeding/Paper Jam/Paper Ejection của model. [[Epson L5290 User Guide]]
-- **Không in từ máy tính:** in trang kiểm tra trực tiếp theo hướng dẫn model; nếu bản test tốt, kiểm tra cáp, máy tính, phần mềm và cài đặt/driver. [[Epson L5290 User Guide]]
-- **Bản in trắng, nhạt, có sọc hoặc thiếu màu:** chạy nozzle check; chỉ vệ sinh đầu phun khi mẫu có khoảng đứt/gap. Vệ sinh tiêu hao mực. [[Epson L5290 User Guide]]
-- **Bản in nhòe, sai màu, lệch hoặc sai lề:** đối chiếu giấy và thiết lập khổ/loại giấy; kiểm tra alignment theo hướng dẫn nếu mẫu in cho thấy lệch. [[Epson L5290 User Guide]]
-- **Không kết nối mạng:** chỉ áp dụng cho phiên bản có Wi-Fi; xem trạng thái mạng và kiểm tra router/cài đặt. Không đặt lại mạng trước khi ghi nhận cấu hình hiện tại. [[Epson L5290 User Guide]]
+- **E-01:** printer error; tắt/bật lại, kiểm tra kẹt giấy; nếu không có kẹt mà lỗi còn thì liên hệ Epson.
+- **E-02:** scanner error; tắt/bật lại.
+- **E-11 / E-12:** lần lượt ink pad thường / pad in không viền cần thay; liên hệ Epson. Scan vẫn dùng được ở E-11; in không viền bị khóa ở E-12.
+- **W-01:** kẹt giấy; lấy giấy và làm theo nút LCD; nếu còn, tắt/bật lại.
+- **W-11 / W-14:** lần lượt pad thường / pad không viền sắp hết tuổi thọ; liên hệ Epson. Nút Start cho phép tiếp tục in theo guide.
+- **I-22:** hướng dẫn thiết lập Wi-Fi qua nút WPS trên router hoặc màn hình cài đặt không dây của máy tính.
 
-## Kiểm tra an toàn và bước tiếp theo
+Đây là LCD code hiển thị cho người dùng trong bảng Product Status Messages, không phải service code nội bộ. Nếu màn hình hiện maintenance request code riêng, ghi nguyên văn và cung cấp cho Epson thay vì tự suy ra linh kiện.
 
-Trước tiên ghi nhận đèn/mã hiển thị, loại giấy, kết nối và mẫu in; tắt máy trước khi gỡ giấy nhìn thấy được, kéo theo chiều đường giấy và không dùng vật kim loại. Với chất lượng in, kiểm tra mực và nozzle check trước; chỉ chạy cleaning theo guide, không lặp vô hạn vì chu trình dùng mực. Nếu nozzle check không in được, có rò mực, tiếng cơ lạ, giấy mắc sâu, đèn báo lỗi kéo dài, hoặc vệ sinh/alignment theo hướng dẫn không cải thiện, ngừng thao tác và chuyển kỹ thuật trực tiếp. [[Epson L5290 User Guide]]
+## Bước tiếp theo và giới hạn
 
-## Khác biệt model/biến thể
+Ghi lại trạng thái đèn, mã/thông báo nguyên văn và kết quả product check trước khi thay đổi cài đặt. Tắt máy trước khi lấy giấy nhìn thấy được; không dùng vật kim loại hoặc kéo giấy mắc sâu. Với sọc/thiếu màu, nozzle check trước cleaning; dừng nếu lỗi kéo dài, có rò mực/tiếng cơ lạ hoặc cần thay ink pad. Chuyển kỹ thuật khi bảng Epson yêu cầu hỗ trợ, đặc biệt với pad hoặc lỗi lặp lại sau bước hãng. [[Epson L5290 User Guide]]
 
-ADF/fax/LCD là khác biệt cần giữ riêng. Chỉ dùng mục fax khi triệu chứng nằm ở chức năng fax. [[Epson L5290 User Guide]]
+## Phạm vi
 
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
+User’s Guide L5290 có LCD và bảng Product Status Messages riêng; không áp dụng cho L5190 hoặc model khác. Không dùng mã/nhịp đèn từ model gần tên. [[Epson L5290 User Guide]]

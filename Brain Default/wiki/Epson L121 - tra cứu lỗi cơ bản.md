@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, máy-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L121 User Guide]]"
 ---
 
@@ -26,5 +26,11 @@ Trước tiên ghi nhận đèn/mã hiển thị, loại giấy, kết nối và
 ## Khác biệt model/biến thể
 
 Không có scanner/copier/Wi-Fi trong phạm vi hướng dẫn này; không chuyển quy trình model đa chức năng sang đây. [[Epson L121 User Guide]]
+
+## Bảng đèn chính xác của L121
+
+Guide L121 có hai đèn, Power và Error, cùng nút Cancel. Trang 90 ghi: Power nhấp nháy là máy đang bận; sau khi châm mực có thể nhấp nháy khoảng 20 phút, không hủy. Power và Error cùng nhấp nháy: có thể kẹt giấy; lấy giấy nhìn thấy được và nhấn Cancel. Nếu vẫn nháy, tắt máy, kiểm tra giấy/vật lạ rồi bật lại; còn lỗi thì liên hệ Epson. Hai đèn cùng nháy đồng thời cũng báo ink pad gần hết/đến hạn, cần Epson hỗ trợ. Power nhấp nháy, Error sáng: hết giấy hoặc kéo nhiều tờ; nạp giấy và nhấn Cancel. Power tắt, Error sáng: lỗi cập nhật firmware; nối USB và thử cập nhật lại, còn lỗi thì liên hệ Epson. Cả hai sáng: initial ink charging có thể chưa hoàn tất; tắt máy và đổ mực theo Start Here. Đây là trạng thái đèn của guide, không phải mã dịch vụ. [[Epson L121 User Guide]]
+
+Nếu đã làm đúng bước trong bảng mà trạng thái còn lại, ghi hình hai đèn và dừng trước khi reset/firmware khác; chuyển kỹ thuật/Epson khi lỗi firmware, pad, vật lạ mắc sâu hoặc lỗi lặp lại. [[Epson L121 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]

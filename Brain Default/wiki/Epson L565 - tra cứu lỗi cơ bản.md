@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, may-in, epson, tra-cuu-loi]
 created: 2026-11-24
-updated: 2026-11-24
+updated: 2026-11-25
 source: "[[Epson L565 User Guide]]"
 ---
 
@@ -25,5 +25,11 @@ Ghi model, trạng thái đèn/thông báo, loại giấy, kết nối và mẫu
 ## Phạm vi biến thể
 
 Nguồn được lập cho model L565. Không khẳng định áp dụng cho hậu tố hoặc model tương đương nếu Epson không liệt kê trong cùng tài liệu. Chỉ dùng các bước về scan/copy/mạng nếu đúng máy có chức năng đó. [[Epson L565 User Guide]]
+
+## LCD thông báo lỗi đã xác minh
+
+Guide L565 trang 99-100 chỉ hiển thị dạng “Printer Error 0xXX” (0xXX là chỗ giữ chỗ trong bảng, không phải một mã cụ thể). Hãng hướng dẫn tắt/bật, lấy giấy hoặc vật bảo vệ bên trong; nếu vẫn hiện, liên hệ Epson. Thông báo ink pad gần hết tuổi thọ yêu cầu gọi Epson; pad không phải linh kiện người dùng tự thay. Không suy diễn con số sau 0x thành một service code cố định. [[Epson L565 User Guide]]
+
+Ghi nguyên văn màn hình và xem trạng thái trên máy tính. Không tự tháo/thay pad; nếu printer error còn sau bước nguồn hoặc có vật mắc sâu, chuyển kỹ thuật/Epson. [[Epson L565 User Guide]]
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]]
