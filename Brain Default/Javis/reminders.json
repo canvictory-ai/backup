@@ -133,7 +133,7 @@
       "id": "r_32c41eb84d",
       "text": "Mỗi ngày lúc 18:00, tổng hợp các tin nhắn mới trong các nhóm Zalo Victory có thể truy cập, nhóm xuất hàng, nhật ký quy trình, Kanban và lịch liên quan trong ngày. Báo cáo cho chủ trong chat này gồm: đơn đã chốt, yêu cầu xuất, giao hàng/thanh toán chỉ khi có xác nhận, phản ánh, việc đang vướng, lỗi quy trình và ưu tiên cần chủ xử lý. Ghi nhóm, người gửi, thời điểm và nguồn. Gộp nội dung trùng; phân biệt yêu cầu với hoàn tất; không suy đoán. Nêu rõ khoảng đồng bộ thiếu hoặc nguồn không truy cập được. Luna Vũ vẫn là người phản hồi khách; chỉ đọc và báo cáo, không trả lời khách hoặc tạo việc mới. Riêng mỗi thứ Sáu, thêm mục rà soát lỗi lặp lại trong tuần: nêu ví dụ, tần suất nếu kiểm chứng được, ảnh hưởng và đề xuất khắc phục; không tự sửa cấu hình hay tạo việc.",
       "mode": "task",
-      "due_at": 1795604400.0,
+      "due_at": 1795690800.0,
       "chat_id": "web:97609117d6dd46aca8262c91b2df92de",
       "repeat_min": 0,
       "cron": "0 18 * * *",
@@ -146,11 +146,11 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1794206486.384005,
-      "fired_at": 1795518112.668193,
-      "result": "**Tổng hợp ngày 24/11, giờ Việt Nam**\n\n- **Đơn đã chốt:** Chưa thấy xác nhận chốt đơn trong các nhóm đọc được. Có yêu cầu hàng và hỏi giá, chưa tính là đơn hoàn tất.\n- **Yêu cầu xuất/giao:** Nhóm *XUẤT HÀNG VICTORY*, Vũ Đức Cẩn lúc 09:48: “Mai ship” 2 máy 2900 mới cho anh Tuấn; một đơn Minh Thành gồm 5 hộp 12, 5 thẻ 64, kèm chuột và box M2 còn thiếu từ đơn trước. Đây là yêu cầu giao ngày mai, chưa có xác nhận đã giao.\n- **Yêu cầu hàng khác:** Thanh Thanh, nhóm *VICTORY - PHÚC THÀNH HẢI HẬU*, 15:04: 20 hộp mực 070 và 40 hộp mực 12A. Thiệp Ntcz, nhóm *VICTORY-NAM TRƯỜNG COMPUTER*, 15:39: “mai cho a 5 quả đào 2900”. Chưa có xác nhận xuất/giao.\n- **Hỏi giá, chưa xác nhận đặt:** Nhóm *Thái Thịnh - Victory*, Hoàng Ngọc Tuyền hỏi giá lô ép Canon 214dw và cụm sấy 2900 lúc 09:38; Vũ Đức Cẩn trả lời 110k và 350k lúc 09:41. Nhóm *Victory - CP9* có trao đổi cấu hình HP 430G8 và màn hình lúc 08:21–09:35; chưa thấy xác nhận chốt.\n- **Thanh toán/phản ánh:** Không thấy xác nhận thanh toán hoặc phản ánh khách trong các tin đã đọc.\n- **Việc vướng, ưu tiên:** Kiểm tra phần chuột và box M2 được ghi là còn thiếu ở đơn trước; xác nhận kế hoạch giao ngày mai. Chưa có bằng chứng các yêu cầu ngày mai đã hoàn tất.\n- **Lỗi quy trình/hệ thống:** Nhật ký quy trình chỉ trả về các lần chạy gần nhất ngày 08/11, đều báo “Not logged in”; không có dữ liệu chạy trong ngày để xác định lỗi hiện còn. Đọc Kanban bị chặn bởi quyền chỉ đọc; chưa lấy được lịch liên quan.\n- **Phạm vi dữ liệu:** Đọc được 6 nhóm Victory/xuất hàng liên quan; đồng bộ Zalo báo đầy đủ, không có khoảng gián đoạn trong các nhóm này. Nhóm Lạc Hồng không có tin trong ngày. Báo cáo không bao gồm chat riêng ngoài các nguồn trên.",
+      "fired_at": 1795604485.866513,
+      "result": "**Tổng hợp ngày 25/11** (thời gian Việt Nam)\n\n- **Đã chốt:** Chưa thấy xác nhận đơn đã chốt trong các tin đọc được.\n- **Yêu cầu xuất:** Nhóm **XUẤT HÀNG VICTORY** có yêu cầu gửi nhiều mặt hàng cho khách, gồm Lạc Hồng, Nam Trường, Phúc Thành, Đức Hạnh và Thiên Ân. Đây là yêu cầu, chưa đủ căn cứ coi là đã giao. Tin “mai gửi” ở nhóm Thiên Ân xác nhận lịch gửi ngày mai, không phải giao xong.\n- **Giao hàng/thanh toán:** Chưa thấy xác nhận giao hoàn tất hoặc thanh toán đã nhận. Có yêu cầu xuất hóa đơn 2 ổ cứng, tổng 12 triệu, gửi về Nicepower; chưa thấy xác nhận hoàn tất (Hải Vietpower - victory, Victor Vu, khoảng 17:03).\n- **Phản ánh/việc vướng:** Khách trong nhóm **Sửa chữa Thành Genesis - Victory** hỏi tình trạng máy in đã gửi kiểm tra, chưa thấy cập nhật trong tin đọc được (người gửi “Đợi chờ là hạnh phúc”, khoảng 17:18). Nhóm **VICTORY - PHÚC THÀNH HẢI HẬU** có hỏi hộp mực là hàng hãng hay hàng ngoài; chưa xác minh được câu trả lời trong phần dữ liệu truy xuất.\n- **Ưu tiên chủ xử lý:** Kiểm tra tiến độ máy in Genesis và làm rõ nguồn gốc hộp mực Phúc Thành nếu chưa được phản hồi. Luna Vũ vẫn phụ trách phản hồi khách.\n- **Nguồn và giới hạn:** Đọc được 19 nhóm Victory/nội bộ; đồng bộ báo hoàn chỉnh ở các nhóm đọc thành công. Hai nhóm **VICTORY - LAPTOP TRƯỜNG AN** và **HƯNG THỊNH HH - VICTORY** không truy xuất được do giới hạn tần suất. Kanban bị chặn ở quyền chỉ đọc hiện tại; Google Calendar chưa kết nối. Lịch sử quy trình gần nhất trả về các lượt ngày 08/11, không thấy lượt nào của hôm nay trong kết quả đó. Không có rà soát lỗi lặp lại tuần này vì hôm nay là thứ Tư.",
       "error": "",
       "agent": "phuong-sai-vat",
-      "last_slot": 1795518000.0
+      "last_slot": 1795604400.0
     },
     {
       "id": "r_2490085073",
@@ -271,7 +271,7 @@
       "id": "r_81e3e079d6",
       "text": "chạy script doi-soat-testbot.py",
       "mode": "script",
-      "due_at": 1795599480.0,
+      "due_at": 1795621140.0,
       "chat_id": "",
       "repeat_min": 0,
       "cron": "* * * * *",
@@ -284,11 +284,14 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795522654.1671498,
-      "fired_at": 1795599424.4676528,
+      "fired_at": 1795621088.0144181,
       "result": "",
       "error": "",
-      "last_slot": 1795599420.0
+      "last_slot": 1795621080.0,
+      "missed_last": 1,
+      "missed_total": 1,
+      "missed_at": 1795620305.1193843
     }
   ],
-  "updated": 1795599424.4682984
+  "updated": 1795621088.0150912
 }

@@ -5,7 +5,7 @@
     "name": "Nội bộ | Sửa chữa - Bảo hành - Việc phát sinh"
   },
   "baseline_at": "2026-11-14T03:30:56Z",
-  "last_processed_message_id": "8487400390407",
+  "last_processed_message_id": "8525861015093",
   "tasks": [
     {
       "id": "KEEP-20261114-01",
@@ -165,16 +165,192 @@
       "id": "INB-20261114-02",
       "category": "sửa chữa",
       "title": "Sửa cam 29 Nguyễn Đức Thuận lúc 17h30",
-      "status": "mới tiếp nhận",
-      "owner": "unknown",
-      "due": null,
-      "next_step": "Phân công người phụ trách.",
+      "status": "chưa xác minh",
+      "owner": "Mọi người",
+      "due": "2026-11-14 17:30 (giờ Việt Nam)",
+      "next_step": "Xác nhận kết quả sửa theo mốc 17h30 ngày 14/11.",
       "source": "Tin nhóm Nội bộ 8487400390407; 2026-11-14",
       "source_note": "Victor báo “17h30 sửa cam 29 nguyễn đức thuận”; chưa nêu người phụ trách."
+    },
+    {
+      "id": "INB-20261115-01",
+      "category": "lấy hàng",
+      "title": "Lấy thùng hàng bên anh Nam",
+      "status": "chưa xác minh",
+      "owner": "Tạ Hải Đăng",
+      "due": null,
+      "next_step": "Xác nhận đã lấy thùng hàng chưa.",
+      "source": "Nhóm Nội bộ, tin 8489817042655 và lượt tag 8489830356519; 2026-11-15",
+      "source_note": "Chủ nhắn “Xong ae lấy thùng hàng bên a nam” rồi tag Tạ Hải Đăng; chưa có xác nhận đã lấy."
+    },
+    {
+      "id": "INB-20261115-02",
+      "category": "giấy tờ",
+      "title": "Hủy tài liệu",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác định tài liệu cần hủy và xác nhận khi xong.",
+      "source": "Nhóm Nội bộ, tin 8489817193995; 2026-11-15",
+      "source_note": "Chủ nhắn “Có cái huỷ tài liệu”; chưa có xác nhận hoàn tất."
+    },
+    {
+      "id": "INB-20261115-03",
+      "category": "lấy hàng",
+      "title": "Ship hàng cho anh Tuấn",
+      "status": "chưa xác minh",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận mặt hàng và đây có phải cùng lần giao 2 máy 2900 mới được nhắc ngày 25/11 không.",
+      "source": "Nhóm Nội bộ, tin 8489817390966; 2026-11-15",
+      "source_note": "Chủ nhắn “Ship luôn cho anh tuấn nhé!”; nội dung hàng chưa rõ."
+    },
+    {
+      "id": "INB-20261115-04",
+      "category": "sửa chữa",
+      "title": "Lắp 3 camera F32 cho anh Thuận",
+      "status": "chưa xác minh",
+      "owner": "Huy Hoàng",
+      "due": "2026-11-15 chiều",
+      "next_step": "Xác nhận kết quả lắp; kiểm tra có cùng ca với việc sửa cam 29 Nguyễn Đức Thuận hay không.",
+      "source": "Nhóm Nội bộ, tin 8490316206481, 8490336401740; 2026-11-15",
+      "source_note": "Chủ nêu lắp 3 cam F32; Huy báo lắp cam anh Thuận theo kế hoạch chiều 15/11. Chưa thấy xác nhận hoàn tất."
+    },
+    {
+      "id": "INB-20261115-05",
+      "category": "sửa chữa",
+      "title": "Lắp camera tại Tổ dân phố",
+      "status": "chưa xác minh",
+      "owner": "Huy Hoàng",
+      "due": "2026-11-16 chiều",
+      "next_step": "Xác nhận kết quả sau khi lịch được lùi sang chiều 16/11.",
+      "source": "Nhóm Nội bộ, tin 8490320495094, 8490336401740; 2026-11-15",
+      "source_note": "Huy báo đã lùi lịch Tổ dân phố sang chiều hôm sau; chưa thấy xác nhận hoàn tất."
+    },
+    {
+      "id": "INB-20261116-01",
+      "category": "sửa chữa",
+      "title": "Xác nhận bản lề trong ảnh",
+      "status": "chờ xác nhận",
+      "owner": "Huy Hoàng",
+      "due": null,
+      "next_step": "Xác nhận món trong ảnh có đúng bản lề cần tìm hay không.",
+      "source": "Nhóm Nội bộ, tin 8493737653613, 8493738563071, 8493740391963; 2026-11-16",
+      "source_note": "Chủ hỏi có thấy bản lề không; Luna trả lời ảnh không thấy bản lề và nhờ Huy Hoàng kiểm tra."
+    },
+    {
+      "id": "INB-20261117-01",
+      "category": "lấy hàng",
+      "title": "Gửi hàng cho Thuấn IT",
+      "status": "chờ xác nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận mặt hàng cần gửi và người thực hiện; chủ trả lời chưa có ai gửi.",
+      "source": "Nhóm Nội bộ, tin 8499842787511, 8500156234881; 2026-11-17",
+      "source_note": "Huy hỏi đã gửi hàng cho Thuấn IT chưa; chủ trả lời “Chưa”."
+    },
+    {
+      "id": "INB-20261119-01",
+      "category": "sửa chữa",
+      "title": "Đến xử lý sự việc trong ảnh nhóm",
+      "status": "chưa xác minh",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác định thiết bị/vấn đề trong ảnh và kết quả xử lý.",
+      "source": "Nhóm Nội bộ, tin ảnh 8504724735932 và tin 8504724984547; 2026-11-19",
+      "source_note": "Chủ nhắn “Ae đến xử lý nhé”; không tải được ảnh để xác minh nội dung."
+    },
+    {
+      "id": "INB-20261120-01",
+      "category": "sửa chữa",
+      "title": "Thay hộp mực Đường sắt, hộp 49",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận người thực hiện và kết quả thay.",
+      "source": "Nhóm Nội bộ, tin 8509061802238; 2026-11-20",
+      "source_note": "Tạ Hải Đăng nhắn “Anh em bố trí thay hộp mực đường sắt. Hộp 49”."
+    },
+    {
+      "id": "INB-20261120-02",
+      "category": "giấy tờ",
+      "title": "Xác nhận thanh toán đơn 122 Âu Cơ: 1 thẻ 64, 350k chuyển khoản",
+      "status": "chờ xác nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận đã đẩy thanh toán cho chị Đăng chưa.",
+      "source": "Nhóm Nội bộ, tin 8514489713610, 8514490597418; 2026-11-21",
+      "source_note": "Phương hỏi đơn đã đẩy thanh toán cho chị Đăng chưa; chưa thấy câu trả lời trong lịch sử đã đồng bộ."
+    },
+    {
+      "id": "INB-20261121-01",
+      "category": "sửa chữa",
+      "title": "Kiểm tra loa của Trường LHP",
+      "status": "chưa xác minh",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác định tình trạng loa và việc cần xử lý.",
+      "source": "Nhóm Nội bộ, tin 8512730260681, 8512730534286; 2026-11-21",
+      "source_note": "Chủ nhắn “Ae xem loa”, bổ sung “Của trường LHP”; chưa có kết quả."
+    },
+    {
+      "id": "INB-20261123-01",
+      "category": "lấy hàng",
+      "title": "Ship hàng Thanh Lâm",
+      "status": "chưa xác minh",
+      "owner": "Tạ Hải Đăng",
+      "due": null,
+      "next_step": "Xác nhận hàng đã giao.",
+      "source": "Nhóm Nội bộ, tin 8519070053836; 2026-11-23",
+      "source_note": "Chủ tag Tạ Hải Đăng và nhắn “ship thanh lâm”; chưa thấy xác nhận xong."
+    },
+    {
+      "id": "INB-20261123-02",
+      "category": "lấy hàng",
+      "title": "Ship lô cây Asus cho Duy Minh",
+      "status": "chưa xác minh",
+      "owner": "Huy Hoàng",
+      "due": null,
+      "next_step": "Xác nhận hàng đã giao.",
+      "source": "Nhóm Nội bộ, tin 8519071620961; 2026-11-23",
+      "source_note": "Chủ giao Huy Hoàng ship lô cây Asus cho Duy Minh; chưa thấy xác nhận xong."
+    },
+    {
+      "id": "INB-20261120-03",
+      "category": "sửa chữa",
+      "title": "Hỗ trợ máy chiếu tại 77 Xuân Thủy",
+      "status": "chưa xác minh",
+      "owner": "Tạ Hải Đăng",
+      "due": null,
+      "next_step": "Xác nhận đã hỗ trợ và kết quả xử lý.",
+      "source": "Nhóm Nội bộ, tin 8508702072629; 2026-11-20",
+      "source_note": "Huy tag Tạ Hải Đăng và nhắn qua 77 Xuân Thủy hỗ trợ máy chiếu."
+    },
+    {
+      "id": "INB-20261123-03",
+      "category": "sửa chữa",
+      "title": "Sửa máy cho khách",
+      "status": "chưa xác minh",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Bổ sung khách hàng, model/thiết bị và triệu chứng để phân biệt ca.",
+      "source": "Nhóm Nội bộ, tin 8521972040631; 2026-11-23",
+      "source_note": "Chủ nhắn “Sửa máy cho khách”; chưa có thông tin nhận diện ca."
+    },
+    {
+      "id": "INB-20261125-01",
+      "category": "lấy hàng",
+      "title": "Ship 2 máy 2900 mới cho anh Tuấn",
+      "status": "mới tiếp nhận",
+      "owner": "Mọi người",
+      "due": null,
+      "next_step": "Xác nhận người giao và kết quả giao hàng.",
+      "source": "Nhóm Nội bộ, tin 8525860759265, 8525860855278, 8525861015093; 2026-11-25",
+      "source_note": "Chủ nhắn ship, bổ sung người nhận là anh Tuấn và hàng gồm 2 máy 2900 mới."
     }
   ],
-  "notes": "Chủ cho biết trước đây chỉ theo dõi bằng Google Keep. Các mục trên được chép từ ảnh Keep gửi ngày 2026-11-14; chưa có xác nhận người phụ trách, hạn hoặc hoàn tất. Mốc khởi đầu theo lần poll cuối (2026-11-14T03:30:56Z); không hồi tố tin nhóm trước mốc này. Chỉ gửi tin phối hợp công việc vào đúng nhóm đã chỉ định; ghi ID tin đã gửi để chống lặp. Quy tắc chủ giao ngày 2026-11-14: mọi người cùng phụ trách các việc đang mở; khi có thành viên báo hoàn tất trong nhóm, xóa mục đó khỏi sổ theo dõi; không giữ bản ghi hoàn tất. Chủ xác nhận ngày 2026-11-14: chưa có mục nào hoàn tất; không đặt thời hạn cho các mục hiện tại. Phân loại nợ hàng được làm rõ ngày 2026-11-14: tách hai chiều; Minh Thành thuộc 'Mình nợ hàng khách', A Sáng và Điệp thuộc 'Khách nợ hàng mình', theo hai tiêu đề tương ứng trong ảnh Keep. Quy tắc chủ mới nhất: khi thành viên hỏi việc tồn đọng trong nhóm đã chỉ định, liệt kê toàn bộ mục đang mở theo nhóm, dạng gạch đầu dòng; khi có báo hoàn tất rõ mục nào, xóa mục đó khỏi sổ, không lưu lịch sử hoàn tất. Lượt 2026-11-14 04:05:38Z: Victor hỏi lại việc còn cần làm; đã trả danh sách 16 mục đang mở theo sổ Keep, tin gửi 8487119001918.\nLượt 2026-11-14T04:15:33.935Z: Victor hỏi danh sách việc (8487130051005); Luna trả danh sách 16 mục theo mẫu (8487153573769), đã lưu ID gửi để chống lặp.\nLượt 2026-11-14T04:22:09Z: lịch sử nhóm xác nhận Victor báo đã in biên bản Thể thao Xuân Thiện (8487167008374), Luna đã xác nhận xóa mục (8487168215787). Mục không còn trong sổ khi đối chiếu; còn 15 việc đang mở.\nCập nhật 2026-11-14: Victor giao Đăng lấy cả xe Việt Nam và laptop; sổ việc đã cập nhật.\nLượt 2026-11-14T04:29:48Z: ghi nhận việc lấy hàng xe bà Thuận từ tin 8487202670429; chưa có người phụ trách, đã yêu cầu nhóm phân công.\nLượt 2026-11-14T04:37:08Z: Victor hỏi danh sách việc còn tồn (8487212449505); Luna đã trả lời theo sổ hiện hành, 16 mục mở, tin gửi 8487213420768.\nLượt 2026-11-14T05:23:36Z: ghi nhận việc sửa cam tại 29 Nguyễn Đức Thuận lúc 17h30 từ tin 8487400390407; chưa có người phụ trách, cần hỏi nhóm phân công. Tin phối hợp hỏi người phụ trách gửi 8487417890359.",
-  "last_processed_at": "2026-11-14T05:23:36Z",
+  "notes": "Chủ cho biết trước đây chỉ theo dõi bằng Google Keep. Các mục trên được chép từ ảnh Keep gửi ngày 2026-11-14; chưa có xác nhận người phụ trách, hạn hoặc hoàn tất. Mốc khởi đầu theo lần poll cuối (2026-11-14T03:30:56Z); không hồi tố tin nhóm trước mốc này. Chỉ gửi tin phối hợp công việc vào đúng nhóm đã chỉ định; ghi ID tin đã gửi để chống lặp. Quy tắc chủ giao ngày 2026-11-14: mọi người cùng phụ trách các việc đang mở; khi có thành viên báo hoàn tất trong nhóm, xóa mục đó khỏi sổ theo dõi; không giữ bản ghi hoàn tất. Chủ xác nhận ngày 2026-11-14: chưa có mục nào hoàn tất; không đặt thời hạn cho các mục hiện tại. Phân loại nợ hàng được làm rõ ngày 2026-11-14: tách hai chiều; Minh Thành thuộc 'Mình nợ hàng khách', A Sáng và Điệp thuộc 'Khách nợ hàng mình', theo hai tiêu đề tương ứng trong ảnh Keep. Quy tắc chủ mới nhất: khi thành viên hỏi việc tồn đọng trong nhóm đã chỉ định, liệt kê toàn bộ mục đang mở theo nhóm, dạng gạch đầu dòng; khi có báo hoàn tất rõ mục nào, xóa mục đó khỏi sổ, không lưu lịch sử hoàn tất. Lượt 2026-11-14 04:05:38Z: Victor hỏi lại việc còn cần làm; đã trả danh sách 16 mục đang mở theo sổ Keep, tin gửi 8487119001918.\nLượt 2026-11-14T04:15:33.935Z: Victor hỏi danh sách việc (8487130051005); Luna trả danh sách 16 mục theo mẫu (8487153573769), đã lưu ID gửi để chống lặp.\nLượt 2026-11-14T04:22:09Z: lịch sử nhóm xác nhận Victor báo đã in biên bản Thể thao Xuân Thiện (8487167008374), Luna đã xác nhận xóa mục (8487168215787). Mục không còn trong sổ khi đối chiếu; còn 15 việc đang mở.\nCập nhật 2026-11-14: Victor giao Đăng lấy cả xe Việt Nam và laptop; sổ việc đã cập nhật.\nLượt 2026-11-14T04:29:48Z: ghi nhận việc lấy hàng xe bà Thuận từ tin 8487202670429; chưa có người phụ trách, đã yêu cầu nhóm phân công.\nLượt 2026-11-14T04:37:08Z: Victor hỏi danh sách việc còn tồn (8487212449505); Luna đã trả lời theo sổ hiện hành, 16 mục mở, tin gửi 8487213420768.\nLượt 2026-11-14T05:23:36Z: ghi nhận việc sửa cam tại 29 Nguyễn Đức Thuận lúc 17h30 từ tin 8487400390407; chưa có người phụ trách, cần hỏi nhóm phân công. Tin phối hợp hỏi người phụ trách gửi 8487417890359. Chủ yêu cầu tiếp tục theo dõi ngày 2026-11-25. Đã đối chiếu lịch sử nhóm đồng bộ đầy đủ đến tin 8525861015093 (2026-11-25T00:45:40Z); cập nhật các việc rõ từ nhóm, các mục chưa có báo xong giữ trạng thái chưa xác minh/chờ xác nhận.",
+  "last_processed_at": "2026-11-25T00:45:40.276Z",
   "sent_message_ids": [
     "8487119001918",
     "8487117760045",
@@ -184,7 +360,5 @@
     "8487213420768",
     "8487417890359"
   ],
-  "status": "paused",
-  "paused_at": "2026-11-15T03:00:06Z",
-  "pause_reason": "Chủ yêu cầu tạm dừng toàn bộ công việc của cộng sự Dịch vụ."
+  "status": "active"
 }

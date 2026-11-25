@@ -2,7 +2,7 @@
 
 > Tự sinh từ file - ĐỪNG sửa tay. Chỉ mục mọi năng lực của Javis trong brain này để bất kỳ AI/engine đọc 1 chỗ là hiểu Javis làm được gì. Song song `wiki/index.md` (tri thức).
 
-**Tổng quan:** 7 agents · 9 skills · 0 workflows (0 bật) · 0 loops (0 bật) · 36 plugins (35 chạy)
+**Tổng quan:** 7 agents · 9 skills · 0 workflows (0 bật) · 1 loops (0 bật) · 36 plugins (35 chạy)
 
 ## Agents
 - **Dịch vụ và Theo dõi công việc** (`dich-vu-theo-doi-cong-viec`) - Tiếp nhận và theo dõi ca sửa chữa, bảo hành và công việc phát sinh đến khi có kết quả rõ ràng. · tags: Vận hành
@@ -33,7 +33,7 @@
 _(chưa có)_
 
 ## Loops
-_(chưa có)_
+- **Theo dõi nhóm Nội bộ Sửa chữa - Bảo hành** (`theo-doi-nhom-noi-bo-sua-chua-bao-hanh`) - tắt · custom/auto · mỗi 5 phút
 
 ## Plugins (tool/hook native cho mọi engine)
 - **Thời gian & ngày** (`datetime-vn`) - bundled/chạy · tools: javis_now, javis_date_add · Xem ngày giờ hiện tại theo múi giờ chọn ở Cài đặt và tính ngày tương đối (mai, mốt, N ngày nữa, tuần trước). Thuần stdlib, chỉ đọc, không cần mạng.
