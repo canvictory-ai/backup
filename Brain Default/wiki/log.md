@@ -339,3 +339,44 @@ Time-ordered log (append-only). Each entry: ## [YYYY-MM-DD] kind | title.
 
 - Khi đối chiếu [[Danh mục model máy in đã tra cứu]], thấy mục 30 model Brother liệt kê DCP-L2531/HL-L2390/HL-L2325/DCP-T520, trùng với 30 model nằm trong đoạn “Brother: 100 mã” của [[index]]. Log chat cùng ngày lại ghi lô 30 khác: HL-L2405/HL-L5210/DCP-L5510/DCP-L2640. Có hai roster 30 khác nhau trong hồ sơ; chưa khẳng định 130 model đích duy nhất nếu chưa chốt roster 30.
 - [[Lô Brother ngày 24-11-2026 - tiến độ đào sâu]] giữ roster tác vụ 130 tạm theo log chat + 100 mục trong index, đánh dấu phần bất nhất. Kết quả mới của lượt này vẫn là 21 model có nội dung User Guide mới, đọc lại và xác minh link nguồn. Cần chủ xác nhận roster 30 để khóa tổng số lô, không thay đổi lịch học định kỳ.
+
+
+## [2026-11-25] research | Đào sâu tiếp 30 model Brother theo log 24/11
+
+- Đối chiếu trực tiếp bốn trang Brother “Troubleshooting > Error and Maintenance Messages”, ghi URL, mục, phạm vi model/hậu tố và ngày truy cập 2026-11-25 vào bốn trang nguồn. HTML không có số trang.
+- Bổ sung bảng xử lý có dấu hiệu/nguyên nhân phân biệt, bước người dùng an toàn, điều kiện chuyển kỹ thuật vào bốn trang nhóm HL-L2405W, HL-L5210DN, DCP-L5510DN và DCP-L2640DW. Gắn trang nhóm chính xác vào 30 trang model trong phạm vi tài liệu; đọc lại các trang đã sửa. Các chuỗi `##` được giữ là thông báo dạng mẫu, không gọi là mã service.
+- Cập nhật [[index]] và [[Lô Brother ngày 24-11-2026 - tiến độ đào sâu]]. Tổng đã bổ sung mới là 51/130 model mục tiêu (30 đợt đầu + 21 từ hai nhóm User Guide đã làm trước đó); còn 79. Roster 30 thứ hai trong hồ sơ vẫn bất nhất, nên giữ rõ caveat, không sửa lịch định kỳ.
+
+
+## [2026-11-25] research | Đào sâu lô Pantum 24/11, hoàn tất 20 model
+
+- Đối chiếu lô trong log và danh mục: 7 model P2500 Series, 13 model M6500/M6550/M6600; không tính lại nội dung cơ bản ngày 24/11.
+- Bổ sung bảng LED P2500 theo V2.4, thông báo LCD/kẹt giấy/ADF đúng từng family M; phân biệt trạng thái người dùng với mã dịch vụ, ghi bước an toàn, bước tiếp và ngưỡng chuyển kỹ thuật. Ghi URL, mục/trang, ngày truy cập và phạm vi hậu tố trong ba trang nguồn Wiki.
+- Đã cập nhật 20 trang model, hai bài nhận diện/nguồn hiện có, ba trang nguồn và [[index]]; tạo [[Lô Pantum ngày 24-11-2026 - tiến độ đào sâu]]. Đọc lại toàn bộ 20 trang, ba nguồn và roster; xác nhận đủ wikilink nguồn. Số mới: 20/20; còn thiếu mã service chi tiết vì User Guide người dùng không cung cấp, không tính đó là dữ liệu đã xác minh. Không sửa lịch học định kỳ. [[Lô Pantum ngày 24-11-2026 - tiến độ đào sâu]]
+## [2026-11-25] update | Đào sâu bổ sung lô Xprinter 24/11
+
+- Đối chiếu danh sách 20 model Label trong danh mục hãng. Cập nhật trang tiến độ, nguồn hãng và trang XP-410B, XP-365B, XP-D463B, XP-D463E; XP-D463B/E cùng phạm vi trang sản phẩm.
+- Tính 4 model có nội dung đặc tính mới kiểm chứng được; không tính 16 model chỉ có trang tải/tài liệu lập trình chung. Không xác nhận mã dịch vụ hoặc nhịp đèn cho model nào. Ghi rõ giới hạn và hướng chuyển kỹ thuật. [[Lô Xprinter ngày 24-11-2026 - tiến độ đào sâu]] [[Nguồn hãng Xprinter tem nhãn - tài liệu tra lỗi]]
+
+
+## [2026-11-25] update | Sửa nghiệm thu lô Xprinter 24/11
+
+- Rà lại yêu cầu nghiệm thu: bốn trang XP-410B, XP-365B, XP-D463B/E trước đó chỉ có đặc tính và kiểm tra an toàn, không đạt tiêu chí xử lý lỗi có căn cứ theo model. Giữ lại đặc tính đã xác minh, bổ sung phân biệt rõ thông báo quan sát được với mã service và tình trạng nguồn.
+- Đối chiếu lại trang tải/danh mục model chính hãng và hai bài lỗi chung. Bài có nhịp đèn/tiếng bíp không nêu model, hậu tố, revision hoặc khu vực; bài nêu cổng/driver và lỗi cơ khí cũng không khai báo model tương thích. Không gán các thông báo chung vào máy lô. XP-D463B/E xác nhận chung trong trang sản phẩm; XP-365B có nhãn User Manual nhưng không hiện tệp/nội dung trong lần truy cập này.
+- Cập nhật trang nguồn, bốn bài model, trang tiến độ và [[index]]. Kết quả đủ chuẩn đào sâu lỗi theo model: 0/20; có 4 trang được cập nhật đặc tính/hướng sàng lọc nhưng không tính đạt. Giữ rõ 20 model chưa đạt, quy trình an toàn, dấu hiệu dừng/chuyển kỹ thuật và phần chưa xác minh. Đọc lại các trang sau sửa, xác nhận link nguồn và đối chiếu lại roster 20 model. Không sửa lịch học định kỳ. [[Lô Xprinter ngày 24-11-2026 - tiến độ đào sâu]] [[Nguồn hãng Xprinter tem nhãn - tài liệu tra lỗi]]
+
+## [2026-11-25] update | Luna trả lời thông tin Victory khi khách hỏi
+
+- Mở rộng phạm vi phản hồi trong nhóm được phép sang thông tin công ty đã lưu theo yêu cầu của chủ. [[Phạm vi công việc của bot Luna trên Zalo]]
+
+## [2026-11-25] update | Lập hai báo giá Nam Đông từ bảng Excel
+
+- Tạo riêng VIC-119-2026 cho bảng màn LED và VIC-120-2026 cho bảng Wi-Fi; để trống ngày báo giá và ngày hiệu lực theo yêu cầu. Giữ mô tả, số lượng, đơn giá và thành tiền từng dòng theo bảng nguồn. [[Sổ Theo Dõi Số Văn Bản Victory]]
+- Đã đối chiếu lại 6 dòng mỗi báo giá, VAT 8%, tổng tiền và ảnh nhúng cho các thiết bị xác định được model; cập nhật số tiếp theo là VIC-121-2026.
+
+## [2026-11-25] create | Biên bản bàn giao cho hóa đơn Maple 00001097 và 00001098
+
+- Lập hai biên bản theo mẫu Word đã duyệt cho Công ty TNHH Maple, MST 0201658007, địa chỉ theo danh sách khách hàng.
+- Hóa đơn 00001097: số biên bản `BBBGNT/2026-02/VIC-MAP`, gồm phần mềm Creative Cloud Pro for teams (2 bộ) và Windows 11 Pro (9 bộ).
+- Hóa đơn 00001098: số biên bản `BBBGNT/2026-03/VIC-MAP`, gồm 5 dòng hàng, từ điện thoại Samsung, máy tính bảng Lenovo, bộ giao tiếp công nghiệp đến laptop Lenovo ThinkBook.
+- Ngày bàn giao thực tế và đại diện bên mua chưa được cung cấp nên để `...`. Sổ số văn bản đã cập nhật số bàn giao tiếp theo là `BBBGNT/2026-04/VIC-ABC`. [[Sổ Theo Dõi Số Văn Bản Victory]] [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]]

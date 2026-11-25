@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, vận-hành, đánh-số, Victory]
 created: 2026-11-21
-updated: 2026-11-24
+updated: 2026-11-25
 source: [[memory/facts/chuan-hoa-lap-ho-so-victory]]
 ---
 
@@ -13,9 +13,9 @@ Sổ theo dõi số đã phát hành để tra số kế tiếp, tránh trùng. 
 
 | Loại văn bản | Quy tắc | Số gần nhất đã xác minh | Số tiếp theo | Ghi chú |
 |---|---|---:|---:|---|
-| Báo giá Victory năm 2026 | `VIC-NNN-2026` | 118 | 119 | Đối chiếu tệp VIC-118-2026 trong `bao-gia/` ngày 24/11/2026. |
+| Báo giá Victory năm 2026 | `VIC-NNN-2026` | 120 | 121 | Đối chiếu VIC-119-2026 (bảng LED Nam Đông) và VIC-120-2026 (bảng Wi-Fi Nam Đông) trong `bao-gia/` ngày 25/11/2026. |
 | Phiếu xuất kho Victory năm 2026 | `PXK-VIC-2026-NNN` | 013 | 014 | Cấp cho Artiverse Knit theo báo giá VIC-117-2026 ngày 24/11/2026. |
-| Biên bản bàn giao hàng hóa | `BBBGNT/YYYY-NN/VIC-ABC` | `BBBGNT/2026-01/VIC-ARK` | `BBBGNT/2026-02/VIC-ABC` | Cấp cho Công ty TNHH Artiverse Knit theo báo giá VIC-117-2026; ngày giao thực tế để `...`. |
+| Biên bản bàn giao hàng hóa | `BBBGNT/YYYY-NN/VIC-ABC` | `BBBGNT/2026-03/VIC-MAP` | `BBBGNT/2026-04/VIC-ABC` | Số 02 cho hóa đơn 00001097 và số 03 cho hóa đơn 00001098 của Công ty TNHH Maple, ngày 25/11/2026; ngày giao thực tế để `...`. |
 | Hợp đồng mua bán | `HĐKT/YYYY-NN/VIC-ABC` | `HĐKT/2026-01/VIC-ARK` | `HĐKT/2026-02/VIC-ABC` | Cấp cho Công ty TNHH Artiverse Knit theo báo giá VIC-117-2026. |
 | Hợp đồng nguyên tắc | `HĐNT/YYYY-NN/VIC-ABC` | Chưa phát hành theo quy tắc mới | `HĐNT/2026-01/VIC-ABC` | Dãy riêng theo năm; `ABC` là mã viết tắt đối tác. |
 | Phiếu nhập kho | `PNK-VIC-YYYY-NNN` | Chưa phát hành theo quy tắc mới | `PNK-VIC-2026-001` | Dãy riêng theo năm, tăng từ 001. |

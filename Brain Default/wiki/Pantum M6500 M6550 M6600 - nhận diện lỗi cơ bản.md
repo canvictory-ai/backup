@@ -34,3 +34,8 @@ Xin nguyên dòng LCD hoặc ảnh, phân biệt kẹt giấy đường in với
 - [[Pantum M6550N - tra cứu lỗi theo model]]
 - [[Pantum M6550W - tra cứu lỗi theo model]]
 - [[Pantum M6559 - tra cứu lỗi theo model]]
+
+
+## Đợt đào sâu 24/11 - bổ sung 25/11
+
+Phạm vi theo hậu tố được tách chính xác: [[Nguồn hãng Pantum M6500 Series - tài liệu tra lỗi]] cho M6500; [[Nguồn hãng Pantum M6550 M6600 Series - tài liệu tra lỗi]] cho M6550 và M6600. Thông báo LCD được phân loại là trạng thái người dùng. Nhánh ADF chỉ dùng cho model có ADF; không suy mã dịch vụ từ thông báo LCD. Xem trang theo từng model để biết bước an toàn và điều kiện chuyển kỹ thuật.

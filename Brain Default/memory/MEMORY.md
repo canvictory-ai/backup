@@ -2,7 +2,7 @@
 - [Bộ mẫu chung và mẫu đặc thù](facts/bo-mau-chung-va-mau-dac-thu.md) - Có mẫu mặc định và biến thể theo khách hàng/quy trình; một bộ việc có thể gồm nhiều loại chứng từ. Đã bổ sung mẫu nghiệm thu dịch vụ, tiếp nhận bảo hành/sửa chữa/đổi trả, đơn đặt hàng/xác nhận đơn hàng và phiếu xác nhận thanh toán theo yêu cầu.
 - [Chuẩn hóa lập hồ sơ Victory](facts/chuan-hoa-lap-ho-so-victory.md) - Tiếp nhận dữ liệu có cấu trúc, đối chiếu nguồn, dùng `...` cho dữ liệu thiếu, theo dõi số và rà soát tệp trước khi gửi.
 - [Gợi ý chuyển việc cho đúng cộng sự](facts/goi-y-chuyen-viec-dung-cong-su.md) - Khi người dùng giao nhầm loại việc cho Javis Core, gợi ý chuyển sang cộng sự chuyên trách; không khẳng định đã chuyển nếu chưa có xác nhận.
-- [Phạm vi hiện tại của bot Luna trên Zalo](facts/pham-vi-hien-tai-cua-bot-luna-tren-zalo.md) - Luna chỉ trả lời kỹ thuật trong nhóm Zalo được thêm vào và được chủ cho phép; theo riêng từng yêu cầu và gắn trả lời với tin hỏi. Trong ca kỹ thuật, cung cấp đúng thông tin gửi máy khi khách hỏi.
+- [Phạm vi hiện tại của bot Luna trên Zalo](facts/pham-vi-hien-tai-cua-bot-luna-tren-zalo.md) - Luna trả lời kỹ thuật và cung cấp thông tin Victory khi khách hỏi trong nhóm Zalo được thêm vào và được chủ cho phép; theo riêng từng yêu cầu và gắn trả lời với tin hỏi. Trong ca kỹ thuật, cung cấp đúng thông tin gửi máy khi khách hỏi.
 - [Mẫu biên bản đối chiếu công nợ Victory](facts/mau-bien-ban-doi-chieu-cong-no-victory.md) - Mẫu Word A4 dọc, đầu trang theo mẫu phiếu xuất kho; địa điểm theo địa chỉ khách hàng cung cấp/tra cứu. Bên A là Vũ Đức Cẩn, Giám đốc, 0228.86.22222; Bên B tra danh sách khách hàng; bỏ hai dòng quốc hiệu/tiêu ngữ, ghi chú ký sát dưới đại diện.
 
 - [Mẫu phiếu xuất kho kiêm bàn giao Victory](facts/mau-phieu-xuat-kho-victory.md) - Mẫu A4 dọc theo phong cách báo giá Victory; tiêu đề 15 pt một dòng, bảng 8 cột, header xanh chữ trắng, ký tên đặt đúng vị trí; số gần nhất 012, tiếp theo 013.
@@ -231,7 +231,7 @@
 - [Javis chỉ trả lời về kỹ thuật](facts/vai-tro-javis-chi-ho-tro-ky-thuat.md) - Javis chỉ trả lời yêu cầu liên quan đến kỹ thuật; với nội dung khác thì im lặng.
 - [Không trình bày suy nghĩ nội bộ](facts/khong-trinh-bay-suy-nghi-noi-bo.md) - Trả lời thẳng vào nội dung, không đưa lời dẫn về suy nghĩ hay quá trình phân tích.
 - [Không cần giữ bản gốc mẫu để tra cứu](facts/khong-can-luu-ban-goc-mau-de-tra-cuu.md) - Bạn không cần giữ bản gốc hoặc tài liệu tham chiếu cũ của mẫu giấy tờ chỉ để tra cứu về sau.
-- [Luna chỉ hỗ trợ kỹ thuật, không chuyển đơn](facts/luna-chi-ho-tro-ky-thuat-khong-chuyen-don.md) - Đã chốt gỡ hoàn toàn nhánh chuyển đơn của Luna khỏi mã nguồn.
+- [Luna không chuyển đơn](facts/luna-chi-ho-tro-ky-thuat-khong-chuyen-don.md) - Đã chốt gỡ hoàn toàn nhánh chuyển đơn của Luna khỏi mã nguồn.
 - [Phần mềm quản trị doanh nghiệp đang sử dụng](facts/phan-mem-quan-tri-doanh-nghiep-dang-su-dung.md) - Công ty đang dùng KiotViet, MISA AMIS, MISA meInvoice và MISA ASP; người dùng vẫn nhập liệu tốt trên các phần mềm hiện tại.
 - [Tên miền đang sử dụng](facts/ten-mien-dang-su-dung.md) - Bạn đang dùng maytinhnamdinh.com và vic-tech.com.vn; hai website chỉ giới thiệu công ty/sản phẩm, không nhận đặt hàng trực tuyến (xác nhận 24/11/2026).
 - [Muốn theo dõi cơ hội bán hàng trong Javis](facts/theo-doi-co-hoi-ban-hang-trong-javis.md) - Người dùng muốn có module theo dõi cơ hội bán hàng ngay trong Javis.

@@ -7,7 +7,7 @@
 ## Agents
 - **Dịch vụ và Theo dõi công việc** (`dich-vu-theo-doi-cong-viec`) - Tiếp nhận và theo dõi ca sửa chữa, bảo hành và công việc phát sinh đến khi có kết quả rõ ràng. · tags: Vận hành
 - **Javis Core** (`javis-core`) - Trợ lý hệ thống nhận báo cáo và hỗ trợ công việc trong brain này.
-- **Luna Vũ - Hỗ trợ kỹ thuật Zalo** (`luna-vu`) - Chỉ trực Zalo và trả lời các vấn đề kỹ thuật trong nhóm được phép hoạt động. · model gpt-6-luna · tags: Vận hành, Kỹ thuật
+- **Luna Vũ - Hỗ trợ kỹ thuật Zalo** (`luna-vu`) - Hỗ trợ kỹ thuật và cung cấp thông tin Victory khi khách hỏi trong nhóm Zalo được phép. · model gpt-6-luna · tags: Vận hành, Kỹ thuật
 - **Lập Báo Giá** (`nhan-vien-sales-bao-gia`) - Lập, chỉnh sửa, kiểm tra và gửi báo giá Victory theo hồ sơ, bảng giá YSS và mẫu chuẩn đã lưu. · model gpt-6-luna · skills: lap-bao-gia-victory · tags: Bán hàng
 - **Phương sai vặt** (`phuong-sai-vat`) - Trợ lý tổng hợp, cảnh báo và rà soát công việc của chủ. · tags: Điều phối
 - **Pháp lý - Luật** (`tro-ly-phap-ly-viet-nam`) - Hỗ trợ tra cứu, giải thích và hệ thống hóa pháp luật Việt Nam dựa trên nguồn có thể kiểm chứng. · tags: Pháp lý

@@ -93,7 +93,7 @@
 Catalogue of the wiki's content (updated on every INGEST). Read this file before answering a question.
 
 - [[Lưu câu trả lời có nguồn vào đúng brain]] - Phân biệt link trích dẫn với tri thức đã lưu; lưu nguồn và Wiki vào brain đang chọn, cùng nguyên nhân loop Zalo bị kẹt.
-- [[Phạm vi công việc của bot Luna trên Zalo]] - Luna chỉ trực các nhóm được phép và trả lời vấn đề kỹ thuật; các nhiệm vụ khác đã bị gỡ.
+- [[Phạm vi công việc của bot Luna trên Zalo]] - Luna hỗ trợ kỹ thuật và cung cấp thông tin Victory khi khách hỏi trong nhóm Zalo được phép.
 
 - [Thông tin Công ty Victory Việt Nam](../memory/facts/thong-tin-cong-ty-victory-viet-nam.md) - Hồ sơ công ty, thanh toán, mã QR nhận tiền, liên hệ, nhận hàng và nhà xe.
 - [QR Tài Khoản Ngân Hàng Victory](../sources/QR%20Tai%20Khoan%20Ngan%20Hang%20Victory.md) - Ảnh QR Techcombank để gửi khách khi họ yêu cầu thông tin chuyển khoản.
@@ -201,13 +201,13 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Thời điểm lập hóa đơn giá trị gia tăng]] - Hóa đơn lập sai thời điểm là hóa đơn được lập sớm hơn hoặc muộn hơn thời điểm ph
 - [[Tra cứu mã tương thích trước khi báo giá]] - Khi mã máy hoặc mã hộp mực khách hỏi không có trong bảng giá đại lý, tra cứu mã
 
-- [[Brother HL-L2405W và cùng dòng - lỗi cơ bản và xử lý]] - Tra cứu lỗi cho HL-L2405W, HL-L2420DW, HL-L2460DW, HL-L2460DWXL, HL-L2865DW.
+- [[Brother HL-L2405W và cùng dòng - lỗi cơ bản và xử lý]] - Bổ sung 25/11: Jam 2-sided, No Paper, Replace Drum, Self-Diagnostic theo bảng User Guide đúng phạm vi.
 - [[Nguồn Brother HL-L2405W và cùng dòng - thông báo lỗi]] - Tài liệu hãng cho nhóm model trên.
-- [[Brother HL-L5210DN và cùng dòng - lỗi cơ bản và xử lý]] - Tra cứu lỗi cho HL-L5210DN, HL-L5210DW, HL-L6210DW, HL-L6410DN, HL-L6415DW.
+- [[Brother HL-L5210DN và cùng dòng - lỗi cơ bản và xử lý]] - Bổ sung 25/11: Jam MP Tray, No Paper Fed T1-T4, Cannot Print ##, Self-Diagnostic theo nhánh model chính thức.
 - [[Nguồn Brother HL-L5210DN và cùng dòng - thông báo lỗi]] - Tài liệu hãng cho nhóm model trên.
-- [[Brother DCP-L5510DN và cùng dòng - lỗi cơ bản và xử lý]] - Tra cứu lỗi cho DCP-L5510DN, DCP-L5660DN, MFC-L5710DN, MFC-L5710DW, MFC-L5715DW, MFC-L5717DW, MFC-L5915DW, MFC-L6810DW, MFC-L6915DW.
+- [[Brother DCP-L5510DN và cùng dòng - lỗi cơ bản và xử lý]] - Bổ sung 25/11: No Tray T1-T3, Document Jam, Supplies Replace Drum, Cannot Print/Scan ##.
 - [[Nguồn Brother DCP-L5510DN và cùng dòng - thông báo lỗi]] - Tài liệu hãng cho nhóm model trên.
-- [[Brother DCP-L2640DW và cùng dòng - lỗi cơ bản và xử lý]] - Tra cứu lỗi cho HL-L2465DW, DCP-L2640DW, DCP-L2647DW, HL-L2480DW, MFC-L2760DW, MFC-L2807DW, MFC-L2820DW, MFC-L2820DWXL, MFC-L2900DW, MFC-L2900DWXL, MFC-L2980DW.
+- [[Brother DCP-L2640DW và cùng dòng - lỗi cơ bản và xử lý]] - Bổ sung 25/11: Cannot Scan ##, Cooling Down, jam theo vị trí và Self-Diagnostic; tài liệu chia hai nhánh phạm vi.
 - [[Nguồn Brother DCP-L2640DW và cùng dòng - thông báo lỗi]] - Tài liệu hãng cho nhóm model trên.
 
 ## Brother: tra cứu theo từng model
@@ -743,6 +743,13 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[HP Laser MFP 133pn - tra cứu lỗi cơ bản]] - kẹt giấy, không kéo giấy và dấu hiệu chất lượng in theo hướng dẫn HP nhóm 130/1000. [[Nguồn HP Laser MFP 130 1000 - phạm vi model và kẹt giấy]]
 
 
+## Pantum - đào sâu theo model, lô 24/11/2026
+
+- [[Lô Pantum ngày 24-11-2026 - tiến độ đào sâu]] - 20 model trong lô; 20 đã được bổ sung nội dung mới theo tài liệu đúng series.
+- [[Nguồn hãng Pantum P2500 - tài liệu tra lỗi]] - LED1/LED2, P2500 Series, các mục và trang đối chiếu.
+- [[Nguồn hãng Pantum M6500 Series - tài liệu tra lỗi]] - thông báo LCD, thao tác kẹt giấy và phạm vi M6500.
+- [[Nguồn hãng Pantum M6550 M6600 Series - tài liệu tra lỗi]] - LCD, nhánh ADF và phạm vi từng family.
+
 ## Pantum và Xprinter: tra cứu theo model
 
 - [[Pantum P2500 - nhận diện lỗi cơ bản]] - 7 model.
@@ -785,12 +792,13 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Xprinter XP-Q302F - tra cứu lỗi theo model]] - Tra cứu theo model.
 - [[Xprinter XP-370B - tra cứu lỗi theo model]] - Tra cứu theo model.
 - [[Xprinter XP-350B - tra cứu lỗi theo model]] - Tra cứu theo model.
-- [[Xprinter XP-365B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Xprinter XP-365B - tra cứu lỗi theo model]] - Đặc tính nhãn/hoá đơn và cảm biến theo trang sản phẩm hãng; chưa có mã đèn xác minh.
 - [[Xprinter XP-D367B - tra cứu lỗi theo model]] - Tra cứu theo model.
 - [[Xprinter XP-300B - tra cứu lỗi theo model]] - Tra cứu theo model.
 - [[Xprinter XP-220B - tra cứu lỗi theo model]] - Tra cứu theo model.
 - [[Xprinter XP-200B - tra cứu lỗi theo model]] - Tra cứu theo model.
 - [[Xprinter XP-245B - tra cứu lỗi theo model]] - Tra cứu theo model.
+- [[Lô Xprinter ngày 24-11-2026 - tiến độ đào sâu]] - 20 model trong lô; 4 trang có bổ sung đặc tính chính hãng nhưng 0 model đủ bằng chứng xử lý lỗi theo model.
 
 
 ## Router, modem DSL và router 4G/5G - TP-Link
@@ -852,3 +860,10 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 Đào sâu 30 trang model riêng với 4-5 thông báo lỗi, nhánh kiểm tra an toàn và điểm chuyển kỹ thuật theo bảng lỗi HTML hãng; chưa rà toàn bộ User Guide/tài liệu bảo trì theo từng model. Xem các bảng chung theo phạm vi hãng: [[Brother nhóm DCP-L2531DW - lỗi cơ bản]], [[Brother nhóm HL-L2390DW - lỗi cơ bản]], [[Brother nhóm HL-L2325DW - lỗi cơ bản]], [[Brother nhóm DCP-T520W - lỗi cơ bản]].
 
 - [[Nguồn HP LaserJet Pro M12 P1100 - trạng thái đèn]] - Bảng trạng thái đèn Attention/Ready và Wi-Fi theo đúng nhóm model HP; truy cập 2026-11-25.
+
+## Brother: nguồn User Guide bổ sung 25/11
+
+- [[Nguồn Brother HL-L2405W và cùng dòng - thông báo lỗi]] - User Guide Brother, mục Error and Maintenance Messages, đúng nhóm HL-L2405W.
+- [[Nguồn Brother HL-L5210DN và cùng dòng - thông báo lỗi]] - User Guide Brother, hai bảng model riêng HL-L5210 và HL-L6410.
+- [[Nguồn Brother DCP-L5510DN và cùng dòng - thông báo lỗi]] - User Guide Brother, mục Error and Maintenance Messages cho 9 model.
+- [[Nguồn Brother DCP-L2640DW và cùng dòng - thông báo lỗi]] - User Guide Brother, hai nhóm model và thông báo cụ thể theo LCD.

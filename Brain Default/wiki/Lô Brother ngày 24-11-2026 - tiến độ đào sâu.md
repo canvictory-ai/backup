@@ -13,9 +13,13 @@ source: "[[Danh mục model máy in đã tra cứu]]"
 
 Theo log ngày 24/11, lô gồm hai đợt: 30 model đầu tiên và 100 model bổ sung, tổng cộng 130 model theo yêu cầu đã ghi. Danh sách model hiện có 101 trang trong phần “Brother: 100 mã học bổ sung”; loại DCP-L2605DW đang có trang nhưng vượt quá số lượng 100 được chốt trong log. 100 model trong lô được lấy theo thứ tự chỉ mục, loại mục dư này; nếu danh mục nguồn cho biết khác, cần điều chỉnh ranh giới. Đợt 30 đầu tiên theo log chat có 4 nhóm HL-L2405, HL-L5210, DCP-L5510 và DCP-L2640. Tuy nhiên, [[Danh mục model máy in đã tra cứu]] có một mục “Đợt đào sâu Brother” khác gồm 30 model DCP-L2531, HL-L2390, HL-L2325 và DCP/MFC-T520; 30 model này trùng với trang trong phần 100 của index. Vì vậy danh sách 130 dưới đây là roster tạm theo hai nhóm tác vụ, không thể khẳng định tất cả đều là 130 model đích khác nhau cho đến khi chốt phiên bản 30 model. Không tính nội dung cũ ngày 24/11 là nội dung mới của lượt này. [[log]] [[index]]
 
-**Đào sâu mới trong lượt 25/11: 21/130 model** có bổ sung User Guide chính hãng gồm 13 model nhóm DCP-L2531DW và 8 model dòng DCP/MFC-T520. Không tính lại nội dung đã có ngày 24/11. Còn ít nhất 109 model trong lô chưa có bổ sung mới lượt này; thêm 1 trang model DCP-L2605DW chưa xác minh có thuộc lô 100 hay không. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]] [[Nguồn Brother Dòng T520 - User Guide thông báo lỗi]]
+**Đào sâu mới trong lượt 25/11: 51/130 model mục tiêu** có nội dung User Guide chính hãng mới: 30 model thuộc bốn nhóm đầu trong log, cộng 13 model DCP-L2531DW và 8 model dòng T520/T920 trong danh mục 100. Hai tập này không giao nhau theo danh sách mục tiêu hiện có. Còn 79 model mục tiêu chưa có bổ sung mới. Lô vẫn có bất nhất về roster 30 thứ hai; vì vậy số 130 là số mục tiêu theo log tác vụ, không phải xác nhận lại roster bất nhất. DCP-L2605DW vẫn chưa xác minh thuộc lô 100 hay không. [[Nguồn Brother Dòng L2531 - User Guide thông báo lỗi]] [[Nguồn Brother Dòng T520 - User Guide thông báo lỗi]]
 
 ## Đã đào sâu mới
+
+### Bốn nhóm đầu theo log, 30 model
+
+Đã kiểm tra lại trang Brother “Troubleshooting > Error and Maintenance Messages” ngày 25/11. Phạm vi chính thức, dấu hiệu và nhánh bước tiếp đã được ghi tại bốn trang nhóm và gắn vào từng trang model. Hướng dẫn giữ nguyên chuỗi thông báo, phân biệt cảnh báo người dùng với mã lỗi dạng `##`, và dừng tự xử lý khi lỗi cơ khí/fuser còn tiếp diễn. HTML không có số trang. [[Nguồn Brother HL-L2405W và cùng dòng - thông báo lỗi]] [[Nguồn Brother HL-L5210DN và cùng dòng - thông báo lỗi]] [[Nguồn Brother DCP-L5510DN và cùng dòng - thông báo lỗi]] [[Nguồn Brother DCP-L2640DW và cùng dòng - thông báo lỗi]]
 
 ### Nhóm L2531, 13 model
 
@@ -34,36 +38,36 @@ DCP-T520W, DCP-T525W, DCP-T720DW, DCP-T725DW, DCP-T820DW, DCP-T825DW, MFC-T920DW
 
 ## Danh sách cố định 130 model theo hai đợt
 
-1. [[Brother HL-L2405W - tra cứu lỗi theo model]] - chưa đào sâu mới.
-2. [[Brother HL-L2420DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-3. [[Brother HL-L2460DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-4. [[Brother HL-L2460DWXL - tra cứu lỗi theo model]] - chưa đào sâu mới.
-5. [[Brother HL-L2865DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-6. [[Brother HL-L5210DN - tra cứu lỗi theo model]] - chưa đào sâu mới.
-7. [[Brother HL-L5210DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-8. [[Brother HL-L6210DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-9. [[Brother HL-L6410DN - tra cứu lỗi theo model]] - chưa đào sâu mới.
-10. [[Brother HL-L6415DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-11. [[Brother DCP-L5510DN - tra cứu lỗi theo model]] - chưa đào sâu mới.
-12. [[Brother DCP-L5660DN - tra cứu lỗi theo model]] - chưa đào sâu mới.
-13. [[Brother MFC-L5710DN - tra cứu lỗi theo model]] - chưa đào sâu mới.
-14. [[Brother MFC-L5710DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-15. [[Brother MFC-L5715DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-16. [[Brother MFC-L5717DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-17. [[Brother MFC-L5915DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-18. [[Brother MFC-L6810DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-19. [[Brother MFC-L6915DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-20. [[Brother HL-L2465DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-21. [[Brother DCP-L2640DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-22. [[Brother DCP-L2647DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-23. [[Brother HL-L2480DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-24. [[Brother MFC-L2760DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-25. [[Brother MFC-L2807DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-26. [[Brother MFC-L2820DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-27. [[Brother MFC-L2820DWXL - tra cứu lỗi theo model]] - chưa đào sâu mới.
-28. [[Brother MFC-L2900DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
-29. [[Brother MFC-L2900DWXL - tra cứu lỗi theo model]] - chưa đào sâu mới.
-30. [[Brother MFC-L2980DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
+1. [[Brother HL-L2405W - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+2. [[Brother HL-L2420DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+3. [[Brother HL-L2460DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+4. [[Brother HL-L2460DWXL - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+5. [[Brother HL-L2865DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+6. [[Brother HL-L5210DN - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+7. [[Brother HL-L5210DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+8. [[Brother HL-L6210DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+9. [[Brother HL-L6410DN - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+10. [[Brother HL-L6415DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+11. [[Brother DCP-L5510DN - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+12. [[Brother DCP-L5660DN - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+13. [[Brother MFC-L5710DN - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+14. [[Brother MFC-L5710DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+15. [[Brother MFC-L5715DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+16. [[Brother MFC-L5717DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+17. [[Brother MFC-L5915DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+18. [[Brother MFC-L6810DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+19. [[Brother MFC-L6915DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+20. [[Brother HL-L2465DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+21. [[Brother DCP-L2640DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+22. [[Brother DCP-L2647DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+23. [[Brother HL-L2480DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+24. [[Brother MFC-L2760DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+25. [[Brother MFC-L2807DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+26. [[Brother MFC-L2820DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+27. [[Brother MFC-L2820DWXL - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+28. [[Brother MFC-L2900DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+29. [[Brother MFC-L2900DWXL - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
+30. [[Brother MFC-L2980DW - tra cứu lỗi theo model]] - đã đào sâu mới 25/11.
 31. [[Brother MFC-J3540DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
 32. [[Brother MFC-J3940DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
 33. [[Brother MFC-J6540DW - tra cứu lỗi theo model]] - chưa đào sâu mới.
@@ -171,4 +175,4 @@ Có hai danh sách 30 model khác nhau trong hồ sơ ngày 24/11: log chat ghi 
 
 ## Phạm vi còn thiếu
 
-Cần tiếp tục theo nhóm nhỏ: các model toner màu trong 100 model, các nhóm bình mực còn lại, rồi 30 model đợt đầu. Chỉ tính model khi trang User Guide hãng nêu đúng model/hậu tố hoặc phạm vi series rõ ràng, có nội dung mới và đã đọc lại bài Wiki.
+Còn 79 model mục tiêu chưa có bổ sung mới: tiếp tục theo nhóm nhỏ ở các dòng chưa được cập nhật. Chỉ tính model khi trang User Guide hãng nêu đúng model/hậu tố hoặc phạm vi series rõ ràng, có nội dung mới và đã đọc lại bài Wiki.
