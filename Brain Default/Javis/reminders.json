@@ -271,7 +271,7 @@
       "id": "r_81e3e079d6",
       "text": "chạy script doi-soat-testbot.py",
       "mode": "script",
-      "due_at": 1795664340.0,
+      "due_at": 1795686000.0,
       "chat_id": "",
       "repeat_min": 0,
       "cron": "* * * * *",
@@ -284,14 +284,14 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795522654.1671498,
-      "fired_at": 1795664309.062191,
+      "fired_at": 1795685970.0821652,
       "result": "",
       "error": "",
-      "last_slot": 1795664280.0,
+      "last_slot": 1795685940.0,
       "missed_last": 1,
       "missed_total": 1,
       "missed_at": 1795620305.1193843
     }
   ],
-  "updated": 1795664309.0628848
+  "updated": 1795685970.0828898
 }

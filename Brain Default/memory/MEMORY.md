@@ -240,3 +240,4 @@
 - [Victory có giao dịch xuất khẩu tại chỗ vào khu chế xuất](facts/victory-xuat-khau-tai-cho-vao-khu-che-xuat.md) - Công ty có hoạt động xuất khẩu tại chỗ vào khu chế xuất.
 - [Victory đã nộp quyết toán thuế năm 2025](facts/victory-da-nop-quyet-toan-thue-2025.md) - Người dùng xác nhận quyết toán thuế năm 2025 đã nộp.
 - [Các tờ khai đối ứng cho giao dịch xuất khẩu tại chỗ đã hoàn tất](facts/victory-da-hoan-tat-to-khai-doi-ung.md) - Người dùng xác nhận tất cả tờ khai đối ứng đã hoàn tất.
+- [Lộ trình học kỹ thuật ưu tiên mạng và kết nối](facts/lo-trinh-hoc-ky-thuat-uu-tien-mang-ket-noi.md) - Khi Javis học thêm kiến thức kỹ thuật để hỗ trợ khách, ưu tiên mạng và kết nối trước.

@@ -389,3 +389,7 @@ Time-ordered log (append-only). Each entry: ## [YYYY-MM-DD] kind | title.
 ## [2026-11-26] cập nhật | Phạm vi hỗ trợ kỹ thuật của Luna
 
 Bổ sung hướng dẫn cài đặt, cấu hình và sửa chữa theo model, ưu tiên tài liệu hãng khi cần tra cứu. [[Phạm vi công việc của bot Luna trên Zalo]]
+
+## [2026-11-26] update | Ưu tiên học mạng và kết nối
+
+Bổ sung trình tự hỗ trợ từ xa cho Wi-Fi, IP/DHCP, DNS, máy in mạng và camera PoE. [[Lỗi cơ bản hệ thống mạng]] [[Microsoft và TP-Link - Kiểm tra Wi-Fi và PoE]]

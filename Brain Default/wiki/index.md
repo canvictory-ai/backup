@@ -135,6 +135,7 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Nguồn Hikvision - đầu ghi kêu bíp sau khi khởi động]] - Hỏi đáp hỗ trợ Hikvision về tiếng bíp sau khởi động, mặt trước tháo rời và HDD.
 - [[Lỗi cơ bản máy photocopy]] - Nhóm lỗi giấy, vật tư, chất lượng sao chụp, bộ nạp bản gốc và kết nối.
 - [[Lỗi cơ bản hệ thống mạng]] - Phân biệt lỗi kết nối vật lý, Wi-Fi, IP/DHCP, DNS, gateway và nghẽn mạng.
+- [[Microsoft và TP-Link - Kiểm tra Wi-Fi và PoE]] - Nguồn hãng cho kiểm tra Wi-Fi, IP/gateway và PoE.
 - [[Lỗi máy tính để bàn có nguồn nhưng không lên hình]] - Trình tự kiểm tra màn hình, cáp, ngõ vào và phân biệt mất hình với lỗi POST; cần manual đúng model khi có mã chẩn đoán.
 - [[Nguồn Dell - xử lý máy tính không hình]] - Tài liệu Dell chính hãng về no power, no POST, no boot và no video, đã đối chiếu trực tuyến ngày 31/10/2026.
 - [[Nguồn Microsoft - khởi động và phục hồi Windows]] - Tài liệu Microsoft về Safe Mode, Startup Repair và rủi ro mất dữ liệu khi phục hồi.

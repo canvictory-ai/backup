@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, mạng, xử-lý-sự-cố]
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-26
 source: "[[Tài liệu hãng về lỗi cơ bản hệ thống mạng]]"
 aliases: [Lỗi mạng, Mất mạng, Không vào được mạng, Sự cố Wi-Fi]
 ---
@@ -29,6 +29,13 @@ Nếu truy cập theo địa chỉ IP được nhưng theo tên miền/tên máy
 ## Chậm, trễ, rớt gói hoặc mất kết nối chập chờn
 
 Nhóm khả năng gồm nghẽn băng thông, mất gói, nhiễu Wi-Fi, roaming, thiết bị trung gian, firewall/VPN, tải server hoặc sự cố upstream/ISP. Nếu nhiều thiết bị cùng bị, nguyên nhân mạng chung hoặc dịch vụ upstream đáng được xem xét; nếu chỉ một thiết bị bị, phạm vi có thể ở thiết bị/adapter/cấu hình riêng. Đây là quy tắc khoanh vùng, không phải kết luận chắc chắn. [[Tài liệu hãng về lỗi cơ bản hệ thống mạng]]
+
+## Thứ tự kiểm tra khi hỗ trợ từ xa
+
+1. Hỏi một hay nhiều thiết bị bị lỗi, đang dùng Wi-Fi hay dây, và mất Internet hay chỉ mất một dịch vụ. Thử thiết bị thứ hai trên cùng mạng để thu hẹp phạm vi. [[Microsoft và TP-Link - Kiểm tra Wi-Fi và PoE]]
+2. Kiểm tra nguồn, đèn link, dây và cổng. Với camera PoE, đối chiếu chuẩn camera và switch, công suất tối đa mỗi cổng và tổng công suất switch. Khi camera đã có nguồn, kiểm tra đường mạng rồi mới kiểm tra đầu ghi hoặc ứng dụng. [[Microsoft và TP-Link - Kiểm tra Wi-Fi và PoE]]
+3. Trên Windows, dùng `ipconfig` để xem IP và default gateway. IP tự gán 169.254.x.x là dấu hiệu cần kiểm tra kết nối và DHCP. Thử ping gateway để kiểm tra đường đến router, rồi thử phân giải tên với `nslookup` nếu truy cập theo IP vẫn được. Một lần ping thất bại chưa đủ kết luận vì thiết bị có thể chặn ICMP. [[Microsoft và TP-Link - Kiểm tra Wi-Fi và PoE]]
+4. Với máy in mạng, đọc IP trên màn hình hoặc trang cấu hình rồi so với IP cổng in. Nếu máy in truy cập được trong LAN mà chỉ một máy tính không in được, kiểm tra hàng đợi, cổng in và driver trên máy đó trước khi đổi cấu hình router. Đây là cách áp dụng nguyên tắc khoanh vùng theo từng thiết bị. [[Tài liệu hãng về lỗi cơ bản hệ thống mạng]]
 
 ## Giới hạn
 
