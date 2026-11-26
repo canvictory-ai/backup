@@ -156,7 +156,7 @@
       "id": "r_2490085073",
       "text": "Rà soát hằng ngày các văn bản pháp luật Việt Nam mới được ban hành/công bố và văn bản bắt đầu có hiệu lực trong ngày, hoặc sắp có hiệu lực. Ưu tiên nguồn chính thức: Cơ sở dữ liệu quốc gia về văn bản pháp luật, Công báo, Cổng thông tin Chính phủ, Quốc hội, Bộ Tư pháp và cơ quan ban hành. Phạm vi ưu tiên: quy định ảnh hưởng đến doanh nghiệp Victory và các vấn đề chủ đã hỏi, gồm doanh nghiệp/thương mại/hợp đồng, thuế-hóa đơn-kế toán, lao động-BHXH, đất đai/thủ tục hành chính; mở rộng khi có văn bản có tác động đáng kể. Dựa vào kết quả các lần chạy trước để chỉ báo nội dung mới hoặc trạng thái hiệu lực mới. Đặc biệt kiểm tra danh sách văn bản đã được phát hiện trước đây và báo lại đúng ngày chúng có hiệu lực; không đợi báo cáo tuần. Với từng văn bản, xác minh số hiệu, cơ quan ban hành, ngày ban hành, ngày hiệu lực, tình trạng sửa đổi/thay thế và phạm vi; đọc nội dung văn bản chính thức trước khi kết luận. Báo rõ văn bản mới ban hành hay đã có hiệu lực/sắp có hiệu lực, điểm thay đổi thực tế và nhóm đối tượng chịu ảnh hưởng. Nếu có nội dung đáng lưu, cập nhật wiki tiếng Việt: đọc wiki/index.md trước; tạo/cập nhật trang tri thức có frontmatter chuẩn, trích dẫn [[Nguồn]] gắn trực tiếp nhận định và URL chính thức/ngày truy cập; cập nhật wiki/index.md và append wiki/log.md. Không ghi văn bản web vào sources/. Giữ nguyên nội dung cũ nếu phát hiện mâu thuẫn; ghi cả hai quan điểm và append wiki/_open-questions.md. Không suy diễn hiệu lực hoặc áp dụng khi nguồn không xác minh được. Múi giờ lịch: Asia/Ho_Chi_Minh.",
       "mode": "task",
-      "due_at": 1795654800.0,
+      "due_at": 1795741200.0,
       "chat_id": "web:902725dd81654fae8e2410107648cc9f",
       "repeat_min": 0,
       "cron": "0 8 * * *",
@@ -169,11 +169,11 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795099731.0630157,
-      "fired_at": 1795568467.8152127,
-      "result": "Rà soát ngày **25/11/2026**: không tìm thấy văn bản mới trong phạm vi ưu tiên được công bố hôm nay; cũng không xác nhận được văn bản nào trong danh sách theo dõi bắt đầu có hiệu lực hôm nay.\n\nCác mốc sắp tới chưa đổi: Luật 23/2026/QH16 có hiệu lực **01/12/2026**; Nghị định 399/2026/NĐ-CP về lương tối thiểu có hiệu lực **01/01/2027**. Nghị định 399 quy định mức tháng từ 4.040.000 đến 5.700.000 đồng và mức giờ từ 19.400 đến 27.400 đồng theo vùng; doanh nghiệp cần rà soát thỏa thuận tiền lương trước ngày hiệu lực. [Toàn văn Nghị định 399 trên Cổng Chính phủ](https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/11/399_2026_nd-cp_02112026_6-signed.signed.pdf) · [Thông tin Luật 23 trên Cổng Chính phủ](https://vanban.chinhphu.vn/?docid=219491&pageid=27160&typegroupid=3). Tra cứu ngày 25/11/2026.\n\nKhông cập nhật Wiki: thông tin lương tối thiểu đã có trang riêng và chưa phát hiện thay đổi mới.",
+      "fired_at": 1795654849.5802882,
+      "result": "Mình sẽ rà nguồn chính thức theo ngày 26/11/2026, đối chiếu hai mốc đang theo dõi và chỉ báo thay đổi đã xác minh.\nRà soát ngày **26/11/2026**: chưa tìm thấy văn bản mới trong phạm vi ưu tiên được công bố hôm nay, cũng chưa xác nhận văn bản theo dõi nào bắt đầu có hiệu lực hôm nay.\n\nMốc sắp tới vẫn là Luật **23/2026/QH16**, có hiệu lực **01/12/2026**. Nghị định **399/2026/NĐ-CP** về lương tối thiểu có hiệu lực **01/01/2027**; chưa thấy thay đổi về hiệu lực. [Công báo: Luật 23/2026/QH16](https://congbao.chinhphu.vn/van-ban-dang-cong-bao/quoc-hoi-c31.htm) · [Cổng Chính phủ: Nghị định 399/2026/NĐ-CP](https://vanban.chinhphu.vn/?docid=220166&pageid=27160). Tra cứu ngày 26/11/2026.\n\nKhông cập nhật Wiki vì chưa phát hiện nội dung mới đáng lưu.",
       "error": "",
       "agent": "tro-ly-phap-ly-viet-nam",
-      "last_slot": 1795568400.0
+      "last_slot": 1795654800.0
     },
     {
       "id": "r_6849845632",
@@ -271,7 +271,7 @@
       "id": "r_81e3e079d6",
       "text": "chạy script doi-soat-testbot.py",
       "mode": "script",
-      "due_at": 1795642740.0,
+      "due_at": 1795664340.0,
       "chat_id": "",
       "repeat_min": 0,
       "cron": "* * * * *",
@@ -284,14 +284,14 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795522654.1671498,
-      "fired_at": 1795642691.0542412,
+      "fired_at": 1795664309.062191,
       "result": "",
       "error": "",
-      "last_slot": 1795642680.0,
+      "last_slot": 1795664280.0,
       "missed_last": 1,
       "missed_total": 1,
       "missed_at": 1795620305.1193843
     }
   ],
-  "updated": 1795642691.0548224
+  "updated": 1795664309.0628848
 }

@@ -385,3 +385,7 @@ Time-ordered log (append-only). Each entry: ## [YYYY-MM-DD] kind | title.
 - Rà index trước khi chọn model; lập lô 9 TS3100, 15 TS3300 và 6 TS5300 để tránh tính lại model đã có. Đọc trực tiếp Canon TS3100 “An Error Occurs”, TS3100 “Message (Support Code) Appears” và FAQ TS5300; ghi URL/mục/ngày truy cập vào trang nguồn.
 - Kết quả hoàn thành mới: 0/30 model. TS3300 đã được đào sâu trước đó, không tính trùng; TS3100/TS5300 còn thiếu đối chiếu phạm vi model, mã riêng, kẹt giấy và bảo trì nên chưa ghi thành hướng dẫn model. Tạo trang tiến độ để tiếp tục ở lượt sau. [[Lô Canon ngày 25-11-2026 - tiến độ đào sâu]] [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]] [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
 
+
+## [2026-11-26] cập nhật | Phạm vi hỗ trợ kỹ thuật của Luna
+
+Bổ sung hướng dẫn cài đặt, cấu hình và sửa chữa theo model, ưu tiên tài liệu hãng khi cần tra cứu. [[Phạm vi công việc của bot Luna trên Zalo]]

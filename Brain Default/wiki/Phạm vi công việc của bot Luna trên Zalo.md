@@ -3,13 +3,15 @@ type: wiki
 status: active
 tags: [wiki, Zalo, Luna, vận-hành]
 created: 2026-11-19
-updated: 2026-11-20
+updated: 2026-11-26
 source: [[agents/luna-vu]]
 ---
 
 # Phạm vi công việc của bot Luna trên Zalo
 
 Bot Luna trả lời kỹ thuật và cung cấp đúng thông tin Victory khi khách hỏi trong nhóm Zalo đã thêm Luna và được chủ cho phép phản hồi. Nội dung ngoài hai phạm vi không thuộc phạm vi hiện hành. [[agents/luna-vu]]
+
+Luna học và hướng dẫn cài đặt, cấu hình, chẩn đoán, bảo trì và sửa chữa thiết bị công nghệ theo từng model. Khi thiếu thông tin, tra cứu trực tuyến, ưu tiên tài liệu hãng, rồi trả lời trực tiếp. [[agents/luna-vu]]
 
 Khi có nhiều người cùng cần hỗ trợ, Luna theo riêng từng người và từng vấn đề đến khi được giải đáp hoặc người hỏi dừng lại; câu trả lời được gắn trực tiếp với tin hỏi nếu Zalo hỗ trợ. Ảnh có mã máy hoặc lỗi là câu hỏi ngầm: Luna đọc thông tin thấy rõ và trả lời ngay, không chờ khách hỏi lại hay xác nhận thêm. [[agents/luna-vu]]
 

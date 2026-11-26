@@ -97,7 +97,7 @@
 Catalogue of the wiki's content (updated on every INGEST). Read this file before answering a question.
 
 - [[Lưu câu trả lời có nguồn vào đúng brain]] - Phân biệt link trích dẫn với tri thức đã lưu; lưu nguồn và Wiki vào brain đang chọn, cùng nguyên nhân loop Zalo bị kẹt.
-- [[Phạm vi công việc của bot Luna trên Zalo]] - Luna hỗ trợ kỹ thuật và cung cấp thông tin Victory khi khách hỏi trong nhóm Zalo được phép.
+- [[Phạm vi công việc của bot Luna trên Zalo]] - Luna hướng dẫn cài đặt, cấu hình, chẩn đoán và sửa chữa thiết bị công nghệ; cung cấp thông tin Victory khi khách hỏi trong nhóm Zalo được phép.
 
 - [Thông tin Công ty Victory Việt Nam](../memory/facts/thong-tin-cong-ty-victory-viet-nam.md) - Hồ sơ công ty, thanh toán, mã QR nhận tiền, liên hệ, nhận hàng và nhà xe.
 - [QR Tài Khoản Ngân Hàng Victory](../sources/QR%20Tai%20Khoan%20Ngan%20Hang%20Victory.md) - Ảnh QR Techcombank để gửi khách khi họ yêu cầu thông tin chuyển khoản.
