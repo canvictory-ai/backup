@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, nguồn, canon, máy-in]
 created: 2026-11-25
-updated: 2026-11-25
+updated: 2026-11-26
 source: "https://ij.manual.canon/ij/webmanual/Manual/All/TS3100%20series/EN/NTR/ntr_t_07_01_c.html"
 ---
 
@@ -14,3 +14,10 @@ source: "https://ij.manual.canon/ij/webmanual/Manual/All/TS3100%20series/EN/NTR/
 - Hướng dẫn mức chung trong TS3100: [Message (Support Code) Appears](https://ij.manual.canon/ij/webmanual/Manual/All/TS3100%20series/EN/NTR/ntr_t_07_02.html). Truy cập 2026-11-25; mục lỗi kết nối USB nêu kiểm tra nguồn, dây, bỏ USB hub để thử kết nối trực tiếp và kiểm tra driver.
 - Chưa xác minh danh sách model/revision được bao phủ, bảng paper jam riêng và nội dung bảo trì trong lượt này. Chỉ áp dụng khi trang hãng xác nhận đúng hậu tố.
 
+
+## Đối chiếu bổ sung 2026-11-26
+
+- [Canon TS3100 series, An Error Occurs](https://ij.manual.canon/ij/webmanual/Manual/All/TS3100%20series/EN/NTR/ntr_t_07_01_c.html), bảng E02/E03/E04/E05/E08 và P02/P10. Truy cập 2026-11-26; HTML, không số trang.
+- [Canon TS3100 series, 5100](https://ij.manual.canon/ij/webmanual/ErrorCode/TS3100%20series/EN/ERR/5100.html): bỏ vật cản quanh holder, lắp FINE đúng, tránh chạm phim trong suốt; nếu còn thì service. Truy cập 2026-11-26.
+- [Canon TS3100 series, paper jam support codes](https://ij.manual.canon/ij/webmanual/ErrorCode/TS3100%20series/EN/ERR/err_contents0200.html) và [kẹt giấy bên trong](https://ij.manual.canon/ij/webmanual/ErrorCode/TS3100%20series/EN/ERR/err_other0100.html): phân nhánh theo vị trí, rút điện trước khi mở để gỡ giấy bên trong. Truy cập 2026-11-26.
+- Phạm vi biến thể/SKU khu vực và bảng bảo trì đầy đủ chưa xác minh; không gán khác biệt phần cứng hoặc procedure ngoài trang family.

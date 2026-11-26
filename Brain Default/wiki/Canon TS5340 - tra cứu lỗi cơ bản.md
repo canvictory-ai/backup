@@ -2,38 +2,30 @@
 type: wiki
 status: active
 tags: [wiki, máy-in, canon, xử-lý-sự-cố]
-created: 2026-11-24
-updated: 2026-11-24
+created: 2026-11-26
+updated: 2026-11-26
 source: "[[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]"
 aliases: [TS5340 lỗi, Canon TS5340 lỗi máy in]
 ---
 
-# Canon TS5340: tra cứu lỗi cơ bản
+# Canon TS5340: tra cứu lỗi theo model
 
-## Phạm vi model
+## Phạm vi
 
-Canon liệt kê chính xác TS5340 trong danh sách model thuộc tài liệu PIXMA TS5300 series. Đối chiếu tem máy trước khi dùng support code; các model cùng series có thể khác tính năng và giao diện. Canon ghi support code trên LCD máy và màn hình máy tính cho TS5300. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
+Canon liệt kê TS5340 trong phạm vi TS5300 series. Các mã và thao tác dưới đây được đối chiếu theo tài liệu family; phần khác biệt tính năng/kết nối theo từng hậu tố chưa được suy rộng. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
 
-## Triệu chứng và kiểm tra an toàn
+## Lỗi đã đối chiếu
 
-- **Không nhận lệnh in:** ghi nguyên văn thông báo/support code trên máy tính hoặc màn hình; kiểm tra nguồn, trạng thái sẵn sàng, máy in đang chọn, cáp/kết nối và hàng đợi. Thử một tác vụ khác để phân biệt ứng dụng với máy in. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
-- **Không nạp giấy hoặc kẹt giấy:** xác nhận giấy phẳng, khô, đúng khổ/loại; căn thanh dẫn và không nạp quá vạch. Chỉ mở nắp người dùng được hướng dẫn, lấy giấy chậm theo hướng dẫn Canon; không dùng vật nhọn. Nếu giấy rách hoặc mắc sâu, dừng. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
-- **Bản in trắng, nhạt, sọc hoặc sai màu:** kiểm tra cảnh báo mực và lắp cartridge đúng theo hướng dẫn; dùng chức năng kiểm tra vòi phun/vệ sinh từ menu Canon nếu trang hướng dẫn model chỉ định. Không lặp chu kỳ vệ sinh ngoài hướng dẫn. Nếu không cải thiện, lưu mẫu kiểm tra để kỹ thuật viên xem. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
-- **Không kết nối USB/Wi-Fi/LAN:** kiểm tra đúng giao diện có trên biến thể cụ thể, cáp/router/trạng thái mạng và máy tính đang chọn đúng thiết bị. Không khôi phục cài đặt gốc trước khi lưu cấu hình. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
-- **Support code hoặc lỗi phần cứng:** tra nguyên mã tại danh sách Canon của TS5300; làm theo thao tác người dùng được hãng ghi cho mã đó. Nếu hãng yêu cầu sửa chữa hoặc mã quay lại sau bước chỉ định, dừng và chuyển kỹ thuật viên. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
+- **1000, hết giấy hoặc nạp giấy sai:** nạp giấy vào khay sau, căn hai thanh dẫn và xác nhận thông tin giấy trên máy; nhấn OK sau khi khắc phục. Nếu vẫn báo, chụp nguyên mã và cỡ giấy đang chọn. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
+- **1300/1303/1304/1313, kẹt giấy:** bắt đầu ở cửa ra giấy, sau đó kiểm tra cassette/feed slot và bên trong theo đúng mã/vị trí. Kéo giấy chậm, không dùng vật nhọn; nếu không thấy giấy, rách/mắc sâu hoặc cần tháo cụm thì dừng và chuyển kỹ thuật. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
+- **1682, FINE cartridge không được nhận:** thay cartridge theo chỉ dẫn Canon; nếu cartridge mới phù hợp vẫn không được nhận thì có thể cartridge lỗi, chuyển trung tâm dịch vụ. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
+- **1702/1712/1713/1714/1715, ink absorber gần đầy/đầy:** ghi đúng mã. Hãng không hướng dẫn reset tại người dùng trong trang tham chiếu; cần kiểm tra dịch vụ, không dùng công cụ reset không rõ nguồn. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
+- **2500, căn chỉnh đầu in tự động thất bại:** kiểm tra nozzle pattern, dùng giấy thường A4/Letter trong cassette và tránh ánh sáng mạnh chiếu vào khe ra; chạy căn chỉnh lại. Nếu vẫn lỗi, hủy và căn chỉnh thủ công theo màn hình/manual; nếu tiếp tục thất bại, chuyển kỹ thuật. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
 
-## Hướng xử lý tiếp theo
+## Quy tắc an toàn và chuyển kỹ thuật
 
-Sau mỗi bước, in thử để xem triệu chứng có đổi không. Nếu nguyên nhân là giấy, cài đặt hoặc kết nối, sửa đúng điểm đó rồi thử lại. Nếu mã Canon yêu cầu service, kiểm tra cơ bản không đổi lỗi, hoặc vấn đề đòi tháo máy, không thay linh kiện theo phỏng đoán và chuyển kỹ thuật viên. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
-
-## Dấu hiệu cần kỹ thuật trực tiếp
-
-Có khói, mùi khét, tia lửa, tiếng cơ khí bất thường; giấy rách mắc bên trong; rò mực cần tháo cụm; lỗi đầu in/phần cứng lặp lại; hoặc Canon yêu cầu sửa chữa. Tắt máy và rút nguồn nếu an toàn, ghi model, support code, đèn/màn hình và thời điểm phát sinh; không tháo vỏ máy. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
+Ghi nguyên mã support code và thông báo hiển thị trước khi thao tác. Không suy mã service từ số nháy đèn. Chỉ mở các nắp người dùng được manual chỉ định; không tháo vỏ, chạm phim trong suốt hoặc cố kéo giấy mắc sâu. Nếu lỗi phần cứng quay lại sau một lần khởi động theo chỉ dẫn, có tiếng/mùi bất thường, giấy rách kẹt bên trong hoặc hãng yêu cầu service, dừng và chuyển kỹ thuật. [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]
 
 ## Nguồn hãng
 
-- [Canon PIXMA TS5300 series - hướng dẫn sự cố](https://ij.manual.canon/ij/webmanual/Manual/All/TS5300%20series/EN/NTR/faq_001.html)
-- [Canon PIXMA TS5300 series - danh sách support code](https://ij.manual.canon/ij/webmanual/ErrorCode/TS5300%20series/EN/ERR/err_contents0100.html)
-- Phạm vi model được Canon liệt kê trong tiêu đề trang mã lỗi ở [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]]. Ngày truy cập: 2026-11-24. Mục tra cứu: FAQ, Errors and Messages, List of Support Code for Error. Trang HTML, không có số trang.
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]].
+[[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]] ghi URL, mục manual, phạm vi và ngày truy cập 2026-11-26. HTML không số trang.

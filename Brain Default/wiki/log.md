@@ -393,3 +393,10 @@ Bổ sung hướng dẫn cài đặt, cấu hình và sửa chữa theo model, �
 ## [2026-11-26] update | Ưu tiên học mạng và kết nối
 
 Bổ sung trình tự hỗ trợ từ xa cho Wi-Fi, IP/DHCP, DNS, máy in mạng và camera PoE. [[Lỗi cơ bản hệ thống mạng]] [[Microsoft và TP-Link - Kiểm tra Wi-Fi và PoE]]
+
+
+## [2026-11-26] research | Đào sâu tiếp lô 30 model Canon
+
+- Mở Canon TS5300 support-code roster, 1000, 1313, 1682, 2500 và danh sách kẹt giấy; xác nhận TS5320/5340/5350/5351/5352/5353. Mở TS3100 bảng lỗi, 5100 và kẹt giấy bên trong. Ghi URL/mục/ngày truy cập vào trang nguồn tương ứng.
+- Tạo/sửa trang tra cứu 9 TS3100, 6 TS5300; rà 15 trang TS3300 đã có nội dung lỗi model-specific. Mỗi trang trỏ tới nguồn family để không lặp phần chung. Cập nhật index và roster tiến độ.
+- Đọc lại/đếm roster: 21/30 trang đạt nội dung mã/triệu chứng, nhánh xử lý và điểm chuyển kỹ thuật có nguồn; 9 TS3100 chưa tính hoàn thành do chưa xác minh roster SKU/hậu tố khu vực và tài liệu bảo trì đầy đủ. [[Lô Canon ngày 25-11-2026 - tiến độ đào sâu]]

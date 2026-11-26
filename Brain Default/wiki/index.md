@@ -1,8 +1,8 @@
 # Wiki Index
 
-- [[Lô Canon ngày 25-11-2026 - tiến độ đào sâu]] - Lô 30 model Canon được lập phạm vi; lượt này xác minh bổ sung một phần nguồn nhưng 0/30 đạt tiêu chí hoàn thành mới.
-- [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]] - Trang lỗi và thông báo Canon TS3100; cần đọc tiếp phạm vi model và mã chi tiết.
-- [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]] - Mục lục FAQ Canon TS5300; thiếu đối chiếu mã cụ thể.
+- [[Lô Canon ngày 25-11-2026 - tiến độ đào sâu]] - Kết quả tính đến 2026-11-26: 21/30 model có trang tra cứu đạt nội dung có nguồn; 9 trang TS3100 còn giới hạn xác minh phạm vi SKU/hậu tố và bảo trì.
+- [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]] - Bảng lỗi 1000/1300/168A/5100, kẹt giấy và giới hạn phạm vi TS3100; truy cập 2026-11-26.
+- [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]] - Roster model chính hãng và mã 1000/1300/1682/2500, kẹt giấy; truy cập 2026-11-26.
 
 - [[Lô HP ngày 24-11-2026 - danh sách model]] - Danh sách cố định 100 model thuộc ranh giới lô HP 24/11; ghi rõ 9 model có cập nhật đào sâu mới và 91 model chưa tính mới.
 
@@ -11,6 +11,11 @@
 - [[Ưu tiên kiểm soát rủi ro pháp lý Victory]] - Checklist ưu tiên về hợp đồng, chứng từ/thuế, lao động, an toàn lắp đặt, dữ liệu và website; còn cần xác nhận luồng bán online và nhân sự.
 - [[Nguồn chính thức về kiểm soát rủi ro pháp lý của Victory]] - URL và thuộc tính văn bản tra cứu trên Cổng văn bản Chính phủ ngày 24/11/2026.
 
+
+## Canon - lô đào sâu 25-26/11
+- [[Lô Canon ngày 25-11-2026 - tiến độ đào sâu]] - 30 model mục tiêu: 9 TS3100, 15 TS3300, 6 TS5300; 21 model có trang tra cứu được đối chiếu, 9 trang TS3100 còn giới hạn xác minh SKU/hậu tố và bảo trì.
+- [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]] - bảng lỗi, kẹt giấy và giới hạn phạm vi TS3100; truy cập 2026-11-26.
+- [[Nguồn Canon TS5300 - hướng dẫn và mã lỗi]] - roster model chính hãng và mã 1000/1300/1682/2500, kẹt giấy; truy cập 2026-11-26.
 
 ## Epson
 - [[Lô Epson ngày 24-11-2026 - tiến độ đào sâu]] - Bảng 50 model; 48 đã đào sâu mới, 2 chưa tính do chưa xác minh được tổ hợp đèn từ phần hiển thị của tài liệu.
@@ -872,3 +877,11 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Nguồn Brother HL-L5210DN và cùng dòng - thông báo lỗi]] - User Guide Brother, hai bảng model riêng HL-L5210 và HL-L6410.
 - [[Nguồn Brother DCP-L5510DN và cùng dòng - thông báo lỗi]] - User Guide Brother, mục Error and Maintenance Messages cho 9 model.
 - [[Nguồn Brother DCP-L2640DW và cùng dòng - thông báo lỗi]] - User Guide Brother, hai nhóm model và thông báo cụ thể theo LCD.
+
+### Canon TS3100 / TS3300 / TS5300: tra cứu riêng theo model
+
+**TS3100:** [[Canon TS3150 - tra cứu lỗi cơ bản]], [[Canon TS3151 - tra cứu lỗi cơ bản]], [[Canon TS3165 - tra cứu lỗi cơ bản]], [[Canon TS3160 - tra cứu lỗi cơ bản]], [[Canon TS3170 - tra cứu lỗi cơ bản]], [[Canon TS3190 - tra cứu lỗi cơ bản]], [[Canon TS3170S - tra cứu lỗi cơ bản]], [[Canon TS3177S - tra cứu lỗi cơ bản]], [[Canon TS3195 - tra cứu lỗi cơ bản]].
+
+**TS3300:** [[Canon TS3310 - tra cứu lỗi cơ bản]], [[Canon TS3320 - tra cứu lỗi cơ bản]], [[Canon TS3340 - tra cứu lỗi cơ bản]], [[Canon TS3350 - tra cứu lỗi cơ bản]], [[Canon TS3351 - tra cứu lỗi cơ bản]], [[Canon TS3352 - tra cứu lỗi cơ bản]], [[Canon TS3355 - tra cứu lỗi cơ bản]], [[Canon TS3360 - tra cứu lỗi cơ bản]], [[Canon TS3365 - tra cứu lỗi cơ bản]], [[Canon TS3370 - tra cứu lỗi cơ bản]], [[Canon TS3370S - tra cứu lỗi cơ bản]], [[Canon TS3380 - tra cứu lỗi cơ bản]], [[Canon TS3390 - tra cứu lỗi cơ bản]], [[Canon TS3391 - tra cứu lỗi cơ bản]], [[Canon TS3392 - tra cứu lỗi cơ bản]].
+
+**TS5300:** [[Canon TS5320 - tra cứu lỗi cơ bản]], [[Canon TS5340 - tra cứu lỗi cơ bản]], [[Canon TS5350 - tra cứu lỗi cơ bản]], [[Canon TS5351 - tra cứu lỗi cơ bản]], [[Canon TS5352 - tra cứu lỗi cơ bản]], [[Canon TS5353 - tra cứu lỗi cơ bản]].

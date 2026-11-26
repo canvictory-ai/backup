@@ -1,39 +1,31 @@
 ---
 type: wiki
-status: active
+status: draft
 tags: [wiki, máy-in, canon, xử-lý-sự-cố]
-created: 2026-11-24
-updated: 2026-11-24
+created: 2026-11-26
+updated: 2026-11-26
 source: "[[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]"
 aliases: [TS3151 lỗi, Canon TS3151 lỗi máy in]
 ---
 
-# Canon TS3151: tra cứu lỗi cơ bản
+# Canon TS3151: tra cứu lỗi theo model
 
-## Phạm vi model
+## Phạm vi
 
-Canon liệt kê chính xác TS3151 trong danh sách model thuộc tài liệu PIXMA TS3100 series. Đối chiếu tem máy trước khi dùng support code; các model cùng series có thể khác tính năng và giao diện. Canon ghi support code trên màn hình máy tính cho TS3100. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
+Canon có tài liệu TS3100 series; danh sách SKU/hậu tố đầy đủ của khu vực bán chưa xác minh trong lượt này. Trang này ghi nhận model theo lô, chỉ dùng quy trình dưới đây khi màn hình/nhãn máy xác nhận thiết bị thuộc TS3100 series; chưa suy rộng khác biệt linh kiện giữa hậu tố. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
 
-## Triệu chứng và kiểm tra an toàn
+## Lỗi đã đối chiếu
 
-- **Không nhận lệnh in:** ghi nguyên văn thông báo/support code trên máy tính hoặc màn hình; kiểm tra nguồn, trạng thái sẵn sàng, máy in đang chọn, cáp/kết nối và hàng đợi. Thử một tác vụ khác để phân biệt ứng dụng với máy in. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
-- **Không nạp giấy hoặc kẹt giấy:** xác nhận giấy phẳng, khô, đúng khổ/loại; căn thanh dẫn và không nạp quá vạch. Chỉ mở nắp người dùng được hướng dẫn, lấy giấy chậm theo hướng dẫn Canon; không dùng vật nhọn. Nếu giấy rách hoặc mắc sâu, dừng. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
-- **Bản in trắng, nhạt, sọc hoặc sai màu:** kiểm tra cảnh báo mực và lắp cartridge đúng theo hướng dẫn; dùng chức năng kiểm tra vòi phun/vệ sinh từ menu Canon nếu trang hướng dẫn model chỉ định. Không lặp chu kỳ vệ sinh ngoài hướng dẫn. Nếu không cải thiện, lưu mẫu kiểm tra để kỹ thuật viên xem. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
-- **Không kết nối USB/Wi-Fi/LAN:** kiểm tra đúng giao diện có trên biến thể cụ thể, cáp/router/trạng thái mạng và máy tính đang chọn đúng thiết bị. Không khôi phục cài đặt gốc trước khi lưu cấu hình. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
-- **Support code hoặc lỗi phần cứng:** tra nguyên mã tại danh sách Canon của TS3100; làm theo thao tác người dùng được hãng ghi cho mã đó. Nếu hãng yêu cầu sửa chữa hoặc mã quay lại sau bước chỉ định, dừng và chuyển kỹ thuật viên. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
+- **1000, hết giấy/đặt giấy sai:** nạp giấy phẳng vào khay sau, căn thanh dẫn và xác nhận khổ giấy. Nếu mã còn sau nạp đúng, ghi lại mã và dừng thao tác lặp. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
+- **1300, kẹt giấy:** kiểm tra giấy nhìn thấy ở khay sau/cửa ra; lấy chậm theo hướng dẫn. Nếu giấy không thấy, rách hoặc mắc bên trong, tắt/rút điện và dùng quy trình mở máy đúng tài liệu; không chạm phim trong suốt. Nếu vẫn kẹt, chuyển kỹ thuật. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
+- **168A / 1401, 1403, 1430, 1485, cartridge chưa lắp/không nhận:** kiểm tra đúng loại cartridge tương thích và lắp khớp. Nếu máy vẫn không nhận sau khi lắp đúng, dừng thay thử nhiều cartridge và chuyển kỹ thuật/kiểm tra cartridge. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
+- **1700 / 1712 / 1714, bộ hấp thụ mực gần đầy:** ghi mã; Canon xếp cảnh báo mức bảo trì, không hướng dẫn người dùng reset counter. Liên hệ kỹ thuật để đánh giá/thay thế. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
+- **5100 hoặc B202-B205:** với 5100 hủy in, tắt máy, kiểm tra vật cản dễ tiếp cận quanh cụm FINE và lắp cartridge đúng; không chạm phim trong suốt. Nếu lỗi còn hoặc hiện B202-B205, rút nguồn và chuyển trung tâm dịch vụ. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
 
-## Hướng xử lý tiếp theo
+## Quy tắc an toàn và chuyển kỹ thuật
 
-Sau mỗi bước, in thử để xem triệu chứng có đổi không. Nếu nguyên nhân là giấy, cài đặt hoặc kết nối, sửa đúng điểm đó rồi thử lại. Nếu mã Canon yêu cầu service, kiểm tra cơ bản không đổi lỗi, hoặc vấn đề đòi tháo máy, không thay linh kiện theo phỏng đoán và chuyển kỹ thuật viên. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
-
-## Dấu hiệu cần kỹ thuật trực tiếp
-
-Có khói, mùi khét, tia lửa, tiếng cơ khí bất thường; giấy rách mắc bên trong; rò mực cần tháo cụm; lỗi đầu in/phần cứng lặp lại; hoặc Canon yêu cầu sửa chữa. Tắt máy và rút nguồn nếu an toàn, ghi model, support code, đèn/màn hình và thời điểm phát sinh; không tháo vỏ máy. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
+Ghi nguyên mã support code và thông báo hiển thị trước khi thao tác. Không suy mã service từ số nháy đèn. Chỉ mở các nắp người dùng được manual chỉ định; không tháo vỏ, chạm phim trong suốt hoặc cố kéo giấy mắc sâu. Nếu lỗi phần cứng quay lại sau một lần khởi động theo chỉ dẫn, có tiếng/mùi bất thường, giấy rách kẹt bên trong hoặc hãng yêu cầu service, dừng và chuyển kỹ thuật. [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]
 
 ## Nguồn hãng
 
-- [Canon PIXMA TS3100 series - hướng dẫn sự cố](https://ij.manual.canon/ij/webmanual/Manual/All/TS3100%20series/EN/NTR/faq_001.html)
-- [Canon PIXMA TS3100 series - danh sách support code](https://ij.manual.canon/ij/webmanual/ErrorCode/TS3100%20series/EN/ERR/err_contents0100.html)
-- Phạm vi model được Canon liệt kê trong tiêu đề trang mã lỗi ở [[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]]. Ngày truy cập: 2026-11-24. Mục tra cứu: FAQ, Errors and Messages, List of Support Code for Error. Trang HTML, không có số trang.
-
-Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]].
+[[Nguồn Canon TS3100 - hướng dẫn và mã lỗi]] ghi URL, mục manual, phạm vi và ngày truy cập 2026-11-26. HTML không số trang.

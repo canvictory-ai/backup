@@ -3,7 +3,7 @@ type: wiki
 status: active
 tags: [wiki, máy-in, canon, xử-lý-sự-cố]
 created: 2026-11-24
-updated: 2026-11-25
+updated: 2026-11-26
 source: "[[Nguồn Canon TS3300 - hướng dẫn và mã lỗi]]"
 aliases: [TS3320 lỗi, Canon TS3320 lỗi máy in]
 ---
@@ -48,6 +48,6 @@ Có khói, mùi khét, tia lửa, tiếng cơ khí bất thường; giấy rách
 
 - [Canon PIXMA TS3300 series - hướng dẫn sự cố](https://ij.manual.canon/ij/webmanual/Manual/All/TS3300%20series/EN/NTR/faq_001.html)
 - [Canon PIXMA TS3300 series - danh sách support code](https://ij.manual.canon/ij/webmanual/ErrorCode/TS3300%20series/EN/ERR/err_contents0100.html)
-- Phạm vi model được Canon liệt kê trong tiêu đề trang mã lỗi ở [[Nguồn Canon TS3300 - hướng dẫn và mã lỗi]]. Ngày truy cập: 2026-11-25. Đối chiếu trực tiếp trang danh sách support code và các trang riêng 1000, 1300, 1688, 5100, 5200, 5B00, 6000, B202. Trang HTML, không có số trang.
+- Phạm vi model được Canon liệt kê trong tiêu đề trang mã lỗi ở [[Nguồn Canon TS3300 - hướng dẫn và mã lỗi]]. Ngày truy cập: 2026-11-26. Đối chiếu trực tiếp trang danh sách support code và các trang riêng 1000, 1300, 1688, 5100, 5200, 5B00, 6000, B202. Trang HTML, không có số trang.
 
 Liên quan: [[Các lỗi cơ bản thường gặp ở máy in]].

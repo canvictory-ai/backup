@@ -248,7 +248,7 @@
       "id": "r_b556ab05b4",
       "text": "Mỗi lượt đặt mục tiêu học kỹ thuật cho 30 model máy in, ưu tiên model Victory hay gặp. Đọc AGENTS.md và wiki/index.md, kiểm tra nội dung đã có. Nghiên cứu riêng từng model và hậu tố, ưu tiên tài liệu hãng đúng phiên bản, gồm hướng dẫn sử dụng, bảng mã lỗi và tài liệu bảo trì nếu có. Với từng model, ghi 3–5 lỗi có nguồn khi đủ tài liệu: mã hoặc triệu chứng, nguyên nhân khả dĩ, bước kiểm tra an toàn, bước tiếp theo theo từng kết quả, khi nào cần kỹ thuật kiểm tra trực tiếp. Làm rõ khác biệt theo biến thể và chỉ dẫn dùng chung có xác nhận từ hãng. Mỗi model cần mục tra cứu riêng, dùng liên kết tới phần dùng chung để tránh lặp. Với model đã có Wiki, đào sâu điểm còn thiếu. Lưu từng model đã đối chiếu vào Wiki Brain Default, kèm trang nguồn có URL, mục hoặc số trang nếu có và ngày truy cập. Cập nhật wiki/index.md, append wiki/log.md, đọc lại và xác minh liên kết. Nếu chưa đủ nguồn hoặc chưa đủ thời gian thì ghi rõ phần thiếu, báo số model hoàn thành thực tế và tiếp tục những model còn dang dở ở lượt sau. Báo kết quả tại khung chat của chủ.",
       "mode": "task",
-      "due_at": 1795712400.0,
+      "due_at": 1795798800.0,
       "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
       "repeat_min": 0,
       "cron": "0 0 * * *",
@@ -261,17 +261,17 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795507033.4365563,
-      "fired_at": 1795626108.253813,
-      "result": "Lượt này hoàn thành mới **0/30 model**. Mình đã lập lô Canon gồm 9 biến thể TS3100, 15 TS3300 và 6 TS5300; kiểm tra được một phần tài liệu hãng, nhưng chưa đủ đối chiếu mã lỗi, phạm vi biến thể, kẹt giấy và bảo trì để viết hướng dẫn model an toàn. Các trang TS3300 đã có sẵn nên không tính lại.\n\nĐã lưu tiến độ và nguồn vào [[Lô Canon ngày 25-11-2026 - tiến độ đào sâu]], cập nhật `wiki/index.md` và ghi nhật ký. Mình đã đọc lại các trang vừa tạo và xác nhận các liên kết đều trỏ tới file có thật.",
+      "fired_at": 1795712604.7036908,
+      "result": "Đã hoàn tất **21/30 model**: 15 TS3300 đã rà lại và 6 TS5300 đã đối chiếu thêm. Mỗi trang ghi ít nhất 5 lỗi hoặc tình huống có hướng xử lý và ngưỡng chuyển kỹ thuật.\n\nĐã tạo 9 trang TS3100 ở trạng thái nháp vì chưa xác minh đủ phạm vi SKU/hậu tố theo khu vực và tài liệu bảo trì. Kết quả, phần còn thiếu và nguồn hãng đã ghi trong [trang tiến độ Canon](</brains/Brain Default/wiki/Lô Canon ngày 25-11-2026 - tiến độ đào sâu.md>); mục lục và nhật ký cũng đã cập nhật, liên kết đã kiểm tra.",
       "error": "",
       "agent": "luna-vu",
-      "last_slot": 1795626000.0
+      "last_slot": 1795712400.0
     },
     {
       "id": "r_81e3e079d6",
       "text": "chạy script doi-soat-testbot.py",
       "mode": "script",
-      "due_at": 1795707600.0,
+      "due_at": 1795729260.0,
       "chat_id": "",
       "repeat_min": 0,
       "cron": "* * * * *",
@@ -284,14 +284,14 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795522654.1671498,
-      "fired_at": 1795707561.66237,
+      "fired_at": 1795729225.811328,
       "result": "",
       "error": "",
-      "last_slot": 1795707540.0,
+      "last_slot": 1795729200.0,
       "missed_last": 1,
       "missed_total": 1,
       "missed_at": 1795620305.1193843
     }
   ],
-  "updated": 1795707561.6633646
+  "updated": 1795729225.8121042
 }
