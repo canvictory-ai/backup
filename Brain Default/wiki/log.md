@@ -369,6 +369,7 @@ Time-ordered log (append-only). Each entry: ## [YYYY-MM-DD] kind | title.
 
 - Mở rộng phạm vi phản hồi trong nhóm được phép sang thông tin công ty đã lưu theo yêu cầu của chủ. [[Phạm vi công việc của bot Luna trên Zalo]]
 
+
 ## [2026-11-25] update | Lập hai báo giá Nam Đông từ bảng Excel
 
 - Tạo riêng VIC-119-2026 cho bảng màn LED và VIC-120-2026 cho bảng Wi-Fi; để trống ngày báo giá và ngày hiệu lực theo yêu cầu. Giữ mô tả, số lượng, đơn giá và thành tiền từng dòng theo bảng nguồn. [[Sổ Theo Dõi Số Văn Bản Victory]]
@@ -400,3 +401,13 @@ Bổ sung trình tự hỗ trợ từ xa cho Wi-Fi, IP/DHCP, DNS, máy in mạng
 - Mở Canon TS5300 support-code roster, 1000, 1313, 1682, 2500 và danh sách kẹt giấy; xác nhận TS5320/5340/5350/5351/5352/5353. Mở TS3100 bảng lỗi, 5100 và kẹt giấy bên trong. Ghi URL/mục/ngày truy cập vào trang nguồn tương ứng.
 - Tạo/sửa trang tra cứu 9 TS3100, 6 TS5300; rà 15 trang TS3300 đã có nội dung lỗi model-specific. Mỗi trang trỏ tới nguồn family để không lặp phần chung. Cập nhật index và roster tiến độ.
 - Đọc lại/đếm roster: 21/30 trang đạt nội dung mã/triệu chứng, nhánh xử lý và điểm chuyển kỹ thuật có nguồn; 9 TS3100 chưa tính hoàn thành do chưa xác minh roster SKU/hậu tố khu vực và tài liệu bảo trì đầy đủ. [[Lô Canon ngày 25-11-2026 - tiến độ đào sâu]]
+
+## [2026-11-27] update | Lập báo giá hộp mực cho Đường Mía
+
+- Tạo VIC-121-2026 theo tên hàng trong danh mục, dùng đơn giá do người dùng cung cấp; kiểm tra số lượng, VAT 8%, tổng thanh toán và ngày báo giá/hiệu lực. [[Sổ Theo Dõi Số Văn Bản Victory]]
+
+## [2026-11-27] create | Biên bản bàn giao Maxport - mực Starink 206
+
+- Tạo biên bản Word `BBBGNT/2026-04/VIC-MAX` theo mẫu đã duyệt cho Công ty TNHH Maxport Limited (Viet Nam), MST 0107721413.
+- Gồm 4 hộp mực Starink 206 (W211A), các màu Y/C/M/BK, mỗi loại 1 hộp. Địa điểm giao hàng lấy theo ảnh người dùng cung cấp; địa chỉ pháp nhân lấy theo danh sách khách hàng Victory.
+- Ngày lập và thông tin người đại diện bên mua để `...` do chưa được cung cấp. Số tiếp theo cập nhật thành `BBBGNT/2026-05/VIC-ABC`. [[Sổ Theo Dõi Số Văn Bản Victory]] [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]]
