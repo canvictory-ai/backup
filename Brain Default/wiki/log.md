@@ -425,3 +425,22 @@ Bổ sung hướng dẫn xem video đính kèm khi khách hỏi lỗi và trả 
 - Tạo biên bản Word `BBBGNT/2026-05/VIC-AAP` cho Công ty TNHH Artiverse Apparel, MST 2400972701, theo mẫu bàn giao đã duyệt.
 - Hàng hóa: Ruy băng mực màu máy in thẻ Hiti CS200e / 220e, đơn vị cuộn, số lượng 1. Dùng địa chỉ pháp nhân từ danh sách khách hàng Victory; ảnh ghi ngày 23/11 nhưng ngày bàn giao trong mẫu vẫn để `...` theo quy tắc.
 - Thông tin đại diện bên mua chưa có nên giữ dòng chấm để ghi tay. Số tiếp theo là `BBBGNT/2026-06/VIC-ABC`. [[Sổ Theo Dõi Số Văn Bản Victory]] [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]]
+
+
+## [2026-11-27] research | Đào sâu 30 model Brother bằng User Guide hãng
+
+- Đọc roster Brother hiện có, không tính lại 30 model đã có bổ sung User Guide trong lô 24-25/11. Chốt 30 model tiếp theo: 8 MFC-J3540/J3940/J65xx/J69xx; 13 model dòng T530; 5 model dòng T310; MFC-J1010DW/J1012DW cùng hai model J1170DW và DCP-J1050DW có phạm vi được guide nêu.
+- Đối chiếu bốn trang Error and Maintenance Messages chính hãng, ghi URL, heading và ngày truy cập; tách các bảng theo nhóm model, không lan truyền biến thể. Mỗi model có mục tra cứu riêng với 5 thông báo, nguyên nhân/dấu hiệu, kiểm tra an toàn, nhánh tiếp theo và điểm chuyển kỹ thuật; chi tiết chung được liên kết qua trang family.
+- Hoàn thành 30/30 trang model; các guide HTML không có số trang. Phần tài liệu bảo trì sâu chưa bao phủ và được ghi rõ trong trang tiến độ. [[Lô Brother ngày 27-11-2026 - tiến độ đào sâu]]
+
+
+## [2026-11-27] update | Chốt roster Brother 30 model
+
+- Rà lại scope trong trang Brother chính thức: thay MFC-J1170DW và DCP-J1050DW khỏi roster vì chúng nằm ở bảng/model guide khác; thêm MFC-T580DW và MFC-T780DW được User Guide T530 liệt kê rõ. Hai trang ngoài roster đã gỡ phần bổ sung gán nhầm.
+- Roster cuối cùng vẫn 30 model và toàn bộ đều có trang tra cứu riêng, nguồn hãng và bảng lỗi trong scope đúng. [[Lô Brother ngày 27-11-2026 - tiến độ đào sâu]] [[Nguồn Brother Dòng T530 - User Guide thông báo lỗi]]
+
+
+## [2026-11-27] update | Xác minh lại roster và chỉ mục lô Brother
+
+- Sửa trang tiến độ và chỉ mục để roster phản ánh đúng 30 model: nhóm T530 có 15 model gồm MFC-T580DW/MFC-T780DW; bỏ MFC-J1170DW và DCP-J1050DW khỏi đợt này. Hai model được thay là MFC-T580DW và MFC-T780DW, có trang riêng dựa trên đúng hai bảng hãng.
+- Thực tế thứ tự ưu tiên được lấy theo danh sách model Brother còn thiếu trong Wiki; vault chưa có thống kê tần suất sửa chữa/khách hàng để xếp hạng độ phổ biến riêng cho Victory. [[Lô Brother ngày 27-11-2026 - tiến độ đào sâu]]

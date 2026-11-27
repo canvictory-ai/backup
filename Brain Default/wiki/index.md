@@ -220,6 +220,19 @@ Catalogue of the wiki's content (updated on every INGEST). Read this file before
 - [[Brother DCP-L2640DW và cùng dòng - lỗi cơ bản và xử lý]] - Bổ sung 25/11: Cannot Scan ##, Cooling Down, jam theo vị trí và Self-Diagnostic; tài liệu chia hai nhánh phạm vi.
 - [[Nguồn Brother DCP-L2640DW và cùng dòng - thông báo lỗi]] - Tài liệu hãng cho nhóm model trên.
 
+
+## Brother: đào sâu User Guide 27/11
+
+- [[Lô Brother ngày 27-11-2026 - tiến độ đào sâu]] - 30 model Brother đã được đối chiếu thêm với User Guide hãng ngày 27/11; trang tiến độ nêu phạm vi, khác biệt biến thể và phần tài liệu bảo trì còn thiếu.
+- [[Nguồn Brother MFC-J3540DW và cùng dòng - User Guide thông báo lỗi]] - Guide chính hãng cho 8 MFC-J; có ghi chú riêng J3940/J6940.
+- [[Brother MFC-J3540DW và cùng dòng - lỗi cơ bản và xử lý]] - Hướng dẫn dùng chung 5 nhóm lỗi, điểm dừng an toàn cho 8 MFC-J.
+- [[Nguồn Brother Dòng T530 - User Guide thông báo lỗi]] - Guide chính hãng và roster 15 model DCP/MFC-T530/580/730/780/830/930/980.
+- [[Brother Dòng T530 - lỗi cơ bản theo User Guide]] - 5 nhóm lỗi và khác biệt hai bảng model của T530 family.
+- [[Nguồn Brother Dòng T310 - User Guide thông báo lỗi]] - Guide chính hãng cho DCP-T310/T510W/T710W và MFC-T810W/T910DW.
+- [[Brother Dòng T310 - lỗi cơ bản theo User Guide]] - 5 nhóm thông báo lỗi, phân biệt bảng MFC-T910DW.
+- [[Nguồn Brother MFC-J1010DW và J1012DW - User Guide thông báo lỗi]] - Guide chính hãng với bảng riêng J1010DW/J1012DW.
+- [[Brother MFC-J1010DW và MFC-J1012DW - lỗi cơ bản và xử lý]] - 5 nhóm lỗi, bao gồm lỗi cơ khí, giấy, hộp mực, absorber và cảm ứng.
+
 ## Brother: tra cứu theo từng model
 
 - [[Nguồn Brother nhóm HL-L2405W - Đặt lại bộ đếm trống]] - Tài liệu hãng bổ sung theo model.

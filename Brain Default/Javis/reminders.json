@@ -248,7 +248,7 @@
       "id": "r_b556ab05b4",
       "text": "Mỗi lượt đặt mục tiêu học kỹ thuật cho 30 model máy in, ưu tiên model Victory hay gặp. Đọc AGENTS.md và wiki/index.md, kiểm tra nội dung đã có. Nghiên cứu riêng từng model và hậu tố, ưu tiên tài liệu hãng đúng phiên bản, gồm hướng dẫn sử dụng, bảng mã lỗi và tài liệu bảo trì nếu có. Với từng model, ghi 3–5 lỗi có nguồn khi đủ tài liệu: mã hoặc triệu chứng, nguyên nhân khả dĩ, bước kiểm tra an toàn, bước tiếp theo theo từng kết quả, khi nào cần kỹ thuật kiểm tra trực tiếp. Làm rõ khác biệt theo biến thể và chỉ dẫn dùng chung có xác nhận từ hãng. Mỗi model cần mục tra cứu riêng, dùng liên kết tới phần dùng chung để tránh lặp. Với model đã có Wiki, đào sâu điểm còn thiếu. Lưu từng model đã đối chiếu vào Wiki Brain Default, kèm trang nguồn có URL, mục hoặc số trang nếu có và ngày truy cập. Cập nhật wiki/index.md, append wiki/log.md, đọc lại và xác minh liên kết. Nếu chưa đủ nguồn hoặc chưa đủ thời gian thì ghi rõ phần thiếu, báo số model hoàn thành thực tế và tiếp tục những model còn dang dở ở lượt sau. Báo kết quả tại khung chat của chủ.",
       "mode": "task",
-      "due_at": 1795798800.0,
+      "due_at": 1795885200.0,
       "chat_id": "web:cab401edd33448ddb7ebdfb6d29d11d3",
       "repeat_min": 0,
       "cron": "0 0 * * *",
@@ -261,17 +261,17 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795507033.4365563,
-      "fired_at": 1795712604.7036908,
-      "result": "Đã hoàn tất **21/30 model**: 15 TS3300 đã rà lại và 6 TS5300 đã đối chiếu thêm. Mỗi trang ghi ít nhất 5 lỗi hoặc tình huống có hướng xử lý và ngưỡng chuyển kỹ thuật.\n\nĐã tạo 9 trang TS3100 ở trạng thái nháp vì chưa xác minh đủ phạm vi SKU/hậu tố theo khu vực và tài liệu bảo trì. Kết quả, phần còn thiếu và nguồn hãng đã ghi trong [trang tiến độ Canon](</brains/Brain Default/wiki/Lô Canon ngày 25-11-2026 - tiến độ đào sâu.md>); mục lục và nhật ký cũng đã cập nhật, liên kết đã kiểm tra.",
+      "fired_at": 1795799274.2149603,
+      "result": "Trong wiki đã có nhiều lô Brother, nên mình tránh tính lại các model đã đào sâu. Mình khóa đợt này vào 30 model còn thiếu trong roster hiện có: 8 dòng MFC-J cao cấp, 13 dòng bình mực T530, 7 model T đời trước và 2 model MFC-J1010/J1012. Tài liệu hãng xác nhận phạm vi theo từng nhóm, nhưng có bảng riêng giữa một số biến thể; mình sẽ giữ các khác biệt đó rõ trong trang tra cứu.\nĐã đào sâu **30/30 model Brother**, mỗi model có trang riêng với 5 nhóm lỗi, bước kiểm tra an toàn và hướng chuyển kỹ thuật. Cập nhật [chỉ mục Wiki](/brains/Brain%20Default/wiki/index.md), [nhật ký](/brains/Brain%20Default/wiki/log.md) và [trang tiến độ](/brains/Brain%20Default/wiki/L%C3%B4%20Brother%20ng%C3%A0y%2027-11-2026%20-%20ti%E1%BA%BFn%20%C4%91%E1%BB%99%20%C4%91%C3%A0o%20s%C3%A2u.md); đã xác minh đủ 30 model và không có wikilink gãy trong các trang vừa rà.\n\nTài liệu HTML của hãng không có số trang; tài liệu bảo trì sâu chưa được bao phủ. Roster dựa trên danh sách model còn thiếu trong Wiki vì vault chưa có số liệu để xếp hạng model Victory thường gặp.",
       "error": "",
       "agent": "luna-vu",
-      "last_slot": 1795712400.0
+      "last_slot": 1795798800.0
     },
     {
       "id": "r_81e3e079d6",
       "text": "chạy script doi-soat-testbot.py",
       "mode": "script",
-      "due_at": 1795794120.0,
+      "due_at": 1795815780.0,
       "chat_id": "",
       "repeat_min": 0,
       "cron": "* * * * *",
@@ -284,14 +284,14 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795522654.1671498,
-      "fired_at": 1795794084.320711,
+      "fired_at": 1795815741.5104768,
       "result": "",
       "error": "",
-      "last_slot": 1795794060.0,
+      "last_slot": 1795815720.0,
       "missed_last": 1,
       "missed_total": 1,
       "missed_at": 1795620305.1193843
     }
   ],
-  "updated": 1795794084.3231516
+  "updated": 1795815741.5111132
 }

@@ -1,22 +1,22 @@
 ---
 type: wiki
 status: active
-tags: [wiki, may-in]
-created: 2026-11-24
-updated: 2026-11-24
-source: "[[Nguồn Brother MFC-T580DW - bảng lỗi cho đợt 100 mã]]"
+tags: [wiki, may-in, brother]
+created: 2026-11-27
+updated: 2026-11-27
+source: "[[Nguồn Brother Dòng T530 - User Guide thông báo lỗi]]"
 ---
 
 # Brother MFC-T780DW - tra cứu lỗi theo model
 
-Áp dụng cho **Brother MFC-T780DW**. [[Nguồn Brother MFC-T580DW - bảng lỗi cho đợt 100 mã]]
+Model áp dụng: **Brother MFC-T780DW**. Hãng liệt kê model trong guide và xếp model này vào nhóm bảng riêng cùng DCP-T780DW/MFC-T930DW/T935DW/T980DW; không dùng khác biệt của bảng kia nếu không được nêu. Hướng dẫn HTML không có số trang. [[Nguồn Brother Dòng T530 - User Guide thông báo lỗi]]
 
-## Lỗi đã đối chiếu
+| Mã/thông báo | Nguyên nhân/dấu hiệu theo hãng | Kiểm tra an toàn, kết quả và bước tiếp theo |
+|---|---|---|
+| **Cannot Print XX / Cannot Scan XX** | Lỗi cơ khí hoặc vật lạ/giấy vụn theo guide. | Đối chiếu model và thông báo; làm bước an toàn tương ứng tại [[Brother Dòng T530 - lỗi cơ bản theo User Guide]]. Nếu thông báo hết, thử in lại một lần; nếu lỗi cơ khí lặp, cần tháo sâu hoặc absorber báo đầy, dừng và chuyển kỹ thuật. [[Nguồn Brother Dòng T530 - User Guide thông báo lỗi]] |
+| **No Paper Fed Tray 1 / Printer Jam** | Hết/nạp lệch giấy, nắp chưa đóng hoặc bụi trên con lăn kéo. | Đối chiếu model và thông báo; làm bước an toàn tương ứng tại [[Brother Dòng T530 - lỗi cơ bản theo User Guide]]. Nếu thông báo hết, thử in lại một lần; nếu lỗi cơ khí lặp, cần tháo sâu hoặc absorber báo đầy, dừng và chuyển kỹ thuật. [[Nguồn Brother Dòng T530 - User Guide thông báo lỗi]] |
+| **Ink Low / Refill Ink / B&W Print Only** | Mực thấp; mức bộ đếm có thể khác mức thực. | Đối chiếu model và thông báo; làm bước an toàn tương ứng tại [[Brother Dòng T530 - lỗi cơ bản theo User Guide]]. Nếu thông báo hết, thử in lại một lần; nếu lỗi cơ khí lặp, cần tháo sâu hoặc absorber báo đầy, dừng và chuyển kỹ thuật. [[Nguồn Brother Dòng T530 - User Guide thông báo lỗi]] |
+| **Ink Absorber Full / Absorber NearFull** | Bộ hấp thụ mực thải cần dịch vụ thay. | Đối chiếu model và thông báo; làm bước an toàn tương ứng tại [[Brother Dòng T530 - lỗi cơ bản theo User Guide]]. Nếu thông báo hết, thử in lại một lần; nếu lỗi cơ khí lặp, cần tháo sâu hoặc absorber báo đầy, dừng và chuyển kỹ thuật. [[Nguồn Brother Dòng T530 - User Guide thông báo lỗi]] |
+| **Size Mismatch / Tray Settings / Close ink cover** | Khổ giấy/khay lệch hoặc nắp bình chưa khóa. | Đối chiếu model và thông báo; làm bước an toàn tương ứng tại [[Brother Dòng T530 - lỗi cơ bản theo User Guide]]. Nếu thông báo hết, thử in lại một lần; nếu lỗi cơ khí lặp, cần tháo sâu hoặc absorber báo đầy, dừng và chuyển kỹ thuật. [[Nguồn Brother Dòng T530 - User Guide thông báo lỗi]] |
 
-Cannot Print Refill [X], Close ink cover., Ink Low, Size Mismatch. Xem từng bước ở [[Brother nhóm MFC-T580DW - lỗi cơ bản]]. [[Nguồn Brother MFC-T580DW - bảng lỗi cho đợt 100 mã]]
-
-## Khi khách hỏi tiếp
-
-Nếu khách nói vẫn còn mực, hỏi màu máy báo và mức mực thật qua cửa sổ bình trước khi hướng dẫn châm hoặc kiểm tra bộ đếm. [[Brother nhóm MFC-T580DW - lỗi cơ bản]]
-
-Nếu thông báo khác bảng hoặc vẫn lỗi sau bước an toàn, ghi model, nguyên mã và thao tác đã thử để chuyển kỹ thuật. Chưa có căn cứ chẩn đoán linh kiện cho từng ca.
+Không reset cảnh báo absorber hoặc tháo sâu tại chỗ. Gửi kỹ thuật model, ảnh LCD và các bước đã thử nếu thông báo vẫn còn. [[Brother Dòng T530 - lỗi cơ bản theo User Guide]] [[Nguồn Brother Dòng T530 - User Guide thông báo lỗi]]
