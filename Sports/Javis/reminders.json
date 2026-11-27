@@ -1,0 +1,49 @@
+{
+  "reminders": [
+    {
+      "id": "r_c9d6f58efb",
+      "text": "Kiểm tra nguồn mới nhất để lấy danh sách đăng ký thi đấu chính thức (đội hình xuất phát và cầu thủ dự bị) của trận Thép Xanh Nam Định vs Công an Hà Nội vòng 9 V.League ngày 27/11/2026. Ưu tiên nguồn chính thức VPF/CLB và báo thể thao đáng tin cậy. Gửi kết quả kèm nguồn vào đúng khung chat web:a327a0daf767463fa10f3b045d924524. Nếu danh sách chưa được công bố, báo rõ và kiểm tra lại thông tin gần giờ bóng lăn.",
+      "mode": "task",
+      "due_at": 1795773600.0,
+      "chat_id": "web:a327a0daf767463fa10f3b045d924524",
+      "repeat_min": 0,
+      "cron": "",
+      "script": "",
+      "label": "Cập nhật đội hình Nam Định - CAHN",
+      "status": "pending",
+      "muc_quyen": "full",
+      "remember_last": false,
+      "speak": false,
+      "call": false,
+      "created_by": "javis_schedule",
+      "created_at": 1795763506.3517668,
+      "fired_at": 0.0,
+      "result": "",
+      "error": "",
+      "agent": "bong-da"
+    },
+    {
+      "id": "r_24518fb652",
+      "text": "Nhắc bạn: Lễ khai mạc Giải Cầu lông Thanh thiếu niên - Nhi đồng và Giải vô địch Cầu lông các nhóm tuổi tỉnh Ninh Bình năm 2026 diễn ra lúc 8:00 sáng hôm nay tại Nhà thi đấu TDTT Hà Nam, phường Hà Nam.",
+      "mode": "notify",
+      "due_at": 1795824000.0,
+      "chat_id": "web:9a1b2125e598426aa40d3eca3e039ec5",
+      "repeat_min": 0,
+      "cron": "",
+      "script": "",
+      "label": "Nhắc lễ khai mạc giải cầu lông",
+      "status": "pending",
+      "muc_quyen": "full",
+      "remember_last": false,
+      "speak": false,
+      "call": false,
+      "created_by": "javis_schedule",
+      "created_at": 1795765624.0895412,
+      "fired_at": 0.0,
+      "result": "",
+      "error": "",
+      "agent": "cau-long"
+    }
+  ],
+  "updated": 1795765624.0918043
+}

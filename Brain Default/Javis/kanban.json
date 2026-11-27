@@ -461,7 +461,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -477,7 +477,7 @@
       "current_run_id": "",
       "result": "Chỉ mục cho thấy đã có một số trang theo dòng, trong đó TS series liệt kê 20 biến thể cụ thể. Mình sẽ không tính các biến thể đó là model mới; mỗi trang mới sẽ ghi rõ phạm vi series được Canon nêu và hướng kiểm tra triệu chứng ở mức người dùng, không suy diễn mã linh kiện từ mã lỗi.\nĐã hoàn tất **100 model Canon mới với Wiki**: 96 trang bổ sung trong lượt này và 4 trang từ lượt trước. Lượt bổ sung gồm 92 model PIXMA và 4 model LBP6030, LBP6030B, LBP6030w, LBP6230dw; nhóm LBP được ưu tiên vì phù hợp hơn với nhu cầu Victory.\n\nĐã tạo trang tra cứu riêng, trang nguồn Canon, cập nhật [[wiki/index]], [[wiki/Danh mục model máy in đã tra cứu]] và ghi nhật ký trong [[wiki/log]]. Các trang nêu phạm vi model hãng xác nhận, triệu chứng, kiểm tra an toàn, hướng xử lý tiếp theo và dấu hiệu cần kỹ thuật trực tiếp. Nguồn ghi URL, mục tra cứu và ngày truy cập; với tài liệu HTML, ghi rõ không phân trang.\n\nĐã đọc lại các mục: có đủ 96 trang lượt này, liên kết khớp với danh mục, các wikilink trong phạm vi mới đều trỏ tới file có thật. Lịch định kỳ không thay đổi.",
       "created_at": 1795508474.2627099,
-      "updated_at": 1795509709.3964121,
+      "updated_at": 1795768909.9466324,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -570,6 +570,10 @@
         {
           "ts": "2026-11-24 08:41",
           "msg": "done"
+        },
+        {
+          "ts": "2026-11-27 08:41",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -582,7 +586,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -598,7 +602,7 @@
       "current_run_id": "",
       "result": "Hoàn tất đợt học **100 model máy in HP khác nhau**, đều có trang tra cứu riêng và nguồn hỗ trợ chính hãng. Đã ưu tiên các dòng HP có ghi nhận trong danh mục Victory, gồm M402, M404, MFP 137fnw và các model P1000/P1100; những model còn lại được chọn theo phạm vi tài liệu HP xác nhận.\n\nĐã tạo 100 trang model và 17 trang nguồn, cập nhật [wiki/index.md](/brains/Brain%20Default/wiki/index.md), [Danh mục model máy in đã tra cứu](/brains/Brain%20Default/wiki/Danh%20mục%20model%20máy%20in%20đã%20tra%20cứu.md) và append [wiki/log.md](/brains/Brain%20Default/wiki/log.md). Đã đọc lại và kiểm tra đủ 100 mục trong chỉ mục, danh mục; các wikilink nguồn đều trỏ tới trang hiện có. Lịch định kỳ được giữ nguyên.",
       "created_at": 1795508474.3478036,
-      "updated_at": 1795510303.6997712,
+      "updated_at": 1795769506.2354312,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -704,6 +708,10 @@
         {
           "ts": "2026-11-24 08:51",
           "msg": "done"
+        },
+        {
+          "ts": "2026-11-27 08:51",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -716,7 +724,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "cancelled",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "cancelled",
       "block_reason": "worker cancelled (chat): Chủ giảm phạm vi từ 100 xuống 50 model Epson; thay bằng việc 50 và tính phần đã lưu hợp lệ.",
@@ -732,7 +740,7 @@
       "current_run_id": "",
       "result": "[[NEEDS_INPUT]] Tôi chưa thể xác nhận đủ 100 model Epson mới từ các nguồn hãng đã tra cứu trong lượt này; anh muốn tôi tiếp tục theo các model phổ biến có User Guide Epson xác nhận, dù tài liệu có thể chỉ bao phủ lỗi cơ bản thay vì mã lỗi riêng từng model không?",
       "created_at": 1795508474.3847933,
-      "updated_at": 1795511365.580481,
+      "updated_at": 1795770568.472815,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -867,6 +875,10 @@
         {
           "ts": "2026-11-24 09:09",
           "msg": "worker cancelled (chat): Chủ giảm phạm vi từ 100 xuống 50 model Epson; thay bằng việc 50 và tính phần đã lưu hợp lệ."
+        },
+        {
+          "ts": "2026-11-27 09:09",
+          "msg": "cancelled -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -879,7 +891,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -895,7 +907,7 @@
       "current_run_id": "",
       "result": "Tôi đã tìm được và kiểm tra trực tiếp 27 trang hướng dẫn Epson tương ứng trên máy chủ tài liệu hãng, đồng thời loại L3150 vì trang đó đã có sẵn. Tôi sẽ tạo 27 mục riêng, mỗi mục ghi phạm vi đúng model, triệu chứng được hướng dẫn, cách kiểm tra an toàn và khi nào chuyển kỹ thuật; sau đó cập nhật index và log.\nĐã hoàn tất **50 model Epson**: xác nhận 23 model đã lưu hợp lệ, bổ sung 27 model mới. Mỗi model mới có trang tra cứu riêng, nguồn User Guide Epson kèm URL, phạm vi model, mục đối chiếu và ngày truy cập.\n\nĐã cập nhật [wiki/index.md](/brains/Brain%20Default/wiki/index.md) và append log tại [wiki/log.md](/brains/Brain%20Default/wiki/log.md). Kiểm tra lại thấy đủ 50 trang model, đủ 50 liên kết trong index và không có wikilink nguồn bị hỏng. Không đổi lịch thường kỳ.",
       "created_at": 1795511365.7002301,
-      "updated_at": 1795511632.802724,
+      "updated_at": 1795770834.3778284,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -960,6 +972,10 @@
         {
           "ts": "2026-11-24 09:13",
           "msg": "done"
+        },
+        {
+          "ts": "2026-11-27 09:13",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -972,7 +988,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -988,7 +1004,7 @@
       "current_run_id": "",
       "result": "Đã hoàn thành cập nhật Wiki cho cả ba nhóm:\n\n- **Máy bàn:** bổ sung nhánh mất nguồn, không qua POST, không lên hình, không vào Windows, quá nhiệt và lỗi lưu trữ; nhấn mạnh bảo vệ dữ liệu và không mở bộ nguồn.\n- **Laptop:** bổ sung khoanh vùng nguồn, pin/sạc, POST/khởi động, màn hình và nhiệt.\n- **Camera:** bổ sung kiểm tra nguồn/PoE, mạng và live view; phần analog mở rộng kiểm tra BNC, cáp đồng trục, tương thích tín hiệu và đổi chéo kênh. Thêm nhánh lưu trữ, playback và chất lượng ảnh.\n\nĐã thêm ba trang nguồn hãng, cập nhật [[index]] và ghi [[log]]. Đọc lại các trang đã sửa và kiểm tra wikilink mới: không có liên kết thiếu. Mã đèn, mã bíp và thao tác riêng vẫn yêu cầu đối chiếu đúng model.\n\nCác trang: [máy bàn](wiki/Lỗi máy tính để bàn có nguồn nhưng không lên hình.md), [laptop](wiki/Lỗi cơ bản laptop và cách nhận diện.md), [camera IP](wiki/Lỗi cơ bản camera IP và hệ thống giám sát.md), [camera analog](wiki/Xử lý camera analog chập chờn qua dây đồng trục.md).",
       "created_at": 1795512523.939581,
-      "updated_at": 1795512787.9962652,
+      "updated_at": 1795771990.9522643,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -1054,6 +1070,10 @@
         {
           "ts": "2026-11-24 09:33",
           "msg": "done"
+        },
+        {
+          "ts": "2026-11-27 09:33",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -2153,5 +2173,5 @@
       ]
     }
   ],
-  "updated": 1795585072.7236285
+  "updated": 1795771990.961999
 }

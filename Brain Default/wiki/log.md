@@ -411,3 +411,11 @@ Bổ sung trình tự hỗ trợ từ xa cho Wi-Fi, IP/DHCP, DNS, máy in mạng
 - Tạo biên bản Word `BBBGNT/2026-04/VIC-MAX` theo mẫu đã duyệt cho Công ty TNHH Maxport Limited (Viet Nam), MST 0107721413.
 - Gồm 4 hộp mực Starink 206 (W211A), các màu Y/C/M/BK, mỗi loại 1 hộp. Địa điểm giao hàng lấy theo ảnh người dùng cung cấp; địa chỉ pháp nhân lấy theo danh sách khách hàng Victory.
 - Ngày lập và thông tin người đại diện bên mua để `...` do chưa được cung cấp. Số tiếp theo cập nhật thành `BBBGNT/2026-05/VIC-ABC`. [[Sổ Theo Dõi Số Văn Bản Victory]] [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]]
+
+## [2026-11-27] update | Tách thuế 8% và 10% trong VIC-119-2026
+
+- Cập nhật mục 6 theo giá 16.200.000 đồng đã gồm VAT 10%; quy đổi đơn giá trước VAT thành 14.727.273 đồng, VAT 10% là 1.472.727 đồng. Năm mục còn lại giữ VAT 8%; tổng thanh toán giữ 462.412.800 đồng. [[Sổ Theo Dõi Số Văn Bản Victory]]
+
+## [2026-11-27] update | Luna xử lý video kỹ thuật trong Zalo
+
+Bổ sung hướng dẫn xem video đính kèm khi khách hỏi lỗi và trả lời vào đúng tin. Nhật ký TESTBOT xác nhận bot đã chạy nhưng bộ phán xử chọn im lặng ở tin hỏi video. [[Phạm vi công việc của bot Luna trên Zalo]]
