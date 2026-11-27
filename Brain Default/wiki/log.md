@@ -419,3 +419,9 @@ Bổ sung trình tự hỗ trợ từ xa cho Wi-Fi, IP/DHCP, DNS, máy in mạng
 ## [2026-11-27] update | Luna xử lý video kỹ thuật trong Zalo
 
 Bổ sung hướng dẫn xem video đính kèm khi khách hỏi lỗi và trả lời vào đúng tin. Nhật ký TESTBOT xác nhận bot đã chạy nhưng bộ phán xử chọn im lặng ở tin hỏi video. [[Phạm vi công việc của bot Luna trên Zalo]]
+
+## [2026-11-27] create | Biên bản bàn giao Artiverse Apparel - ruy băng mực Hiti
+
+- Tạo biên bản Word `BBBGNT/2026-05/VIC-AAP` cho Công ty TNHH Artiverse Apparel, MST 2400972701, theo mẫu bàn giao đã duyệt.
+- Hàng hóa: Ruy băng mực màu máy in thẻ Hiti CS200e / 220e, đơn vị cuộn, số lượng 1. Dùng địa chỉ pháp nhân từ danh sách khách hàng Victory; ảnh ghi ngày 23/11 nhưng ngày bàn giao trong mẫu vẫn để `...` theo quy tắc.
+- Thông tin đại diện bên mua chưa có nên giữ dòng chấm để ghi tay. Số tiếp theo là `BBBGNT/2026-06/VIC-ABC`. [[Sổ Theo Dõi Số Văn Bản Victory]] [[Mẫu Biên Bản Bàn Giao Nghiệm Thu Hàng Hóa Victory]]

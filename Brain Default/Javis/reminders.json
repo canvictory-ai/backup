@@ -133,7 +133,7 @@
       "id": "r_32c41eb84d",
       "text": "Mỗi ngày lúc 18:00, tổng hợp các tin nhắn mới trong các nhóm Zalo Victory có thể truy cập, nhóm xuất hàng, nhật ký quy trình, Kanban và lịch liên quan trong ngày. Báo cáo cho chủ trong chat này gồm: đơn đã chốt, yêu cầu xuất, giao hàng/thanh toán chỉ khi có xác nhận, phản ánh, việc đang vướng, lỗi quy trình và ưu tiên cần chủ xử lý. Ghi nhóm, người gửi, thời điểm và nguồn. Gộp nội dung trùng; phân biệt yêu cầu với hoàn tất; không suy đoán. Nêu rõ khoảng đồng bộ thiếu hoặc nguồn không truy cập được. Luna Vũ vẫn là người phản hồi khách; chỉ đọc và báo cáo, không trả lời khách hoặc tạo việc mới. Riêng mỗi thứ Sáu, thêm mục rà soát lỗi lặp lại trong tuần: nêu ví dụ, tần suất nếu kiểm chứng được, ảnh hưởng và đề xuất khắc phục; không tự sửa cấu hình hay tạo việc.",
       "mode": "task",
-      "due_at": 1795777200.0,
+      "due_at": 1795863600.0,
       "chat_id": "web:97609117d6dd46aca8262c91b2df92de",
       "repeat_min": 0,
       "cron": "0 18 * * *",
@@ -146,11 +146,11 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1794206486.384005,
-      "fired_at": 1795690933.5046418,
-      "result": "**Tổng hợp hôm nay, 26/11**\n\n- **Đơn đã chốt:** Không thấy xác nhận đủ căn cứ để kết luận đơn đã hoàn tất.\n- **Yêu cầu xuất:** Nhóm **XUẤT HÀNG VICTORY** ghi nhận các yêu cầu của Phương Phương, Huy Hoàng, Tạ Hải Đăng và Victor Vu, gồm vật tư máy in, camera Imou, linh kiện và “Thành Long 20 mực”. Đây là yêu cầu xuất, chưa có xác nhận giao hàng trong nguồn đã đọc.\n- **Giao hàng/thanh toán:** Chưa thấy xác nhận giao hàng hoặc thanh toán.\n- **Phản ánh, việc vướng:**  \n  - **Sửa chữa Thành Genesis - Victory**, khách “Đợi chờ là hạnh phúc” hỏi tình trạng máy in và liệu hôm nay gửi về được không; khách nói máy tái lỗi sẽ ảnh hưởng việc thanh toán. Victor Vu nhờ Huy Hoàng xem. Chưa thấy xác nhận xử lý xong.  \n  - **HƯNG THỊNH HH - VICTORY**, Máy Tính Hưng Thịnh báo máy vẫn không in được và việc gửi đi gửi về phiền; Huy Hoàng hướng dẫn kiểm tra, khách dự kiến gửi máy lên kiểm tra lại ngày mai.  \n  - **VICTORY-NAM TRƯỜNG COMPUTER**, khách cần gấp tai nghe vì chiều có kỳ thi; chưa thấy xác nhận đã giao.\n- **Lỗi quy trình:** Lịch sử workflow gần nhất trả lỗi “Not logged in”; không có lần chạy hôm nay để rà kết quả. Kanban bị chặn ở chế độ chỉ đọc. Google Calendar không có kết nối đang hoạt động, nên không đọc được lịch.\n- **Ưu tiên chủ xử lý:** Kiểm tra tình trạng hai ca máy in đang vướng và xác nhận phương án cho yêu cầu gấp của khách cần tai nghe.\n- **Giới hạn dữ liệu:** Zalo trả về 172 tin trong ngày, nhưng `sync.complete=false` và có khoảng mất kết nối, nên có thể thiếu tin. Đã truy cập các nhóm Victory đang được buffer và nhóm xuất hàng; không thể xác nhận đây là toàn bộ tin trong ngày. Nguồn: Zalo Luna Vũ, tin ngày 26/11; lịch sử workflow; Kanban; Google Calendar.",
+      "fired_at": 1795777350.0515516,
+      "result": "Tin Zalo đã đồng bộ đủ trong khoảng ghi nhận hôm nay; em đang đối chiếu các đoạn yêu cầu xuất, phản ánh và những điểm chưa có xác nhận. Lịch Google không có kết nối, còn Kanban bị chặn bởi quyền chỉ đọc.\nBáo cáo 27/11, dữ liệu Zalo ghi nhận đến 10:06 UTC.\n\n- **Đơn đã chốt:** Minh An đặt 1 hộp mực 79A, 95k, có sẵn (KD Minh An, nhóm *MINH AN - VICTORRY*, 02:00). Chưa thấy xác nhận thanh toán.\n- **Yêu cầu xuất:** Nhóm *XUẤT HÀNG VICTORY*, Huy Hoàng ghi sửa máy Brother 600, cụm mực 2385 và 1 hộp mực 12A (01:35). HPT yêu cầu cụm sấy Canon 2900, 2 trục cao su, 10 lọ mực và máy in 3300; sau trao đổi về nhầm loại trục, HPT yêu cầu xuất lại trục lô ép sấy (02:57–03:10). Chưa có xác nhận hoàn tất xuất.\n- **Giao hàng / thanh toán:** Chưa thấy xác nhận giao hàng hoặc tiền đã nhận. Tin “840k a ck tài khoản e gửi nhé” là yêu cầu chuyển khoản, không phải bằng chứng thanh toán (HPT, Phương Phương, 03:00).\n- **Phản ánh và việc vướng:** Khách Minh Quang báo máy vẫn in đậm nhạt dù đã thay hộp mực, nhờ kiểm tra/sửa (08:48, *Minh Quang GT - Victory*). Khách ở nhóm *Sửa chữa Thành Genesis - Victory* phản ánh máy nhận lại bị chảy mực; máy in lúc được lúc không (08:15 và buổi sáng). Nhóm *VICTORY - CHIBICOM* báo máy in hai mặt bị kẹt giấy (08:19). Chưa thấy kết quả xử lý cuối.\n- **Cần chủ xử lý:** Nhóm *ND_Victory 99 Hùng Vương - Khánh Toàn*, Huy Hoàng báo 5 máy HP ProOne cùng lô lỗi, hết bảo hành, khách ở xa và xin phương án; Victor Vu đề xuất báo hãng bảo hành tận nơi nhưng chưa có kết quả xác nhận (07:57–08:06). Ưu tiên chốt phương án hỗ trợ.\n- **Rà lỗi lặp trong tuần:** Chưa đủ nhật ký quy trình trong tuần để kiểm chứng lỗi lặp. Lịch sử truy cập được chỉ hiện các lần “Not logged in” ngày 08/11, ngoài tuần rà soát.\n- **Giới hạn nguồn:** Zalo có 138 tin trong ngày, báo đồng bộ hoàn tất và không ghi nhận khoảng mất kết nối; danh sách hiện thấy 12 nhóm. Lịch Google không có kết nối hoạt động. Kanban không đọc được ở quyền chỉ đọc. Không thấy xác nhận giao hàng, thanh toán hay kết quả xử lý cuối trong dữ liệu truy cập được.",
       "error": "",
       "agent": "phuong-sai-vat",
-      "last_slot": 1795690800.0
+      "last_slot": 1795777200.0
     },
     {
       "id": "r_2490085073",
@@ -271,7 +271,7 @@
       "id": "r_81e3e079d6",
       "text": "chạy script doi-soat-testbot.py",
       "mode": "script",
-      "due_at": 1795772520.0,
+      "due_at": 1795794120.0,
       "chat_id": "",
       "repeat_min": 0,
       "cron": "* * * * *",
@@ -284,14 +284,14 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795522654.1671498,
-      "fired_at": 1795772482.6688268,
+      "fired_at": 1795794084.320711,
       "result": "",
       "error": "",
-      "last_slot": 1795772460.0,
+      "last_slot": 1795794060.0,
       "missed_last": 1,
       "missed_total": 1,
       "missed_at": 1795620305.1193843
     }
   ],
-  "updated": 1795772482.6696153
+  "updated": 1795794084.3231516
 }

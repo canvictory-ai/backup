@@ -15,7 +15,7 @@ Sổ theo dõi số đã phát hành để tra số kế tiếp, tránh trùng. 
 |---|---|---:|---:|---|
 | Báo giá Victory năm 2026 | `VIC-NNN-2026` | 121 | 122 | Đối chiếu báo giá Đường Mía VIC-121-2026 trong `bao-gia/` ngày 27/11/2026; các số 119–120 là hai báo giá Nam Đông ngày 25/11/2026. |
 | Phiếu xuất kho Victory năm 2026 | `PXK-VIC-2026-NNN` | 013 | 014 | Cấp cho Artiverse Knit theo báo giá VIC-117-2026 ngày 24/11/2026. |
-| Biên bản bàn giao hàng hóa | `BBBGNT/YYYY-NN/VIC-ABC` | `BBBGNT/2026-04/VIC-MAX` | `BBBGNT/2026-05/VIC-ABC` | Số 04 cho Công ty TNHH Maxport Limited (Viet Nam), 4 hộp mực Starink 206; địa điểm giao theo ảnh, địa chỉ pháp nhân theo danh sách khách hàng; ngày lập để `...`. |
+| Biên bản bàn giao hàng hóa | `BBBGNT/YYYY-NN/VIC-ABC` | `BBBGNT/2026-05/VIC-AAP` | `BBBGNT/2026-06/VIC-ABC` | Số 05 cho Công ty TNHH Artiverse Apparel, 1 cuộn ruy băng mực Hiti CS200e/220e; thông tin khách hàng theo danh sách, ngày lập để `...`. |
 | Hợp đồng mua bán | `HĐKT/YYYY-NN/VIC-ABC` | `HĐKT/2026-01/VIC-ARK` | `HĐKT/2026-02/VIC-ABC` | Cấp cho Công ty TNHH Artiverse Knit theo báo giá VIC-117-2026. |
 | Hợp đồng nguyên tắc | `HĐNT/YYYY-NN/VIC-ABC` | Chưa phát hành theo quy tắc mới | `HĐNT/2026-01/VIC-ABC` | Dãy riêng theo năm; `ABC` là mã viết tắt đối tác. |
 | Phiếu nhập kho | `PNK-VIC-YYYY-NNN` | Chưa phát hành theo quy tắc mới | `PNK-VIC-2026-001` | Dãy riêng theo năm, tăng từ 001. |

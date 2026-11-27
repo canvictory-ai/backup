@@ -1086,7 +1086,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -1102,7 +1102,7 @@
       "current_run_id": "",
       "result": "Cả 50 URL hỗ trợ theo model đều phản hồi thành công trên trang TP-Link Việt Nam. Các trang hãng cũng cảnh báo phần cứng và tài liệu khác nhau theo khu vực; mình sẽ ghi rõ địa chỉ hỗ trợ riêng cho từng model, giới hạn phiên bản/region thay vì khẳng định một firmware chung, và thêm hướng dẫn hãng sát loại thiết bị.\nĐã sửa phần chưa đạt và giữ nguyên **50 model**. Mỗi trang tra cứu hiện có URL hỗ trợ TP-Link Việt Nam riêng theo model, loại thiết bị, phạm vi khu vực/phiên bản và hướng dẫn phù hợp cho Ethernet, DSL hoặc SIM. Mình đã kiểm tra cả 50 URL đều phản hồi HTTP 200.\n\nPhân loại: 37 router Wi-Fi Ethernet, 5 modem-router DSL, 7 router SIM 4G và 1 router SIM 5G. Không có ONT quang trong danh sách; không khẳng định model nào bán chạy, không ghi cấu hình nhà mạng khi thiếu căn cứ và không lưu mật khẩu thật.\n\nĐã cập nhật [wiki/index.md](wiki/index.md), [trang nguồn TP-Link](wiki/Ngu%E1%BB%93n%20c%E1%BA%A5u%20h%C3%ACnh%20router%20TP-Link%20-%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ch%C3%ADnh%20h%C3%A3ng.md) và [wiki/log.md](wiki/log.md). Kiểm tra lại thấy đủ 50 trang được liệt kê, **0 wikilink hỏng** trong phần đã rà.",
       "created_at": 1795512524.067642,
-      "updated_at": 1795513468.3174496,
+      "updated_at": 1795772673.0397327,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -1214,6 +1214,10 @@
         {
           "ts": "2026-11-24 09:44",
           "msg": "Đủ 50 trang và index, nhưng các hướng dẫn chưa xác minh model cụ thể từ tài liệu chính hãng: nhiều mục dùng địa chỉ quản trị chung chung, nguồn chỉ dẫn trang tải xuống mà không ghi mục tài liệu đối chiếu, và trang router SIM còn nhầm hướng dẫn Deco; vì vậy chưa đạt yêu cầu tra cứu cấu hình có nguồn phù hợp cho từng model."
+        },
+        {
+          "ts": "2026-11-27 09:44",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -1226,7 +1230,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -1242,7 +1246,7 @@
       "current_run_id": "",
       "result": "Đã ghi nhận 6 trang có guide được mở ở mức cụ thể, đồng thời xác nhận đủ 50 trang đích và giữ cả 50 ở trạng thái draft. Tôi tiếp tục tra thêm theo nhóm model; hiện chưa có căn cứ để tính trang nào đã xác minh cho thiết bị cụ thể, vì vùng và Hardware Version của máy chưa được biết.\nTôi đã xử lý thêm các tài liệu lớn bằng cách tải PDF chính hãng rồi trích văn bản cục bộ; giới hạn đọc trực tiếp trên trình duyệt không còn chặn được VR400. Hiện các trang mới ghi riêng guide EU/US và revision, cùng mục/trang cụ thể; trạng thái vẫn draft nếu chưa xác nhận được nhãn hoặc vùng của thiết bị.\nĐã mở và đọc thêm các guide cho C86, AX80, AX6000, C1200, C9, C5, TD-W9960, TD-W9970, MR200 và MR400. Với router SIM, tôi ghi riêng hướng dẫn từng revision và đánh dấu APN/thông số SIM là dữ liệu cần nhà mạng xác nhận; hiện tổng cộng 27/50 model có guide trực tiếp được mở, nhưng chưa thể xác nhận model nào khớp một máy thực tế nếu thiếu tem phiên bản/vùng.\nTổng đã lên 40 model có ít nhất một tài liệu hướng dẫn chính hãng được mở, gồm 5 guide mới cho AX90, GX90, AXE75, BE550 và BE800. Tôi đang ghi các bản theo revision riêng; 10 model còn lại là AX12, AX56, BE230, AX11000, C58HP, TL-WR846N, MR100, MR105, MR600 và MR6400, chưa có guide trực tiếp được mở trong các lượt tra cứu này.\nTìm được User Guide chính hãng AX12 EU V1 REV1.0.0 và đã mở nội dung PDF. Với AX56, TP-Link có mở một tài liệu “Product and Installation Guide” cho AX56 1.0, nhưng chưa tìm được bản được gọi rõ là User Guide hoặc Quick Installation Guide; tôi sẽ ghi đúng tên loại tài liệu và không tính nó vào số guide đạt tiêu chí nghiêm ngặt.\nĐã rà đủ **50 trang model** và cập nhật kết quả xác minh cho từng trang. Có **49/50** model đã mở được User Guide hoặc Quick Installation Guide chính hãng; riêng AX56 mới có “Product and Installation Guide”, chưa có đúng loại tài liệu yêu cầu. **0/50** guide được xác nhận khớp thiết bị thực tế vì thiếu Hardware Version và vùng trên tem. Một số guide mới chỉ được đọc một phần; mức thiếu được ghi riêng trên từng trang.\n\nĐã cập nhật trang nguồn [[Nguồn cấu hình router TP-Link - hướng dẫn chính hãng]], `wiki/index.md`, `wiki/log.md` và handoff. Kiểm tra thấy đủ 50 liên kết model có trang đích, không có wikilink hỏng trong các trang đã rà. Không thao tác thiết bị hoặc thử thông tin đăng nhập.\n\nCòn thiếu User Guide/QIG AX56 đúng revision và vùng; tài liệu MR6400 mở được có revision trên bìa khác revision trong tên tệp nên chưa dùng để xác minh thao tác. Handoff vẫn ở trạng thái active cho các phần này.",
       "created_at": 1795513805.5413036,
-      "updated_at": 1795515713.142942,
+      "updated_at": 1795774916.7964683,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -1383,6 +1387,10 @@
         {
           "ts": "2026-11-24 10:21",
           "msg": "Chưa đạt đủ 50 model có User Guide/QIG đúng model và revision: AX56 chỉ có Product and Installation Guide, còn MR6400 có revision lệch giữa tên PDF và bìa nên không xác minh được; nhiều trang cũng chỉ đọc guide một phần."
+        },
+        {
+          "ts": "2026-11-27 10:21",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -2173,5 +2181,5 @@
       ]
     }
   ],
-  "updated": 1795771990.961999
+  "updated": 1795774916.8089366
 }

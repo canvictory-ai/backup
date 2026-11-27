@@ -10,17 +10,18 @@
       "cron": "",
       "script": "",
       "label": "Cập nhật đội hình Nam Định - CAHN",
-      "status": "pending",
+      "status": "done",
       "muc_quyen": "full",
       "remember_last": false,
       "speak": false,
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795763506.3517668,
-      "fired_at": 0.0,
-      "result": "",
+      "fired_at": 1795773649.3278062,
+      "result": "Chưa tìm thấy danh sách đăng ký chính thức gồm đội hình xuất phát và dự bị. VPF đã xác nhận trận đá lúc 18:00 ngày 27/11 và thông báo hai cầu thủ bị treo giò: Nguyễn Phong Hồng Duy (Nam Định) và Nguyễn Adou Leygley Minh (CAHN). [VPF](https://vpf.vn/tin-tuc/tin-vleague/danh-sach-cau-thu-nghi-thi-dau-vong-9-lpbank-v-league-1-2026-27/) [VTV](https://vtv.vn/lich-thi-dau-va-truc-tiep-vong-9-lpbank-vleague-1-2026-27-tren-vtv-100261127081955018.htm)\n\nĐã đặt theo dõi trang tường thuật của Thể thao & Văn hóa mỗi 5 phút, gửi cập nhật vào khung chat đã chỉ định khi trang thay đổi. Mã theo dõi: `w_de914a4ec1`.",
       "error": "",
-      "agent": "bong-da"
+      "agent": "bong-da",
+      "last_slot": 1795773600.0
     },
     {
       "id": "r_24518fb652",
@@ -45,5 +46,5 @@
       "agent": "cau-long"
     }
   ],
-  "updated": 1795765624.0918043
+  "updated": 1795773649.327831
 }
