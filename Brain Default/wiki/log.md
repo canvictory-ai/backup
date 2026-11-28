@@ -444,3 +444,9 @@ Bổ sung hướng dẫn xem video đính kèm khi khách hỏi lỗi và trả 
 
 - Sửa trang tiến độ và chỉ mục để roster phản ánh đúng 30 model: nhóm T530 có 15 model gồm MFC-T580DW/MFC-T780DW; bỏ MFC-J1170DW và DCP-J1050DW khỏi đợt này. Hai model được thay là MFC-T580DW và MFC-T780DW, có trang riêng dựa trên đúng hai bảng hãng.
 - Thực tế thứ tự ưu tiên được lấy theo danh sách model Brother còn thiếu trong Wiki; vault chưa có thống kê tần suất sửa chữa/khách hàng để xếp hạng độ phổ biến riêng cho Victory. [[Lô Brother ngày 27-11-2026 - tiến độ đào sâu]]
+
+## [2026-11-28] create | Đối chiếu công nợ Genesis theo hóa đơn 00000000
+
+- Tạo file Excel theo bố cục mẫu khách hàng gửi, số `BBĐCCN/2026-01/VIC-GEN`, cho Công ty TNHH Genesis Sports Technology, MST 0601205033.
+- Nhập 4 dòng hàng và số liệu hóa đơn GTGT 1C26TAA ngày 19/11/2026: tiền hàng 713.638 đồng, thuế GTGT 57.092 đồng, tổng cộng 770.730 đồng. Cột USD để trống vì hóa đơn chỉ có số liệu VND.
+- Ngày đối chiếu để `...`; số dư đã thanh toán/chưa thanh toán chưa thể hiện trên hóa đơn nên không tự kết luận. Sổ số văn bản cập nhật số tiếp theo `BBĐCCN/2026-02/VIC-ABC`. [[Sổ Theo Dõi Số Văn Bản Victory]] [[Mẫu Biên Bản Đối Chiếu Công Nợ Victory]]

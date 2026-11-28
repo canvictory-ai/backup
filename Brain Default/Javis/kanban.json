@@ -1821,7 +1821,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -1837,7 +1837,7 @@
       "current_run_id": "",
       "result": "Hồ sơ hiện phân biệt rõ lô 30 model theo log chat với một nhóm 30 khác đã nằm trong danh mục 100. Câu “Ok” ở lượt trước không khóa được hai roster; để tránh đếm nhầm, tôi sẽ tiếp tục phần chắc chắn là lô đầu theo log, dùng các trang nguồn Brother đã lưu và đánh dấu riêng phần nào chưa thể xác minh sâu hơn.\nTôi đã đối chiếu trang “Error and Maintenance Messages” trên Brother cho đủ bốn nhóm đầu: phạm vi model hiển thị ngay trên tài liệu và bảng phân biệt nguyên nhân với thao tác. Tôi đang ghi nguồn/heading/ngày truy cập vào bốn trang nguồn, bổ sung nhánh xử lý vào các trang nhóm, rồi gắn đúng trang nhóm cho 30 model theo phạm vi hãng.\nĐã đào sâu thêm **30/30 model** thuộc bốn nhóm đầu trong log: HL-L2405, HL-L5210, DCP-L5510 và DCP-L2640. Tổng lượt này đạt **51/130 model mục tiêu**, còn 79 model chưa có nội dung mới.\n\nTôi đã cập nhật 30 trang model cùng bốn trang nhóm, ghi phạm vi model, khu vực tài liệu, URL và mục User Guide đã đối chiếu. Các hướng dẫn bổ sung phân biệt thông báo với mã dịch vụ, nêu bước xử lý tiếp và lúc cần chuyển kỹ thuật. HTML không có số trang; các biến thể hướng dẫn tại Việt Nam chưa được xác minh.\n\nĐã cập nhật [wiki/index.md](wiki/index.md), [wiki/log.md](wiki/log.md) và [tiến độ lô Brother](wiki/Lô Brother ngày 24-11-2026 - tiến độ đào sâu). Đọc lại xác nhận đủ 30 trang model có cập nhật và liên kết nguồn hợp lệ. Roster 30 model thứ hai trong hồ sơ vẫn bất nhất; tiến độ giữ rõ điểm này. Không sửa lịch học định kỳ.",
       "created_at": 1795570329.8643644,
-      "updated_at": 1795580577.7278605,
+      "updated_at": 1795839777.775543,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -1943,6 +1943,10 @@
         {
           "ts": "2026-11-25 04:22",
           "msg": "done"
+        },
+        {
+          "ts": "2026-11-28 04:22",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -1955,7 +1959,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -1971,7 +1975,7 @@
       "current_run_id": "",
       "result": "Tôi đã đối chiếu phạm vi tài liệu hãng: P2500 Series bao gồm đủ 7 model P trong lô; tài liệu M tách thành M6500, M6550 và M6600, nên phần M sẽ gắn đúng trang nguồn theo hậu tố. Các bảng LED của P là trạng thái người dùng, không phải mã dịch vụ; nhóm M dùng thông báo LCD và có phân biệt ADF. Tiếp theo tôi ghi tiến độ theo từng nhóm tài liệu và giữ rõ giới hạn ở model nào chưa được nguồn bao phủ.\nĐã đào sâu **20/20 model Pantum** trong lô ngày 24/11: 7 model P2500 Series, 4 model M6500 Series và 9 model M6550/M6600 Series. Nội dung cơ bản ghi ngày 24/11 không bị tính lại.\n\nĐã cập nhật 20 trang theo model, ba trang nguồn và chỉ mục. Các trang ghi trạng thái đèn hoặc thông báo LCD chính xác, bước kiểm tra an toàn, hướng xử lý tiếp và lúc cần chuyển kỹ thuật. Mã dịch vụ chi tiết còn thiếu vì các User Guide đối chiếu không cung cấp mã đó; không tính là đã xác minh. Không sửa lịch học định kỳ.\n\nĐã đọc lại 20 trang và kiểm tra liên kết nguồn Wiki. Tiến độ và giới hạn còn lại: [[Lô Pantum ngày 24-11-2026 - tiến độ đào sâu]]. Nhật ký: [[log]].",
       "created_at": 1795570329.9300797,
-      "updated_at": 1795580891.962857,
+      "updated_at": 1795840093.5754778,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -2050,6 +2054,10 @@
         {
           "ts": "2026-11-25 04:28",
           "msg": "done"
+        },
+        {
+          "ts": "2026-11-28 04:28",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -2062,7 +2070,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -2078,7 +2086,7 @@
       "current_run_id": "",
       "result": "Nguồn chính hãng tôi tìm được mới thêm hai bài xử lý lỗi chung, nhưng không ghi model/phạm vi tương thích; một bài còn nêu nhịp đèn và tiếng bíp cho các dòng không xác định. Theo tiêu chí lô, không thể gán các mã đó cho 20 model. Tôi sẽ giữ nguyên phần đặc tính đã có, bổ sung bằng chứng và hướng phân biệt lỗi chỉ ở mức nguồn cho phép, đồng thời ghi rõ số model đủ chuẩn “đào sâu lỗi theo model” vẫn chưa xác minh.\nĐã rà và sửa phần chưa đạt nghiệm thu. **Kết quả đủ chuẩn đào sâu lỗi theo model là 0/20**: nguồn chính hãng hiện tìm được không xác nhận phạm vi cho các mã đèn/tiếng bíp chung và cũng chưa cung cấp quy trình xử lý lỗi tiếp theo đúng model.\n\nTôi giữ lại đặc tính đã có, làm rõ giới hạn của nguồn chung và bổ sung cách ghi nhận dấu hiệu, kiểm tra an toàn, bước sàng lọc và khi nào dừng để chuyển kỹ thuật. Bốn trang XP-410B, XP-365B, XP-D463B và XP-D463E có cập nhật mới nhưng **không tính là đã đào sâu lỗi**. Trang tiến độ liệt kê đủ 20 model và nêu phần còn thiếu.\n\nĐã cập nhật [trang tiến độ](wiki/Lô Xprinter ngày 24-11-2026 - tiến độ đào sâu.md), [trang nguồn hãng](wiki/Nguồn hãng Xprinter tem nhãn - tài liệu tra lỗi.md), bốn trang model, `wiki/index.md` và `wiki/log.md`. Đã đọc lại các trang sửa: roster có 20 model duy nhất, các wikilink trong nội dung cập nhật đều tồn tại. Không sửa lịch học định kỳ.",
       "created_at": 1795570329.9969046,
-      "updated_at": 1795585072.715058,
+      "updated_at": 1795844274.231837,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -2189,9 +2197,13 @@
         {
           "ts": "2026-11-25 05:37",
           "msg": "Chưa có model nào trong lô đủ bằng chứng chính hãng về xử lý lỗi theo model (0/20); báo cáo xác nhận chưa hoàn thành điều kiện đào sâu."
+        },
+        {
+          "ts": "2026-11-28 05:37",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     }
   ],
-  "updated": 1795833905.3215506
+  "updated": 1795844274.2495983
 }

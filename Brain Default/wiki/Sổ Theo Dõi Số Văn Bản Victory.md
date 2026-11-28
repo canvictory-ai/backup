@@ -23,7 +23,7 @@ Sổ theo dõi số đã phát hành để tra số kế tiếp, tránh trùng. 
 | Biên bản tiếp nhận bảo hành/sửa chữa/đổi trả | `BBTN/YYYY-NN/VIC-ABC` | Chưa phát hành theo quy tắc mới | `BBTN/2026-01/VIC-ABC` | Dãy riêng theo năm và loại; `ABC` là mã đối tác. |
 | Đơn đặt hàng/xác nhận đơn hàng | `XNDH/YYYY-NN/VIC-ABC` | Chưa phát hành theo quy tắc mới | `XNDH/2026-01/VIC-ABC` | Dãy riêng theo năm và loại; `ABC` là mã đối tác. |
 | Phiếu xác nhận thanh toán | `XNTT/YYYY-NN/VIC-ABC` | Chưa phát hành theo quy tắc mới | `XNTT/2026-01/VIC-ABC` | Dãy riêng theo năm và loại; `ABC` là mã đối tác. |
-| Biên bản đối chiếu công nợ | `BBĐCCN/YYYY-NN/VIC-ABC` | Chưa phát hành theo quy tắc mới | `BBĐCCN/2026-01/VIC-ABC` | Dãy riêng theo năm; `ABC` là mã viết tắt khách hàng. |
+| Biên bản đối chiếu công nợ | `BBĐCCN/YYYY-NN/VIC-ABC` | `BBĐCCN/2026-01/VIC-GEN` | `BBĐCCN/2026-02/VIC-ABC` | Lập theo hóa đơn GTGT 1C26TAA số 00000000 của Genesis Sports Technology; ngày đối chiếu để `...`. |
 | Giấy đề nghị thanh toán | `DNTT/YYYY-NN/VIC-ABC` | Chưa phát hành theo quy tắc mới | `DNTT/2026-01/VIC-ABC` | Dãy riêng theo năm; `ABC` là mã viết tắt khách hàng. |
 | Biên bản làm việc Xuân Thiện | `BBLV/YYYY-NN/VIC-XT` | Chưa phát hành theo quy tắc mới | `BBLV/2026-01/VIC-XT` | Dãy riêng theo năm; mã đối tác cố định `XT`. |
 
