@@ -26,3 +26,5 @@
 {"ts": 1795784331.9, "kind": "watch", "ref": "w_de914a4ec1", "title": "Đội hình Nam Định vs CAHN", "status": "ok", "seconds": 0.0}
 {"ts": 1795784639.6, "kind": "watch", "ref": "w_de914a4ec1", "title": "Đội hình Nam Định vs CAHN", "status": "ok", "seconds": 0.0}
 {"ts": 1795784947.3, "kind": "watch", "ref": "w_de914a4ec1", "title": "Đội hình Nam Định vs CAHN", "status": "ok", "seconds": 0.0}
+{"ts": 1795824014.4, "kind": "reminder", "ref": "r_24518fb652", "title": "Nhắc lễ khai mạc giải cầu lông", "status": "ok", "seconds": 0.1, "mode": "notify"}
+{"ts": 1795827506.4, "kind": "reminder", "ref": "r_eac35335a3", "title": "Nhắc bằng giọng nói lễ khai mạc cầu lông", "status": "ok", "seconds": 3.8, "mode": "notify"}

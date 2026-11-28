@@ -156,7 +156,7 @@
       "id": "r_2490085073",
       "text": "Rà soát hằng ngày các văn bản pháp luật Việt Nam mới được ban hành/công bố và văn bản bắt đầu có hiệu lực trong ngày, hoặc sắp có hiệu lực. Ưu tiên nguồn chính thức: Cơ sở dữ liệu quốc gia về văn bản pháp luật, Công báo, Cổng thông tin Chính phủ, Quốc hội, Bộ Tư pháp và cơ quan ban hành. Phạm vi ưu tiên: quy định ảnh hưởng đến doanh nghiệp Victory và các vấn đề chủ đã hỏi, gồm doanh nghiệp/thương mại/hợp đồng, thuế-hóa đơn-kế toán, lao động-BHXH, đất đai/thủ tục hành chính; mở rộng khi có văn bản có tác động đáng kể. Dựa vào kết quả các lần chạy trước để chỉ báo nội dung mới hoặc trạng thái hiệu lực mới. Đặc biệt kiểm tra danh sách văn bản đã được phát hiện trước đây và báo lại đúng ngày chúng có hiệu lực; không đợi báo cáo tuần. Với từng văn bản, xác minh số hiệu, cơ quan ban hành, ngày ban hành, ngày hiệu lực, tình trạng sửa đổi/thay thế và phạm vi; đọc nội dung văn bản chính thức trước khi kết luận. Báo rõ văn bản mới ban hành hay đã có hiệu lực/sắp có hiệu lực, điểm thay đổi thực tế và nhóm đối tượng chịu ảnh hưởng. Nếu có nội dung đáng lưu, cập nhật wiki tiếng Việt: đọc wiki/index.md trước; tạo/cập nhật trang tri thức có frontmatter chuẩn, trích dẫn [[Nguồn]] gắn trực tiếp nhận định và URL chính thức/ngày truy cập; cập nhật wiki/index.md và append wiki/log.md. Không ghi văn bản web vào sources/. Giữ nguyên nội dung cũ nếu phát hiện mâu thuẫn; ghi cả hai quan điểm và append wiki/_open-questions.md. Không suy diễn hiệu lực hoặc áp dụng khi nguồn không xác minh được. Múi giờ lịch: Asia/Ho_Chi_Minh.",
       "mode": "task",
-      "due_at": 1795827600.0,
+      "due_at": 1795914000.0,
       "chat_id": "web:902725dd81654fae8e2410107648cc9f",
       "repeat_min": 0,
       "cron": "0 8 * * *",
@@ -169,11 +169,11 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795099731.0630157,
-      "fired_at": 1795741276.4823024,
-      "result": "Rà soát ngày **27/11/2026**: chưa xác minh được văn bản mới trong phạm vi ưu tiên được công bố hôm nay, cũng chưa có văn bản theo dõi nào bắt đầu có hiệu lực hôm nay. Các trang văn bản mới nhất trên Cổng Chính phủ hiện liệt kê văn bản ban hành đến 23/11. [Danh sách văn bản](https://vanban.chinhphu.vn/?classid=1&docid=214844)\n\n**Mốc cần chú ý:** Luật 23/2026/QH16 có hiệu lực ngày **01/12/2026**, tức còn 4 ngày. Luật sửa đổi các quy định về Ngân hàng Nhà nước, phòng chống rửa tiền và các tổ chức tín dụng; đơn vị có hoạt động liên quan nên rà soát phần áp dụng với mình. [Thông tin và văn bản Luật trên Cổng Chính phủ](https://vanban.chinhphu.vn/?docid=219491&pageid=27160)\n\nNghị định 399/2026/NĐ-CP về lương tối thiểu vẫn có hiệu lực từ **01/01/2027**, chưa ghi nhận thay đổi. Nghị định đặt mức tối thiểu theo vùng và yêu cầu người sử dụng lao động rà soát thỏa thuận tiền lương; mức cụ thể phụ thuộc địa bàn làm việc. [Nghị định và văn bản chính thức](https://vanban.chinhphu.vn/?docid=220166&pageid=27160&typegroupid=4)\n\nKhông cập nhật Wiki vì chưa phát hiện nội dung mới đáng lưu. Tra cứu ngày **27/11/2026**.",
+      "fired_at": 1795827694.8547215,
+      "result": "Rà soát ngày **28/11/2026**: chưa thấy văn bản thuộc phạm vi ưu tiên ban hành hoặc bắt đầu có hiệu lực hôm nay.\n\n**Phát hiện mới so với lần rà soát trước:** Nghị định **421/2026/NĐ-CP**, do Chính phủ ban hành ngày 26/11, có hiệu lực ngay cùng ngày. Nghị định thay thế Phụ lục II của Nghị định 181/2025/NĐ-CP về thuế GTGT; doanh nghiệp nên kiểm tra phụ lục mới nếu hoạt động liên quan đến các nhóm hàng hóa, dịch vụ trong danh mục. [Văn bản chính thức và tệp đính kèm](https://vanban.chinhphu.vn/?docid=220382&pageid=27160)\n\n**Mốc sắp tới:** Luật 23/2026/QH16 vẫn có hiệu lực từ 01/12; Nghị định 393/2026/NĐ-CP về lao động nước ngoài có hiệu lực từ 05/12. [Luật 23/2026/QH16](https://vanban.chinhphu.vn/?docid=219491&pageid=27160) · [Nghị định 393/2026/NĐ-CP](https://vanban.chinhphu.vn/?classid=0&docid=220059&pageid=27160)\n\nChưa cập nhật Wiki; cần đối chiếu nội dung chi tiết của Phụ lục II với mặt hàng, dịch vụ Victory kinh doanh trước khi kết luận tác động thuế cụ thể. Tra cứu ngày **28/11/2026**.",
       "error": "",
       "agent": "tro-ly-phap-ly-viet-nam",
-      "last_slot": 1795741200.0
+      "last_slot": 1795827600.0
     },
     {
       "id": "r_6849845632",
@@ -271,7 +271,7 @@
       "id": "r_81e3e079d6",
       "text": "chạy script doi-soat-testbot.py",
       "mode": "script",
-      "due_at": 1795815780.0,
+      "due_at": 1795837380.0,
       "chat_id": "",
       "repeat_min": 0,
       "cron": "* * * * *",
@@ -284,14 +284,14 @@
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795522654.1671498,
-      "fired_at": 1795815741.5104768,
+      "fired_at": 1795837332.9855998,
       "result": "",
       "error": "",
-      "last_slot": 1795815720.0,
+      "last_slot": 1795837320.0,
       "missed_last": 1,
       "missed_total": 1,
       "missed_at": 1795620305.1193843
     }
   ],
-  "updated": 1795815741.5111132
+  "updated": 1795837332.9861732
 }

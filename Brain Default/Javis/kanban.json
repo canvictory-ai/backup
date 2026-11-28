@@ -1403,7 +1403,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -1419,7 +1419,7 @@
       "current_run_id": "",
       "result": "Danh mục xác nhận 96 model mới của lô và 4 LBP có từ trước. Nguồn Canon TS3300 nêu đích danh 15 biến thể; tôi đã mở trang mã 1000, 1300, 1688, 5100, 5200, 5B00, 6000 và B202 để lấy đúng nguyên nhân và bước xử lý, nên sẽ hoàn tất nhóm 15 này trước và không cộng các trang chỉ có mô tả chung.\nĐã đào sâu **15/96 model của lô Canon ngày 24/11**: 15 biến thể TS3300 được Canon nêu đích danh trong danh sách lỗi. Đã đối chiếu trực tiếp 8 mã support code với trang hướng dẫn riêng của Canon và thêm dấu hiệu, bước xử lý an toàn, bước tiếp theo nếu lỗi còn, cùng điểm chuyển kỹ thuật. Nội dung cũng phân biệt support code trên màn hình máy tính với nhịp đèn.\n\nĐã cập nhật 15 trang model, trang nguồn Canon TS3300, danh mục model, `wiki/index.md` và nhật ký `wiki/log.md`. Đã đọc lại các mục và kiểm tra số lượng: lô có 92 PIXMA cùng 4 LBP được thêm trong đợt, tổng **96 model bổ sung**; cộng 4 LBP đã có trước đó là 100 model khác nhau.\n\n**Còn thiếu:** 81/96 model bổ sung chưa được đào sâu trong lượt này. Các trang hiện có và liên kết tới nguồn đã giữ nguyên; 81 model đó chưa được tính là hoàn tất. [[Danh mục model máy in đã tra cứu]] [[Nguồn Canon TS3300 - hướng dẫn và mã lỗi]]",
       "created_at": 1795570329.5737855,
-      "updated_at": 1795572565.9682631,
+      "updated_at": 1795831769.507916,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -1518,6 +1518,10 @@
         {
           "ts": "2026-11-25 02:09",
           "msg": "Chỉ có 15/96 model được đào sâu; 81 model còn lại được người yêu cầu giao rõ nhiệm vụ nhưng chưa được làm, nên điều kiện hoàn tất chưa đạt."
+        },
+        {
+          "ts": "2026-11-28 02:09",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -1530,7 +1534,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -1546,7 +1550,7 @@
       "current_run_id": "",
       "result": "Danh mục hiện có đúng 100 model HP duy nhất trong đoạn từ tiêu đề “Đợt học HP ngày 24/11/2026” đến ngay trước đợt Epson. Tôi sẽ giữ nguyên nội dung nghiên cứu đã làm, đồng thời tạo một trang lô riêng có danh sách đánh số và trạng thái đào sâu để ranh giới không còn phụ thuộc vào cách đọc đoạn danh mục.\nĐã khắc phục phần thiếu về ranh giới lô: tạo [danh sách riêng 100 model HP ngày 24/11](wiki/Lô HP ngày 24-11-2026 - danh sách model.md), đánh số từ 1 đến 100 và xác định rõ đoạn danh mục dùng để lập danh sách. M404dn không nằm trong lô.\n\nGiữ nguyên **9 model có nội dung đào sâu mới** về trạng thái đèn HP; 91 model còn lại được ghi rõ là chưa tính đào sâu mới trong lượt cập nhật. Cập nhật [[index]], [[Danh mục model máy in đã tra cứu]] và [[log]].\n\nĐọc lại trang mới và kiểm tra thấy 100 mục đều duy nhất, các wikilink trong trang hợp lệ, cả 9 trang model và trang nguồn trạng thái đèn đều tồn tại.",
       "created_at": 1795570329.7326684,
-      "updated_at": 1795573090.6822886,
+      "updated_at": 1795832290.9542654,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -1648,6 +1652,10 @@
         {
           "ts": "2026-11-25 02:18",
           "msg": "Chỉ 9/100 model được đào sâu mới; 91 model còn lại chưa được làm, nên chưa đáp ứng mục tiêu đào sâu cả lô, dù danh sách, các trang đã cập nhật, nguồn và nhật ký đã được ghi."
+        },
+        {
+          "ts": "2026-11-28 02:18",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -1660,7 +1668,7 @@
       "capability": "research",
       "execution_mode": "auto",
       "priority": 2,
-      "status": "done",
+      "status": "archived",
       "needs_approval": false,
       "block_kind": "",
       "block_reason": "",
@@ -1676,7 +1684,7 @@
       "current_run_id": "",
       "result": "Danh mục và nhật ký cho thấy lô 24/11 gồm đúng **50 model khác nhau** (11 + 9 + 3 + 27), không phải một danh sách Epson riêng có tên khác. Tôi đang ưu tiên các model Victory có căn cứ trong danh mục như LQ-310, L3110, L3210 và L805; các lượt trước mới dựng khung theo User Guide, chưa tính là đào sâu ở lượt này.\nĐã đào sâu thêm **3 model: L550, L555 và L6570**. Tổng cộng lô Epson có **48/50 model** được tính là đào sâu mới; **L200 và L405** chưa tính vì chưa xác minh được chính xác tổ hợp đèn từ phần tài liệu hãng hiện truy xuất được. Không suy trạng thái đèn từ model khác.\n\nĐã cập nhật các bài model, trang nguồn, chỉ mục và nhật ký. L555 dùng chung guide L550 vì trang hỗ trợ Epson của L555 liên kết trực tiếp tới PDF đó. Đã đọc lại các trang cập nhật và kiểm tra 48 dòng tiến độ cùng liên kết Wiki.\n\nTiến độ và phần còn thiếu: [wiki/Lô Epson ngày 24-11-2026 - tiến độ đào sâu](wiki/Lô Epson ngày 24-11-2026 - tiến độ đào sâu.md). Nhật ký: [wiki/log.md](wiki/log.md). Không thay đổi lịch học định kỳ.",
       "created_at": 1795570329.799069,
-      "updated_at": 1795574703.9695537,
+      "updated_at": 1795833905.1458328,
       "lane": "",
       "team_id": "",
       "team_seq": 0,
@@ -1797,6 +1805,10 @@
         {
           "ts": "2026-11-25 02:45",
           "msg": "done"
+        },
+        {
+          "ts": "2026-11-28 02:45",
+          "msg": "done -> archived: đã kết thúc quá 3 ngày"
         }
       ]
     },
@@ -2181,5 +2193,5 @@
       ]
     }
   ],
-  "updated": 1795774916.8089366
+  "updated": 1795833905.3215506
 }

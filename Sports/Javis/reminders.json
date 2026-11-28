@@ -33,18 +33,42 @@
       "cron": "",
       "script": "",
       "label": "Nhắc lễ khai mạc giải cầu lông",
-      "status": "pending",
+      "status": "done",
       "muc_quyen": "full",
       "remember_last": false,
       "speak": false,
       "call": false,
       "created_by": "javis_schedule",
       "created_at": 1795765624.0895412,
-      "fired_at": 0.0,
+      "fired_at": 1795824014.3736453,
       "result": "",
       "error": "",
-      "agent": "cau-long"
+      "agent": "cau-long",
+      "last_slot": 1795824000.0
+    },
+    {
+      "id": "r_eac35335a3",
+      "text": "Nhắc bạn bằng tin thoại: Lễ khai mạc giải cầu lông bắt đầu lúc 8 giờ sáng hôm nay tại Nhà thi đấu TDTT Hà Nam. Nếu đang đi, hãy chuẩn bị đến địa điểm.",
+      "mode": "notify",
+      "due_at": 1795827480.6822162,
+      "chat_id": "web:9a1b2125e598426aa40d3eca3e039ec5",
+      "repeat_min": 0,
+      "cron": "",
+      "script": "",
+      "label": "Nhắc bằng giọng nói lễ khai mạc cầu lông",
+      "status": "done",
+      "muc_quyen": "full",
+      "remember_last": false,
+      "speak": true,
+      "call": false,
+      "created_by": "javis_schedule",
+      "created_at": 1795826880.6822538,
+      "fired_at": 1795827506.4121861,
+      "result": "",
+      "error": "",
+      "agent": "cau-long",
+      "last_slot": 1795827480.6822162
     }
   ],
-  "updated": 1795773649.327831
+  "updated": 1795827506.412194
 }
